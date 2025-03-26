@@ -4017,7 +4017,7 @@ msgid "douyin_collect_title_simmusic"
 msgstr "Similar music recommendations"
 
 msgid "douyin_collect_toast_try"
-msgstr "暂不可用，试试相似音乐吧~"
+msgstr "Not available yet, try similar music~"
 
 msgid "douyin_collection"
 msgstr "Douyin Favorite"
@@ -4104,7 +4104,9 @@ msgstr ""
 "uploading"
 
 msgid "draft_contains_exclusive_rights_edit_opening"
-msgstr "此草稿内含会员专享权益，开通会员后即可编辑。"
+msgstr ""
+"This draft contains exclusive rights and benefits for members and can be "
+"edited after opening a membership."
 
 msgid "draft_copying_pc"
 msgstr "Copying project..."
@@ -4615,7 +4617,11 @@ msgstr ""
 "The file cannot be uploaded for the time being"
 
 msgid "expire_upload_open"
-msgstr "免费版小组人数已达上限，你暂时无法上传文件。您可以开通协作版扩充小组人数或清理人员后，再进行文件上传。"
+msgstr ""
+"The number of free group members has reached the upper limit, and you "
+"cannot upload files for the time being. You can enable the collaboration "
+"version to expand the number of people in the group or clean up the staff "
+"before uploading the files."
 
 msgid "expire_vip_pc"
 msgstr "Expires on %1"
@@ -4659,7 +4665,7 @@ msgid "export_original_ratio"
 msgstr "Original"
 
 msgid "export_popup_caption_template"
-msgstr "会员字幕模板"
+msgstr "Membership subtitles template"
 
 msgid "export_popup_cover_template"
 msgstr "Cover template"
@@ -4778,7 +4784,7 @@ msgid "failed_restore_rights"
 msgstr "Couldn’t restore purchase"
 
 msgid "failed_save_please_check_network"
-msgstr "保存失败，请检查网络"
+msgstr "Saving failed, please check the network"
 
 msgid "failed_to_delete"
 msgstr "Couldn't delete. Try again."
@@ -4817,7 +4823,7 @@ msgid "fast_transfer_to_percent_s"
 msgstr "Fast transfer to %1"
 
 msgid "fast_transmission_interrupted"
-msgstr "快传中断"
+msgstr "Quick transfer interrupt"
 
 msgid "faster_professional_video_copywriting_tools"
 msgstr "Fast, effortless, and professional script writing"
@@ -5064,13 +5070,13 @@ msgid "flower_character"
 msgstr "Effects"
 
 msgid "fluorescent_lamp"
-msgstr "荧光灯"
+msgstr "Fluorescent lamp"
 
 msgid "folder"
 msgstr "Folder"
 
 msgid "folder_added_list"
-msgstr "%1个文件夹添加至传输列表"
+msgstr "%1 folders added to the transfer list"
 
 msgid "folder_does_not_exist"
 msgstr "Folder doesn’t exist"
@@ -5402,7 +5408,7 @@ msgid "generating_photo_text_video"
 msgstr "Generating..."
 
 msgid "generating_pure_video_currently_supported"
-msgstr "暂不支持生成非中文视频"
+msgstr "Non-Chinese video generation is not supported yet"
 
 msgid "generation_failed_try_again_later"
 msgstr "Couldn’t generate. Try again later."
@@ -5513,7 +5519,7 @@ msgid "green_word_on_black_background"
 msgstr "Green word on black background"
 
 msgid "group_cloud_space_members_can_be_seen_any_time"
-msgstr "小组云空间（组内成员随时可见）"
+msgstr "Group Cloud Space (Members in the Group are visible at any time)"
 
 msgid "group_cloud_space_visible_to_members"
 msgstr "Group Cloud Space (visible by members in the group)"
@@ -5675,7 +5681,7 @@ msgid "hue"
 msgstr "Hue"
 
 msgid "huge_cloud_space_of_group"
-msgstr "小组超大云盘"
+msgstr "Group super large cloud disk"
 
 msgid "i_initiated"
 msgstr "I initiated"
@@ -5774,7 +5780,7 @@ msgid "import_media"
 msgstr "Import media"
 
 msgid "import_method_keep_in_place"
-msgstr "导入方式：保留在原位置"
+msgstr "Import method: Keep in original location"
 
 msgid "import_pc"
 msgstr "Import"
@@ -5955,7 +5961,7 @@ msgid "invite_toast_desktop"
 msgstr "The event is so hot, please try again later~"
 
 msgid "invite_you_join_user_experience_program"
-msgstr "邀请您加入用户体验计划"
+msgstr "You are invited to join the User Experience Program"
 
 msgid "invite_you_to_join"
 msgstr "none"
@@ -5964,8 +5970,11 @@ msgid ""
 "invited_to_user_experience_improvement_program_experience_advance_waiting_"
 "experience"
 msgstr ""
-"诚邀您使用本设备加入剪映用户体验改进计划，帮助产品体验优化和服务改善。您将有机会提前体验产品功能，获得定向内容推荐\n"
-"等，更多福利等您体验。"
+"We sincerely invite you to use this device to join the Chinying User "
+"Experience Improvement Program to help optimize product experience and "
+"improve service. You will have the opportunity to experience product "
+"features in advance and get targeted content recommendations\n"
+"Wait, more benefits are waiting for you to experience."
 
 msgid "italian_pc"
 msgstr "Italian"
@@ -6071,7 +6080,7 @@ msgid "jianying_promo_pc_btn_generating_more_desc_media"
 msgstr "The more materials imported, the richer the batch-generated videos"
 
 msgid "jianying_promo_pc_btn_generating_more_desc_script"
-msgstr "AI基于已选文案生成更多相似视频"
+msgstr "AI generates more similar videos based on selected copy"
 
 msgid "jianying_promo_pc_btn_generating_more_desc_similar"
 msgstr ""
@@ -6175,7 +6184,9 @@ msgid "jianying_promo_pc_intro_button"
 msgstr "Use now"
 
 msgid "jianying_promo_pc_intro_desc"
-msgstr "AI参考抖音爆款，批量生成带货短视频"
+msgstr ""
+"AI reference Douyin hot products, batch generation of short videos for "
+"selling goods"
 
 msgid "jianying_promo_pc_intro_title"
 msgstr "Marketing film"
@@ -6386,7 +6397,7 @@ msgid "jianying_promo_pc_upload_button"
 msgstr "Import videos"
 
 msgid "jianying_promo_pc_upload_desc"
-msgstr "最多导入30个"
+msgstr "Import up to 30"
 
 msgid "jianying_promo_pc_upload_title"
 msgstr "Add material"
@@ -6413,13 +6424,15 @@ msgid "jianying_promo_pc_video_size_9x16"
 msgstr "9:16"
 
 msgid "jianying_promo_pc_video_size_guide"
-msgstr "已选择素材总时长小于xx秒，将基于素材总时长为你成片"
+msgstr ""
+"The total length of the selected material is less than xx seconds, and will "
+"be used as a film based on the total length of the material."
 
 msgid "jianying_promo_pc_video_size_title"
 msgstr "Video size"
 
 msgid "jianying_promo_product_name_max20"
-msgstr "最多输入20字"
+msgstr "Enter up to 20 words"
 
 msgid "job_infor_perfect"
 msgstr "Select Your Role"
@@ -6478,7 +6491,7 @@ msgid "keep_main_size"
 msgstr "Keep face/body/hands size"
 
 msgid "keep_the_old_version"
-msgstr "保留老版本"
+msgstr "Keep the old version"
 
 msgid "keep_to_replace_original_sound"
 msgstr "Keep sound from users’ videos"
@@ -6517,7 +6530,7 @@ msgid "know_commercial_copyright"
 msgstr "Got it"
 
 msgid "know_enterprise_edition"
-msgstr "了解企业版"
+msgstr "Understand the Enterprise Edition"
 
 msgid "korean_pc"
 msgstr "Korean"
@@ -6660,7 +6673,7 @@ msgid "lightness"
 msgstr "Luminance"
 
 msgid "like_or_not_join_pc"
-msgstr "暂不加入"
+msgstr "Not joining yet"
 
 msgid "limit_exempt"
 msgstr "Free"
@@ -7344,10 +7357,10 @@ msgstr ""
 "fonts."
 
 msgid "maximum_of_brand_resources_reached"
-msgstr "协作版品牌资源数量已达上限"
+msgstr "The number of collaborative brand resources has reached the upper limit"
 
 msgid "maximum_space_cloud_packet"
-msgstr "开通云盘包"
+msgstr "Open cloud disk package"
 
 msgid "maximum_space_collaboration"
 msgstr ""
@@ -7413,7 +7426,7 @@ msgid "microphone_off"
 msgstr "Microphone Off"
 
 msgid "microphone_off_pc"
-msgstr "麦克风关"
+msgstr "Microphone Off"
 
 msgid "microphone_on_pc"
 msgstr "Microphone on"
@@ -7742,7 +7755,7 @@ msgid "mobile_digital_human_vision"
 msgstr "Full body"
 
 msgid "mobile_emoticons_match"
-msgstr "智能匹配表情包"
+msgstr "Smart matching emoji pack"
 
 msgid "mobile_eye_contact_no_face"
 msgstr "No face detected in the current clip"
@@ -7751,7 +7764,7 @@ msgid "mobile_material_match"
 msgstr "Smart generation"
 
 msgid "mobile_number"
-msgstr "QQ/微信/手机号"
+msgstr "QQ/WeChat/Mobile Number"
 
 msgid "mobile_picture_toast_link_words"
 msgstr "Please enter the link before obtaining the text content"
@@ -8424,7 +8437,9 @@ msgstr ""
 "desktop (%2 or above) to join the space. This link will expire on %3."
 
 msgid "open_clipping_on_the_target_device"
-msgstr "1.在接收设备打开剪映，确保已登录账号「%1」。"
+msgstr ""
+"1. Open the clipping on the receiving device to make sure that you have "
+"logged in to the account \"%1\"."
 
 msgid "open_cloud_packet"
 msgstr "The maximum group cloud space is %1, you can use it after cleaning the file"
@@ -8433,7 +8448,7 @@ msgid "open_coding_more_space_saving_new"
 msgstr "Efficient compression and compatibility, saving space"
 
 msgid "open_collaboration_version"
-msgstr "开通协作版"
+msgstr "Enable collaborative version"
 
 msgid "open_count_of_template_clips"
 msgstr ""
@@ -8446,7 +8461,7 @@ msgstr ""
 "the group, and then invite the group members after the group membership"
 
 msgid "open_eyes"
-msgstr "开眼角"
+msgstr "Open the corner of the eye"
 
 msgid "open_fail_try_again"
 msgstr "Couldn’t open project. Try again later."
@@ -8580,7 +8595,10 @@ msgstr ""
 "Collaborative version is not effective"
 
 msgid "overload_ineffective_remove"
-msgstr "您的团队人员超出了付费套餐的人员上限，请清理人员至团队人员上限内，否则协作版将无法生效"
+msgstr ""
+"Your team staff exceeds the staff limit for paid packages. Please clean up "
+"the staff to the team staff limit, otherwise the collaboration version will "
+"not take effect"
 
 msgid "owner_space"
 msgstr "Owner"
@@ -8602,7 +8620,7 @@ msgid "package_select"
 msgstr "Package selection"
 
 msgid "package_upgrade_validity"
-msgstr "升级后有效期至：%1（%1个月+%1天）"
+msgstr "Valid period after upgrade to: %1 (%1 month + %1 day)"
 
 msgid "page_pc_new"
 msgstr "none"
@@ -8644,7 +8662,9 @@ msgid "password_protect"
 msgstr "Password protection"
 
 msgid "paste_link_content_currently"
-msgstr "粘贴链接即可获取文字内容（目前仅支持头条号、悟空问答）"
+msgstr ""
+"Paste the link to get the text content (currently, only Toutiao accounts "
+"and Wukong Q&A)"
 
 msgid "paste_link_get_text_content"
 msgstr ""
@@ -8781,7 +8801,7 @@ msgid "pc_Insufficient_microphone_access"
 msgstr "No access to microphone"
 
 msgid "pc_QQ_pls"
-msgstr "建议填写QQ号"
+msgstr "It is recommended to fill in the QQ number"
 
 msgid "pc_a_project_draft_error_was_detected."
 msgstr "The project failed to open, a project data error was detected."
@@ -8825,7 +8845,7 @@ msgid "pc_account"
 msgstr "account"
 
 msgid "pc_account_coonect"
-msgstr "联系客服"
+msgstr "Contact customer service"
 
 msgid "pc_account_create_group_failed"
 msgstr "Failed to create a group"
@@ -8843,7 +8863,9 @@ msgstr ""
 "service"
 
 msgid "pc_account_error_invite_unavailable"
-msgstr "账号存在风险违规行为，暂无法邀请成员"
+msgstr ""
+"There are risk violations in the account and members cannot be invited for "
+"the time being"
 
 msgid "pc_account_error_invite_unavailable_connect"
 msgstr ""
@@ -9065,7 +9087,7 @@ msgstr ""
 "before adding it"
 
 msgid "pc_ai_accurate_mode_keyword_add_panel_repeat"
-msgstr "与已添加词条重复，请调整"
+msgstr "Repeat with the added entry, please adjust"
 
 msgid "pc_ai_accurate_mode_keyword_delete"
 msgstr "Are you sure to delete the current entry?"
@@ -9088,7 +9110,7 @@ msgid "pc_ai_accurate_mode_keyword_input"
 msgstr "Added exclusive words"
 
 msgid "pc_ai_accurate_mode_keyword_input_language_error"
-msgstr "仅支持中英文输入，请调整"
+msgstr "Only Chinese and English input is supported, please adjust"
 
 msgid "pc_ai_accurate_mode_keyword_input_length_error"
 msgstr "The length of the entry does not meet the requirements, please adjust it"
@@ -9117,7 +9139,7 @@ msgid "pc_ai_accurate_mode_keyword_merge_limit"
 msgstr "The number of exclusive words exceeds the upper limit"
 
 msgid "pc_ai_accurate_mode_keyword_merge_limit_confirm"
-msgstr "我知道了"
+msgstr "I see"
 
 msgid "pc_ai_accurate_mode_keyword_merge_limit_guide"
 msgstr ""
@@ -9125,7 +9147,7 @@ msgstr ""
 "the effective entries"
 
 msgid "pc_ai_accurate_mode_keyword_null"
-msgstr "暂未设置专属词"
+msgstr "No exclusive words are set yet"
 
 msgid "pc_ai_accurate_mode_keyword_num"
 msgstr "Set exclusive words (%1)"
@@ -9179,7 +9201,7 @@ msgid "pc_ai_accurate_mode_start"
 msgstr "Start identifying"
 
 msgid "pc_ai_accurate_mode_switch"
-msgstr "启用AI精准识别"
+msgstr "Enable AI accurate recognition"
 
 msgid "pc_ai_change_voice"
 msgstr "Change the tone"
@@ -9188,7 +9210,7 @@ msgid "pc_ai_change_voice_for_music"
 msgstr "Change song tone"
 
 msgid "pc_ai_change_voice_for_oral"
-msgstr "口播换音色"
+msgstr "Spread the tone"
 
 msgid "pc_ai_character_apply_first_bg"
 msgstr "To select a background, apply the AI avatar first"
@@ -9208,7 +9230,10 @@ msgstr ""
 "Read {$mob_ai_characters_about_faq_btn$} to learn more."
 
 msgid "pc_ai_characters_apply_block_desc_3"
-msgstr "为实现更优效果，数字人合成消耗大量资源，成本高，需开通SVIP后支付积分使用"
+msgstr ""
+"In order to achieve better results, digital human synthesis consumes a lot "
+"of resources and is costly. It requires SVIP to be activated and points are "
+"paid for."
 
 msgid "pc_ai_characters_bubble"
 msgstr "Includes 1 free use from past purchases and %1 extra free use for Pro"
@@ -9253,7 +9278,10 @@ msgid "pc_ai_characters_customize_block_credits_label"
 msgstr "{$gift_amount$} credits/month"
 
 msgid "pc_ai_characters_customize_block_desc_3"
-msgstr "1:1定制你的形象，开通SVIP后下发%1次免费定制机会，定制的数字人永久有效，详情可查看 {数字人介绍} "
+msgstr ""
+"1:1 Customize your image, issue %1 free customization opportunity after "
+"opening SVIP. Customized digital people are permanently valid. For details, "
+"please see {Digital people introduction}"
 
 msgid "pc_ai_characters_customize_block_desc_4"
 msgstr ""
@@ -9409,8 +9437,10 @@ msgstr ""
 
 msgid "pc_ai_characters_price_subtitle_1"
 msgstr ""
-"为实现更优效果，数字人消耗大量资源，成本高，需开通SVIP后支付积分使用，详情可查看 <a "
-"style='text-decoration:none;color:#ffffff' href=\"%1\">《数字人介绍》</a>"
+"In order to achieve better results, digital people consume a lot of "
+"resources and are costly. They need to open SVIP and pay points for use. "
+"For details, please see <a style='text-decoration:none;color:#ffffff' "
+"href=\"%1\">\"Introduction to Digital People\"</a>"
 
 msgid "pc_ai_characters_price_title"
 msgstr "How much does it cost?"
@@ -9598,7 +9628,9 @@ msgid "pc_ai_effect_log_out"
 msgstr "You’re signed out. AI effect is not generated."
 
 msgid "pc_ai_effect_long_wait"
-msgstr "算法生成中，该能力生成耗时较久，请耐心等待"
+msgstr ""
+"The algorithm is generating, this capability takes a long time to generate, "
+"please wait patiently"
 
 msgid "pc_ai_effect_lost_confirm"
 msgstr "The applied AI effects will be removed from your clip."
@@ -9935,7 +9967,11 @@ msgid "pc_ai_packaging_broll_introduction"
 msgstr "Automatically add supplementary footage to enhance your video."
 
 msgid "pc_ai_packaging_broll_legal_info"
-msgstr "素材匹配来源为在线素材库和网络检索，剪映无法对内容和使用授权情况做任何承诺或担保，请您根据自身需求谨慎使用。"
+msgstr ""
+"The source of material matching is online material library and online "
+"retrieval. Chuangying cannot make any promises or guarantees for content "
+"and use authorization. Please use it with caution according to your own "
+"needs."
 
 msgid "pc_ai_packaging_broll_legal_info_detail"
 msgstr ""
@@ -10209,7 +10245,7 @@ msgid "pc_ai_text_feedback_understanding"
 msgstr "Relevance issues"
 
 msgid "pc_ai_text_feedback_violations_laws_regulations"
-msgstr "存在违法违规信息"
+msgstr "There are illegal and irregular information"
 
 msgid "pc_ai_text_feedback_violent_and_graphic"
 msgstr "Violent and graphic content"
@@ -10348,7 +10384,9 @@ msgid "pc_aigc_credit_check_entry"
 msgstr "Buy and check credits"
 
 msgid "pc_aigc_credit_confirm_consume"
-msgstr "确认生成%1效果，积分将在效果生成后扣除"
+msgstr ""
+"Confirm to generate %1 effect, and points will be deducted after the effect "
+"is generated."
 
 msgid "pc_aigc_credit_confirm_that_effect_generatings"
 msgstr "%1 credits will be consumed to apply it."
@@ -10398,7 +10436,7 @@ msgid "pc_aigc_credit_effect_applied_cost_times"
 msgstr "Pro AI feature applied. 1 Pro use deducted."
 
 msgid "pc_aigc_credit_effect_cost"
-msgstr "AI特效生成成功，消耗%1积分"
+msgstr "AI special effects are generated successfully, %1 points are consumed"
 
 msgid "pc_aigc_credit_free"
 msgstr "Give points to enjoy AI gameplay"
@@ -10642,7 +10680,9 @@ msgid "pc_aimusic_lyrics"
 msgstr "lyrics"
 
 msgid "pc_aimusic_lyrics_example"
-msgstr "请粘贴或输入歌词，或者也可以试试智能歌词帮你生成哦～"
+msgstr ""
+"Please paste or enter the lyrics, or try smart lyrics to help you generate "
+"them~"
 
 msgid "pc_aimusic_mv_tag"
 msgstr "Lyrics MV"
@@ -10746,7 +10786,7 @@ msgid "pc_aimusic_share_instrumental_lyric"
 msgstr "Pure music"
 
 msgid "pc_aimusic_share_mv"
-msgstr "一键 MV"
+msgstr "One-click MV"
 
 msgid "pc_aimusic_share_mv_cancel"
 msgstr "MV generation cancelled"
@@ -10868,7 +10908,7 @@ msgid "pc_aiwriting_information_illegal"
 msgstr "There are illegal and irregular information"
 
 msgid "pc_aiwriting_information_improper"
-msgstr "其他有害/不当信息"
+msgstr "Other harmful/inappropriate information"
 
 msgid "pc_aiwriting_information_miss"
 msgstr "Missing information"
@@ -10922,7 +10962,7 @@ msgid "pc_aiwriting_text_exceed"
 msgstr "Exceeded 100 character limit"
 
 msgid "pc_aiwriting_understand"
-msgstr "理解问题"
+msgstr "Understand the problem"
 
 msgid "pc_aiwriting_unlike"
 msgstr "Click to step on"
@@ -10976,7 +11016,7 @@ msgid "pc_allow_ai_edit_template_count"
 msgstr "Allows intelligent modification of the number of fragment templates"
 
 msgid "pc_allow_change_music"
-msgstr "允许更换音乐"
+msgstr "Allow music replacement"
 
 msgid "pc_allow_cutscene_pro_to_read_files"
 msgstr "Allow CapCut to read files"
@@ -10997,7 +11037,7 @@ msgid "pc_already_exists_please_change_the_name"
 msgstr "Name already exists. Try another one."
 
 msgid "pc_already_joined_the_group"
-msgstr "已经加入小组"
+msgstr "Already joined the group"
 
 msgid "pc_amd_old"
 msgstr ""
@@ -11596,7 +11636,7 @@ msgid "pc_avatar_agreement_agree"
 msgstr "Agree to the Terms and Conditions first"
 
 msgid "pc_avatar_agreement_n"
-msgstr "请先勾选下方数字人相关协议"
+msgstr "Please check the following digital person's relevant agreement"
 
 msgid "pc_avatar_agreement_name"
 msgstr "Terms and Conditions of Custom AI Avatar Feature"
@@ -13071,7 +13111,7 @@ msgid "pc_camera_open"
 msgstr "Camera turned on"
 
 msgid "pc_camera_open_failure"
-msgstr "摄像头打开失败"
+msgstr "The camera failed to turn on"
 
 msgid "pc_camera_remove_resize_confirm"
 msgstr "Auto reframe will be removed if you apply AI movement."
@@ -14420,7 +14460,7 @@ msgid "pc_cloud_%1_material_downloading"
 msgstr "There is %1 cloud material downloading..."
 
 msgid "pc_cloud_%1_mission_processing"
-msgstr "当前有%1个正在处理的任务..."
+msgstr "Currently there are %1 tasks being processed..."
 
 msgid "pc_cloud_add_member"
 msgstr "Add space members"
@@ -14578,7 +14618,7 @@ msgid "pc_cloud_big_small"
 msgstr "Largest to smallest"
 
 msgid "pc_cloud_change_confirm"
-msgstr "确定要切换吗？"
+msgstr "Are you sure you want to switch?"
 
 msgid "pc_cloud_check"
 msgstr "View space"
@@ -14657,7 +14697,7 @@ msgstr ""
 "not been downloaded yet, it is expected to take longer."
 
 msgid "pc_cloud_cor"
-msgstr "协作云空间"
+msgstr "Collaborative Cloud Space"
 
 msgid "pc_cloud_cor_admin"
 msgstr "Business Administrator"
@@ -14671,13 +14711,13 @@ msgstr ""
 "expand it in time"
 
 msgid "pc_cloud_cor_member"
-msgstr "企业成员"
+msgstr "Corporate Members"
 
 msgid "pc_cloud_cor_member_exit"
 msgstr "Allow collaborative cloud space members to quit independently"
 
 msgid "pc_cloud_cor_member_pri"
-msgstr "允许企业成员使用个人云空间"
+msgstr "Allow corporate members to use personal cloud space"
 
 msgid "pc_cloud_cor_name"
 msgstr "Collaborative Cloud Space Name"
@@ -14686,7 +14726,7 @@ msgid "pc_cloud_cor_share"
 msgstr "Team sharing, efficient collaboration"
 
 msgid "pc_cloud_cor_share_last"
-msgstr "共享企业剩余容量"
+msgstr "Share the remaining capacity of the enterprise"
 
 msgid "pc_cloud_cor_space"
 msgstr "Collaborative Cloud Space (%1/%2)"
@@ -14698,7 +14738,7 @@ msgid "pc_cloud_cor_storge_used"
 msgstr "Collaborative Cloud Space %1"
 
 msgid "pc_cloud_create"
-msgstr "创建云空间"
+msgstr "Create a cloud space"
 
 msgid "pc_cloud_create_unavailable_contact"
 msgstr ""
@@ -14710,7 +14750,7 @@ msgid "pc_cloud_default"
 msgstr "Restore default"
 
 msgid "pc_cloud_delete_confirm"
-msgstr "确认删除该空间？"
+msgstr "Confirm deleting the space?"
 
 msgid "pc_cloud_delete_file_confirm"
 msgstr ""
@@ -14907,7 +14947,7 @@ msgid "pc_cloud_insufficient_expand"
 msgstr "Storage not enough"
 
 msgid "pc_cloud_join_cor_none"
-msgstr "您暂未加入任何协作云空间"
+msgstr "You have not joined any collaborative cloud space yet"
 
 msgid "pc_cloud_jump_over"
 msgstr "jump over"
@@ -14958,7 +14998,9 @@ msgid "pc_cloud_member_n_n"
 msgstr "member"
 
 msgid "pc_cloud_member_pri_unavailable"
-msgstr "不允许成员使用个人云空间或企业空间容量不足"
+msgstr ""
+"Members are not allowed to use personal cloud space or insufficient "
+"enterprise space capacity"
 
 msgid "pc_cloud_member_remove_unavailable"
 msgstr "This member cannot be removed"
@@ -14978,7 +15020,9 @@ msgstr ""
 "used in the enterprise"
 
 msgid "pc_cloud_not_enough"
-msgstr "云空间不足，请删除部分内容后继续，现在去管理？"
+msgstr ""
+"There is insufficient cloud space, please delete some content and continue "
+"to manage it now?"
 
 msgid "pc_cloud_not_enough_delete"
 msgstr "Manage"
@@ -15053,7 +15097,7 @@ msgid "pc_cloud_popup_whether_join"
 msgstr "Received a space invitation to join %1. Join now?"
 
 msgid "pc_cloud_pre_use"
-msgstr "预计共使用 %1 / %2"
+msgstr "It is expected to use %1 / %2 in total"
 
 msgid "pc_cloud_previous"
 msgstr "Previous"
@@ -15101,7 +15145,7 @@ msgid "pc_cloud_retry"
 msgstr "Retry"
 
 msgid "pc_cloud_right_lose"
-msgstr "该成员将失去查看和编辑本空间内所有内容的权限。"
+msgstr "This member will lose permission to view and edit all content in this space."
 
 msgid "pc_cloud_save"
 msgstr "Reserved space"
@@ -15460,10 +15504,10 @@ msgstr ""
 "recommended to update the graphics card driver or replace the computer!"
 
 msgid "pc_cn_clipping_presets"
-msgstr "剪映预设"
+msgstr "Presets for cutting and screening"
 
 msgid "pc_cn_clipping_pro"
-msgstr "剪映专业版"
+msgstr "Clip screen professional version"
 
 msgid "pc_cn_clipping_pro_does_not_currently_support_devices"
 msgstr ""
@@ -15549,10 +15593,10 @@ msgstr ""
 "screens."
 
 msgid "pc_cn_jianying_professional_edition"
-msgstr "剪映专业版"
+msgstr "Clip screen professional version"
 
 msgid "pc_cn_login_synchronize_tiktok_music"
-msgstr "登录即可同步抖音收藏音乐"
+msgstr "Log in to synchronize the collection of music from TikTok"
 
 msgid "pc_cn_module_crash_exception"
 msgstr "The abnormal module crash was detected and the clipping could not run stably"
@@ -15756,7 +15800,7 @@ msgid "pc_color_inclination"
 msgstr "Color inclination"
 
 msgid "pc_color_information"
-msgstr "获得其对应的色彩信息"
+msgstr "Obtain the corresponding color information"
 
 msgid "pc_color_mask"
 msgstr "Mask"
@@ -16188,7 +16232,7 @@ msgid "pc_contact_information_qq_wechat_mobile_phone_number"
 msgstr "Contact information (QQ, WeChat, mobile number):"
 
 msgid "pc_contact_informationmobile_phone"
-msgstr "联系方式(QQ/微信/手机号):"
+msgstr "Contact information (QQ/WeChat/Mobile phone number):"
 
 msgid "pc_contact_pls"
 msgstr "Fill in your contact information"
@@ -16333,7 +16377,9 @@ msgid "pc_copy_part_failed"
 msgstr "Couldn’t paste some attributes"
 
 msgid "pc_copy_password_open_jianying_join_coproduce"
-msgstr "复制口令成功后，在初次打开剪映时即根据提示加入合拍。"
+msgstr ""
+"After the password is copied successfully, add the co-shoot according to "
+"the prompts when the clipping is first opened."
 
 msgid "pc_copy_paste"
 msgstr "Paste"
@@ -16660,7 +16706,7 @@ msgid "pc_copywriting_write"
 msgstr "Talking script"
 
 msgid "pc_corporation_account_jianying"
-msgstr "剪映号"
+msgstr "Cut image number"
 
 msgid "pc_corporation_apply"
 msgstr "Apply for opening"
@@ -16685,7 +16731,7 @@ msgid "pc_corporation_character"
 msgstr "Role"
 
 msgid "pc_corporation_check_click"
-msgstr "点击查看"
+msgstr "Click to view"
 
 msgid "pc_corporation_code_access"
 msgstr ""
@@ -16693,7 +16739,7 @@ msgstr ""
 "letters, which can be obtained by contacting the administrator."
 
 msgid "pc_corporation_creative"
-msgstr "全能易剪，创意无限"
+msgstr "All-round easy to cut, unlimited creativity"
 
 msgid "pc_corporation_download_confirm"
 msgstr "Cancel download"
@@ -16714,7 +16760,7 @@ msgid "pc_corporation_invite_code"
 msgstr "Enter the company invitation code"
 
 msgid "pc_corporation_jianying"
-msgstr "剪映企业版"
+msgstr "Clip Enterprise Edition"
 
 msgid "pc_corporation_jianying_know"
 msgstr "Learn about the Jianying Enterprise Edition"
@@ -16723,7 +16769,7 @@ msgid "pc_corporation_joined"
 msgstr "You have joined the enterprise %1"
 
 msgid "pc_corporation_joined_successful"
-msgstr "成功加入企业"
+msgstr "Join the company successfully"
 
 msgid "pc_corporation_joinin"
 msgstr "Join the business"
@@ -16732,7 +16778,7 @@ msgid "pc_corporation_member"
 msgstr "member"
 
 msgid "pc_corporation_member_management"
-msgstr "管理成员"
+msgstr "Administrative Members"
 
 msgid "pc_corporation_name"
 msgstr "name"
@@ -16744,7 +16790,7 @@ msgid "pc_corporation_one_day_before"
 msgstr "One day ago"
 
 msgid "pc_corporation_one_month_before"
-msgstr "一月前"
+msgstr "One month ago"
 
 msgid "pc_corporation_one_week_before"
 msgstr "A week ago"
@@ -16753,7 +16799,7 @@ msgid "pc_corporation_owner"
 msgstr "Business owner"
 
 msgid "pc_corporation_qna"
-msgstr "联系我们免费咨询"
+msgstr "Contact us for free consultation"
 
 msgid "pc_corporation_recently_live"
 msgstr "Recently active"
@@ -16932,7 +16978,7 @@ msgid "pc_credits_info_1"
 msgstr "%1 points = %2 seconds, %3 points can be reduced for the first time"
 
 msgid "pc_credits_info_2"
-msgstr "%1积分=%2字符，首次可减免%3积分"
+msgstr "%1 points = %2 characters, %3 points can be reduced for the first time"
 
 msgid "pc_credits_left"
 msgstr "Credits left"
@@ -17406,7 +17452,7 @@ msgid "pc_digital_show_all"
 msgstr "Expand"
 
 msgid "pc_digital_show_less"
-msgstr "收起"
+msgstr "Close"
 
 msgid "pc_digital_subtitle_updated"
 msgstr "Captions updated"
@@ -17916,7 +17962,7 @@ msgstr ""
 "drafts"
 
 msgid "pc_draft_lost_list_error"
-msgstr "草稿列表异常"
+msgstr "Draft list exception"
 
 msgid "pc_draft_media_upload"
 msgstr "Upload the media in your project?"
@@ -19246,7 +19292,7 @@ msgid "pc_expansion"
 msgstr "Expand storage"
 
 msgid "pc_expiration"
-msgstr "到期"
+msgstr "maturity"
 
 msgid "pc_expiration_date_yyyy_mm_dd"
 msgstr "Expire on: {month} {day}, {year}"
@@ -19757,7 +19803,7 @@ msgid "pc_failed_to_get_douyin_uid"
 msgstr "Failed to get TikTok uid"
 
 msgid "pc_failed_to_get_group_list"
-msgstr "小组列表获取失败"
+msgstr "Group list failed to obtain"
 
 msgid "pc_failed_to_get_list_of_comments"
 msgstr "Failed to get comment details"
@@ -19769,7 +19815,7 @@ msgid "pc_failed_to_get_lv_uid"
 msgstr "Due to copyright protection, download is not supported currently"
 
 msgid "pc_failed_to_get_member_information"
-msgstr "成员信息获取失败"
+msgstr "Member information failed to obtain"
 
 msgid "pc_failed_to_get_message_list"
 msgstr "Failed to get user's favorite video/cut the same video"
@@ -20584,7 +20630,7 @@ msgid "pc_file_type_n"
 msgstr "type"
 
 msgid "pc_file_video"
-msgstr "视频"
+msgstr "video"
 
 msgid "pc_file_work"
 msgstr "work"
@@ -20770,7 +20816,7 @@ msgid "pc_finished_film"
 msgstr "Exported videos"
 
 msgid "pc_finished_film_left_bracket"
-msgstr "成片（"
+msgstr "Complete films ("
 
 msgid "pc_finished_films_0"
 msgstr "Complete film (0)"
@@ -21341,7 +21387,7 @@ msgid "pc_free_tier:"
 msgstr "Free layer:"
 
 msgid "pc_free_tier_adjust"
-msgstr "层级调整"
+msgstr "Level adjustment"
 
 msgid "pc_free_tier_adjustment"
 msgstr "adjust"
@@ -21486,7 +21532,7 @@ msgid "pc_freeze_frame_completed"
 msgstr "Frozenout has been completed"
 
 msgid "pc_freeze_n"
-msgstr "定格"
+msgstr "Frozen"
 
 msgid "pc_freeze_re_choose"
 msgstr "Select freeze frame"
@@ -21759,7 +21805,7 @@ msgid "pc_grey"
 msgstr "Middle grey"
 
 msgid "pc_group"
-msgstr "小组"
+msgstr "group"
 
 msgid "pc_group_cloud_space"
 msgstr "Group Cloud Space"
@@ -23314,7 +23360,7 @@ msgid "pc_keying_export_with_effect"
 msgstr "Removing background..."
 
 msgid "pc_keying_mask"
-msgstr "抠像蒙版"
+msgstr "Keying mask"
 
 msgid "pc_keying_stabilizing_export_with_effect"
 msgstr "Removing background and stabilizing..."
@@ -24414,7 +24460,9 @@ msgid "pc_m10n_aigc_credits_apply_feature_desc"
 msgstr "%1 credits will be consumed to generate it."
 
 msgid "pc_m10n_aigc_credits_apply_feature_desc_cn"
-msgstr "积分将在生成完毕后扣除，后续不再提示"
+msgstr ""
+"Points will be deducted after generation, no prompts will be given in the "
+"future"
 
 msgid "pc_m10n_aigc_credits_apply_feature_title"
 msgstr "Generate %1?"
@@ -24913,7 +24961,7 @@ msgid "pc_main_track_empty_cant_post"
 msgstr "Cannot be published as a template when the main track is empty"
 
 msgid "pc_mutable_material_empty_cant_post"
-msgstr "没有可替换素材不可以发布为模板"
+msgstr "No replacement material can be published as a template"
 
 msgid "pc_main_track_no_video"
 msgstr "No video on the main track"
@@ -24937,7 +24985,7 @@ msgid "pc_maintrack_linkage_panel_btn_ok"
 msgstr "Done"
 
 msgid "pc_maintrack_linkage_panel_btn_save"
-msgstr "保存"
+msgstr "keep"
 
 msgid "pc_maintrack_linkage_panel_cliptype_adjust"
 msgstr "Adjust"
@@ -25084,7 +25132,7 @@ msgid "pc_material_cancel_n"
 msgstr "Cancel"
 
 msgid "pc_material_cancel_n_n"
-msgstr "取消"
+msgstr "Cancel"
 
 msgid "pc_material_cant_change"
 msgstr "Materials are not allowed to be replaced"
@@ -26332,7 +26380,9 @@ msgid "pc_need_10gb_free_disk_space"
 msgstr "At least 10GB disk space needed."
 
 msgid "pc_need_microphone_and_camera_permissions"
-msgstr "一起拍需要麦克风、摄像头权限，请点击麦克风、摄像头授权"
+msgstr ""
+"Take photos together and require microphone and camera permissions. Please "
+"click on the microphone and camera authorization."
 
 msgid "pc_network_abnormal_during_download"
 msgstr "Network error occurred during downloading."
@@ -26878,7 +26928,7 @@ msgstr ""
 "later"
 
 msgid "pc_no_expansion_for_now"
-msgstr "暂不扩容"
+msgstr "Not expanded yet"
 
 msgid "pc_no_faces_recognized"
 msgstr "Couldn't recognize any face"
@@ -28024,7 +28074,7 @@ msgid "pc_personalise_recommend_start"
 msgstr "Enable personalized content recommendations"
 
 msgid "pc_personalise_save"
-msgstr "保存"
+msgstr "keep"
 
 msgid "pc_picture_low_upgrade"
 msgstr ""
@@ -28204,7 +28254,7 @@ msgid "pc_please_import_and_other_format_materials_with_audio_information"
 msgstr "Import audios in MP3/M4A/MP4/MOV formats"
 
 msgid "pc_please_pay_asap"
-msgstr "请尽快支付哦"
+msgstr "Please pay as soon as possible"
 
 msgid "pc_please_preview_the_subtitle_file_under_[text_>>_local_subtitles]"
 msgstr "Preview and use the caption file in Text > Local captions"
@@ -28273,7 +28323,7 @@ msgid "pc_post_after_agree"
 msgstr "Please agree before posting"
 
 msgid "pc_post_as_template"
-msgstr "发布为模板"
+msgstr "Publish as a template"
 
 msgid "pc_post_aspect_ratio_title"
 msgstr "Aspect ratio for TikTok"
@@ -28318,7 +28368,7 @@ msgid "pc_post_template_more"
 msgstr "More"
 
 msgid "pc_post_template_title"
-msgstr "标题"
+msgstr "title"
 
 msgid "pc_post_tiktok_account"
 msgstr "TikTok"
@@ -28457,7 +28507,7 @@ msgid "pc_preset_name_duplicated_please_rename_and_save"
 msgstr "Preset name already exists. Rename and save."
 
 msgid "pc_preset_paragraphs"
-msgstr "预设段落"
+msgstr "Preset paragraph"
 
 msgid "pc_preset_quantity_exceeds_limit"
 msgstr "Number of presets exceeds limit"
@@ -28927,7 +28977,7 @@ msgid "pc_queue_effect_loading"
 msgstr "Waiting to apply %1..."
 
 msgid "pc_queue_function_in_line_h"
-msgstr "%1功能排队中，预计等待%2小时"
+msgstr "%1 function is queued, and you are expected to wait %2 hours"
 
 msgid "pc_queue_function_in_line_min"
 msgstr "%1 function is queued, expect to wait %2 minutes"
@@ -29489,10 +29539,10 @@ msgid "pc_recording_module_failed_to_load"
 msgstr "Couldn't record"
 
 msgid "pc_recording_processing_list"
-msgstr "录制处理列表"
+msgstr "Recording processing list"
 
 msgid "pc_recording_termination_prompt"
-msgstr "录制终止提示"
+msgstr "Recording termination prompt"
 
 msgid "pc_recording_timeout_saved_recorded_part"
 msgstr "Recording timeout, recording terminates, the recorded part has been saved"
@@ -29516,7 +29566,7 @@ msgid "pc_reference_edit_btn_cancel"
 msgstr "Cancel"
 
 msgid "pc_reference_edit_btn_ok"
-msgstr "确认"
+msgstr "confirm"
 
 msgid "pc_reference_edit_position"
 msgstr "Location"
@@ -29540,7 +29590,7 @@ msgid "pc_reference_menu_line_addhorizon"
 msgstr "Add a horizontal reference line"
 
 msgid "pc_reference_menu_line_addvertical"
-msgstr "添加垂直参考线"
+msgstr "Add vertical reference lines"
 
 msgid "pc_reference_menu_line_clearline"
 msgstr "Clear the reference line"
@@ -29570,7 +29620,7 @@ msgid "pc_reference_menu_safezone_hidden"
 msgstr "No security zone is displayed"
 
 msgid "pc_reference_menu_safezone_text"
-msgstr "字幕/操作安全区"
+msgstr "Subtitle/operation safety area"
 
 msgid "pc_reference_menu_safezone_tiktok"
 msgstr "TikTok preview"
@@ -29884,7 +29934,7 @@ msgid "pc_repurpose_video"
 msgstr "Repurpose video"
 
 msgid "pc_request_failed"
-msgstr "请求失败"
+msgstr "Request failed"
 
 msgid "pc_requesting"
 msgstr "Connecting..."
@@ -30058,7 +30108,7 @@ msgid "pc_resize_x"
 msgstr "Applying auto reframe... %1"
 
 msgid "pc_resolution"
-msgstr "分  辨  率：      %4"
+msgstr "Resolution: %4"
 
 msgid "pc_resolution:"
 msgstr "Resolution:"
@@ -31121,7 +31171,7 @@ msgid "pc_scene_toast_specific_duration_not_support"
 msgstr "The current selected model does not support the video duration"
 
 msgid "pc_scene_toast_specific_ratio_not_support"
-msgstr "当前选择的模型不支持该画幅比例"
+msgstr "The currently selected model does not support this format"
 
 msgid "pc_scene_toast_speed_not_support"
 msgstr "Can't set motion speed with the selected model"
@@ -31430,7 +31480,7 @@ msgid "pc_separate_reverse"
 msgstr "Can’t apply vocal isolation to reversed clips"
 
 msgid "pc_separate_separate_type"
-msgstr "分离类型"
+msgstr "Separation type"
 
 msgid "pc_separate_sound"
 msgstr "Isolate voice"
@@ -32033,7 +32083,7 @@ msgid "pc_signature_verification_failed"
 msgstr "kms decryption failed"
 
 msgid "pc_signed"
-msgstr "已签署"
+msgstr "Signed"
 
 msgid "pc_signed_and"
 msgstr "and"
@@ -32670,7 +32720,7 @@ msgid "pc_space_of_user"
 msgstr "User’s space"
 
 msgid "pc_space_offline"
-msgstr "  已离线"
+msgstr "Offline"
 
 msgid "pc_space_ok"
 msgstr "OK"
@@ -32893,7 +32943,7 @@ msgid "pc_sticker_loading_web"
 msgstr "Loading stickers..."
 
 msgid "pc_sticker_material"
-msgstr "贴纸素材"
+msgstr "Sticker material"
 
 msgid "pc_sticker_name_irregular"
 msgstr "File names should end with numbers"
@@ -33608,7 +33658,9 @@ msgid "pc_style"
 msgstr "Style"
 
 msgid "pc_style_agreement"
-msgstr "已阅读并同意《剪映单次付费使用服务协议》（协议名称待定）"
+msgstr ""
+"Have read and agreed to the \"Single-Paid Use Service Agreement for "
+"Cleaning and Screening\" (the name of the agreement is pending)"
 
 msgid "pc_style_ai_effect"
 msgstr "Style"
@@ -36675,7 +36727,7 @@ msgid "pc_text_template_change_single"
 msgstr "Change to “Single language”?"
 
 msgid "pc_text_template_clear"
-msgstr "取消勾选的版本将清空"
+msgstr "Unchecked version will be cleared"
 
 msgid "pc_text_template_clear_all"
 msgstr "Clear list"
@@ -38593,7 +38645,7 @@ msgid "pc_undo"
 msgstr "Undo"
 
 msgid "pc_undo_material_package"
-msgstr "解除素材包"
+msgstr "Release material packaging"
 
 msgid "pc_uninstall_clipping_pro"
 msgstr "Uninstall CapCut"
@@ -39295,7 +39347,7 @@ msgstr ""
 "to subsequent functions upgrades"
 
 msgid "pc_vip_material_colon"
-msgstr "会员素材："
+msgstr "Member Materials:"
 
 msgid "pc_vip_material_package"
 msgstr "Member material package"
@@ -39641,7 +39693,7 @@ msgid "pc_voice_clone_free"
 msgstr "%1 credits off for first timers"
 
 msgid "pc_voice_clone_free_characters"
-msgstr "免费试用限%1字内"
+msgstr "Free trial limit is within 1 word"
 
 msgid "pc_voice_clone_free_guide_subtitle"
 msgstr ""
@@ -41916,7 +41968,9 @@ msgid "please_connect_to_the_internet"
 msgstr "Please connect to the network"
 
 msgid "please_describe_problem_encountered_careful"
-msgstr "请描述你遇到的问题，注意避免透露个人敏感信息"
+msgstr ""
+"Please describe the problems you are facing and be careful to avoid "
+"revealing sensitive personal information"
 
 msgid ""
 "please_ensure_that_the_relevant_materials_fonts_etc._have_been_fully_"
@@ -41956,7 +42010,7 @@ msgid "please_enter_title_duplicate"
 msgstr "Title (optional)"
 
 msgid "please_enter_word"
-msgstr "请输入正文"
+msgstr "Please enter the text"
 
 msgid "please_enter_word_duplicate"
 msgstr "Enter description"
@@ -41965,7 +42019,7 @@ msgid "please_enter_words"
 msgstr "Please enter text"
 
 msgid "please_input_file_name"
-msgstr "请输入文件名称"
+msgstr "Please enter the file name"
 
 msgid "please_input_product_name_selling_point"
 msgstr "Please enter the product name and selling point"
@@ -41992,7 +42046,7 @@ msgid "please_paste_target_folde_current_space"
 msgstr "Paste the file in current space"
 
 msgid "please_read_n"
-msgstr "请您阅读"
+msgstr "Please read"
 
 msgid "please_select_a_disk"
 msgstr "Select a disk"
@@ -42001,7 +42055,7 @@ msgid "please_select_a_lock_subject"
 msgstr "Select tracking subject"
 
 msgid "please_select_storage_path"
-msgstr "请选择存储路径"
+msgstr "Please select the storage path"
 
 msgid "please_select_tone"
 msgstr "Voice"
@@ -42067,13 +42121,13 @@ msgid "position_y"
 msgstr "Position y"
 
 msgid "possible_crash"
-msgstr "可能发生了崩溃问题"
+msgstr "A crash problem may have occurred"
 
 msgid "post_on_tiktok"
 msgstr "Share to TikTok"
 
 msgid "post_tanchuangwenan"
-msgstr "了解详情"
+msgstr "Learn more"
 
 msgid "post_title"
 msgstr "Video post title"
@@ -42089,8 +42143,10 @@ msgstr "Prank or comedy"
 
 msgid "pre_tanchuangwenan"
 msgstr ""
-"此素材/模板为商业用途素材/模板，仅限个人及小微企业用户在网络媒体平台用于有限商业用途\n"
-"如有疑问，可查看"
+"This material/template is a commercial use material/template, and is only "
+"for personal and small and micro enterprise users on the Internet media "
+"platform for limited commercial use.\n"
+"If you have any questions, please check"
 
 msgid "present_professional_design_look_with_brand_library"
 msgstr "Manage assets and set design standards efficiently in Brand kit"
@@ -42141,7 +42197,7 @@ msgid "privacy_policy_2"
 msgstr "Privacy Policy"
 
 msgid "privacy_policy_pc"
-msgstr "隐私政策"
+msgstr "Privacy Policy"
 
 msgid "private_tt"
 msgstr "Private"
@@ -42229,7 +42285,9 @@ msgid "pro_upgrade_inbox_message_title"
 msgstr "🎉 Updates to the Pro plan"
 
 msgid "pro_upload_for_draft"
-msgstr "草稿含有未付费的行业模板，付费后即可上传"
+msgstr ""
+"The draft contains unpaid industry templates and can be uploaded after "
+"payment"
 
 msgid "process_detection_commercial_copyright"
 msgstr "Checking..."
@@ -42241,7 +42299,7 @@ msgid "processing_"
 msgstr "Processing "
 
 msgid "processing_failed_try_again"
-msgstr "处理失败，请重试"
+msgstr "Processing failed, please try again"
 
 msgid "produci_name_mobile"
 msgstr "Product name, such as hair dryer"
@@ -42289,7 +42347,7 @@ msgid "propoerty"
 msgstr "Details"
 
 msgid "proportion_cc"
-msgstr "比例"
+msgstr "Proportion"
 
 msgid "proportion_pc"
 msgstr "Ratio:"
@@ -42301,7 +42359,7 @@ msgid "proportional_scaling_pc"
 msgstr "Scale"
 
 msgid "protect_your_personal_information"
-msgstr "保护你的个人信息。"
+msgstr "Protect your personal information."
 
 msgid "prune_pc"
 msgstr "Trim"
@@ -42316,7 +42374,7 @@ msgid "publish_assistant"
 msgstr "Post assistant"
 
 msgid "publish_review"
-msgstr "发起审阅"
+msgstr "Initiate review"
 
 msgid "publish_tt_pc"
 msgstr "Share"
@@ -42400,7 +42458,7 @@ msgid "put_on_top"
 msgstr "Bring to front"
 
 msgid "qrcode_refresh"
-msgstr "码已失效"
+msgstr "The code has expired"
 
 msgid "question_01"
 msgstr "Which of the following roles describes you?"
@@ -42421,7 +42479,7 @@ msgid "quick_guide"
 msgstr "Walkthrough"
 
 msgid "quick_pass"
-msgstr "剪映快传"
+msgstr "Clip-on Quick Transmission"
 
 msgid "quit_space_ccpc"
 msgstr "Leave space"
@@ -42436,19 +42494,21 @@ msgid "re_record"
 msgstr "Record again"
 
 msgid "reached_maximum_size"
-msgstr "小组人数已达到上限"
+msgstr "The number of team members has reached the upper limit"
 
 msgid "reached_maximum_space"
-msgstr "您的小组云空间已达上限，可购买协作版获得更多的云空间"
+msgstr ""
+"Your group cloud space has reached its limit, so you can purchase a "
+"collaborative version to get more cloud space"
 
 msgid "read_agree"
-msgstr "已阅读并同意"
+msgstr "Read and agree"
 
 msgid "read_aloud"
 msgstr "Text to speech"
 
 msgid "read_aloud_n"
-msgstr "朗读音色"
+msgstr "Reading sound"
 
 msgid "read_aloud_n_duplicate"
 msgstr "Voice"
@@ -42460,13 +42520,13 @@ msgid "real_price"
 msgstr "Purchase price"
 
 msgid "receive_interrupt"
-msgstr "接收中断"
+msgstr "Receive interrupt"
 
 msgid "received_video_successfully"
-msgstr "接收成功！"
+msgstr "Accepted successfully!"
 
 msgid "receiving_s_please_wait"
-msgstr "正在接收%1，请稍等…"
+msgstr "Receiving %1, please wait..."
 
 msgid "recent_used_ugc"
 msgstr "Recently used"
@@ -42527,19 +42587,21 @@ msgid "recommended_by_audio_from"
 msgstr "Duration of copyright issue: %s"
 
 msgid "recommended_input_box"
-msgstr "建议将文本复制至输入框，生成视频"
+msgstr "It is recommended to copy the text to the input box to generate a video"
 
 msgid "recommended_input_box_duplicate"
 msgstr "Paste the script to the text box and generate video"
 
 msgid "recommended_matching_material_preview"
-msgstr "推荐匹配素材仅供视频效果预览"
+msgstr "Recommended matching materials are for video effect preview only"
 
 msgid "recommended_matching_material_preview_duplicate"
 msgstr "The recommended materials are only for preview."
 
 msgid "recommended_matching_materials_services"
-msgstr "推荐匹配素材来源于网络搜索及第三方服务"
+msgstr ""
+"Recommended matching materials are sourced from online search and "
+"third-party services"
 
 msgid "recommended_matching_materials_services_duplicate"
 msgstr "The recommended materials come from the internet and 3rd-party services."
@@ -42557,10 +42619,10 @@ msgid "recording_countdown"
 msgstr "Countdown"
 
 msgid "recording_is_about_to_start"
-msgstr "录制即将开始"
+msgstr "Recording is about to begin"
 
 msgid "recording_video_screen"
-msgstr "录制中"
+msgstr "Recording"
 
 msgid "recover"
 msgstr "Redo"
@@ -42587,10 +42649,10 @@ msgid "recreate_social_media_trend"
 msgstr "Recreate social media trends"
 
 msgid "rectangle_pc"
-msgstr "矩形"
+msgstr "rectangle"
 
 msgid "redo_added_script"
-msgstr "恢复添加字幕"
+msgstr "Resuming subtitles"
 
 msgid "redo_body_clean"
 msgstr "Redo: Clear camera tracking"
@@ -42655,10 +42717,10 @@ msgid "remove_current_subtitle"
 msgstr "Delete current captions"
 
 msgid "remove_dark_circles"
-msgstr "去黑眼圈"
+msgstr "Remove dark circles"
 
 msgid "remove_immediately"
-msgstr "立即清理"
+msgstr "Clean it now"
 
 msgid "remove_member_cloud_pc"
 msgstr "Remove member?"
@@ -42703,7 +42765,7 @@ msgid "renew"
 msgstr "Renew"
 
 msgid "renew__immediately"
-msgstr "立即续费"
+msgstr "Renew now"
 
 msgid "renew_cloud"
 msgstr "Update"
@@ -42732,7 +42794,7 @@ msgid "replace_portrait_lock_on"
 msgstr "Replace with a video with portrait to apply camera tracking effect"
 
 msgid "replace_the_matching_material_arbitrarily"
-msgstr "你可以任意替换匹配的素材"
+msgstr "You can replace matching materials at will"
 
 msgid "replace_the_matching_material_arbitrarily_duplicate"
 msgstr "You can replace any of the materials."
@@ -42741,7 +42803,7 @@ msgid "replace_the_source"
 msgstr "replacement fragment"
 
 msgid "replace_video"
-msgstr "替换视频"
+msgstr "Replace video"
 
 msgid "report"
 msgstr "Report"
@@ -42777,7 +42839,7 @@ msgid "resolution"
 msgstr "Resolution"
 
 msgid "resolution___:"
-msgstr "分  辨 率："
+msgstr "Resolution:"
 
 msgid "resolution_option_1080p"
 msgstr "1080P"
@@ -42789,7 +42851,7 @@ msgid "resolution_pc"
 msgstr "Resolution:"
 
 msgid "resolution_resize"
-msgstr "分辨率"
+msgstr "Resolution"
 
 msgid "resource_loading..."
 msgstr "Loading..."
@@ -42837,7 +42899,7 @@ msgid "restriction_exemption_ended_vip"
 msgstr "Join CapCut Pro to use AI writer"
 
 msgid "resume_purchase"
-msgstr "恢复购买"
+msgstr "Resuming purchase"
 
 msgid "retouch"
 msgstr "Retouch"
@@ -42852,7 +42914,7 @@ msgid "retry_pc"
 msgstr "Try again"
 
 msgid "retry_transfer"
-msgstr "重试"
+msgstr "Try again"
 
 msgid "return_to_draft_page"
 msgstr "Back to edit"
@@ -42864,10 +42926,10 @@ msgid "reverse"
 msgstr "Reverse"
 
 msgid "review_error,please"
-msgstr "发起审阅失败，请"
+msgstr "The review failed, please"
 
 msgid "review_notice_pc"
-msgstr "审阅通知"
+msgstr "Review notice"
 
 msgid "revise"
 msgstr "Modify"
@@ -42915,7 +42977,7 @@ msgid "rotate_x"
 msgstr "Horizontal"
 
 msgid "round_pc"
-msgstr "圆形"
+msgstr "Circular"
 
 msgid "rules_description"
 msgstr "Rules description"
@@ -42939,7 +43001,7 @@ msgid "s_s_duplicate"
 msgstr "%s"
 
 msgid "s_transferred"
-msgstr "已传输%1"
+msgstr "%1 has been transmitted"
 
 msgid "sample_image_upload"
 msgstr "Sample"
@@ -42960,10 +43022,10 @@ msgid "save_location"
 msgstr "Saved:"
 
 msgid "save_location_pc"
-msgstr "保存位置"
+msgstr "Save location"
 
 msgid "save_location_resize"
-msgstr "保存位置"
+msgstr "Save location"
 
 msgid "save_pc"
 msgstr "Save"
@@ -42990,7 +43052,7 @@ msgid "scale_conversion_in_progress"
 msgstr "Applying auto reframe..."
 
 msgid "scene_button_ratio_reference_image"
-msgstr "适应参考图"
+msgstr "Adaptation reference diagram"
 
 msgid "scene_split_point_not_detected"
 msgstr "No scene transitions found"
@@ -43014,7 +43076,7 @@ msgid "screen_recording_pc"
 msgstr "Screen recording"
 
 msgid "screening_team"
-msgstr "剪映团队"
+msgstr "Climbing team"
 
 msgid "script_draft_n"
 msgstr "none"
@@ -43026,7 +43088,7 @@ msgid "script_n"
 msgstr "none"
 
 msgid "script_not_supported_download"
-msgstr "脚本类型的草稿不支持下载"
+msgstr "Downloads of script type drafts are not supported"
 
 msgid "script_s_name_mobile"
 msgstr "Example: write a script about the Big Bang"
@@ -43094,7 +43156,7 @@ msgid "search_video_picture_materials"
 msgstr "Search for videos and photos"
 
 msgid "searching_files"
-msgstr "搜索中…"
+msgstr "Searching..."
 
 msgid "searching_for_material"
 msgstr "Searching material..."
@@ -43106,7 +43168,9 @@ msgid "seasonal_moments"
 msgstr "🍻 Seasonal events"
 
 msgid "seclect_part_empty_timeline_cannot_transfer"
-msgstr "所选部分草稿主轨道为空，无法快传"
+msgstr ""
+"The main track of the selected draft is empty and cannot be transmitted "
+"quickly"
 
 msgid "second_step_cloud"
 msgstr "Step 2"
@@ -43115,7 +43179,7 @@ msgid "section_lens_is_locked_shooting_clear_material"
 msgstr "Current clip applied camera tracking effect. Try a video with people in it."
 
 msgid "see_again_later"
-msgstr "再看看"
+msgstr "Take a look again"
 
 msgid "see_commercial_material"
 msgstr "View"
@@ -43139,10 +43203,10 @@ msgid "select_draft"
 msgstr "Select project"
 
 msgid "select_draft_cannot_transfer"
-msgstr "所选草稿没有任何信息，无法快传"
+msgstr "The selected draft has no information and cannot be transmitted quickly"
 
 msgid "select_draft_empty_cannot_transfer"
-msgstr "所选草稿主轨道为空，无法快传"
+msgstr "The selected draft main track is empty and cannot be transmitted quickly"
 
 msgid "select_forward"
 msgstr "Select leftward"
@@ -43157,7 +43221,7 @@ msgid "select_only_one_pc"
 msgstr " Select only 1"
 
 msgid "select_part_draft_cannot_transfer"
-msgstr "所选部分草稿没有任何信息，无法快传"
+msgstr "The selected draft has no information and cannot be transmitted quickly"
 
 msgid "select_plan"
 msgstr "Select plan"
@@ -43166,10 +43230,12 @@ msgid "select_preview_frame"
 msgstr "Select a frame for preview"
 
 msgid "select_save_location"
-msgstr "请选择保存位置"
+msgstr "Please select a save location"
 
 msgid "select_stop_cancel_the_transfer"
-msgstr "选择「中断」取消本次传输，若要继续传输请选择「继续」"
+msgstr ""
+"Select \"Interrupt\" to cancel this transmission. If you want to continue "
+"the transmission, please select \"Continue\""
 
 msgid "select_subtitle_language_generate"
 msgstr "Select language of secondary subtitle and quickly create bilingual subtitles"
@@ -43178,7 +43244,7 @@ msgid "selected_"
 msgstr "Selected "
 
 msgid "selected_draft_not_support_transfer"
-msgstr "所选草稿不支持快传"
+msgstr "The selected draft does not support quick transmission"
 
 msgid "selected_folder_contains_files_being_downloaded"
 msgstr ""
@@ -43244,7 +43310,9 @@ msgid "set_up_new"
 msgstr "Settings"
 
 msgid "setting_add_review_fun,open_can_quick_share"
-msgstr "设置内新增了审阅功能，开启后可便捷分享给他人查看/审阅。"
+msgstr ""
+"A review function has been added in the settings, which can be easily "
+"shared with others to view/review after being turned on."
 
 msgid "shadow"
 msgstr "Shadow"
@@ -43253,16 +43321,16 @@ msgid "shadow_stroke"
 msgstr "Shadow stroke"
 
 msgid "shangyongjingxuan"
-msgstr "商用精选"
+msgstr "Commercial selection"
 
 msgid "shape_pc"
 msgstr "Vector image"
 
 msgid "share_link:"
-msgstr "链接分享："
+msgstr "Link sharing:"
 
 msgid "share_review_text"
-msgstr "%1， %2通过剪映给你分享了\"%3\"，请查看审阅"
+msgstr "%1, %2 shared \"%3\" with you through clipping. Please check and review"
 
 msgid "share_to_ttam_pc"
 msgstr "TikTok Ads Manager"
@@ -43271,16 +43339,16 @@ msgid "share_tt_faie"
 msgstr "Failed to get share_id of TikTok open_api"
 
 msgid "share_with_group_members"
-msgstr "分享给小组成员"
+msgstr "Share with group members"
 
 msgid "share_with_group_members_pc"
-msgstr "分享给小组成员"
+msgstr "Share with group members"
 
 msgid "share_wonderful_moments_with_world"
 msgstr "Sharing wonderful moments with the world!"
 
 msgid "shared_clipping_with_you"
-msgstr "通过剪映给你分享了"
+msgstr "Share with you through the clipping"
 
 msgid "sharpen"
 msgstr "Sharpen"
@@ -43289,10 +43357,10 @@ msgid "shine"
 msgstr "Glow"
 
 msgid "shoot_together"
-msgstr "一起拍"
+msgstr "Take a photo together"
 
 msgid "shoot_video_together"
-msgstr "一起拍视频"
+msgstr "Take a video together"
 
 msgid "shooting_outline_pc"
 msgstr "Film outline"
@@ -43325,16 +43393,18 @@ msgid "shorts_Import_video_type_requirements"
 msgstr "Supported formats: %1, %2, and other formats"
 
 msgid "shorts_Import_video_vip_pop-up_desc"
-msgstr "当前剩余时长不足，无法处理所选择的视频片段，开通会员可解锁更多时长及其他权益"
+msgstr ""
+"The remaining time is insufficient, and the selected video clip cannot be "
+"processed. Activating a member can unlock more time and other benefits."
 
 msgid "shorts_Import_video_vip_pop-up_title"
-msgstr "剩余时长不足，开通VIP解锁%1分钟/月"
+msgstr "The remaining time is insufficient, activate VIP to unlock %1 minute/month"
 
 msgid "shorts_Import_video_volume_requirements"
 msgstr "Size: up to %1 GB"
 
 msgid "shorts_cancel"
-msgstr "取消"
+msgstr "Cancel"
 
 msgid "shorts_caption_style_empty_add_subtitles"
 msgstr "Add"
@@ -43364,10 +43434,10 @@ msgid "shorts_clip_length_auto"
 msgstr "Auto"
 
 msgid "shorts_cut"
-msgstr "剪辑"
+msgstr "Edit"
 
 msgid "shorts_cut_delete"
-msgstr "删除"
+msgstr "delete"
 
 msgid "shorts_drag_handle_time_display"
 msgstr "%1:%2:%3"
@@ -43415,7 +43485,9 @@ msgid "shorts_export_publish_entry_desc"
 msgstr "Get multiple, viral short videos from 1 long video in 1 click."
 
 msgid "shorts_free_ues_desc"
-msgstr "当前可上传%1分钟的视频素材进行处理，每月可限时免费体验%1分钟"
+msgstr ""
+"Currently, %1 minute video material can be uploaded for processing, and %1 "
+"minute can be experienced for a limited time per month."
 
 msgid "shorts_free_ues_desc_day"
 msgstr ""
@@ -43485,7 +43557,7 @@ msgid "shorts_history_second_failed_know"
 msgstr "OK"
 
 msgid "shorts_join_pro"
-msgstr "开通VIP"
+msgstr "Enable VIP"
 
 msgid "shorts_more_edit"
 msgstr "Edit"
@@ -43494,7 +43566,7 @@ msgid "shorts_page_name"
 msgstr "Long video to shorts"
 
 msgid "shorts_player"
-msgstr "播放区域"
+msgstr "Play area"
 
 msgid "shorts_process_audio_volume_dismatch"
 msgstr "The selected video is too long. Select a shorter one and try again."
@@ -43552,19 +43624,21 @@ msgid "shorts_processing_close_app_cancel"
 msgstr "Cancel"
 
 msgid "shorts_processing_close_app_cancel_cn"
-msgstr "取消"
+msgstr "Cancel"
 
 msgid "shorts_processing_close_app_confirm"
 msgstr "Close"
 
 msgid "shorts_processing_close_app_confirm_cn"
-msgstr "确认关闭"
+msgstr "Confirm to close"
 
 msgid "shorts_processing_close_app_desc"
 msgstr "No shorts will be converted if you close CapCut now."
 
 msgid "shorts_processing_close_app_desc_cn"
-msgstr "AI切片上传视频中，关闭应用会导致生成失败"
+msgstr ""
+"AI slice uploads video, closing the application will cause generation "
+"failure"
 
 msgid "shorts_processing_close_app_desc_experiment"
 msgstr "No shorts will be converted if you close CapCut now."
@@ -43573,7 +43647,7 @@ msgid "shorts_processing_close_app_title"
 msgstr "Close CapCut?"
 
 msgid "shorts_processing_close_app_title_cn"
-msgstr "确认要关闭剪映吗？"
+msgstr "Are you sure you want to turn off the clipping?"
 
 msgid "shorts_processing_desc"
 msgstr ""
@@ -43598,19 +43672,19 @@ msgid "shorts_processing_log_out_ cancel"
 msgstr "Cancel"
 
 msgid "shorts_processing_log_out_cancel_cn"
-msgstr "取消"
+msgstr "Cancel"
 
 msgid "shorts_processing_log_out_confirm"
 msgstr "Sign out"
 
 msgid "shorts_processing_log_out_confirm_cn"
-msgstr "确认退出\n"
+msgstr "Confirm exit"
 
 msgid "shorts_processing_log_out_desc"
 msgstr "No shorts will be converted if you sign out now."
 
 msgid "shorts_processing_log_out_desc_cn"
-msgstr "AI切片上传视频中，退出会导致生成失败"
+msgstr "Uploading videos in AI slices, quitting will cause generation failure"
 
 msgid "shorts_processing_log_out_desc_experiment"
 msgstr "No shorts will be converted if you sign out now."
@@ -43619,7 +43693,7 @@ msgid "shorts_processing_log_out_title"
 msgstr "Sign out?"
 
 msgid "shorts_processing_log_out_title_cn"
-msgstr "确认要退出登录吗？\n"
+msgstr "Are you sure you want to log out?"
 
 msgid "shorts_processing_log_out_title_n"
 msgstr "Sign out?"
@@ -43691,7 +43765,9 @@ msgid "shorts_seleced_video_length"
 msgstr "%1 minute selected"
 
 msgid "shorts_selected_video_vip_useless"
-msgstr "前周期内(每月）可处理时长已不足，可重新截取视频"
+msgstr ""
+"The processing time is insufficient in the previous cycle (monthly), and "
+"the video can be re-intercepted"
 
 msgid "shorts_selected_video_vip_useless_day"
 msgstr "You can only convert %1 more minute today. Select a shorter clip."
@@ -43703,7 +43779,7 @@ msgid "shorts_specify_processing_timeframe"
 msgstr "Select the part you want to convert to shorts"
 
 msgid "shorts_style"
-msgstr "样式"
+msgstr "style"
 
 msgid "shorts_supported_languages"
 msgstr "Only English videos supported"
@@ -43732,7 +43808,7 @@ msgid "shorts_task_uploading_log_out_confirm"
 msgstr "Sign out"
 
 msgid "shorts_task_uploading_log_out_confirm_n"
-msgstr "确认退出"
+msgstr "Confirm exit"
 
 msgid "shorts_task_uploading_log_out_desc"
 msgstr "Videos being uploaded will not be converted to shorts if you sign out now."
@@ -43823,10 +43899,10 @@ msgid "show_keyboard_input"
 msgstr "Show keystrokes"
 
 msgid "show_more_color"
-msgstr "显示更多颜色"
+msgstr "Show more colors"
 
 msgid "show_more_fonts"
-msgstr "显示更多字体"
+msgstr "Show more fonts"
 
 msgid "show_or_hide_keyframe"
 msgstr "Show/Hide keyframe panel"
@@ -43841,7 +43917,7 @@ msgid "sign_in"
 msgstr "Sign in"
 
 msgid "sign_in_to_agree"
-msgstr "登录即同意"
+msgstr "Log in to agree"
 
 msgid "sign_in_to_sync_your_favorite_sounds"
 msgstr "Sign in with TikTok to sync your favorite sounds"
@@ -43877,10 +43953,10 @@ msgid "single_sticker_material"
 msgstr "One or multiple single stickers"
 
 msgid "single_video_not_exceed_1_g"
-msgstr "单个视频不超过1G"
+msgstr "No more than 1G video per video"
 
 msgid "sino_british"
-msgstr "中英"
+msgstr "Chinese English"
 
 msgid "size"
 msgstr "Size"
@@ -43904,7 +43980,7 @@ msgid "size_stickers"
 msgstr "Size: minimum {X}, maximum {Y}"
 
 msgid "size_up_to_x"
-msgstr "尺寸最大为X"
+msgstr "The maximum size is X"
 
 msgid "size_up_to_{X}"
 msgstr ""
@@ -43954,13 +44030,13 @@ msgid "small_business_pc"
 msgstr "Small business"
 
 msgid "small_face"
-msgstr "小脸"
+msgstr "Small face"
 
 msgid "small_head"
 msgstr "Head size"
 
 msgid "smallest_size_sticker"
-msgstr "最小尺寸"
+msgstr "Minimum size"
 
 msgid "smart_Brush"
 msgstr "Smart brush"
@@ -43969,7 +44045,7 @@ msgid "smart_beauty"
 msgstr "Facial beauty"
 
 msgid "smart_beauty_body"
-msgstr "智能美型"
+msgstr "Smart beauty"
 
 msgid "smart_beauty_new"
 msgstr "Retouch"
@@ -43999,13 +44075,13 @@ msgid "smart_matching_material_cc"
 msgstr "Smart generation"
 
 msgid "smart_moving_cancel"
-msgstr "智能抠像已取消"
+msgstr "Smart keying has been canceled"
 
 msgid "smart_notch_broadcast"
 msgstr "Remove filler words"
 
 msgid "smile_lips"
-msgstr "微笑唇"
+msgstr "Smiling lips"
 
 msgid "smooth_face"
 msgstr "Smooth"
@@ -44035,7 +44111,7 @@ msgid "solid_color_pc"
 msgstr "Solid"
 
 msgid "some_draft_not_support_transfer"
-msgstr "部分草稿不支持快传"
+msgstr "Some drafts do not support quick transmission"
 
 msgid "some_files_downloaded_after_downloading"
 msgstr "Can’t add some files to the timeline. Download and add again."
@@ -44095,7 +44171,9 @@ msgid "space_cloud_title"
 msgstr "Spaces"
 
 msgid "space_full_contact_upgrade_clear_try"
-msgstr "小组空间已满，请联系创建者升级或清理空间后重试"
+msgstr ""
+"The group space is full, please contact the creator to upgrade or clean up "
+"the space and try again"
 
 msgid "space_member_is_full_oin_failed"
 msgstr "Couldn’t join. Space is full."
@@ -44173,7 +44251,7 @@ msgid "start_recognizing"
 msgstr "Continue"
 
 msgid "start_recording"
-msgstr "开始录制"
+msgstr "Start recording"
 
 msgid "start_recording_screen"
 msgstr "Start"
@@ -44264,10 +44342,10 @@ msgstr ""
 "template!"
 
 msgid "storage_path"
-msgstr "存储路径"
+msgstr "Storage path"
 
 msgid "storage_path:"
-msgstr "存储路径："
+msgstr "Storage path:"
 
 msgid "storage_space"
 msgstr "Saved in:"
@@ -44279,10 +44357,10 @@ msgid "straight_line"
 msgstr "Linear"
 
 msgid "straight_line_[c"
-msgstr "直线"
+msgstr "straight line"
 
 msgid "straight_line_pc"
-msgstr "直线"
+msgstr "straight line"
 
 msgid "strength"
 msgstr "Strength"
@@ -44372,7 +44450,7 @@ msgid "subtitles_fail_wait"
 msgstr "This may take some time"
 
 msgid "successful_collection_material"
-msgstr "收藏成功"
+msgstr "Successfully collected"
 
 msgid "successfully_copied"
 msgstr "Copied"
@@ -44381,16 +44459,16 @@ msgid "successfully_deleted_pc"
 msgstr "Deleted"
 
 msgid "suggestion_pc_stickers"
-msgstr "建议"
+msgstr "suggestion"
 
 msgid "suit"
 msgstr "Set"
 
 msgid "sunshine_boy"
-msgstr "阳光男生"
+msgstr "Sunny boy"
 
 msgid "sunshine_boy_duplicate"
-msgstr "阳光男生"
+msgstr "Sunny boy"
 
 msgid "support_additional_upload_of_fonts_backgrounds_intros_ends_etc"
 msgstr "none"
@@ -44417,7 +44495,7 @@ msgid "sure"
 msgstr "Confirm"
 
 msgid "sure_confirm"
-msgstr "确定"
+msgstr "Sure"
 
 msgid "sure_to_delete_the_folder_p"
 msgstr "Delete folder?"
@@ -44426,82 +44504,95 @@ msgid "sure_to_delete_this_folder"
 msgstr "Delete folder?"
 
 msgid "sure_want_delete_last_edit"
-msgstr "确定删除上次编辑的内容吗"
+msgstr "Are you sure you deleted the last edited content?"
 
 msgid "sure_want_delete_last_edit_duplicate"
 msgstr "Delete previous script?"
 
 msgid "svip_pc_firstpage_nosvip_new"
-msgstr "开通SVIP会员，享海量权益"
+msgstr "Enable SVIP membership and enjoy massive benefits"
 
 msgid "svip_pc_firstpage_nosvip_old"
-msgstr "会员已于 %1 到期"
+msgstr "Member expires at %1"
 
 msgid "svip_pc_firstpage_svip_auto"
-msgstr "%1 自动续费"
+msgstr "%1 Automatic renewal"
 
 msgid "svip_pc_firstpage_svip_auto_btn"
-msgstr "会员管理"
+msgstr "Member Management"
 
 msgid "svip_pc_firstpage_svip_limited"
-msgstr "限免%1次"
+msgstr "Limited Permission 1"
 
 msgid "svip_pc_firstpage_svip_onesoff"
-msgstr "%1 到期"
+msgstr "%1 Expired"
 
 msgid "svip_pc_firstpage_svip_purchased"
-msgstr "已购买"
+msgstr "Purchased"
 
 msgid "svip_pc_popup_notice"
-msgstr "剪映会员体系全新升级，现推出SVIP包含多种AI黑科技，助力您的创意充满无限可能"
+msgstr ""
+"Jianying membership system has been completely upgraded, and now launches "
+"SVIP with a variety of AI black technologies to help your creativity be "
+"full of infinite possibilities"
 
 msgid "svip_pc_popup_trial_autorenew_1"
-msgstr "获得SVIP会员专属体验卡"
+msgstr "Obtain SVIP member exclusive experience card"
 
 msgid "svip_pc_popup_trial_autorenew_2"
-msgstr "为答谢VIP用户的支持，若您保持订阅状态，可畅享所有SVIP高级功能权益至%1，期间原VIP续费价格不变"
+msgstr ""
+"To thank VIP users for their support, if you keep your subscription status, "
+"you can enjoy the benefits of all SVIP advanced functions to %1, and the "
+"original VIP renewal price will remain unchanged during this period."
 
 msgid "svip_pc_popup_trial_finished_cancel"
-msgstr "暂不考虑"
+msgstr "Not considered yet"
 
 msgid "svip_pc_popup_trial_finished_content"
-msgstr "SVIP体验卡于%1到期，将无法使用PC端所有付费权益"
+msgstr ""
+"The SVIP experience card expires at %1 and will not be able to use all paid "
+"benefits on the PC side."
 
 msgid "svip_pc_popup_trial_finished_purchase"
-msgstr "立刻订阅SVIP"
+msgstr "Subscribe to SVIP now"
 
 msgid "svip_pc_popup_trial_finished_remark"
-msgstr "剪映会员体系全新升级，PC端所有付费权益调整为SVIP可用，可与客服了解详情"
+msgstr ""
+"Jianying membership system has been newly upgraded, and all paid rights on "
+"the PC side are adjusted to SVIP available. You can learn more about the "
+"details with customer service."
 
 msgid "svip_pc_popup_trial_finished_title"
-msgstr "SVIP体验卡到期提醒"
+msgstr "Reminder for expiration of SVIP experience card"
 
 msgid "svip_pc_popup_trial_legal_1"
-msgstr "以下内容发生变更，可点击查看："
+msgstr "The following content has changed, you can click to view:"
 
 msgid "svip_pc_popup_trial_legal_2"
-msgstr "会员权益列表"
+msgstr "Membership benefits list"
 
 msgid "svip_pc_popup_trial_legal_3"
-msgstr "《AI功能支付模式》"
+msgstr "\"AI Function Payment Model\""
 
 msgid "svip_pc_popup_trial_legal_4"
-msgstr "《剪映会员服务协议(含自动续费条款)》"
+msgstr "\"Jianying Member Service Agreement (including automatic renewal terms)\""
 
 msgid "svip_pc_popup_trial_onesoff_1"
-msgstr "为答谢VIP用户的支持，您可畅享所有SVIP高级功能至%1"
+msgstr ""
+"To thank VIP users for their support, you can enjoy all SVIP advanced "
+"features to %1"
 
 msgid "svip_pc_popup_trial_onesoff_2"
-msgstr "可使用所有SVIP高级权益（除云空间和积分）"
+msgstr "All SVIP advanced benefits (except cloud space and points) are available"
 
 msgid "svip_pc_popup_trial_title"
-msgstr "会员体系升级 全新推出SVIP"
+msgstr "Membership system upgrade, new SVIP launch"
 
 msgid "system"
 msgstr "System"
 
 msgid "take_long_time_generate_please_patient"
-msgstr "生成时间可能较长，请耐心等待"
+msgstr "The generation time may be long, please be patient"
 
 msgid "take_long_time_generate_please_patient_duplicate"
 msgstr "It may take some time to generate the video"
@@ -44517,9 +44608,12 @@ msgstr "🎙 Talking head / Explainer"
 
 msgid "tanchuangneirong"
 msgstr ""
-"此素材/模板为商业用途素材/模板，仅限个人及小微企业用户在网络媒体平台用于有限商业用途\n"
-"如有疑问，可查看https://lf9-cdn-tos.draftstatic.com/obj/ies-hotsoon-draft/faceu/"
-"Commercial_Material_User_Agreement_Cn.html了解详情"
+"This material/template is a commercial use material/template, and is only "
+"for personal and small and micro enterprise users on the Internet media "
+"platform for limited commercial use.\n"
+"If you have any questions, please check "
+"https://lf9-cdn-tos.draftstatic.com/obj/ies-hotsoon-draft/faceu/Commercial_"
+"Material_User_Agreement_Cn.html for details"
 
 msgid "tap_drag_adjust_layers"
 msgstr "Tap and drag to adjust layers"
@@ -44547,34 +44641,36 @@ msgid "target_scale_or_convert"
 msgstr "Reframe"
 
 msgid "team_edition"
-msgstr "小组版本"
+msgstr "Group version"
 
 msgid "team_exclusive_service"
-msgstr "团队专属服务"
+msgstr "Team exclusive service"
 
 msgid "team_members_has_exceeded_the_limit"
-msgstr "团队成员数已超上限"
+msgstr "The number of team members has exceeded the maximum limit"
 
 msgid "team_template_cooperate"
-msgstr "团队模板"
+msgstr "Team templates"
 
 msgid "templane_industry"
-msgstr "行业模板"
+msgstr "Industry templates"
 
 msgid "template"
 msgstr "Templates"
 
 msgid "templane_industry_ae"
-msgstr "行业模板[AE]"
+msgstr "Industry template[AE]"
 
 msgid "template_ae"
-msgstr "模板[AE]"
+msgstr "Template[AE]"
 
 msgid "ae_not_allow_adjust_material"
-msgstr "不允许调整AE模板哦"
+msgstr "AE template is not allowed"
 
 msgid "duration_not_allow_exceed_original_duration"
-msgstr "草稿时长超过AE模版原始时长，请检查音乐长度"
+msgstr ""
+"The draft duration exceeds the original AE template, please check the music "
+"length"
 
 msgid "template_draft"
 msgstr "Templates"
@@ -44591,7 +44687,7 @@ msgstr ""
 "unlocked again."
 
 msgid "template_not_support"
-msgstr "此文字模板不支持该操作"
+msgstr "This text template does not support this operation"
 
 msgid "template_not_supported_open_mobile"
 msgstr "Template drafts are not supported yet, please open them on the mobile end"
@@ -44617,10 +44713,16 @@ msgid "template_used_more_rerecognize_n"
 msgstr "Users can replace the template sound with their own."
 
 msgid "templates_reached_go_to_app_open_collaboration_version"
-msgstr "当前小组协作版模版数量已达上限，建议您前往剪映app了解企业版，享受更多品牌资源"
+msgstr ""
+"The current number of group collaboration version templates has reached the "
+"upper limit. It is recommended that you go to Jianying app to learn about "
+"the enterprise version and enjoy more brand resources."
 
 msgid "templates_reached_upper_limit_learn_enterprise_version"
-msgstr "当前小组协作版模版数量已达上限，建议您了解剪映企业版，享受更多品牌资源"
+msgstr ""
+"The current number of group collaboration version templates has reached the "
+"upper limit. It is recommended that you learn about the Jianying Enterprise "
+"Edition and enjoy more brand resources."
 
 msgid "ten_on_page"
 msgstr "none"
@@ -44692,7 +44794,7 @@ msgid "text_reading_completed"
 msgstr "Text reading completed"
 
 msgid "text_reading_is_updating"
-msgstr "文本朗读更新中"
+msgstr "Text reading is being updated"
 
 msgid "text_reading_is_updating_duplicate"
 msgstr "Updating audio..."
@@ -44725,7 +44827,10 @@ msgid "thai_pc"
 msgstr "Thai"
 
 msgid "thank_you_feedback_submitting_search_terms"
-msgstr "感谢你的反馈，提交后我们将会记录你的搜索词和结果排序，相关信息仅用于搜索服务质量的提升，我们会按照"
+msgstr ""
+"Thank you for your feedback. After submission, we will record your search "
+"terms and results sorting. The relevant information is only used to improve "
+"the quality of search services. We will follow"
 
 msgid "thanks_for_your_feedback,_we_will_deal_with_it_as_soon_as_possible"
 msgstr "Thanks for your feedback. We'll deal with it as soon as possible."
@@ -44740,7 +44845,9 @@ msgid "the_clip_is_too_short_to_add_animation"
 msgstr "The clip is too short to add animation"
 
 msgid "the_clipping_version_of_the_target_device_lowe"
-msgstr "接收设备剪映版本较低，当前草稿需要更高剪映版本才可接收"
+msgstr ""
+"The receiving device has a lower cut version, and the current draft "
+"requires a higher cut version to be received."
 
 msgid "the_content_contains_sensitive_words_please_revise_and_publish"
 msgstr "none"
@@ -44764,10 +44871,14 @@ msgid "the_following_fonts_were_not_found_the_effect"
 msgstr "Couldn't find font. Effect will be lost. %s"
 
 msgid "the_function_of_shooting_together_enabl_microphone_and_camera"
-msgstr "一起拍功能需要开启麦克风、摄像头权限。请进入“系统偏好设置”>“安全性与隐私”>“隐私”，授权“剪映专业版”的麦克风和摄像头权限。"
+msgstr ""
+"The shooting together requires enabling the microphone and camera "
+"permissions. Please go to \"System Preferences\" > \"Security and Privacy\" "
+"> \"Privacy\" to authorize \"Chengying Professional Edition\" microphone "
+"and camera permissions."
 
 msgid "the_initiator_is_offline_next_recording_controlled_by_you"
-msgstr "发起人已离线，接下来的录制将由你控制"
+msgstr "The initiator is offline, and the next recording will be controlled by you"
 
 msgid "the_locked_subject_disappears_please_select_again"
 msgstr "Tracking subject is lost. Try tracking from current frame."
@@ -44776,7 +44887,7 @@ msgid "the_main_subtitle_cannot_modify"
 msgstr "Couldn’t change language of the subtitle"
 
 msgid "the_material_contains_legal_risks"
-msgstr "素材含法律风险"
+msgstr "Material contains legal risks"
 
 msgid "the_material_could_not_be_downloaded"
 msgstr "Couldn't download material"
@@ -44920,7 +45031,7 @@ msgid "time_same"
 msgstr "Duration"
 
 msgid "timeline_empty,please_add_segment_and_try_again"
-msgstr "时间线上没有片段时将无法审阅，请添加一些片段后再尝试。"
+msgstr "If there are no clips on the timeline, please add some clips before trying."
 
 msgid "timeline_scrolls_left_and_right"
 msgstr "Timeline scrolls left and right"
@@ -44952,7 +45063,9 @@ msgid "tip_duplicate"
 msgstr "Tips"
 
 msgid "tip_vip_entry_upper_editor_management"
-msgstr "提示：可回到编辑器右上角VIP入口进行管理"
+msgstr ""
+"Tip: You can go back to the VIP portal in the upper right corner of the "
+"editor for management"
 
 msgid "title"
 msgstr "Title of work"
@@ -44961,7 +45074,7 @@ msgid "title_of_work"
 msgstr "Title of work"
 
 msgid "title_pc"
-msgstr "标题"
+msgstr "title"
 
 msgid "title_pc_duplicate"
 msgstr "Title"
@@ -44976,7 +45089,7 @@ msgid "title_settings"
 msgstr "Name"
 
 msgid "to_authorize"
-msgstr "去授权"
+msgstr "Go to authorization"
 
 msgid "to_clip"
 msgstr "Edit"
@@ -44985,10 +45098,10 @@ msgid "to_cut_pc"
 msgstr "Cut"
 
 msgid "to_interrupt_transfer"
-msgstr "中断"
+msgstr "Interrupt"
 
 msgid "to_log_in"
-msgstr "去登陆"
+msgstr "Go and log in"
 
 msgid "to_open"
 msgstr "Turn on"
@@ -45012,7 +45125,7 @@ msgid "to_upgrade"
 msgstr "Upgrade"
 
 msgid "to_use"
-msgstr "去使用"
+msgstr "Go to use"
 
 msgid "today_ai_text"
 msgstr "The number of smart copywriting today has run out"
@@ -45030,7 +45143,7 @@ msgid "total_cover_upload"
 msgstr "Sticker pack cover"
 
 msgid "total_length_video_not_exceed_1_hour"
-msgstr "视频总时长不超过1小时"
+msgstr "The total video duration is no more than 1 hour"
 
 msgid "total_number_of_enterprises"
 msgstr "none"
@@ -45090,13 +45203,18 @@ msgid "transcoding_p_c"
 msgstr "Transcoding..."
 
 msgid "transfer_not_again"
-msgstr "快传过程中不能再发起快传"
+msgstr ""
+"The quick transmission cannot be initiated during the quick transmission "
+"process"
 
 msgid "transfer_pause_if_still_failled_again"
-msgstr "传输失败，请确保接收设备在同一wifi下，并尝试重启接收设备剪映。如仍失败请"
+msgstr ""
+"The transmission failed. Please make sure the receiving device is under the "
+"same wifi and try to restart the receiving device clipping. If it still "
+"fails, please"
 
 msgid "transfer_pause_wifi_check"
-msgstr "传输中断，请检查是否已连接同一wifi"
+msgstr "Transmission is interrupted, please check whether the same wifi is connected"
 
 msgid "transfer_pc_n"
 msgstr "none"
@@ -45134,7 +45252,7 @@ msgid "transparency"
 msgstr "Opacity"
 
 msgid "trapezoidal_pc"
-msgstr "梯形"
+msgstr "Trapezoidal"
 
 msgid "trending_filters"
 msgstr "😈 Videos with trending filters"
@@ -45146,7 +45264,7 @@ msgid "trending_search_n"
 msgstr "Trending"
 
 msgid "triangle_pc"
-msgstr "三角形"
+msgstr "triangle"
 
 msgid "trim_audio"
 msgstr "Trim audio"
@@ -45158,7 +45276,7 @@ msgid "trim_video"
 msgstr "Trim video"
 
 msgid "try_again_pc"
-msgstr "重试"
+msgstr "Try again"
 
 msgid "try_ai_text"
 msgstr "Try AI writer"
@@ -45173,13 +45291,13 @@ msgid "try_desktop"
 msgstr "Try it out on your desktop."
 
 msgid "try_it_with_a_sample_video"
-msgstr "试试一起看示例视频"
+msgstr "Try watching the sample video together"
 
 msgid "try_new_effect"
 msgstr "Try the new camera tracking feature"
 
 msgid "try_sample_text_first"
-msgstr "先用示例文字试试吧："
+msgstr "Let's try it with example text first:"
 
 msgid "try_sample_text_first_duplicate"
 msgstr "Apply"
@@ -45208,7 +45326,7 @@ msgid "tt_sign_in"
 msgstr "Sign in with TikTok"
 
 msgid "ttotal_number_of_watched_videos_not_exceed_10"
-msgstr "观看视频总数不超过10个"
+msgstr "The total number of videos to watch shall not exceed 10"
 
 msgid "tts_anxious_name_style"
 msgstr "none"
@@ -45238,7 +45356,7 @@ msgid "tts_news_name_style"
 msgstr "none"
 
 msgid "tts_shy_name_style"
-msgstr "害羞"
+msgstr "shy"
 
 msgid "turkish_pc"
 msgstr "Turkish"
@@ -45256,7 +45374,7 @@ msgid "turn_on_auto-snap"
 msgstr "Turn on auto snapping"
 
 msgid "turn_on_off_auto-snap"
-msgstr "打开/关闭自动吸附"
+msgstr "Turn on/off automatic adsorption"
 
 msgid "turn_on_sound"
 msgstr "Unmute clip audio"
@@ -45289,16 +45407,20 @@ msgid "type_of_pc"
 msgstr "Type"
 
 msgid "typo_you_made_big_typo"
-msgstr "你打错字了！你才大错字了"
+msgstr "You typed a typo! You're a big typo"
 
 msgid "ugc_editor"
 msgstr "by HEYCAN creator: %s"
 
 msgid "unable_expansion"
-msgstr "您的团队人数已经达到%1人，无法继续扩容，推荐您了解企业版"
+msgstr ""
+"Your team has reached 1% and cannot continue to expand. We recommend you to "
+"understand the enterprise version"
 
 msgid "unable_expansion_pc"
-msgstr "您的团队人数已达%1人，无法继续扩容，推荐您了解企业版。"
+msgstr ""
+"Your team has reached 1% and cannot continue to expand. We recommend you to "
+"understand the Enterprise Edition."
 
 msgid "unable_sync_sounds"
 msgstr ""
@@ -45306,7 +45428,7 @@ msgstr ""
 "Favorites and try again."
 
 msgid "uncollect_material"
-msgstr "取消收藏"
+msgstr "Cancel Favorites"
 
 msgid "uncommercial_material_detected"
 msgstr "Non-commercial materials detected"
@@ -45333,7 +45455,7 @@ msgid "undo"
 msgstr "undo"
 
 msgid "undo_added_script"
-msgstr "撤销添加字幕"
+msgstr "Undo Add Subtitles"
 
 msgid "undo_body_clean"
 msgstr "Undo: Clear camera tracking"
@@ -45363,7 +45485,7 @@ msgid "unknow_error"
 msgstr "Unknown error"
 
 msgid "unknown_error_occurred,_please_try_again"
-msgstr "发生未知错误，请重试"
+msgstr "An unknown error occurred, please try again"
 
 msgid "unknown_error_occurred_please_try_again_duplicate"
 msgstr "Something went wrong. Try again later."
@@ -45393,7 +45515,7 @@ msgid "unlock_all_pro_materials"
 msgstr "Unlock all Pro materials"
 
 msgid "unlock_compound_clip_draft"
-msgstr "解除复合片段/解锁草稿"
+msgstr "Uncompound fragment/unlock draft"
 
 msgid "unlock_draft_expired"
 msgstr "Unlock draft · Expired"
@@ -45426,7 +45548,7 @@ msgid "up_to_percent_one_uploads_are_supported"
 msgstr "none"
 
 msgid "up_to_x"
-msgstr "上限X个"
+msgstr "Up to X numbers"
 
 msgid "up_to_{X}"
 msgstr "{X} uploaded, {X} at least, up to {X}"
@@ -45441,7 +45563,7 @@ msgid "update_subtitle"
 msgstr "Update"
 
 msgid "update_vip_multi_termnal_universal"
-msgstr "升级会员，多端通用"
+msgstr "Upgrade membership, multi-terminal and universal"
 
 msgid "upgrade"
 msgstr "Update"
@@ -45450,7 +45572,7 @@ msgid "upgrade_01"
 msgstr "Upgrade"
 
 msgid "upgrade__immediately"
-msgstr "立即升级"
+msgstr "Upgrade now"
 
 msgid "upgrade_ao_video_efficiency"
 msgstr "Graphics into a new upgrade, AI to help you generate video, more efficient!"
@@ -45459,10 +45581,14 @@ msgid "upgrade_detai"
 msgstr "Upload details: %1/%2 (%3%) | %4 remaining"
 
 msgid "upgrade_expansion_app"
-msgstr "协作版已达到人数上限，请到移动端升级扩容人数。"
+msgstr ""
+"The collaborative version has reached the maximum number of people, please "
+"go to the mobile terminal to upgrade and expand the number of people."
 
 msgid "upgrade_expansion_invite"
-msgstr "协作版已达到人数上限，您可以升级人数后，再进行组员邀请"
+msgstr ""
+"The collaborative version has reached the maximum number of people. You can "
+"upgrade the number of people and then invite the group members."
 
 msgid "upgrade_package"
 msgstr "Upgrade"
@@ -45474,7 +45600,7 @@ msgid "upgrade_pc_cloud_n"
 msgstr "Update"
 
 msgid "upgrade_pro_and"
-msgstr "升级"
+msgstr "upgrade"
 
 msgid "upgrade_to_pro"
 msgstr "Join CapCut Pro"
@@ -45510,7 +45636,7 @@ msgid "upload_draft_n"
 msgstr "none"
 
 msgid "upload_error,please"
-msgstr "视频上传失败，请"
+msgstr "Video upload failed, please"
 
 msgid "upload_failed"
 msgstr "Couldn't upload"
@@ -45519,7 +45645,7 @@ msgid "upload_failed_pc_n"
 msgstr "Couldn’t upload."
 
 msgid "upload_finish,go_share!"
-msgstr "上传完成，发起审阅！"
+msgstr "Upload is completed and review is initiated!"
 
 msgid "upload_here"
 msgstr "Upload"
@@ -45531,7 +45657,7 @@ msgid "upload_material"
 msgstr "Upload material"
 
 msgid "upload_material_and_use_it_anytime,_anywhere."
-msgstr "上传素材，随时随地使用。"
+msgstr "Upload materials and use them anytime, anywhere."
 
 msgid "upload_modif_cloud"
 msgstr "Update your project in space?"
@@ -45543,15 +45669,16 @@ msgid "upload_permission_ye_contact_team_administrator"
 msgstr "You don’t have access to upload. Contact the space administrator."
 
 msgid "upload_review"
-msgstr "上传审阅"
+msgstr "Upload and review"
 
 msgid "upload_review_agreem_tips"
 msgstr ""
-"*拥有者需对链接内信息的合法合规性负责，具体说明请查看<a href='capcut://userAgreem' "
+"*Owners are responsible for the legality and compliance of the information "
+"in the link. Please see <a href='capcut://userAgreem' "
 "style='color:#00C1CD;text-decoration:none;font-style:normal'\n"
-">用户协议</a> & <a href='capcut://PrivacyAgreement' "
+">User Agreement</a> & <a href='capcut://PrivacyAgreement' "
 "style='color:#00C1CD;text-decoration:none;font-style:normal'\n"
-">隐私条款</a>。"
+">Privacy Terms</a>."
 
 msgid "upload_screenshot"
 msgstr "Upload screenshots"
@@ -45560,7 +45687,7 @@ msgid "upload_screenshots"
 msgstr "Upload screenshots"
 
 msgid "upload_server,quick review"
-msgstr "上传云端，快速发起审阅"
+msgstr "Upload to the cloud and initiate review quickly"
 
 msgid "upload_stickers_pc"
 msgstr "Post"
@@ -45584,10 +45711,12 @@ msgid "uploaded_to_s"
 msgstr "Upload to %s"
 
 msgid "uploading"
-msgstr "正在上传"
+msgstr "Uploading"
 
 msgid "uploading_draft_cannot_connect"
-msgstr "%1正在快传草稿，无法建立连接，请稍后再试"
+msgstr ""
+"%1 is quickly passing the draft, and the connection cannot be established. "
+"Please try again later"
 
 msgid "uploading_p_c"
 msgstr "Uploading..."
@@ -45617,7 +45746,7 @@ msgid "use_curve_speed_remove_video_marker"
 msgstr "Beat markers will be deleted."
 
 msgid "use_ed"
-msgstr "- 已使用"
+msgstr "- Used"
 
 msgid "use_material_not_available"
 msgstr ""
@@ -45653,7 +45782,7 @@ msgid "user_confirmation_pc"
 msgstr "Delete account?"
 
 msgid "user_experience_improvement_program"
-msgstr "用户体验改进计划"
+msgstr "User experience improvement plan"
 
 msgid "user_if_you_logout_pc"
 msgstr "If you delete your account:"
@@ -45694,7 +45823,7 @@ msgid "vague"
 msgstr "Blur"
 
 msgid "validity_time"
-msgstr "有效期至%1"
+msgstr "Valid to %1"
 
 msgid "variable_speed"
 msgstr "Speed"
@@ -45760,13 +45889,15 @@ msgid "verion_too_low_upgrade_try_again"
 msgstr "Update CapCut to the latest version to use AI writer"
 
 msgid "verion_too_low_upgrade_try_again_jianying"
-msgstr "剪映版本过低，请升级后重试"
+msgstr "The cut screen version is too low, please upgrade and try again"
 
 msgid "version"
 msgstr "Version"
 
 msgid "version_low_some_draft_need_update_version"
-msgstr "接收设备剪映版本较低，部分草稿需要更高剪映版本才可接收"
+msgstr ""
+"The receiving device has a lower cut version, and some drafts require a "
+"higher cut version to be received."
 
 msgid "version_number"
 msgstr "Version"
@@ -45820,10 +45951,10 @@ msgid "video_clips_not_same_level_adjusted"
 msgstr "Videos are not at the same layer. Adjust to the same layer?"
 
 msgid "video_compile_error,please"
-msgstr "视频合成失败，请"
+msgstr "Video synthesis failed, please"
 
 msgid "video_compiling"
-msgstr "视频合成中"
+msgstr "Video synthesis"
 
 msgid "video_editing_teacher_v2"
 msgstr "Video editing teacher"
@@ -45835,13 +45966,13 @@ msgid "video_export_failed_and_contact"
 msgstr "Couldn’t export video. Contact us at %2. (Error code: %1)"
 
 msgid "video_export_resize"
-msgstr "视频导出"
+msgstr "Video export"
 
 msgid "video_exported_to_local_publish"
 msgstr "Video is saved to your desktop or laptop. You can share it now."
 
 msgid "video_footage_will_be_uploaded_to_the_host"
-msgstr "视频素材将上传给主持人"
+msgstr "Video material will be uploaded to the host"
 
 msgid "video_frame"
 msgstr "Select from video"
@@ -45850,19 +45981,19 @@ msgid "video_frame_pc"
 msgstr "Video frame"
 
 msgid "video_generat_ing"
-msgstr "视频生成中%1%"
+msgstr "%1% in video generation"
 
 msgid "video_generat_ing_duplicate"
 msgstr "Generating %1%%"
 
 msgid "video_generating"
-msgstr "视频生成中"
+msgstr "Video generation"
 
 msgid "video_generating_duplicate"
 msgstr "Generating..."
 
 msgid "video_generation_failed"
-msgstr "视频生成失败"
+msgstr "Video generation failed"
 
 msgid "video_generation_failed_duplicate"
 msgstr "Couldn’t generate video"
@@ -45880,7 +46011,7 @@ msgid "video_material_n"
 msgstr "Video"
 
 msgid "video_material_transmission"
-msgstr "视频素材传输中"
+msgstr "Video material is being transmitted"
 
 msgid "video_playlist"
 msgstr "Playlist"
@@ -45910,13 +46041,13 @@ msgid "video_type"
 msgstr "Category"
 
 msgid "video_upload_failed"
-msgstr "视频上传失败"
+msgstr "Video upload failed"
 
 msgid "video_uploaded_successfully"
-msgstr "视频上传成功"
+msgstr "Video upload successfully"
 
 msgid "video_uploading_pc"
-msgstr "视频上传中"
+msgstr "Video uploading"
 
 msgid "video_usage_for_today_limit"
 msgstr ""
@@ -45933,10 +46064,10 @@ msgid "view_commercial_copyright"
 msgstr "View"
 
 msgid "view_help_transfer"
-msgstr "查看帮助"
+msgstr "View Help"
 
 msgid "view_privilege"
-msgstr "查看权益"
+msgstr "View the benefits"
 
 msgid "view_published_material"
 msgstr "View posted materials"
@@ -45951,7 +46082,7 @@ msgid "vignetting"
 msgstr "Vignette"
 
 msgid "vip_audio_changed"
-msgstr "会员变声"
+msgstr "Member voice change"
 
 msgid "vip_free"
 msgstr "VIP Free"
@@ -45969,13 +46100,13 @@ msgid "vip_material_picture"
 msgstr "Image"
 
 msgid "vip_material_text_light"
-msgstr "文字发光"
+msgstr "Text glows"
 
 msgid "vip_material_video"
 msgstr "Video"
 
 msgid "vip_material_voice_effect"
-msgstr "会员音效"
+msgstr "Member sound effects"
 
 msgid "vip_only_template"
 msgstr "CapCut Pro templates"
@@ -45986,10 +46117,12 @@ msgstr ""
 "CapCut Pro to open template?"
 
 msgid "vip_text_to_speech"
-msgstr "会员文本朗读"
+msgstr "Read the member text"
 
 msgid "vip_tips_and_guide_to_my_cloud_space"
-msgstr "剪映VIP全新上线，原云空间套餐可至「我的云空间」页面查看。"
+msgstr ""
+"Jianying VIP is newly launched, and the original cloud space package can be "
+"viewed at the \"My Cloud Space\" page."
 
 msgid "vip_unlock_expired"
 msgstr "Member Unlocked · Expired"
@@ -45998,10 +46131,10 @@ msgid "vip_unlock_template"
 msgstr "Member Unlock"
 
 msgid "visit_password:xxxx"
-msgstr "访问密码：%1"
+msgstr "Access password: %1"
 
 msgid "visit_review"
-msgstr "查看审阅"
+msgstr "View review"
 
 msgid "vlog_pc"
 msgstr "Vlog"
@@ -46495,22 +46628,24 @@ msgid "w_pc_n"
 msgstr "W"
 
 msgid "waiting_for_the_other_party_to_upload"
-msgstr "等待对方上传"
+msgstr "Wait for the other party to upload"
 
 msgid "waiting_to_start"
-msgstr "等待开始"
+msgstr "Wait for the start"
 
 msgid "waiting_transfer"
-msgstr "等待中…"
+msgstr "Waiting..."
 
 msgid "want_co_production_end_upload"
-msgstr "要结束此次合拍录制吗，结束后，请上传素材，我们将为你合成视频"
+msgstr ""
+"Do you want to end this joint recording? After the end, please upload the "
+"material and we will synthesize the video for you"
 
 msgid "want_delete_files_in_folder"
 msgstr "This action cannot be undone."
 
 msgid "want_to_join_the_current_company"
-msgstr "【%1】是否加入当前企业？"
+msgstr "【%1】Are you joining the current company?"
 
 msgid "warm_white"
 msgstr "Warm white"
@@ -46564,58 +46699,63 @@ msgid "web_recyclebin_toast_move_to_trash"
 msgstr "Delete {placeholder0}?"
 
 msgid "web_review"
-msgstr "审阅"
+msgstr "Review"
 
 msgid "web_search_user"
 msgstr "Web search"
 
 msgid "web_shorts_tittle_clip_shorts_one_cn"
-msgstr "AI切片"
+msgstr "AI slices"
 
 msgid "web_shorts_toast_completed_cn"
-msgstr "完成"
+msgstr "Finish"
 
 msgid "web_shorts_toast_failure_cn"
-msgstr "失败"
+msgstr "fail"
 
 msgid "web_shorts_toast_processing_numberx_cn"
-msgstr "生成中"
+msgstr "Generating"
 
 msgid "web_shorts_toast_processing_percentage_cn"
 msgstr "{number}%"
 
 msgid "web_shorts_toast_uploading_numberx_cn"
-msgstr "上传中"
+msgstr "Uploading"
 
 msgid "web_size"
 msgstr "Size"
 
 msgid "weblink_downloade_open"
-msgstr "打开草稿"
+msgstr "Open the draft"
 
 msgid "weblink_downloade_open_error"
-msgstr "已有打开的草稿，请先关闭此草稿"
+msgstr "There is an open draft, please close this draft first"
 
 msgid "weblink_downloade_seccess"
-msgstr "草稿“%1”下载完成"
+msgstr "Draft \"%1\" download completed"
 
 msgid "weblink_downloade_seccess_desc"
-msgstr "你可以在本地草稿中查看并打开该草稿"
+msgstr "You can view and open the draft in the local draft"
 
 msgid "weblink_gotit"
-msgstr "知道了"
+msgstr "knew"
 
 msgid "weblink_login_toast"
-msgstr "需要先登录账号"
+msgstr "Need to log in to your account first"
 
 msgid "weblink_user_inconsistent"
-msgstr "登录用户不一致"
+msgstr "Login users are inconsistent"
 
 msgid "weblink_user_inconsistent_desc1"
-msgstr "剪映专业版当前登录的用户与网页端操作用户不一致，请先切换成网页端操作的用户。"
+msgstr ""
+"The currently logged-in user of Jianying Professional Edition is "
+"inconsistent with the web-side operation user. Please switch to the "
+"web-side operation user first."
 
 msgid "weblink_user_inconsistent_desc2"
-msgstr "剪映专业版当前登录账号与网页端不一致，请先前往工作台切换账号。"
+msgstr ""
+"The current login account of Jianying Professional Edition is inconsistent "
+"with the web page. Please go to the workbench to switch the account first."
 
 msgid "what_feel_like_doing"
 msgstr "What do you feel like doing?"
@@ -46717,19 +46857,19 @@ msgid "word_animation_move_here"
 msgstr "The subtitle animation has moved here"
 
 msgid "word_count_exceeds_limit"
-msgstr "字数超过限制"
+msgstr "Word count exceeds limit"
 
 msgid "word_count_exceeds_limit_duplicate"
 msgstr "Character limit reached"
 
 msgid "word_count_too_long"
-msgstr "字数过长"
+msgstr "Too long words"
 
 msgid "word_count_too_long_duplicate"
 msgstr "Character limit reached"
 
 msgid "word_getting"
-msgstr "文字获取中"
+msgstr "Text acquisition"
 
 msgid "word_spacing_pc_ugc"
 msgstr "Character spacing"
@@ -46785,10 +46925,10 @@ msgid "x_stickers_pc"
 msgstr "X sticker"
 
 msgid "xieyimingcheng_muban"
-msgstr "《“剪映”素材/模板使用许可协议》"
+msgstr "\"\"Chengying\" material/template use license agreement\""
 
 msgid "yamane"
-msgstr "山根"
+msgstr "Mountain"
 
 msgid "yellow_character_dark_brown_shadow"
 msgstr "Yellow character dark brown shadow"
@@ -46815,7 +46955,7 @@ msgid "you_havenot_uploaded_fonts_yet"
 msgstr "You haven’t imported any font yet"
 
 msgid "you_made_typo_you_just_made_typo"
-msgstr "你写错字了！你才些错字了"
+msgstr "You wrote a wrong word! You've just gotten some typos"
 
 msgid "you_nolonger_login"
 msgstr ""
@@ -46872,66 +47012,70 @@ msgid "{X}_stickers_p"
 msgstr "{X} sticker"
 
 msgid "pc_publish_ae_template"
-msgstr "发布AE模板"
+msgstr "Publish AE templates"
 
 msgid "pc_delete_ae_template_experience_project"
-msgstr "删除AE模板体验草稿"
+msgstr "Delete AE template experience draft"
 
 msgid "pc_create_ae_template_experience_project"
 msgstr ""
-"创建AE模板体验草稿，\n"
-"草稿在关闭时会自动被删除"
+"Create an AE template experience draft,\n"
+"Drafts will be automatically deleted when closed"
 
 msgid "pc_select_ae_template"
-msgstr "选择AE模板"
+msgstr "Select AE template"
 
 msgid "pc_ae_template_current_version_low"
-msgstr "AE模板草稿版本过高，需要升级至专业版最新版本"
+msgstr ""
+"The draft version of AE template is too high and needs to be upgraded to "
+"the latest version of the Professional version"
 
 msgid "pc_ae_template_current_app_version_low"
-msgstr "当前软件版本较低，需要升级至专业版最新版本"
+msgstr ""
+"The current software version is low, and you need to upgrade to the latest "
+"version of the Professional version"
 
 msgid "pc_publish_as_ae_commerce"
-msgstr "发布到剪映商用平台"
+msgstr "Publish to Jianying Commercial Platform"
 
 msgid "pc_set_cur_preview_as_cover"
-msgstr "将当前预览图设置为封面"
+msgstr "Set the current preview image as cover"
 
 msgid "pc_loading_ae_template"
-msgstr "加载AE模板中"
+msgstr "Loading the AE template"
 
 msgid "pc_open_ae_template_draft_failed"
-msgstr "打开模板草稿失败"
+msgstr "Failed to open the template draft"
 
 msgid "pc_ae_init_preview_win_failed"
-msgstr "初始化预览窗口失败"
+msgstr "Initialization of preview window failed"
 
 msgid "pc_no_ae_template_draft"
-msgstr "找不到模板草稿文件"
+msgstr "Template draft file not found"
 
 msgid "pc_ae_template_unsupport_popup"
-msgstr "此草稿含AE模板，暂不支持使用"
+msgstr "This draft contains AE template and is not supported for use yet"
 
 msgid "pc_ae_templete"
 msgstr "AE"
 
 msgid "pc_need_commerce_permission"
-msgstr "需要有行业模板发布权限"
+msgstr "Need to have permission to publish industry templates"
 
 msgid "pc_analyze_ae_template_draft_failed"
-msgstr "解析AE模板草稿失败"
+msgstr "Failed to parse AE template draft"
 
 msgid "pc_template_publish_progress_type_compress_video"
-msgstr "压缩视频"
+msgstr "Compressed video"
 
 msgid "pc_template_publish_progress_type_create_zip"
-msgstr "压缩模板"
+msgstr "Compression template"
 
 msgid "pc_template_publish_progress_type_generate_video"
-msgstr "导出预览视频和封面"
+msgstr "Export preview videos and covers"
 
 msgid "pc_template_publish_progress_type_upload_resource"
-msgstr "上传资源"
+msgstr "Upload resources"
 
 msgid "pc_template_publish_progress_type_request"
-msgstr "发布请求"
+msgstr "Post a request"
