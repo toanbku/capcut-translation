@@ -1,8 +1,11 @@
 import * as fs from "fs";
 import * as path from "path";
+import * as dotenv from "dotenv";
 import gettextParser = require("gettext-parser");
 import { translate } from "@vitalets/google-translate-api";
 import { SocksProxyAgent } from "socks-proxy-agent";
+
+dotenv.config();
 
 interface TranslationItem {
   msgid: string;
@@ -117,7 +120,7 @@ async function processTranslations() {
       }
 
       // If the msgid exists in English translations, update the Chinese translation
-      if (enTranslations.has(msgid)) {
+      if (enTranslations.has(msgid) && enTranslations.get(msgid) !== "none") {
         const englishTranslation = enTranslations.get(msgid)!;
         if (item.msgstr[0] !== englishTranslation) {
           console.log(`[${progress}%] Updated from English: ${msgid}`);

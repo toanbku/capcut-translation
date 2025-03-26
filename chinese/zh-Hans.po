@@ -53,16 +53,16 @@ msgid "Jian_yingyun"
 msgstr "CapCut Cloud Space"
 
 msgid "Jianying_PC_phone_AIbind"
-msgstr "none"
+msgstr "Please bind your mobile phone number and use it"
 
 msgid "Jianying_PC_phonechange"
-msgstr "none"
+msgstr "Change the mobile phone number"
 
 msgid "Jianying_PC_phonechange_quit"
-msgstr "none"
+msgstr "Cancel the binding"
 
 msgid "Jianying_PC_phonemanage"
-msgstr "none"
+msgstr "Mobile phone number management"
 
 msgid "Mono_configuration_unsupport"
 msgstr "Mono material does not require channel configuration"
@@ -343,7 +343,9 @@ msgid "after_clicking_current_effect_material"
 msgstr "Tracking again will clear current effects. Do you want to track again?"
 
 msgid "after_confirming_switch_draft_saved_new_draft_generated_open"
-msgstr "none"
+msgstr ""
+"After confirming the switch, this draft will be saved and a new draft will "
+"be generated."
 
 msgid "after_copying_the_password_successfully_clip_cc"
 msgstr ""
@@ -353,13 +355,16 @@ msgstr ""
 msgid ""
 "after_it_expires_you_lose_access_corporate_identity_enterprise_"
 "administrator_requested_renew_fee_in_time_so_as_not_affect_subsequent_use"
-msgstr "none"
+msgstr ""
+"After expiration, you will not be able to access this business identity. "
+"Ask the enterprise administrator to renew the fee in a timely manner to "
+"avoid affecting subsequent use."
 
 msgid "after_logging_in_you_can_import_fonts"
 msgstr "Import font after signing in"
 
 msgid "after_logging_in_you_can_view_your_favorite_fonts"
-msgstr "none"
+msgstr "After logging in, you can view your favorite fonts"
 
 msgid "after_login_can_choose"
 msgstr "You can choose after logging in"
@@ -655,7 +660,7 @@ msgid "ai_text_recommendation"
 msgstr "Copywriting recommendation"
 
 msgid "ai_text_to_speech_moyin_tost"
-msgstr "none"
+msgstr "Audio generation failed, please replace other tones and regenerate"
 
 msgid "ai_writer_agree"
 msgstr "Allow"
@@ -990,7 +995,7 @@ msgid "are_you_sure_you_want_to_quit"
 msgstr "Are you sure to exit"
 
 msgid "are_you_sure_you_want_to_remove_the_member_will_not_be_able_to_access"
-msgstr "none"
+msgstr "Are you sure to remove it? This member will not be accessible"
 
 msgid "are_you_sure_you_want_to_stop_the_task"
 msgstr "Are you sure you want to stop the task?"
@@ -999,7 +1004,7 @@ msgid "are_you_sure_you_want_to_stop_uploading"
 msgstr "Are you sure you want to stop uploading?"
 
 msgid "are_you_sure_you_want_to_transfer_the_company"
-msgstr "none"
+msgstr "Confirm the transfer of the company?"
 
 msgid "arrangement"
 msgstr "Spacing"
@@ -1098,7 +1103,7 @@ msgid "authentication_prompt_pc"
 msgstr "Identity authentication prompts"
 
 msgid "authoring_script_n"
-msgstr "none"
+msgstr "Creating scripts"
 
 msgid "authorization_time_exceeded_clean"
 msgstr ""
@@ -1109,7 +1114,7 @@ msgid "authorize_microphone_and_camera_permissions"
 msgstr "Authorize microphone and camera permissions"
 
 msgid "authorize_pc_n"
-msgstr "none"
+msgstr "Authorization"
 
 msgid "authorize_the_camera_permission"
 msgstr ""
@@ -1383,7 +1388,7 @@ msgid "be_added_has_reached_the_upper_limit"
 msgstr "Couldn’t join more spaces."
 
 msgid "be_expired"
-msgstr "none"
+msgstr "(Expired)"
 
 msgid "be_pro_member_period"
 msgstr "You’ve been a CapCut Pro member for {num} days"
@@ -1422,7 +1427,7 @@ msgid "become_pro"
 msgstr "Join CapCut Pro"
 
 msgid "been_removed_from_percent_one_by_an_administrator"
-msgstr "none"
+msgstr "You have been moved out of %1 by the administrator"
 
 msgid "below_it_pc"
 msgstr "Bottom"
@@ -1464,10 +1469,10 @@ msgid "bind_account_button_v1"
 msgstr "Link account"
 
 msgid "bind_corporate_identity"
-msgstr "none"
+msgstr "Binding corporate identity"
 
 msgid "bind_failed"
-msgstr "none"
+msgstr "Binding failed"
 
 msgid "bind_failed_and"
 msgstr "Couldn’t link account"
@@ -1479,7 +1484,7 @@ msgid "bind_your_account_to_enjoy_more_features"
 msgstr "Link to your TikTok account to enjoy more TikTok features"
 
 msgid "binding_succeeded_pc"
-msgstr "none"
+msgstr "Binding successful"
 
 msgid "bit_rate"
 msgstr "Code rate: %5"
@@ -1707,7 +1712,7 @@ msgid "brand_name_save_failed"
 msgstr "The duplicate name preset already exists"
 
 msgid "brand_percent_one_not_support_uploading_animations_larger_twenty_mb"
-msgstr "none"
+msgstr "Brand %1 does not support uploading animations with more than 20MB"
 
 msgid "brand_percent_one_not_support_uploading_images_larger_hundred_million_pixels"
 msgstr "Can’t upload images over 100 million pixels to the brand kit %1"
@@ -2741,7 +2746,7 @@ msgid "clear_new"
 msgstr "Clear"
 
 msgid "clear_removed_material"
-msgstr "none"
+msgstr "Clear and remove materials"
 
 msgid "clear_the_snippet"
 msgstr "Remove"
@@ -2963,7 +2968,7 @@ msgid "collection_stickers_pc_etc"
 msgstr "Sticker pack"
 
 msgid "collection_success"
-msgstr "none"
+msgstr "Successfully collected"
 
 msgid "collection_title_pc"
 msgstr "Name"
@@ -3095,7 +3100,7 @@ msgid "common_location"
 msgstr "Common location"
 
 msgid "company_already_bound"
-msgstr "none"
+msgstr "This enterprise has been bound"
 
 msgid "company_has_expired_joining_failed"
 msgstr "The company has expired, but failed to join"
@@ -3171,7 +3176,7 @@ msgid "confirm_todelete"
 msgstr "Confirm to delete"
 
 msgid "confirm_toggle_search"
-msgstr "none"
+msgstr "Confirm to switch"
 
 msgid "congratulations_01"
 msgstr "Congratulations!"
@@ -3199,7 +3204,7 @@ msgid "contains_not_support_download_draft"
 msgstr "Unsupported projects"
 
 msgid "contains_percent_one_d_assets_not_for_commercial_use"
-msgstr "none"
+msgstr "Materials containing %1 are not commercially available"
 
 msgid "contains_xx_materials"
 msgstr "%s materials included"
@@ -3283,7 +3288,7 @@ msgid "copy_and_paste"
 msgstr "Copy/Paste"
 
 msgid "copy_copy_successfully"
-msgstr "none"
+msgstr "Copy copy successfully"
 
 msgid "copy_draft"
 msgstr "Duplicate"
@@ -3307,7 +3312,7 @@ msgid "copy_successfully"
 msgstr "Copied"
 
 msgid "copy_text_pc"
-msgstr "none"
+msgstr "Copy the copy"
 
 msgid "copy_this_password_cc_cloud"
 msgstr ""
@@ -3324,7 +3329,7 @@ msgid "copy_url"
 msgstr "Copy the link"
 
 msgid "copyright_alert"
-msgstr "none"
+msgstr "Copyright reminder"
 
 msgid "copyright_cannot_synchronization"
 msgstr "Some songs may not be shown due to copyright issues"
@@ -3360,13 +3365,13 @@ msgid "copyright_material_expired_cleared"
 msgstr "This invalid material is removed"
 
 msgid "copyright_risk"
-msgstr "none"
+msgstr "Copyright Risk"
 
 msgid "copywriting_is_being_generate"
 msgstr "Generating..."
 
 msgid "corporate_announcements"
-msgstr "none"
+msgstr "Corporate Announcement"
 
 msgid "corporate_identity_information_enterprise_version"
 msgstr ""
@@ -3374,7 +3379,7 @@ msgstr ""
 "Chuangying Enterprise Edition"
 
 msgid "corporate_member_pc"
-msgstr "none"
+msgstr "Corporate Members"
 
 msgid "couldnot_locate"
 msgstr "Couldn’t locate"
@@ -3446,7 +3451,7 @@ msgid "creator_p"
 msgstr "Creator"
 
 msgid "creator_pc_n"
-msgstr "none"
+msgstr "Creator"
 
 msgid "creator_permissions_company_resigning"
 msgstr ""
@@ -3478,7 +3483,9 @@ msgid "current_cloud_not_upgrade"
 msgstr "Couldn’t upgrade this space"
 
 msgid "current_company_full_please_contact_company_administrator"
-msgstr "none"
+msgstr ""
+"The current number of employees in the enterprise is full, please contact "
+"the enterprise administrator to handle it"
 
 msgid "current_content_not_in_the_export_area_will_not_exported"
 msgstr ""
@@ -3614,7 +3621,7 @@ msgid "cut_same_paragraph_loading"
 msgstr "Loading..."
 
 msgid "cut_same_style_has_expired"
-msgstr "none"
+msgstr "The template has expired"
 
 msgid "cut_the_same_style"
 msgstr "Cut the same style"
@@ -4457,7 +4464,9 @@ msgid "enjoying_cc"
 msgstr "Enjoying CapCut?"
 
 msgid "ensure_uniformity_video_editing_effects_set_colors_fonts_effect_presets"
-msgstr "none"
+msgstr ""
+"Ensure the uniformity of video editing effects and easily set colors, "
+"fonts, and effect presets"
 
 msgid "enter_copy_information"
 msgstr "Enter text"
@@ -4466,7 +4475,7 @@ msgid "enter_link_n"
 msgstr "Enter link"
 
 msgid "enter_p_c"
-msgstr "none"
+msgstr "enter"
 
 msgid "enter_text"
 msgstr "Enter text..."
@@ -4484,19 +4493,19 @@ msgid "enter_your_product_sell_mobile"
 msgstr "Please enter the selling point, e.g. fast drying, low noise"
 
 msgid "enterprise_edition"
-msgstr "none"
+msgstr "Enterprise Edition"
 
 msgid "enterprise_edition_expiration_reminder"
-msgstr "none"
+msgstr "Corporate version expiration reminder"
 
 msgid "enterprise_edition_service_agreement"
-msgstr "none"
+msgstr "Enterprise version service agreement"
 
 msgid "enterprise_id_percent_one"
-msgstr "none"
+msgstr "Enterprise ID: %1"
 
 msgid "enterprise_material"
-msgstr "none"
+msgstr "Corporate material"
 
 msgid "entertainment_sports_game"
 msgstr "🎮 Gaming / Entertainment / Sports"
@@ -4630,7 +4639,7 @@ msgid "expires_on_v1"
 msgstr "Expires on {date}"
 
 msgid "expiring_pc_n"
-msgstr "none"
+msgstr "Expiration is coming"
 
 msgid "explanatory_copy"
 msgstr "Let us provide a personalized experience for you."
@@ -4778,7 +4787,7 @@ msgstr ""
 "system, or contact us at %2. (Error code: %1.)"
 
 msgid "failed_publish_announcement_no_permission_for_now"
-msgstr "none"
+msgstr "Announcement failed, no permissions yet"
 
 msgid "failed_restore_rights"
 msgstr "Couldn’t restore purchase"
@@ -4790,7 +4799,7 @@ msgid "failed_to_delete"
 msgstr "Couldn't delete. Try again."
 
 msgid "failed_to_get_the_path_click_retry"
-msgstr "none"
+msgstr "Failed to get the path, click to try again"
 
 msgid "failed_to_import_fonts"
 msgstr "Couldn't import font"
@@ -4832,7 +4841,7 @@ msgid "faster_speed_resize"
 msgstr "Fast"
 
 msgid "favorite_failed_new"
-msgstr "none"
+msgstr "Failed to bookmark"
 
 msgid "favorite_some"
 msgstr "Favorite"
@@ -4892,7 +4901,7 @@ msgid "female"
 msgstr "Female"
 
 msgid "fifty_on_page"
-msgstr "none"
+msgstr "50 items/page"
 
 msgid "figure_pc"
 msgstr "People"
@@ -5254,7 +5263,7 @@ msgid "free_edition"
 msgstr "Free version"
 
 msgid "free_for_first_time"
-msgstr "none"
+msgstr "Free for the first time"
 
 msgid "free_for_the_first_time"
 msgstr "Free for the first time"
@@ -5446,7 +5455,7 @@ msgid "getting_text"
 msgstr "%1% of text acquisition"
 
 msgid "getting_the_path_in"
-msgstr "none"
+msgstr "Get the path..."
 
 msgid "give_feedback_pc"
 msgstr "Give feedback"
@@ -5573,7 +5582,7 @@ msgid "hand"
 msgstr "Hand"
 
 msgid "handover_business"
-msgstr "none"
+msgstr "Hand over to the enterprise"
 
 msgid "hardware_system_requirements"
 msgstr "Hardware and System Requirements"
@@ -5666,7 +5675,9 @@ msgid "hot_word_white"
 msgstr "white"
 
 msgid "hover_mouse_here_and_click_switch_button_switch_identityexit_in_menu"
-msgstr "none"
+msgstr ""
+"The mouse is suspended here, click the toggle button to switch "
+"identity/exit in the menu."
 
 msgid "how_find_commercial_music_cc"
 msgstr "How to find Commercial Music in CapCut?"
@@ -5810,7 +5821,7 @@ msgid "in_the_line"
 msgstr "In the line"
 
 msgid "indiffe_tts_emotion_title"
-msgstr "none"
+msgstr "indifferent"
 
 msgid "individual_portrait_recording"
 msgstr "Save camera recording as a separate track"
@@ -5934,7 +5945,7 @@ msgid "invite_leftbutton_desktop"
 msgstr "Log in to help friends"
 
 msgid "invite_members"
-msgstr "none"
+msgstr "Invite members"
 
 msgid "invite_members_cc_pc"
 msgstr "Invite"
@@ -5964,7 +5975,7 @@ msgid "invite_you_join_user_experience_program"
 msgstr "You are invited to join the User Experience Program"
 
 msgid "invite_you_to_join"
-msgstr "none"
+msgstr "Invite you to join"
 
 msgid ""
 "invited_to_user_experience_improvement_program_experience_advance_waiting_"
@@ -6007,10 +6018,12 @@ msgid "jewelry_accessories"
 msgstr "💍 Jewelry & Accessories"
 
 msgid "jianying_login_banerror"
-msgstr "none"
+msgstr ""
+"The account has been banned due to suspected violations and is expected to "
+"be unblocked in %1"
 
 msgid "jianying_login_banerror_notime"
-msgstr "none"
+msgstr "The account has been banned due to suspected violations"
 
 msgid "jianying_preset"
 msgstr "CapCut preset"
@@ -6473,7 +6486,7 @@ msgid "jump_over_pc"
 msgstr "Skip"
 
 msgid "jump_to_pc"
-msgstr "none"
+msgstr "Jump to"
 
 msgid "kazakh_pc"
 msgstr "Kazakh"
@@ -6569,7 +6582,7 @@ msgid "last_modified_"
 msgstr "Last edited"
 
 msgid "last_modified_percent_one"
-msgstr "none"
+msgstr "Last modified: %1"
 
 msgid "launch_cc"
 msgstr "Open CapCut"
@@ -6736,7 +6749,7 @@ msgid "loading_failed_click_retry"
 msgstr "Couldn’t load. Tap to try again."
 
 msgid "loading_please_wait_a_moment"
-msgstr "none"
+msgstr "Loading, please wait a moment"
 
 msgid "loading_resize_pc"
 msgstr "Loading..."
@@ -6873,7 +6886,7 @@ msgid "long_press_key"
 msgstr "Long Press"
 
 msgid "long_press_to_add_unfavorite"
-msgstr "none"
+msgstr "Press and hold to bookmark/cancel the collection~"
 
 msgid "long_press_to_delete_fonts"
 msgstr "Press and hold to remove font"
@@ -7340,7 +7353,7 @@ msgid "material_title_tags_are_not_allowed"
 msgstr "Inaccurate material title tag"
 
 msgid "material_use_license_agreement"
-msgstr "none"
+msgstr "Material License Agreement"
 
 msgid "material_use_value_is_low"
 msgstr "Low material use value"
@@ -7377,7 +7390,7 @@ msgid "media_lost"
 msgstr "Media lost"
 
 msgid "member_distribution"
-msgstr "none"
+msgstr "Member distribution"
 
 msgid "member_edit_export_video"
 msgstr "·Corporate Members: Editable Export Videos"
@@ -7388,15 +7401,22 @@ msgstr "Member pictures and text templates"
 msgid ""
 "member_local_files_under_corporate_identity_kept_for_thrity_days_rejoin_"
 "company_be_cleaned_up"
-msgstr "none"
+msgstr ""
+"The local documents of this member under the enterprise identity will be "
+"retained for 30 days. During this period, the company draft will be "
+"re-joined and will be automatically cleaned after use for more than 30 days."
 
 msgid "member_pc_new"
-msgstr "none"
+msgstr "member"
 
 msgid ""
 "members_local_files_under_corporate_identity_kept_for_thirty_days_rejoin_"
 "company_be_cleaned_up"
-msgstr "none"
+msgstr ""
+"The local documents of this member under the enterprise status will be "
+"retained for 30 days, and will be rejoined to the enterprise during this "
+"period. The draft can be used normally and will be automatically cleaned "
+"after more than 30 days."
 
 msgid "members_space"
 msgstr "Members"
@@ -7447,7 +7467,7 @@ msgid "minimum_crop"
 msgstr "Minimum cut"
 
 msgid "minute_pc_n"
-msgstr "none"
+msgstr "minute"
 
 msgid "minute_pc_n_n"
 msgstr "%1 minute"
@@ -7629,7 +7649,9 @@ msgid "mob_filter_shelter_preset"
 msgstr "Presets"
 
 msgid "mob_group_delete_toast_only_group_delete_failed"
-msgstr "none"
+msgstr ""
+"Group cannot be deleted. You must keep at least 1 group to manage your "
+"projects, materials, etc."
 
 msgid "mob_pay_failed_load"
 msgstr "Couldn’t load"
@@ -7962,7 +7984,7 @@ msgid "name"
 msgstr "Name"
 
 msgid "name_p_c"
-msgstr "none"
+msgstr "name"
 
 msgid "name_screen_video"
 msgstr "Name"
@@ -8096,7 +8118,7 @@ msgid "nickname"
 msgstr "Nickname"
 
 msgid "no_announcement_yet_come_and_edit_it"
-msgstr "none"
+msgstr "No announcement yet, come and edit it~"
 
 msgid "no_auto_click_button"
 msgstr ""
@@ -8104,7 +8126,7 @@ msgstr ""
 "CapCut on your desktop"
 
 msgid "no_business_matching_please_check_and_try_again"
-msgstr "none"
+msgstr "The company is not matched, please check it and try again"
 
 msgid "no_change_pc"
 msgstr "None"
@@ -8116,7 +8138,7 @@ msgid "no_commitment_required_cancel"
 msgstr "You can cancel at any time"
 
 msgid "no_copyright_risk_p_c"
-msgstr "none"
+msgstr "No copyright risk yet"
 
 msgid "no_cover"
 msgstr "No cover added"
@@ -8135,7 +8157,7 @@ msgstr ""
 "the material to collect it."
 
 msgid "no_favorite_fonts"
-msgstr "none"
+msgstr "No collection of fonts"
 
 msgid "no_favorites_yet"
 msgstr "No Favorites yet"
@@ -8186,7 +8208,7 @@ msgid "no_relevant_search_results"
 msgstr "No relevant search results"
 
 msgid "no_relevant_search_results_p_c"
-msgstr "none"
+msgstr "No relevant search results"
 
 msgid "no_sequence_current_position_transition"
 msgstr "There are no continuous clips at current position. Couldn't add transition."
@@ -8210,7 +8232,7 @@ msgid "no_watermark"
 msgstr "Remove watermark"
 
 msgid "non_commercial_material"
-msgstr "none"
+msgstr "No commercial material"
 
 msgid "none"
 msgstr "None"
@@ -8339,7 +8361,7 @@ msgstr ""
 "followers"
 
 msgid "number_of_administrators"
-msgstr "none"
+msgstr "Number of administrators"
 
 msgid "number_of_characters_exceeds_limit"
 msgstr "Character limit reached"
@@ -8351,7 +8373,7 @@ msgid "number_of_group_brand_resources_exhausted"
 msgstr "The number of brand assets that you can add to the space reached the limit"
 
 msgid "number_of_people_to_be_activated"
-msgstr "none"
+msgstr "Number of people to be activated"
 
 msgid "number_words_exceeds_limit"
 msgstr ""
@@ -8385,7 +8407,7 @@ msgid "one_click_notification"
 msgstr "One-click notification"
 
 msgid "one_hour_below_audio"
-msgstr "none"
+msgstr "Only support audio below one hour"
 
 msgid "one_time_play"
 msgstr "Once"
@@ -8623,16 +8645,16 @@ msgid "package_upgrade_validity"
 msgstr "Valid period after upgrade to: %1 (%1 month + %1 day)"
 
 msgid "page_pc_new"
-msgstr "none"
+msgstr "Page"
 
 msgid "paid_draft_expired_cannot_edited"
-msgstr "none"
+msgstr "Paid drafts have expired and cannot be edited"
 
 msgid "paid_material_added"
 msgstr "Premium material added"
 
 msgid "paid_segment_selected"
-msgstr "none"
+msgstr "Paid clips selected"
 
 msgid "pannel_keyframe_add"
 msgstr "Add keyframe on keyframe panel"
@@ -8732,7 +8754,7 @@ msgid "payment_failed_n"
 msgstr "Couldn’t pay"
 
 msgid "payment_failed_pc"
-msgstr "none"
+msgstr "Payment failed"
 
 msgid "payment_methods_and"
 msgstr "Payment method"
@@ -8741,7 +8763,7 @@ msgid "payment_options_and"
 msgstr "Payment method"
 
 msgid "payment_successful_pc"
-msgstr "none"
+msgstr "Payment successfully"
 
 msgid "pc _code"
 msgstr "Code: %6"
@@ -14492,127 +14514,144 @@ msgid "pc_cloud_auto_upload"
 msgstr "Auto sync"
 
 msgid "pc_cloud_auto_upload_banner_button"
-msgstr "none"
+msgstr "Open now"
 
 msgid "pc_cloud_auto_upload_banner_cancel_text"
-msgstr "none"
+msgstr ""
+"After turning on, multi-device drafts are interconnected in real time, and "
+"the creative results are stored safely."
 
 msgid "pc_cloud_auto_upload_banner_cancel_title"
-msgstr "none"
+msgstr "Are you sure you don't turn on draft backup?"
 
 msgid "pc_cloud_auto_upload_banner_title"
-msgstr "none"
+msgstr ""
+"Drafts are encrypted and backed up in the cloud, and mobile phones and "
+"computers are connected in real time, making editing more convenient. "
+"Enable License Limited Time %1 Cloud Space"
 
 msgid "pc_cloud_auto_upload_cloud_empty_button"
-msgstr "none"
+msgstr "Open now, get limited time %1 cloud space"
 
 msgid "pc_cloud_auto_upload_cloud_empty_text"
-msgstr "none"
+msgstr ""
+"Mobile phone and computer drafts are interconnected in real time, making "
+"editing more convenient and storage safer"
 
 msgid "pc_cloud_auto_upload_cloud_empty_title"
-msgstr "none"
+msgstr "Turn on draft cloud backup and automatically save the creation results"
 
 msgid "pc_cloud_auto_upload_first_open_toast"
-msgstr "none"
+msgstr "Automatic cloud backup and cross-end draft can be viewed here"
 
 msgid "pc_cloud_auto_upload_frame_device"
-msgstr "none"
+msgstr "Backup device"
 
 msgid "pc_cloud_auto_upload_frame_device2"
 msgstr "Sync projects from"
 
 msgid "pc_cloud_auto_upload_frame_device_tag"
-msgstr "none"
+msgstr "This machine"
 
 msgid "pc_cloud_auto_upload_frame_device_text"
-msgstr "none"
+msgstr "Recent active: %1"
 
 msgid "pc_cloud_auto_upload_frame_device_titile"
-msgstr "none"
+msgstr "Select a backup device"
 
 msgid "pc_cloud_auto_upload_frame_device_titile2"
 msgstr "Sync projects from these devices"
 
 msgid "pc_cloud_auto_upload_frame_file"
-msgstr "none"
+msgstr "File size limit"
 
 msgid "pc_cloud_auto_upload_frame_file_tag1"
-msgstr "none"
+msgstr "No restrictions"
 
 msgid "pc_cloud_auto_upload_frame_file_tooltips"
-msgstr "none"
+msgstr "Only drafts in the corresponding file size will be backed up"
 
 msgid "pc_cloud_auto_upload_frame_main_button"
-msgstr "none"
+msgstr "Turn on synchronization"
 
 msgid "pc_cloud_auto_upload_frame_more"
-msgstr "none"
+msgstr "More settings"
 
 msgid "pc_cloud_auto_upload_frame_network"
-msgstr "none"
+msgstr "Network environment limitations"
 
 msgid "pc_cloud_auto_upload_frame_network_tag1"
-msgstr "none"
+msgstr "Wifi or wired network"
 
 msgid "pc_cloud_auto_upload_frame_network_tag2"
-msgstr "none"
+msgstr "Wifi or wired network and mobile phone traffic"
 
 msgid "pc_cloud_auto_upload_frame_network_tooltips"
-msgstr "none"
+msgstr "Only the draft will be backed up to the cloud in the set network environment"
 
 msgid "pc_cloud_auto_upload_frame_route"
-msgstr "none"
+msgstr "Save location"
 
 msgid "pc_cloud_auto_upload_frame_second_button"
-msgstr "none"
+msgstr "Not enabled yet"
 
 msgid "pc_cloud_auto_upload_frame_text"
-msgstr "none"
+msgstr "After opening, enjoy %1 cloud space, valid for %2 months"
 
 msgid "pc_cloud_auto_upload_frame_time"
-msgstr "none"
+msgstr "Backup range"
 
 msgid "pc_cloud_auto_upload_frame_time_tag1"
-msgstr "none"
+msgstr "Start backup from today"
 
 msgid "pc_cloud_auto_upload_frame_time_tag2"
-msgstr "none"
+msgstr "Backups started in the past 30 days"
 
 msgid "pc_cloud_auto_upload_frame_time_tag3"
-msgstr "none"
+msgstr "No time limit, backup all drafts"
 
 msgid "pc_cloud_auto_upload_frame_time_tooltips"
-msgstr "none"
+msgstr "Only drafts within the time range will be backed up"
 
 msgid "pc_cloud_auto_upload_frame_title"
-msgstr "none"
+msgstr ""
+"Automatic backup of drafts in the cloud, real-time interoperability of "
+"multiple devices"
 
 msgid "pc_cloud_auto_upload_guide_button"
-msgstr "none"
+msgstr "Open now, get limited time %1 cloud space"
 
 msgid "pc_cloud_auto_upload_guide_checkbox"
-msgstr "none"
+msgstr "Agree to enable draft cloud secure backup"
 
 msgid "pc_cloud_auto_upload_guide_picture"
-msgstr "none"
+msgstr "*The free cloud space is valid for 1 month"
 
 msgid "pc_cloud_auto_upload_guide_text"
-msgstr "none"
+msgstr ""
+"Mobile phone and computer drafts are interconnected in real time, making "
+"editing more convenient and storage safer"
 
 msgid "pc_cloud_auto_upload_guide_title"
-msgstr "none"
+msgstr "Turn on draft cloud backup and automatically save the creation results"
 
 msgid "pc_cloud_auto_upload_remind_tag"
-msgstr "none"
+msgstr "There are updates"
 
 msgid "pc_cloud_auto_upload_setting_route"
-msgstr "none"
+msgstr ""
+"Please select the default upload location for automatic backup. If you "
+"modify the original backup location, past drafts will be uploaded again."
 
 msgid "pc_cloud_auto_upload_success_text"
-msgstr "none"
+msgstr ""
+"Mobile phone and computer drafts are interconnected in real time, making "
+"editing more convenient and storage safer"
 
 msgid "pc_cloud_auto_upload_success_title"
-msgstr "none"
+msgstr ""
+"Draft cloud backup has been enabled, and you can get a limited time of %1 "
+"cloud space"
 
 msgid "pc_cloud_big_small"
 msgstr "Largest to smallest"
@@ -14630,22 +14669,24 @@ msgid "pc_cloud_check_more"
 msgstr "check the details"
 
 msgid "pc_cloud_cloud_full_banner_button"
-msgstr "none"
+msgstr "Upgrade capacity"
 
 msgid "pc_cloud_cloud_full_banner_text"
-msgstr "none"
+msgstr ""
+"The cloud space capacity will be full, files cannot be backed up, and "
+"synchronization cannot be made across devices"
 
 msgid "pc_cloud_cloud_full_text_button"
 msgstr "Upgrade"
 
 msgid "pc_cloud_cloud_full_text_button2"
-msgstr "none"
+msgstr "Renew now"
 
 msgid "pc_cloud_cloud_full_text_text"
-msgstr "none"
+msgstr "New drafts cannot be backed up and there is no cross-device synchronization"
 
 msgid "pc_cloud_cloud_full_text_title"
-msgstr "none"
+msgstr "The cloud space capacity will be full"
 
 msgid "pc_cloud_coe_storge_unused"
 msgstr "Personal cloud space %1"
@@ -14761,7 +14802,7 @@ msgid "pc_cloud_delete_n"
 msgstr "Delete space"
 
 msgid "pc_cloud_detail_freeze_text"
-msgstr "none"
+msgstr "%1, membership has expired, capacity is frozen"
 
 msgid "pc_cloud_distribute"
 msgstr "Allocated %1"
@@ -14793,43 +14834,60 @@ msgid "pc_cloud_drag_upload"
 msgstr "Drag and drop file here to upload"
 
 msgid "pc_cloud_edit_template_group_empty"
-msgstr "none"
+msgstr ""
+"There is no team template yet, you can click \"Publish Template\" in the "
+"upper right corner.\n"
+"Publish this draft as a team template and use it with team members"
 
 msgid "pc_cloud_edit_template_group_nomember"
-msgstr "none"
+msgstr "Not in the team template, can not be used"
 
 msgid "pc_cloud_edit_template_personal_tips"
-msgstr "none"
+msgstr "Can be managed in \"My Cloud Space-Personal Template\""
 
 msgid "pc_cloud_empty_open_auto"
-msgstr "none"
+msgstr ""
+"Automatic backup is enabled. After opening the cut screen on your computer "
+"or mobile phone, the draft will be automatically synchronized."
 
 msgid "pc_cloud_empty_open_auto_button"
-msgstr "none"
+msgstr "Automatic backup"
 
 msgid "pc_cloud_empty_open_auto_text"
-msgstr "none"
+msgstr ""
+"Draft backup is enabled. After opening the cut screen on your computer or "
+"mobile phone, the draft will be automatically synchronized."
 
 msgid "pc_cloud_empty_open_auto_version_low_app_text"
-msgstr "none"
+msgstr ""
+"Search for \"Sci-screen\" in the app store, download or update the latest "
+"version (%1 and above)"
 
 msgid "pc_cloud_empty_open_auto_version_low_app_text2"
-msgstr "none"
+msgstr ""
+"Mobile upgrade method: Search for \"Cutting\" in the app store, download or "
+"update the latest version (%1 and above)"
 
 msgid "pc_cloud_empty_open_auto_version_low_app_title"
-msgstr "none"
+msgstr "Mobile phone upgrade method"
 
 msgid "pc_cloud_empty_open_auto_version_low_pc_text"
-msgstr "none"
+msgstr ""
+"Open the clipping - click \"Settings\" in the upper right corner - click "
+"\"version number\""
 
 msgid "pc_cloud_empty_open_auto_version_low_pc_text2"
-msgstr "none"
+msgstr ""
+"Computer upgrade method: Open Chuangying - Click \"Settings\" in the upper "
+"right corner - Click \"version number\""
 
 msgid "pc_cloud_empty_open_auto_version_low_pc_title"
-msgstr "none"
+msgstr "Computer upgrade method"
 
 msgid "pc_cloud_empty_open_auto_version_low_title"
-msgstr "none"
+msgstr ""
+"%1 other device (%2) clipping version is detected, and automatic backup of "
+"cross-device drafts will be blocked"
 
 msgid "pc_cloud_exceed_contact_more"
 msgstr ""
@@ -14872,49 +14930,53 @@ msgid "pc_cloud_file_unavailable"
 msgstr "Couldn’t upload %1 item"
 
 msgid "pc_cloud_file_upload_click_button"
-msgstr "none"
+msgstr "Continue to edit"
 
 msgid "pc_cloud_file_upload_click_checkbox"
-msgstr "none"
+msgstr "No more prompts next time"
 
 msgid "pc_cloud_file_upload_click_new_button"
-msgstr "none"
+msgstr "Edit after download"
 
 msgid "pc_cloud_file_upload_click_new_download_button"
-msgstr "none"
+msgstr "Cancel download and edit directly"
 
 msgid "pc_cloud_file_upload_click_new_download_text"
-msgstr "none"
+msgstr "Current progress: %1"
 
 msgid "pc_cloud_file_upload_click_new_download_title"
-msgstr "none"
+msgstr "New version of cloud draft is being downloaded"
 
 msgid "pc_cloud_file_upload_click_new_second_button"
-msgstr "none"
+msgstr "Edit directly"
 
 msgid "pc_cloud_file_upload_click_new_text"
-msgstr "none"
+msgstr "There is a new version in the cloud. Will you download it and then edit it?"
 
 msgid "pc_cloud_file_upload_click_new_title"
-msgstr "none"
+msgstr "Draft updates"
 
 msgid "pc_cloud_file_upload_click_text"
-msgstr "none"
+msgstr ""
+"After continuing to edit, the draft will stop uploading. After exiting "
+"editing, the draft will be uploaded again."
 
 msgid "pc_cloud_file_upload_click_title"
-msgstr "none"
+msgstr "Draft uploading"
 
 msgid "pc_cloud_file_upload_click_toast"
-msgstr "none"
+msgstr ""
+"Cloud space upload has stopped, and the draft will be uploaded again after "
+"exiting editing."
 
 msgid "pc_cloud_file_upload_error"
-msgstr "none"
+msgstr "Anomaly uploading cloud space"
 
 msgid "pc_cloud_file_upload_wait"
-msgstr "none"
+msgstr "Wait for uploading cloud space"
 
 msgid "pc_cloud_file_uploading"
-msgstr "none"
+msgstr "Upload cloud space...%1%"
 
 msgid "pc_cloud_filter_type"
 msgstr "Filter"
@@ -15046,16 +15108,20 @@ msgstr ""
 "up a new administrator before exiting."
 
 msgid "pc_cloud_open_auto_network_setting"
-msgstr "none"
+msgstr ""
+"Your phone is set to sync only under wifi network, modify the backup "
+"settings"
 
 msgid "pc_cloud_open_auto_network_setting_button"
-msgstr "none"
+msgstr "Modify backup settings"
 
 msgid "pc_cloud_open_auto_network_setting_text"
-msgstr "none"
+msgstr "Your phone is set to sync only under wifi network."
 
 msgid "pc_cloud_open_auto_new_device"
-msgstr "none"
+msgstr ""
+"Found a new device (%1), enable automatic backup of drafts of the device, "
+"and real-time drafts are interconnected."
 
 msgid "pc_cloud_operation"
 msgstr "operate"
@@ -15123,7 +15189,7 @@ msgstr ""
 "questions, please contact the system administrator %1 ···"
 
 msgid "pc_cloud_purchase_text"
-msgstr "none"
+msgstr "Cloud disk packages must be used during the membership period"
 
 msgid "pc_cloud_ques_admin"
 msgstr ""
@@ -15219,22 +15285,26 @@ msgstr ""
 "identities will terminate the task in progress."
 
 msgid "pc_cloud_storage_full_cancel"
-msgstr "none"
+msgstr "Think about it again"
 
 msgid "pc_cloud_storage_full_expand_button"
-msgstr "none"
+msgstr "Expand immediately"
 
 msgid "pc_cloud_storage_full_expand_text"
-msgstr "none"
+msgstr ""
+"After expansion, more files can be uploaded and multiple devices can be "
+"synchronized in real time."
 
 msgid "pc_cloud_storage_full_renew_button"
-msgstr "none"
+msgstr "Renew now"
 
 msgid "pc_cloud_storage_full_renew_text"
-msgstr "none"
+msgstr ""
+"Renewal members, you can upload more files and synchronize them in real "
+"time with multiple devices"
 
 msgid "pc_cloud_storage_full_title"
-msgstr "none"
+msgstr "Cloud space capacity is full"
 
 msgid "pc_cloud_storge_contact"
 msgstr ""
@@ -15288,148 +15358,178 @@ msgid "pc_cloud_team_join_cor_none"
 msgstr "You have not joined any team cloud space yet"
 
 msgid "pc_cloud_team_template_no_draft"
-msgstr "none"
+msgstr ""
+"There is currently no team template, \\n"
+"You can save the draft as a template directly"
 
 msgid "pc_cloud_team_template_no_limited"
-msgstr "none"
+msgstr "Team templates have reached the upper limit"
 
 msgid "pc_cloud_team_template_no_permission"
-msgstr "none"
+msgstr "No right to restrict"
 
 msgid "pc_cloud_template_create_group_button_note"
-msgstr "none"
+msgstr "You can also create %1 free templates"
 
 msgid "pc_cloud_template_create_group_button_title"
-msgstr "none"
+msgstr "Added a new team template"
 
 msgid "pc_cloud_template_create_group_svip_note"
-msgstr "none"
+msgstr ""
+"Select the draft file and quickly create a team template. Team members only "
+"need to replace the material to complete the editing and copy exclusive "
+"ideas in batches."
 
 msgid "pc_cloud_template_create_group_svip_title"
-msgstr "none"
+msgstr "Activate Team Version Publish Team Template"
 
 msgid "pc_cloud_template_create_personal_button"
-msgstr "none"
+msgstr "Added a new personal template"
 
 msgid "pc_cloud_template_create_personal_svip_note"
-msgstr "none"
+msgstr ""
+"Select a draft file to quickly create a personal template. When using it, "
+"you only need to replace the material to complete the editing and copy "
+"exclusive ideas in batches."
 
 msgid "pc_cloud_template_create_personal_svip_title"
-msgstr "none"
+msgstr "Activate SVIP release personal template"
 
 msgid "pc_cloud_template_create_svip_button"
-msgstr "none"
+msgstr "Open now"
 
 msgid "pc_cloud_template_draft_choose_button"
-msgstr "none"
+msgstr "Publish as a template"
 
 msgid "pc_cloud_template_draft_choose_empty_button"
-msgstr "none"
+msgstr "I see"
 
 msgid "pc_cloud_template_draft_choose_empty_note"
-msgstr "none"
+msgstr "There are no drafts to make personal templates"
 
 msgid "pc_cloud_template_draft_choose_empty_title"
-msgstr "none"
+msgstr "No draft yet"
 
 msgid "pc_cloud_template_group_draft_choose"
-msgstr "none"
+msgstr "Select a draft production team template"
 
 msgid "pc_cloud_template_group_draft_choose_empty_note"
-msgstr "none"
+msgstr "There are no drafts available to create a team template"
 
 msgid "pc_cloud_template_group_empty_note"
-msgstr "none"
+msgstr ""
+"Select the draft file and quickly create a team template.\n"
+"5 free templates can be created."
 
 msgid "pc_cloud_template_personal_draft_choose"
-msgstr "none"
+msgstr "Select a draft to create a personal template"
 
 msgid "pc_cloud_template_personal_empty_note"
-msgstr "none"
+msgstr ""
+"Save the video draft as a personal template.\n"
+"Use the template to replace the material and you can quickly form a piece."
 
 msgid "pc_cloud_template_release_fragment_note"
-msgstr "none"
+msgstr ""
+"After opening, the template has a wider scope of application, and it is "
+"recommended to open it"
 
 msgid "pc_cloud_template_release_fragment_tooltips"
-msgstr "none"
+msgstr ""
+"After opening, the platform will intelligently optimize the number of "
+"template segments based on the template content, so that your subsequent "
+"template can be suitable for different amounts of materials. It is "
+"recommended to enable it."
 
 msgid "pc_cloud_template_release_group"
-msgstr "none"
+msgstr "Publish team template to %1"
 
 msgid "pc_cloud_template_release_group_button"
-msgstr "none"
+msgstr "Publish team templates"
 
 msgid "pc_cloud_template_release_group_button_limited"
-msgstr "none"
+msgstr "Publish team templates (remaining %1 free credit limit)"
 
 msgid "pc_cloud_template_release_group_button_svip"
-msgstr "none"
+msgstr "Open Team Version Release Team Template"
 
 msgid "pc_cloud_template_release_group_success_note"
-msgstr "none"
+msgstr "Template can be viewed and used within %1"
 
 msgid "pc_cloud_template_release_group_success_title"
-msgstr "none"
+msgstr "Successfully published to %1"
 
 msgid "pc_cloud_template_release_main_button"
-msgstr "none"
+msgstr "Release template"
 
 msgid "pc_cloud_template_release_music_note"
-msgstr "none"
+msgstr ""
+"After turning on, you can replace other music when using the template. It "
+"is recommended to turn on"
 
 msgid "pc_cloud_template_release_personal"
-msgstr "none"
+msgstr "Post personal templates to my cloud space"
 
 msgid "pc_cloud_template_release_personal_button"
-msgstr "none"
+msgstr "Post a personal template"
 
 msgid "pc_cloud_template_release_personal_button_svip"
-msgstr "none"
+msgstr "Activate SVIP release personal template"
 
 msgid "pc_cloud_template_release_personal_success_note"
-msgstr "none"
+msgstr "You can view and use templates in my cloud space"
 
 msgid "pc_cloud_template_release_personal_success_title"
-msgstr "none"
+msgstr "Successfully posted to my cloud space"
 
 msgid "pc_cloud_template_release_success_first_button"
-msgstr "none"
+msgstr "OK"
 
 msgid "pc_cloud_template_release_success_second_button"
-msgstr "none"
+msgstr "Go and check it out"
 
 msgid "pc_cloud_template_svip_edit"
-msgstr "none"
+msgstr ""
+"The current draft contains membership rights, please complete the "
+"subscription first"
 
 msgid "pc_cloud_template_tooltips"
-msgstr "none"
+msgstr "Template production instructions are received here"
 
 msgid "pc_cloud_template_tooltips_button"
-msgstr "none"
+msgstr "knew"
 
 msgid "pc_cloud_template_tutorial_note"
-msgstr "none"
+msgstr ""
+"The template inherits the number of fragments of the draft by default. "
+"After the template is published, you only need to replace the fragment "
+"material to quickly form a piece.\n"
+"If you need to fix the content of a certain segment that is not "
+"replaceable, you just need to lock it."
 
 msgid "pc_cloud_template_tutorial_title"
-msgstr "none"
+msgstr "How to quickly publish templates"
 
 msgid "pc_cloud_template_use_more_delete"
-msgstr "none"
+msgstr "delete"
 
 msgid "pc_cloud_template_use_more_edit"
-msgstr "none"
+msgstr "Modify information"
 
 msgid "pc_cloud_template_use_personal_svip_note"
-msgstr "none"
+msgstr ""
+"After activation, you can use past personal templates unlimitedly. You only "
+"need to replace the material in the personal template to complete the "
+"editing, and copy exclusive creative ideas in batches."
 
 msgid "pc_cloud_template_use_personal_svip_title"
-msgstr "none"
+msgstr "Activate SVIP usage template"
 
 msgid "pc_cloud_template_use_tag_group"
-msgstr "none"
+msgstr "Team templates"
 
 msgid "pc_cloud_template_use_tag_personal"
-msgstr "none"
+msgstr "Personal templates"
 
 msgid "pc_cloud_time_created"
 msgstr "Time created"
@@ -17968,10 +18068,12 @@ msgid "pc_draft_media_upload"
 msgstr "Upload the media in your project?"
 
 msgid "pc_draft_more_release_template"
-msgstr "none"
+msgstr "Release template"
 
 msgid "pc_draft_more_release_template_note"
-msgstr "none"
+msgstr ""
+"Save the draft as a template, and you can quickly form a piece by replacing "
+"the material."
 
 msgid "pc_draft_mute"
 msgstr "Mute project"
@@ -18001,7 +18103,7 @@ msgid "pc_draft_position"
 msgstr "Save to"
 
 msgid "pc_draft_release_template_loading"
-msgstr "none"
+msgstr "Draft loading"
 
 msgid "pc_draft_reuploaded_after_upgraded"
 msgstr "Project needs to uploaded again after CapCut app is updated."
@@ -21814,124 +21916,138 @@ msgid "pc_group_creation_failed"
 msgstr "Group creation failed"
 
 msgid "pc_group_delete_btn_cancel_delete_confirm"
-msgstr "none"
+msgstr "Cancel"
 
 msgid "pc_group_delete_btn_cancel_delete_permanently"
-msgstr "none"
+msgstr "Cancel"
 
 msgid "pc_group_delete_btn_cancel_leave_group"
-msgstr "none"
+msgstr "Cancel"
 
 msgid "pc_group_delete_btn_create_group"
-msgstr "none"
+msgstr "Create a group"
 
 msgid "pc_group_delete_btn_default_cancel"
-msgstr "none"
+msgstr "Cancel"
 
 msgid "pc_group_delete_btn_default_delete"
-msgstr "none"
+msgstr "delete"
 
 msgid "pc_group_delete_btn_delete"
-msgstr "none"
+msgstr "Delete the group"
 
 msgid "pc_group_delete_btn_delete_permanently"
-msgstr "none"
+msgstr "Permanently deleted"
 
 msgid "pc_group_delete_btn_got_it"
-msgstr "none"
+msgstr "Sure"
 
 msgid "pc_group_delete_btn_group_management"
-msgstr "none"
+msgstr "Management Team"
 
 msgid "pc_group_delete_btn_group_management_delete_permanently"
-msgstr "none"
+msgstr "Permanently deleted"
 
 msgid "pc_group_delete_btn_group_management_leave"
-msgstr "none"
+msgstr "Leave the group"
 
 msgid "pc_group_delete_btn_group_management_restore"
-msgstr "none"
+msgstr "Recovery Team"
 
 msgid "pc_group_delete_btn_join_group"
-msgstr "none"
+msgstr "Join the group"
 
 msgid "pc_group_delete_btn_leave_group"
-msgstr "none"
+msgstr "leave"
 
 msgid "pc_group_delete_btn_ok_delete_confirm"
-msgstr "none"
+msgstr "Still need to be deleted"
 
 msgid "pc_group_delete_btn_restore_cancel"
-msgstr "none"
+msgstr "Cancel"
 
 msgid "pc_group_delete_btn_restore_confirm"
-msgstr "none"
+msgstr "recover"
 
 msgid "pc_group_delete_desc_delete_confirm"
-msgstr "none"
+msgstr ""
+"You have a subscription plan in use. If you delete this group, the relevant "
+"membership rights will not be refunded."
 
 msgid "pc_group_delete_desc_leave_group"
-msgstr "none"
+msgstr ""
+"After leaving this group, you will not be able to access the assets within "
+"this group."
 
 msgid "pc_group_delete_desc_unable_delete_name"
-msgstr "none"
+msgstr ""
+"Your group currently has an effective subscription. Please try again after "
+"the subscription expires."
 
 msgid "pc_group_delete_hover_delete_successfully"
-msgstr "none"
+msgstr "Deleted group \"%1\""
 
 msgid "pc_group_delete_text_continue_deleting"
-msgstr "none"
+msgstr "If you confirm deletion, enter the group name."
 
 msgid "pc_group_delete_text_enter_group_name_correctly"
-msgstr "none"
+msgstr "Please enter the correct group name"
 
 msgid "pc_group_delete_text_not_able_restore_again"
-msgstr "none"
+msgstr "It will not be restored after deletion."
 
 msgid "pc_group_delete_text_restore"
-msgstr "none"
+msgstr "You can recover the group within 30 days."
 
 msgid "pc_group_delete_text_restore_group_note"
-msgstr "none"
+msgstr ""
+"After the group is restored, only you can access and manage it. Previous "
+"projects, materials and other content will be restored, but the group "
+"members will not be restored."
 
 msgid "pc_group_delete_text_will_permanently_delete"
-msgstr "none"
+msgstr ""
+"Group \"%1\" and all information in it (such as projects, exported films "
+"and uploaded materials) will be deleted. All members of this group will "
+"also be removed."
 
 msgid "pc_group_delete_title_delete_confirm"
-msgstr "none"
+msgstr "Are you sure you want to delete the group \"%1\"?"
 
 msgid "pc_group_delete_title_delete_group"
-msgstr "none"
+msgstr "Are you sure you want to delete the group \"%1\"?"
 
 msgid "pc_group_delete_title_delete_permanently"
-msgstr "none"
+msgstr "Are you sure you want to permanently delete the group \"%1\"?"
 
 msgid "pc_group_delete_title_group_management"
-msgstr "none"
+msgstr "Management Team"
 
 msgid "pc_group_delete_title_leave_group"
-msgstr "none"
+msgstr "Are you sure you want to leave the group \"%1\"?"
 
 msgid "pc_group_delete_title_restore_group"
-msgstr "none"
+msgstr "Are you sure you want to restore the group \"%1\"?"
 
 msgid "pc_group_delete_title_unable_delete_name"
-msgstr "none"
+msgstr "Unable to delete group \"%1\""
 
 msgid "pc_group_delete_toast_delete_group_failed"
-msgstr "none"
+msgstr "Unable to delete, please try again."
 
 msgid "pc_group_delete_tosat_restore_successfully"
-msgstr "none"
+msgstr "Recovered group \"%1\""
 
 msgid "pc_group_desc_delete_group_failed"
-msgstr "none"
+msgstr ""
+"You cannot delete a group, go to [Settings] - [Group Management] to "
+"permanently delete 1 or more groups and try again."
 
 msgid "pc_group_desc_delete_group_failed_ok"
-msgstr "none"
+msgstr "Sure"
 
 msgid "pc_group_desc_group_restored_failed_limit"
-msgstr "none"
+msgstr "You have created 3 groups."
 
 msgid "pc_group_exit_failed"
 msgstr "Group exit failed"
@@ -21959,7 +22075,7 @@ msgid "pc_group_name_modification_failed"
 msgstr "Group name modification failed"
 
 msgid "pc_group_placeholder_enter_group_name"
-msgstr "none"
+msgstr "Enter a group name"
 
 msgid "pc_group_size_upgrade"
 msgstr "[None]"
@@ -21973,43 +22089,45 @@ msgstr ""
 "to use them."
 
 msgid "pc_group_text_delete_permanently_date"
-msgstr "none"
+msgstr "The group will be permanently deleted in %1."
 
 msgid "pc_group_text_group_name_title"
-msgstr "none"
+msgstr "name"
 
 msgid "pc_group_text_member_counts"
-msgstr "none"
+msgstr "%1"
 
 msgid "pc_group_text_member_counts_title"
-msgstr "none"
+msgstr "Number of members"
 
 msgid "pc_group_text_role_in_group"
-msgstr "none"
+msgstr "Your role"
 
 msgid "pc_group_title_delete_group_failed"
-msgstr "none"
+msgstr "Unable to delete group \"%1\""
 
 msgid "pc_group_title_first_group_delete_failed"
-msgstr "none"
+msgstr "Unable to delete group \"%1\""
 
 msgid "pc_group_title_group_restored_failed_limit"
-msgstr "none"
+msgstr "Unable to recover group \"%1\""
 
 msgid "pc_group_toast_first_group_delete_failed"
-msgstr "none"
+msgstr ""
+"This group cannot be deleted, it is the initial group created by default "
+"when registering an account."
 
 msgid "pc_group_toast_group_pemanently_deleted_failed"
-msgstr "none"
+msgstr "Unable to delete group %1"
 
 msgid "pc_group_toast_group_restored_failed"
-msgstr "none"
+msgstr "Unable to recover group %1"
 
 msgid "pc_group_toast_left_group_failed"
-msgstr "none"
+msgstr "Unable to leave the group \"%1\""
 
 msgid "pc_group_toast_left_group_successfully"
-msgstr "none"
+msgstr "You have left the group \"%1\""
 
 msgid "pc_grow_my_social_following"
 msgstr "Grow my social following"
@@ -22055,7 +22173,7 @@ msgid "pc_help"
 msgstr "Help"
 
 msgid "pc_help_center_entrance"
-msgstr "none"
+msgstr "Help Center"
 
 msgid "pc_hevc_codec_required"
 msgstr "To play HEVC videos, install the HEVC codec from the Microsoft Store."
@@ -26330,25 +26448,25 @@ msgid "pc_my"
 msgstr "Me"
 
 msgid "pc_my_cloud_expand_button"
-msgstr "none"
+msgstr "De-expanding capacity"
 
 msgid "pc_my_cloud_full_title"
-msgstr "none"
+msgstr "Capacity is full, new files cannot be backed up"
 
 msgid "pc_my_cloud_renew_button"
-msgstr "none"
+msgstr "Go to renew"
 
 msgid "pc_my_cloud_storage_freeze"
-msgstr "none"
+msgstr "(Member expires, %1 has been frozen)"
 
 msgid "pc_my_cloud_storage_freeze_text"
-msgstr "none"
+msgstr "%1, member expiration, capacity is frozen;"
 
 msgid "pc_my_cloud_storage_recycle"
-msgstr "none"
+msgstr "(Member expired for more than %1 year, %2 has been recycled)"
 
 msgid "pc_my_cloud_storage_recycle_text"
-msgstr "none"
+msgstr "%1, membership expires for more than 1 year, and capacity has been recycled;"
 
 msgid "pc_my_favorities"
 msgstr "Favorites"
@@ -31546,7 +31664,7 @@ msgstr ""
 "draft file as a template again."
 
 msgid "pc_setting_cloud_auto_upload_name"
-msgstr "none"
+msgstr "Automatic backup of multi-device drafts"
 
 msgid "pc_setting_conflict"
 msgstr "Couldn't turn on because it conflicts with other settings"
@@ -41815,7 +41933,7 @@ msgid "percent_one_unlock"
 msgstr "% 1 unlocked"
 
 msgid "percent_one_unlocked"
-msgstr "none"
+msgstr "%1 unlocked"
 
 msgid "percent_one_use"
 msgstr "%1 person used"
@@ -41824,7 +41942,7 @@ msgid "percent_one_use_n"
 msgstr "%1 used"
 
 msgid "percent_one_vip_free"
-msgstr "none"
+msgstr "%1/VIP free"
 
 msgid "percent_two_members_including_percent_one_notified"
 msgstr "%1 and other %2 members have been notified"
@@ -41844,7 +41962,9 @@ msgstr "Uploaded %d minutes ago"
 msgid ""
 "percente_enterprise_edition_has_expired_please_contact_administrator_renew_"
 "and_continue_use"
-msgstr "none"
+msgstr ""
+"%1 Enterprise version has expired. Please contact the administrator to "
+"renew the fee before continuing to use it."
 
 msgid "performance_tips"
 msgstr "Performance reminder"
@@ -41871,7 +41991,7 @@ msgid "personal_description_pc"
 msgstr "Casual creator that makes videos to record and share life"
 
 msgid "personal_edition"
-msgstr "none"
+msgstr "Personal version"
 
 msgid "personal_info"
 msgstr "Bio"
@@ -41962,7 +42082,7 @@ msgstr ""
 "& Privacy to allow microphone access."
 
 msgid "please_check_internet_view_information_copyrightfree_materials"
-msgstr "none"
+msgstr "Please check the network and check the copyrighted material information"
 
 msgid "please_connect_to_the_internet"
 msgstr "Please connect to the network"
@@ -42392,7 +42512,7 @@ msgid "published_released_pc"
 msgstr "Posted"
 
 msgid "published_successfully"
-msgstr "none"
+msgstr "Release successful"
 
 msgid "published_successfully_jump_to_the_personal_homepage"
 msgstr "Sticker pack posted. Back to Creator Center."
@@ -42684,7 +42804,7 @@ msgid "release"
 msgstr "Post"
 
 msgid "release_pc_new"
-msgstr "none"
+msgstr "release"
 
 msgid "release_post_pc"
 msgstr "Post"
@@ -42729,7 +42849,7 @@ msgid "remove_nn"
 msgstr "Remove"
 
 msgid "remove_p_c"
-msgstr "none"
+msgstr "Remove"
 
 msgid "remove_selected_font"
 msgstr "Remove selected font?"
@@ -42818,7 +42938,7 @@ msgid "request_fail_retry"
 msgstr "Couldn't delete. Try again later."
 
 msgid "request_video_scene/element_within_percent_one"
-msgstr "none"
+msgstr "Search for video scenes/elements within %1"
 
 msgid "research_for_someone"
 msgstr "CapCut User Survey"
@@ -42833,7 +42953,7 @@ msgid "reset_n"
 msgstr "Redo"
 
 msgid "resigned_pc_n"
-msgstr "none"
+msgstr "(Resigned)"
 
 msgid "resolution"
 msgstr "Resolution"
@@ -42956,7 +43076,7 @@ msgid "role_best_describes_you"
 msgstr "Which of the following roles best describes you?"
 
 msgid "role_p_c"
-msgstr "none"
+msgstr "Role"
 
 msgid "roll_pc_key"
 msgstr "Scroll"
@@ -43079,13 +43199,13 @@ msgid "screening_team"
 msgstr "Climbing team"
 
 msgid "script_draft_n"
-msgstr "none"
+msgstr "Draft script"
 
 msgid "script_drama"
 msgstr "🎭 Drama"
 
 msgid "script_n"
-msgstr "none"
+msgstr "Script"
 
 msgid "script_not_supported_download"
 msgstr "Downloads of script type drafts are not supported"
@@ -43114,7 +43234,7 @@ msgid "search_for_flower_color/style"
 msgstr "Search for text effects/style"
 
 msgid "search_for_members"
-msgstr "none"
+msgstr "Search for members"
 
 msgid "search_for_same_name_type_scissors"
 msgstr "Search for templates"
@@ -44471,7 +44591,7 @@ msgid "sunshine_boy_duplicate"
 msgstr "Sunny boy"
 
 msgid "support_additional_upload_of_fonts_backgrounds_intros_ends_etc"
-msgstr "none"
+msgstr "Supports additional uploads of fonts, backgrounds, opening/end credits, etc."
 
 msgid "support_detection_commercial_copyright"
 msgstr "Check if your video contains commercial materials"
@@ -44489,7 +44609,7 @@ msgid "supports_uploading_most_percent_one_two"
 msgstr "You can upload up to %1 %2"
 
 msgid "supports_uploading_most_percente_percent_two"
-msgstr "none"
+msgstr "Upload up to %1%2"
 
 msgid "sure"
 msgstr "Confirm"
@@ -44679,7 +44799,7 @@ msgid "template_duration_pc"
 msgstr "Duration"
 
 msgid "template_expired_needs_unlocked_again"
-msgstr "none"
+msgstr "The template has expired and needs to be re-unlocked"
 
 msgid "template_expired_unlock_again"
 msgstr ""
@@ -44725,7 +44845,7 @@ msgstr ""
 "Edition and enjoy more brand resources."
 
 msgid "ten_on_page"
-msgstr "none"
+msgstr "10 items/page"
 
 msgid "ten_thousand_pc"
 msgstr "XK"
@@ -44850,7 +44970,7 @@ msgstr ""
 "requires a higher cut version to be received."
 
 msgid "the_content_contains_sensitive_words_please_revise_and_publish"
-msgstr "none"
+msgstr "The content contains sensitive words, please modify it and publish it"
 
 msgid "the_current_screen_is_loading"
 msgstr "Loading..."
@@ -44987,7 +45107,7 @@ msgid "this_draft_backup_cancelled"
 msgstr "Backup canceled for this draft"
 
 msgid "this_font_does_not_support_favorites"
-msgstr "none"
+msgstr "This font does not support collection"
 
 msgid "this_font_not_installed_on"
 msgstr "You don't have this font on your desktop or laptop"
@@ -45146,7 +45266,7 @@ msgid "total_length_video_not_exceed_1_hour"
 msgstr "The total video duration is no more than 1 hour"
 
 msgid "total_number_of_enterprises"
-msgstr "none"
+msgstr "Total number of employees of the company"
 
 msgid "track"
 msgstr "Track"
@@ -45217,7 +45337,7 @@ msgid "transfer_pause_wifi_check"
 msgstr "Transmission is interrupted, please check whether the same wifi is connected"
 
 msgid "transfer_pc_n"
-msgstr "none"
+msgstr "transfer"
 
 msgid "transition"
 msgstr "Transition"
@@ -45329,10 +45449,10 @@ msgid "ttotal_number_of_watched_videos_not_exceed_10"
 msgstr "The total number of videos to watch shall not exceed 10"
 
 msgid "tts_anxious_name_style"
-msgstr "none"
+msgstr "anxious"
 
 msgid "tts_cute_name_style"
-msgstr "none"
+msgstr "behave in a spoiled manner"
 
 msgid "tts_emotion_title_disgust"
 msgstr "Annoyed"
@@ -45341,19 +45461,19 @@ msgid "tts_emotion_title_surprised"
 msgstr "Surprised"
 
 msgid "tts_encourage_name_style"
-msgstr "none"
+msgstr "encourage"
 
 msgid "tts_entertainment_name_style"
 msgstr "entertainment"
 
 msgid "tts_gentle_name_style"
-msgstr "none"
+msgstr "gentle"
 
 msgid "tts_marketing_name_style"
-msgstr "none"
+msgstr "marketing"
 
 msgid "tts_news_name_style"
-msgstr "none"
+msgstr "news"
 
 msgid "tts_shy_name_style"
 msgstr "shy"
@@ -45386,7 +45506,7 @@ msgid "tutorial_education"
 msgstr "Tutorial or education"
 
 msgid "twenty_on_page"
-msgstr "none"
+msgstr "20 items/page"
 
 msgid "twice_click_edit"
 msgstr "Double-click a clip in the group to edit individually"
@@ -45470,10 +45590,10 @@ msgid "undo_the_subject_lock_effect"
 msgstr "Undo: Camera tracking effect"
 
 msgid "unfavorite"
-msgstr "none"
+msgstr "Cancel Favorites"
 
 msgid "unfavourite_failed"
-msgstr "none"
+msgstr "Failed to cancel the collection"
 
 msgid "ungroup"
 msgstr "Ungroup"
@@ -45533,7 +45653,7 @@ msgid "unlock_unsuccessfully_try_again"
 msgstr "Unlocking failed, please try again"
 
 msgid "unlocked_once_pc"
-msgstr "none"
+msgstr "Single unlocked"
 
 msgid "unlocking_draft_will_expand_compound_clip"
 msgstr "Unlocking the draft will expand the composite fragment"
@@ -45545,7 +45665,7 @@ msgid "up_down_offset"
 msgstr "Y-offset"
 
 msgid "up_to_percent_one_uploads_are_supported"
-msgstr "none"
+msgstr "Upload up to 1 %"
 
 msgid "up_to_x"
 msgstr "Up to X numbers"
@@ -45612,7 +45732,7 @@ msgid "upload"
 msgstr "Upload"
 
 msgid "upload_brand"
-msgstr "none"
+msgstr "Upload the brand"
 
 msgid "upload_brand_percente"
 msgstr "Upload brand %1"
@@ -45633,7 +45753,7 @@ msgid "upload_draft_cloud"
 msgstr "Upload"
 
 msgid "upload_draft_n"
-msgstr "none"
+msgstr "Upload draft"
 
 msgid "upload_error,please"
 msgstr "Video upload failed, please"
@@ -45794,7 +45914,7 @@ msgid "user_video_show_method"
 msgstr "Content adaptation"
 
 msgid "using_assets_across_subsystems_not_supported"
-msgstr "none"
+msgstr "No cross-subsystem use of materials is supported"
 
 msgid "using_externally_imported_fonts_is_not_currently_supported"
 msgstr "Couldn't use imported font currently"
@@ -46073,7 +46193,7 @@ msgid "view_published_material"
 msgstr "View posted materials"
 
 msgid "viewed_in_percent_one_business_background_percent_two_path"
-msgstr "none"
+msgstr "You can view it in the %1 business backend %2 path"
 
 msgid "viewing_rights"
 msgstr "Who can watch"
@@ -46943,7 +47063,7 @@ msgid "you_are_using"
 msgstr "You are using"
 
 msgid "you_can_choose_finish_editing_unlock_draft"
-msgstr "none"
+msgstr "After completing the replacement, you can click Finish to enter the editing."
 
 msgid "you_can_upload_files_and_manage_the_content"
 msgstr ""
@@ -46973,7 +47093,7 @@ msgstr ""
 "able to get a refund on any item you purchased."
 
 msgid "your_account_no_longer_creator_and_changed_member_role"
-msgstr "none"
+msgstr "Your account is no longer a business owner, but is changed to a member role."
 
 msgid "your_benefits_restored_choose_continue_editing"
 msgstr "Your purchase is restored. Do you want to continue editing your video?"
