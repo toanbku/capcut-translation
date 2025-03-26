@@ -18,7 +18,12 @@
   "homepage": "https://github.com/toanbku/capcut-translation#readme",
   "description": "",
   "dependencies": {
-    "gettext-parser": "^8.0.0"
+    "@google-cloud/translate": "^9.0.1",
+    "@types/axios": "^0.9.36",
+    "@vitalets/google-translate-api": "^9.2.1",
+    "axios": "^1.8.4",
+    "gettext-parser": "^8.0.0",
+    "socks-proxy-agent": "^8.0.5"
   },
   "devDependencies": {
     "@types/node": "^22.13.13",
