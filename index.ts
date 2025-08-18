@@ -93,6 +93,18 @@ for (const [context, translations] of Object.entries(enPo.translations)) {
 let updatedCount = 0;
 let translatedCount = 0;
 let skippedCount = 0;
+let lastSaveTime = Date.now();
+
+// Function to save the current progress
+function saveProgress() {
+  const updatedZhPoContent = gettextParser.po.compile(zhPo);
+  fs.writeFileSync(
+    path.join(__dirname, "chinese", "zh-Hans.po"),
+    updatedZhPoContent
+  );
+  lastSaveTime = Date.now();
+  console.log(`📁 Auto-saved progress at ${new Date().toLocaleTimeString()}`);
+}
 
 async function processTranslations() {
   // Count total entries to process
@@ -105,13 +117,27 @@ async function processTranslations() {
     }
   }
 
-  console.log(`\nTotal entries to process: ${totalEntries}\n`);
+  console.log(`\nTotal entries to process: ${totalEntries}`);
+  console.log("🔄 Auto-save enabled: Progress will be saved every 2 minutes");
+  console.log(
+    "⚡ If the program breaks, completed translations will be preserved!\n"
+  );
 
   let processedEntries = 0;
+  const autoSaveInterval = 2 * 60 * 1000; // 2 minutes in milliseconds
+
   for (const [context, translations] of Object.entries(zhPo.translations)) {
     for (const [msgid, item] of Object.entries(translations)) {
       processedEntries++;
       const progress = ((processedEntries / totalEntries) * 100).toFixed(1);
+
+      // Auto-save every 2 minutes
+      if (Date.now() - lastSaveTime >= autoSaveInterval) {
+        saveProgress();
+        console.log(
+          `💾 Progress: ${progress}% (${processedEntries}/${totalEntries} entries)\n`
+        );
+      }
 
       // Skip header entries
       if (isHeaderEntry(msgid)) {
@@ -143,12 +169,9 @@ async function processTranslations() {
     }
   }
 
-  // Save updated Chinese PO file
-  const updatedZhPoContent = gettextParser.po.compile(zhPo);
-  fs.writeFileSync(
-    path.join(__dirname, "chinese", "zh-Hans.po"),
-    updatedZhPoContent
-  );
+  // Final save
+  saveProgress();
+  console.log("🎉 Final save completed!");
 
   console.log("\nTranslation Summary:");
   console.log(`Total entries processed: ${totalEntries}`);

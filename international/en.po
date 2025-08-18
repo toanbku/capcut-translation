@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 25172\n"
-"Report-Msgid-Bugs-To: https://starling.bytedance.net\n"
+"Report-Msgid-Bugs-To: starling\n"
 "POT-Creation-Date: 1970-01-01T00:00:00.000Z\n"
 "PO-Revision-Date: 1970-01-01T00:00:00.000Z\n"
 "Language: en\n"
@@ -11,7 +11,7 @@ msgstr ""
 "mime-version: 1.0\n"
 "x-poedit-sourcecharset: utf-8\n"
 "Last-Translator: \n"
-"Language-Team: https://starling.bytedance.net\n"
+"Language-Team: starling\n"
 "x-poedit-language: en\n"
 "x-poedit-country: \n"
 
@@ -306,6 +306,15 @@ msgstr "PIPO processes payment transactions. By purchasing, you agree to PIPO’
 msgid "agree_to_the_clipping_creator_service_agreement"
 msgstr "By clicking “Post”, you agree to %s."
 
+msgid "ai_adaptation_toast_cancel_current"
+msgstr "The current operation will cancel %1, which can not be restored, and the consumed points will not be refunded."
+
+msgid "ai_adaptation_toast_clip_length"
+msgstr "Modifying the clip length is not supported temporarily, because lyric adaptation is in progress."
+
+msgid "ai_adaptation_toast_compound_clip"
+msgstr "Lyric adaptation can not be applied to compound clips."
+
 msgid "ai_avatar"
 msgstr "AI avatars"
 
@@ -537,6 +546,183 @@ msgstr "Identify and remove pauses, repeats, and filler words in English materia
 msgid "ai_packaging_popup_des_trial"
 msgstr "This feature can analyze your video and add stickers, filters, and more based on its content."
 
+msgid "ai_pc__lyrics_adaptation"
+msgstr "Lyrics Adaptation"
+
+msgid "ai_pc__lyrics_adaptation_confirm_copyright"
+msgstr "Please Confirm Music Copyrights"
+
+msgid "ai_pc__lyrics_adaptation_detecting"
+msgstr "Detecting"
+
+msgid "ai_pc__lyrics_adaptation_material_tip"
+msgstr "The function will process the materials you upload. Please ensure that the content is original by you or has obtained complete authorization, and complies with the relevant requirements of <a href=\"%1\">Jianying Terms of Service</a>."
+
+msgid "ai_pc_lyrics_adaptation_autolyics"
+msgstr "Smart Lyrics"
+
+msgid "ai_pc_lyrics_adaptation_completed"
+msgstr "Lyric adaptation completed and the song has been added to your AI music library."
+
+msgid "ai_pc_lyrics_adaptation_current_song_not_support"
+msgstr "The current music can't be adapted. Please add copyrighted songs to adapt."
+
+msgid "ai_pc_lyrics_adaptation_instrumental_not_support"
+msgstr "The feature is not available for instrumental music."
+
+msgid "ai_pc_lyrics_adaptation_lines_count"
+msgstr "%1/%2 lines"
+
+msgid "ai_pc_lyrics_adaptation_lyrics"
+msgstr "Lyrics"
+
+msgid "ai_pc_lyrics_adaptation_muisc_arthor"
+msgstr "Jianying AI  - Lyrics Adaptation"
+
+msgid "ai_pc_lyrics_adaptation_optimize"
+msgstr "Optimize"
+
+msgid "ai_pc_lyrics_adaptation_organizing_lyrics"
+msgstr "Organizing lyrics"
+
+msgid "ai_pc_lyrics_adaptation_original_lyrics"
+msgstr "Display the original lyrics"
+
+msgid "ai_pc_lyrics_adaptation_paste_lyrics_tip"
+msgstr "Paste lyrics here. Please format the line breaks according to the original song."
+
+msgid "ai_pc_lyrics_adaptation_unsupport_publish_template"
+msgstr "Publishing as a template is not supported after cover singing with adapted lyrics"
+
+msgid "ai_pc_lyrics_adaptation_wordcount_mismatch"
+msgstr "The word count doesn't match the original lyrics. Please revise."
+
+msgid "ai_rough_cut"
+msgstr "[null]"
+
+msgid "ai_rough_cut_enter_summary"
+msgstr "[null]"
+
+msgid "ai_rough_cut_enter_tilte"
+msgstr "[null]"
+
+msgid "ai_rough_cut_error_not_connected"
+msgstr "[null]"
+
+msgid "ai_rough_cut_error_not_video"
+msgstr "[null]"
+
+msgid "ai_rough_cut_error_too_long"
+msgstr "[null]"
+
+msgid "ai_rough_cut_error_too_short"
+msgstr "[null]"
+
+msgid "ai_rough_cut_failed"
+msgstr "[null]"
+
+msgid "ai_rough_cut_failed_cancel"
+msgstr "[null]"
+
+msgid "ai_rough_cut_failed_retry"
+msgstr "[null]"
+
+msgid "ai_rough_cut_failed_summary"
+msgstr "[null]"
+
+msgid "ai_rough_cut_loading_cancel"
+msgstr "[null]"
+
+msgid "ai_rough_cut_loading_cutting"
+msgstr "[null]"
+
+msgid "ai_rough_cut_loading_video_understanding"
+msgstr "[null]"
+
+msgid "ai_rough_cut_loading_waiting"
+msgstr "[null]"
+
+msgid "ai_rough_cut_loading_writing"
+msgstr "[null]"
+
+msgid "ai_rough_cut_smart_writing"
+msgstr "[null]"
+
+msgid "ai_rough_cut_smart_writing_back"
+msgstr "[null]"
+
+msgid "ai_rough_cut_smart_writing_error_compliance"
+msgstr "[null]"
+
+msgid "ai_rough_cut_smart_writing_error_network"
+msgstr "[null]"
+
+msgid "ai_rough_cut_smart_writing_error_server"
+msgstr "[null]"
+
+msgid "ai_rough_cut_smart_writing_guide_1"
+msgstr "[null]"
+
+msgid "ai_rough_cut_smart_writing_guide_2"
+msgstr "[null]"
+
+msgid "ai_rough_cut_smart_writing_label_1"
+msgstr "[null]"
+
+msgid "ai_rough_cut_smart_writing_label_1_1"
+msgstr "[null]"
+
+msgid "ai_rough_cut_smart_writing_label_1_2"
+msgstr "[null]"
+
+msgid "ai_rough_cut_smart_writing_label_2"
+msgstr "[null]"
+
+msgid "ai_rough_cut_smart_writing_label_2_1"
+msgstr "[null]"
+
+msgid "ai_rough_cut_smart_writing_label_2_2"
+msgstr "[null]"
+
+msgid "ai_rough_cut_smart_writing_label_2_3"
+msgstr "[null]"
+
+msgid "ai_rough_cut_smart_writing_label_2_4"
+msgstr "[null]"
+
+msgid "ai_rough_cut_smart_writing_label_3"
+msgstr "[null]"
+
+msgid "ai_rough_cut_smart_writing_label_3_1"
+msgstr "[null]"
+
+msgid "ai_rough_cut_smart_writing_retry"
+msgstr "[null]"
+
+msgid "ai_rough_cut_smart_writing_start"
+msgstr "[null]"
+
+msgid "ai_rough_cut_start"
+msgstr "[null]"
+
+msgid "ai_rough_cut_stop_cancel"
+msgstr "[null]"
+
+msgid "ai_rough_cut_stop_confirm"
+msgstr "[null]"
+
+msgid "ai_rough_cut_stop_confirm_text"
+msgstr "[null]"
+
+msgid "ai_rough_cut_stop_continue"
+msgstr "[null]"
+
+msgid "ai_rough_cut_stop_exit"
+msgstr "[null]"
+
+msgid "ai_rough_cut_writing_error"
+msgstr "[null]"
+
 msgid "ai_shot_split_menu"
 msgstr "“Split scene” is availble now. Right click to try it out. You can split scene of the videos on the video tracks and material panel to make your re-creation more efficient."
 
@@ -728,6 +914,9 @@ msgstr "Apply to all"
 
 msgid "apply_to_all_subtitle"
 msgstr "Applied to all subtitles"
+
+msgid "apply_to_all_timeline"
+msgstr "[null]"
 
 msgid "appreciate_your_opinions"
 msgstr "We really appreciate your opinions."
@@ -1293,6 +1482,24 @@ msgstr "Intro and outro"
 msgid "brand_kit"
 msgstr "Brand kit"
 
+msgid "brand_kit_got_it"
+msgstr "got it"
+
+msgid "brand_kit_subscribe"
+msgstr "subscribe now"
+
+msgid "brand_kit_unable_use"
+msgstr "The branded material can not be used"
+
+msgid "brand_kit_unable_use_desc_indvidual"
+msgstr "The space has not been subscribed yet. Currently, only 3 free brand library materials can be used in the category. Currently, there is only one member in space. By subscribing to SVIP, you can upload and use brand kit materials without limit. If you need to share and collaborate among multiple people, you can subscribe to the Teams\n"
+
+msgid "brand_kit_unable_use_desc_member"
+msgstr "The space has not been subscribed yet. Currently, only 3 free brand kit materials can be used in the category. Please contact the creator to upgrade the Teams"
+
+msgid "brand_kit_unable_use_desc_owner"
+msgstr "The space has not been subscribed to yet. Currently, only 3 free brand library materials can be used in the category. After subscribing to the team version, you can upload and use brand kit materials without limit"
+
 msgid "brand_materials"
 msgstr "Brand assets"
 
@@ -1341,6 +1548,12 @@ msgstr "Brown letter with white edge"
 msgid "bubble"
 msgstr "Bubble"
 
+msgid "bubble_tip_right_tracking"
+msgstr "[null]"
+
+msgid "bulgarian_pc"
+msgstr "Bulgarian"
+
 msgid "bullet_time"
 msgstr "Bullet"
 
@@ -1360,7 +1573,7 @@ msgid "by_continuing_agree_tos_pp"
 msgstr "By continuing, you agree to our <a target='_blank' data-pp='terms_of_service'>Terms of Service</a> and acknowledge that you have read our <a target='_blank' data-pp='privacy_policy'>Privacy Policy</a> to learn how we collect, use, and share your data."
 
 msgid "by_counting_agree_tos_pp"
-msgstr "By continuing，you agree to our <a target='_blank' href='https://sf21-draftcdn-sg.ibytedtos.com/obj/ies-hotsoon-draft-sg/capcut/via_clause_user_agreement_en.html'>Terms of Service</a> and acknowledge that you have read our <a target='_blank' href='https://sf21-draftcdn-sg.ibytedtos.com/obj/ies-hotsoon-draft-sg/capcut/via_clause_privacy_policy_en.html'>Privacy Policy</a> to learn how we collect, use, and share your data."
+msgstr "By continuing, you agree to our <a target='_blank' href='https://www.capcut.com/clause/terms-of-service?lang=en'>Terms of Service</a> and acknowledge that you have read our <a target='_blank' href='https://www.capcut.com/clause/privacy-policy?lang=en'>Privacy Policy</a> to learn how we collect, use, and share your data."
 
 msgid "by_sentence"
 msgstr "By sentence"
@@ -1504,6 +1717,21 @@ msgstr "Delete some characters to generate a speech"
 msgid "cc4b_microsoft_toast_reach_monthly_word_limit"
 msgstr "You’ve reached the character limit for this voice this month. Try another voice."
 
+msgid "cc4b_traffic_button_gotit"
+msgstr "Got it"
+
+msgid "cc4b_traffic_desc_createanymarketingcontent"
+msgstr "Create any marketing content in just a few clicks. Smart, fast, and effortless!"
+
+msgid "ccPC_hover_AIimage"
+msgstr "Generate any image with just a text prompt"
+
+msgid "cc_billing_sku_standard_days"
+msgstr "%d-day Standard"
+
+msgid "cc_billing_sku_standard_days_single"
+msgstr "%d-day Standard"
+
 msgid "cc_business_template_copyright_issue_popup_desc"
 msgstr "Your template contains material with copyright restrictions. Replace the listed items to continue."
 
@@ -1528,6 +1756,9 @@ msgstr "A law went into effect banning US users from CapCut on January 19, 2025.
 msgid "cc_captain_home_page_cc"
 msgstr "Homepage: {cc_web_short_link}"
 
+msgid "cc_captain_made_video_with_cc_pc"
+msgstr "I made this amazing video with CapCut US. Open the link to try it out: "
+
 msgid "cc_captain_newyear_end_inbox_body1"
 msgstr "The New Year Sales discount will no longer be available because you didn’t pay the rest of the subscription fee during the Sales. If you’d still like to subscribe at this discount, send an email to {cc_support_email} before Feb 29, 2024."
 
@@ -1549,8 +1780,74 @@ msgstr "Need more help? Email us at {cc_support_email}."
 msgid "cc_captain_pc_fission_agreement"
 msgstr "By continuing, you agree to CapCut <a target='_blank' href='{cc_user_agreement_link}'>Terms of Service</a> and acknowledge that you have read CapCut <a target='_blank' href='{cc_pp_link}'>Privacy Policy</a>."
 
+msgid "cc_captain_pc_signin_phone_open"
+msgstr "Open the CapCut US app on your phone"
+
+msgid "cc_captain_pc_signin_update_version"
+msgstr "To scan QR code, update CapCut US to version %1 or later."
+
 msgid "cc_captain_pc_space_reached_the_limit_contact"
-msgstr "Not enough space storage. Contact {jy_service_email}"
+msgstr "Not enough space storage. Contact %1."
+
+msgid "cc_captain_transfer_code_title"
+msgstr "Verification code"
+
+msgid "cc_captain_transfer_email_title"
+msgstr "Email"
+
+msgid "cc_captain_transfer_enter_code_prompt"
+msgstr "Enter your 6-digit code"
+
+msgid "cc_captain_transfer_find_account_desc"
+msgstr "Enter the email linked to your CapCut account."
+
+msgid "cc_captain_transfer_find_account_error_toast"
+msgstr "Something went wrong. Try again."
+
+msgid "cc_captain_transfer_find_account_new_account_cta"
+msgstr "Create new account"
+
+msgid "cc_captain_transfer_find_account_no_error_toast"
+msgstr "No CapCut account found with this email. Try another method."
+
+msgid "cc_captain_transfer_find_account_or"
+msgstr "OR"
+
+msgid "cc_captain_transfer_find_account_title"
+msgstr "Find your CapCut account"
+
+msgid "cc_captain_transfer_find_account_try_other_cta"
+msgstr "Try other sign-in methods"
+
+msgid "cc_captain_transfer_find_account_used_error_toast"
+msgstr "This email is already in use. Try a different email or sign-in method."
+
+msgid "cc_captain_transfer_find_account_verify_email_cta"
+msgstr "Verify email"
+
+msgid "cc_captain_transfer_resend_code_error_toast"
+msgstr "Couldn't send code. Try again."
+
+msgid "cc_captain_transfer_resend_code_note"
+msgstr "Resend in %1 min"
+
+msgid "cc_captain_transfer_send_code_btn"
+msgstr "Send code"
+
+msgid "cc_compliance_entrance_onlinesafetyact"
+msgstr "Online Safety Act"
+
+msgid "cc_compliance_popup_button_maybelater"
+msgstr "Maybe later"
+
+msgid "cc_compliance_popup_button_updatenow"
+msgstr "Update now"
+
+msgid "cc_compliance_popup_desc_updatetolatestversion"
+msgstr "Your CapCut version is a bit outdated. Update it to the latest version to continue using it."
+
+msgid "cc_compliance_popup_title_updatecapcutnow"
+msgstr "Update CapCut now"
 
 msgid "cc_desktop_available_space_100"
 msgstr "CapCut Cloud Space on the desktop will be available soon in a future version, and you will have 100GB of cloud space storage then."
@@ -1603,8 +1900,38 @@ msgstr "Low clarity. Increase resolution and upload again."
 msgid "cc_material_visual_effect_reject_reason_slider"
 msgstr "Slider isn't adjusting properly. Adjust and upload again."
 
+msgid "cc_mob_STS_export_popup_no_use_btn"
+msgstr "Join Pro"
+
+msgid "cc_mob_TTS_export_popup_no_use_btn"
+msgstr "Join Pro"
+
+msgid "cc_mob_VC_export_popup_no_use_btn"
+msgstr "Join Pro"
+
 msgid "cc_mobile_user"
 msgstr "CapCut mobile"
+
+msgid "cc_new_subscription_inbox_message_text"
+msgstr ""
+"CapCut is dedicated to enhancing the creative experience for our users as creation and editing needs evolve. Starting from {$date$}, we will be upgrading our subscription system to better meet these diverse needs.\n"
+"\n"
+"The new subscription system will offer 2 tiers for flexibility: Standard and Pro. Whether you need simple edits or professional production, we have you covered.\n"
+"\n"
+"Our brand-new Standard subscription plan is tailored for editing enthusiasts. It offers a vast array of templates and creative assets, along with a complete set of powerful editing tools. The Standard plan is available at just {$standard_price_month$}/month or  {$standard_price_year$}/year for auto-renewal subscriptions.\n"
+"\n"
+"Also, we've made significant upgrades to our Pro subscription plan to better serve professional and marketing-focused creators. The price of the Pro plan will transition to {$pro_price_month$}/month and {$pro_price_year$}/year for auto-renewal subscriptions. This price change accompanies a few major feature additions, along with an increase in AI credits from {$standard_credits$} to {$pro_credits$} and an expansion of space storage from 100 GB to 1 TB. We're also planning to roll out more exciting features that will only be available to Pro users.\n"
+"\n"
+"To show our appreciation for the support of existing Pro users, we're delighted to offer exclusive deals just for you. Here are the details:\n"
+"• If you have an auto-renewal subscription (monthly or yearly), your current monthly or yearly cost will stay the same.\n"
+"• If you subscribed but have canceled auto renewal, you can still enjoy the upgraded Pro plan until your current subscription ends.\n"
+"\n"
+"Thank you for being a member of our community. We look forward to exploring more possibilities with you in CapCut!\n"
+"\n"
+"If you have any concerns about the new subscription rules, open the Me tab, tap the Pro icon, and go to Manage > Plans and billing to easily manage or cancel your subscriptions. Tap \"View more\" to see our Terms of Service and Privacy Policy. By joining or continuing to be a subscriber, you acknowledge and agree to the Privacy Policy."
+
+msgid "cc_new_subscription_inbox_message_title"
+msgstr "Upcoming changes to CapCut subscription system"
 
 msgid "cc_pc_material_publish_paid_authorize_popup_title_web"
 msgstr "License Agreement"
@@ -1771,14 +2098,98 @@ msgstr "Video effect"
 msgid "cc_pc_material_visual_effect_type_web"
 msgstr "Type of effect"
 
+msgid "cc_pc_media_dreamina_empty_status"
+msgstr "No assets yet. "
+
+msgid "cc_pc_media_dreamina_empty_status_placeholder"
+msgstr "Start creating!"
+
+msgid "cc_pc_media_post_to_dreamina"
+msgstr "Dreamina"
+
+msgid "cc_pc_media_sync_dreamina_box_desc"
+msgstr "You can sync assets from your same account."
+
+msgid "cc_pc_media_sync_dreamina_box_title"
+msgstr "Sync from Dreamina"
+
+msgid "cc_pc_media_sync_dreamina_btn"
+msgstr "Sync from Dreamina"
+
+msgid "cc_pc_media_sync_dreamina_popup_btn_cancel"
+msgstr "Not now"
+
+msgid "cc_pc_media_sync_dreamina_popup_btn_ok"
+msgstr "Sync"
+
+msgid "cc_pc_media_sync_dreamina_popup_desc"
+msgstr "All current and future assets from your Dreamina account will automatically sync to CapCut."
+
+msgid "cc_pc_media_sync_dreamina_popup_title"
+msgstr "Sync assets from Dreamina?"
+
+msgid "cc_pc_media_type_dreamina"
+msgstr "Dreamina"
+
+msgid "cc_pc_media_type_dreamina_sub_favorites"
+msgstr "Favorites"
+
+msgid "cc_pc_media_type_dreamina_sub_music"
+msgstr "Music"
+
+msgid "cc_pc_media_type_dreamina_sub_photos"
+msgstr "Photos"
+
+msgid "cc_pc_media_type_dreamina_sub_videos"
+msgstr "Videos"
+
+msgid "cc_pc_open_dreamina_popup_desc"
+msgstr "This will interrupt your current project being edited."
+
+msgid "cc_pc_open_dreamina_popup_title"
+msgstr "Open Dreamina in CapCut?"
+
+msgid "cc_pc_post_to_dreamina_desc"
+msgstr "After the upload, click \"Post\" to post it in Dreamina. You need to sign in with the same account."
+
 msgid "cc_pc_risk_reject_prompt_toast"
 msgstr "We've noticed some unusual activity in your account. To protect security, you can't proceed for the moment."
+
+msgid "cc_pc_sync_account_error_popup_btn"
+msgstr "Got it"
+
+msgid "cc_pc_sync_account_error_popup_desc"
+msgstr "Make sure you're signed in with the same account."
+
+msgid "cc_pc_sync_account_error_popup_title"
+msgstr "Can't sync assets from Dreamina"
+
+msgid "cc_pc_sync_dreamina_switch"
+msgstr "Dreamina sync"
+
+msgid "cc_pc_sync_dreamina_switch_desc"
+msgstr "Automatically sync your Dreamina assets to CapCut"
+
+msgid "cc_pro_tag"
+msgstr "Pro"
+
+msgid "cc_receipt_cant_request_toast"
+msgstr "Can't create a receipt for this order. You can submit feedback in Home > Feedback."
+
+msgid "cc_receipt_generating_toast"
+msgstr "Receipt is being created. It may take up to 30 minutes. You can check back later."
 
 msgid "cc_risk_notification_toast_v2"
 msgstr "Your account has been accessed from multiple devices recently. For security reasons, you can't sign in for the moment."
 
 msgid "cc_samrt_tmpl_btn_edit_more"
 msgstr "Go to edit"
+
+msgid "cc_standard_tag"
+msgstr "Standard"
+
+msgid "cc_teams_sku_tag_multiple_users"
+msgstr "For teams"
 
 msgid "cc_template_dreamina_ai_block_toast"
 msgstr "Videos edited using AI image or AI video features can't be posted as templates."
@@ -1846,11 +2257,41 @@ msgstr "If the template is posted, the following sounds will be muted after %1 s
 msgid "cc_tpl_copyright_something_wrong"
 msgstr "Something went wrong. Try again later."
 
+msgid "cc_trustcenter_entrance_trustcenter"
+msgstr "Trust Center"
+
 msgid "cc_version_available"
 msgstr "CapCut for Windows/Mac available now"
 
 msgid "cccreator_publish_area"
 msgstr "Select country or region"
+
+msgid "ccmob_homeBn_AIimage_sub"
+msgstr "Turn words into visuals"
+
+msgid "ccmob_homeBn_AIimage_title"
+msgstr "AI image"
+
+msgid "ccpc_banner_aividseedc"
+msgstr "AI video, now powered by Seedance"
+
+msgid "ccpc_mob_STS_export_popup_desc"
+msgstr "You've run out of free uses. Join Pro to get unlimited use and unlock even more features."
+
+msgid "ccpc_mob_STS_export_popup_title"
+msgstr "Join Pro to use this feature"
+
+msgid "ccpc_mob_TTS_export_popup_desc"
+msgstr "You've run out of free uses. Join Pro to get unlimited use and unlock even more features."
+
+msgid "ccpc_mob_TTS_export_popup_title"
+msgstr "Join Pro to use this feature"
+
+msgid "ccpc_mob_VC_export_popup_desc"
+msgstr "You've run out of free uses. Join Pro to get unlimited use and unlock even more features."
+
+msgid "ccpc_mob_VC_export_popup_title"
+msgstr "Join Pro to use this feature"
 
 msgid "cctemp_benefit_content"
 msgstr ""
@@ -2585,6 +3026,9 @@ msgstr "Clips"
 msgid "clone"
 msgstr "Cloning yourself to let your creativity run wild！"
 
+msgid "clone_recording_action_button_toast"
+msgstr "none"
+
 msgid "close"
 msgstr "Close"
 
@@ -3167,6 +3611,9 @@ msgstr "Outro"
 msgid "cribe_collaboration_version_enjoy_resources"
 msgstr "You can add up to %1 brand asset for free. Contact the space owner %2 to join CapCut Pro to add more brand asset."
 
+msgid "croatian_pc"
+msgstr "Croatian"
+
 msgid "crop"
 msgstr "Crop"
 
@@ -3692,6 +4139,48 @@ msgstr "Drag to select video display area"
 msgid "drag_the_mouse_to_quickly_preview_the_overall_picture"
 msgstr "Drag the slider to preview the whole clip."
 
+msgid "drainage_popup_button1"
+msgstr "Sign in"
+
+msgid "drainage_popup_button2"
+msgstr "Not now"
+
+msgid "drainage_popup_button3"
+msgstr "Got it"
+
+msgid "drainage_popup_button4"
+msgstr "Claim now"
+
+msgid "drainage_popup_login_content"
+msgstr "We're giving you Pro for free! Sign in to claim your free Pro and unlock unlimited access to everything premium during your free days."
+
+msgid "drainage_popup_login_title"
+msgid_plural "Sign in to claim your %1 days of free Pro"
+msgstr[0] "Sign in to claim your %1 day of free Pro"
+msgstr[1] "Sign in to claim your %1 days of free Pro"
+
+msgid "drainage_popup_reward_content_mark"
+msgstr "Enjoy unlimited access to everything premium during your free days."
+
+msgid "drainage_popup_reward_fail_content"
+msgstr "This free Pro offer is no longer available or you're not eligible to claim it."
+
+msgid "drainage_popup_reward_fail_title"
+msgstr "Couldn't claim free Pro"
+
+msgid "drainage_popup_reward_title"
+msgstr "You're signed in. Claim your free Pro now."
+
+msgid "drainage_popup_reward_title_mark"
+msgid_plural "You've claimed %1 days of free Pro"
+msgstr[0] "You've claimed %1 day of free Pro"
+msgstr[1] "You've claimed %1 days of free Pro"
+
+msgid "drainage_toast_reward_success"
+msgid_plural "You've claimed your %1 days of free Pro. Start exploring now!"
+msgstr[0] "You've claimed your %1 day of free Pro. Start exploring now!"
+msgstr[1] "You've claimed your %1 days of free Pro. Start exploring now!"
+
 msgid "duration"
 msgstr "Duration"
 
@@ -4111,6 +4600,9 @@ msgstr "Get multiple, viral short videos from a long video in one click."
 
 msgid "export_shorts_entry_name"
 msgstr "Long video to shorts"
+
+msgid "export_timeline"
+msgstr "[null]"
 
 msgid "export_with_cover"
 msgstr "With cover"
@@ -4752,6 +5244,9 @@ msgstr "Deutsch"
 msgid "get_clip_shorts"
 msgstr "Get shorts"
 
+msgid "get_it"
+msgstr "I see"
+
 msgid "get_text"
 msgstr "Get text"
 
@@ -5261,6 +5756,36 @@ msgstr "Japanese"
 msgid "jewelry_accessories"
 msgstr "💍 Jewelry & Accessories"
 
+msgid "jianying_homepage_ascending"
+msgstr "none"
+
+msgid "jianying_homepage_collapse"
+msgstr "none"
+
+msgid "jianying_homepage_create_time"
+msgstr "none"
+
+msgid "jianying_homepage_descending"
+msgstr "none"
+
+msgid "jianying_homepage_expand"
+msgstr "none"
+
+msgid "jianying_homepage_file_name"
+msgstr "none"
+
+msgid "jianying_homepage_file_size"
+msgstr "none"
+
+msgid "jianying_homepage_modify_time"
+msgstr "none"
+
+msgid "jianying_homepage_more_fun"
+msgstr "none"
+
+msgid "jianying_homepage_professional_upgrade"
+msgstr "none"
+
 msgid "jianying_login_banerror"
 msgstr "none"
 
@@ -5322,6 +5847,21 @@ msgid "jump_over_pc"
 msgstr "Skip"
 
 msgid "jump_to_pc"
+msgstr "none"
+
+msgid "jy_profile_jianying_app_version_above_needed"
+msgstr "none"
+
+msgid "jy_profile_logging_in"
+msgstr "none"
+
+msgid "jy_profile_open_jianying_app_to_scan_login"
+msgstr "none"
+
+msgid "jy_profile_qr_code_expired_refresh"
+msgstr "none"
+
+msgid "jy_profile_scan_code_login_on_mobile"
 msgstr "none"
 
 msgid "kazakh_pc"
@@ -5740,6 +6280,12 @@ msgstr "You’ve got {num} days of free Pro."
 msgid "m10n_pro_trial_tooltip_get_free_pro"
 msgstr "Congrats! You’ve got %1 days of free Pro. Try Pro benefits and get the full editing experience now."
 
+msgid "m10n_receipt_price_tax_excl"
+msgstr "tax excl."
+
+msgid "m10n_receipt_tax_notice"
+msgstr "Taxes may apply and be added at payment."
+
 msgid "made_video_with_cc"
 msgstr "I made this amazing video with CapCut. Tap the link to try it out!"
 
@@ -6070,6 +6616,15 @@ msgstr "No scenes or dialogs found"
 msgid "material_search_intelligent_gray_words"
 msgstr "Search for file names, scenes, or dialogs"
 
+msgid "material_search_intelligent_gray_words_intelligent_off"
+msgstr "[null]"
+
+msgid "material_search_intelligent_gray_words_intelligent_on"
+msgstr "[null]"
+
+msgid "material_search_intelligent_loading_gray_words"
+msgstr "[null]"
+
 msgid "material_search_intelligent_low_upgrade"
 msgstr "Update your app and try again"
 
@@ -6079,8 +6634,17 @@ msgstr "Search for scenes and dialogs in precise mode"
 msgid "material_search_intelligent_precise_checkbox"
 msgstr "Precise mode"
 
+msgid "material_search_intelligent_precise_checkbox_new"
+msgstr "[null]"
+
 msgid "material_search_intelligent_precise_gray_words"
 msgstr "Search for file names, elements, or dialogs"
+
+msgid "material_search_intelligent_precise_loading_gray_words"
+msgstr "[null]"
+
+msgid "material_search_intelligent_precise_off_gray_words"
+msgstr "[null]"
 
 msgid "material_search_intelligent_precise_state_analyzing_materials"
 msgstr "Analyzing media.. %1%"
@@ -6108,6 +6672,9 @@ msgstr "Analyzing in precise mode takes longer. Please wait... %1%"
 
 msgid "material_search_intelligent_state_search_materials"
 msgstr "Searching... %1%"
+
+msgid "material_search_intelligent_success_gray_words"
+msgstr "[null]"
 
 msgid "material_search_intelligent_tooltip_analyzing_materials"
 msgstr "Analyzing scenes, dialogs, and other content locally for smart search..."
@@ -6336,6 +6903,15 @@ msgstr "More activities"
 msgid "mob_auto_packaging_succeed"
 msgstr "Video packaged"
 
+msgid "mob_autorenew_old_pro_notify_popup_des1"
+msgstr "• We hope you're enjoying all that CapCut has to offer! CapCut is updating our subscription plans and pricing to better serve the diverse needs of our creators."
+
+msgid "mob_autorenew_old_pro_notify_popup_des2"
+msgstr "• Your current monthly or yearly cost will stay the same."
+
+msgid "mob_autorenew_old_pro_notify_popup_des3"
+msgstr "• If you cancel auto renewal, the new pricing will apply when you subscribe again."
+
 msgid "mob_chatbot_Noticeofuse"
 msgstr "Notice"
 
@@ -6381,6 +6957,15 @@ msgstr "Ask me to..."
 msgid "mob_chatbot_welcome_message"
 msgstr "How can I help you today?"
 
+msgid "mob_feature_unavailable_btn"
+msgstr "OK"
+
+msgid "mob_feature_unavailable_desc"
+msgstr "This feature is not available in your region."
+
+msgid "mob_feature_unavailable_title"
+msgstr "Feature not available"
+
 msgid "mob_feedback_submit_note"
 msgstr "By clicking \"Submit\", your feedback details and logs will be shared with CapCut to help troubleshoot issues and will be deleted afterwards."
 
@@ -6416,6 +7001,21 @@ msgstr "Presets"
 
 msgid "mob_group_delete_toast_only_group_delete_failed"
 msgstr "none"
+
+msgid "mob_oneoff_old_pro_free_extension_desc1"
+msgstr "• We hope you're enjoying all that CapCut has to offer! CapCut is updating our subscription plans and pricing to better serve the diverse needs of our creators."
+
+msgid "mob_oneoff_old_pro_free_extension_desc2"
+msgstr "• You can still enjoy the upgraded Pro plan until your current subscription ends, and we're delighted to offer you an extension to {$pro_expire_date$} for free so you can fully explore all the new features."
+
+msgid "mob_oneoff_old_pro_free_extension_desc3"
+msgstr "• The new pricing will apply when you renew the subscription."
+
+msgid "mob_oneoff_old_pro_notify_popup_des1"
+msgstr "• We hope you're enjoying all that CapCut has to offer! CapCut is updating our subscription plans and pricing to better serve the diverse needs of our creators."
+
+msgid "mob_oneoff_old_pro_notify_popup_des2"
+msgstr "• You can still enjoy the upgraded Pro plan until your current subscription ends. The new pricing will apply when you renew the subscription."
 
 msgid "mob_pay_failed_load"
 msgstr "Couldn’t load"
@@ -6951,6 +7551,9 @@ msgstr "Normal"
 msgid "normal_resize"
 msgstr "Normal"
 
+msgid "norwegian_pc"
+msgstr "Norwegian"
+
 msgid "not_allowed_angel_brackets"
 msgstr "Do not use <"
 
@@ -7037,6 +7640,12 @@ msgstr "Get notifications when there is an official activity and when your follo
 
 msgid "notifications_timely_official"
 msgstr "Get notifications when there are messages about activities and your followers"
+
+msgid "number_can_be_added"
+msgstr "Only %1 more material can be added"
+
+msgid "number_can_be_added_desc"
+msgstr "Space is not currently subscribed, the current type can add a maximum of %1 more materials (a total of %2 materials can be added), please contact the space owner, upgrade subscription team edition can get unlimited amount"
 
 msgid "number_of_administrators"
 msgstr "none"
@@ -7421,6 +8030,9 @@ msgstr "(replacing video with photo will cause audio loss)"
 msgid "pc_Insufficient_microphone_access"
 msgstr "No access to microphone"
 
+msgid "pc__fashionmodel_tab_diy"
+msgstr "Uploaded"
+
 msgid "pc_a_project_draft_error_was_detected."
 msgstr "The project failed to open, a project data error was detected."
 
@@ -7497,7 +8109,22 @@ msgid "pc_added_to_download_queue"
 msgstr "Added to download list"
 
 msgid "pc_adjust"
-msgstr "Adjustment"
+msgstr "Adjust"
+
+msgid "pc_adjust_backlight_correction"
+msgstr "Backlight correction"
+
+msgid "pc_adjust_color_boost"
+msgstr "Color boost"
+
+msgid "pc_adjust_dehaze"
+msgstr "Dehaze"
+
+msgid "pc_adjust_restore_details"
+msgstr "Restore details"
+
+msgid "pc_adjust_soften"
+msgstr "Soften"
 
 msgid "pc_adjusted_to_maximum_limit"
 msgstr "Adjusted to maximum limit"
@@ -7611,6 +8238,42 @@ msgstr "Credits can be purchased and are valid for 2 years. Learn more about cre
 
 msgid "pc_agic_credit_popup_title_buy"
 msgstr "Buy credits to use this feature"
+
+msgid "pc_ai_adaptation_lyrics_recognition"
+msgstr "Lyrics recognition in progress... %1%"
+
+msgid "pc_ai_adaptation_lyrics_recognition_failed"
+msgstr "Lyrics recognition failed. Please retry."
+
+msgid "pc_ai_adaptation_lyrics_resing_failed"
+msgstr "Song adaptation failed"
+
+msgid "pc_ai_avatar"
+msgstr "AI avatar"
+
+msgid "pc_ai_avatar_ai_dialogue_scene"
+msgstr "AI dialogue scene"
+
+msgid "pc_ai_avatar_fashion_model"
+msgstr "Fashion model video"
+
+msgid "pc_ai_avatar_library"
+msgstr "Avatar library"
+
+msgid "pc_ai_avatar_my avatars"
+msgstr "My avatars"
+
+msgid "pc_ai_avatar_photo"
+msgstr "Photo to avatar"
+
+msgid "pc_ai_avatar_video"
+msgstr "Video to avatar"
+
+msgid "pc_ai_avatar_video_translator"
+msgstr "Video translator"
+
+msgid "pc_ai_avatar_video_translator_upload"
+msgstr "Upload the file you want to translate"
 
 msgid "pc_ai_character_apply_first_bg"
 msgstr "To select a background, apply the AI avatar first"
@@ -8051,9 +8714,6 @@ msgstr "Later"
 msgid "pc_ai_expand_m10n_btn_generate"
 msgstr "Generate"
 
-msgid "pc_ai_expand_m10n_btn_generate (复用）"
-msgstr "Generate"
-
 msgid "pc_ai_expand_m10n_credits_left"
 msgstr "Credits left %1"
 
@@ -8067,9 +8727,6 @@ msgid "pc_ai_expand_m10n_popup_btn_buy_credits"
 msgstr "Buy credits"
 
 msgid "pc_ai_expand_m10n_popup_btn_cancel"
-msgstr "Cancel"
-
-msgid "pc_ai_expand_m10n_popup_btn_cancel （复用）"
 msgstr "Cancel"
 
 msgid "pc_ai_expand_m10n_popup_btn_generate"
@@ -8169,6 +8826,12 @@ msgstr "Images generated. %1 free use deducted."
 msgid "pc_ai_expand_m10n_use_needed"
 msgstr "Use needed %1"
 
+msgid "pc_ai_hd"
+msgstr "AI HD"
+
+msgid "pc_ai_hd_unsupported_media"
+msgstr "Videos don't support AI HD adjustment"
+
 msgid "pc_ai_image_failure_generate_please_choose"
 msgstr "Couldn’t apply effect. Select a photo of a clear front face and try again."
 
@@ -8186,6 +8849,57 @@ msgid_plural "%1 highlights"
 msgstr[0] "%1 highlight"
 msgstr[1] "%1 highlights"
 
+msgid "pc_ai_lyrics_adaptation_current_song_not_support"
+msgstr "The current music can't be adapted. Please add copyrighted songs to adapt."
+
+msgid "pc_ai_lyrics_adaptation_duration_error"
+msgstr "Lyric adaptation is only supported for audios between %1s and %2min."
+
+msgid "pc_ai_lyrics_adaptation_failed"
+msgstr "Generation failed. Please try again."
+
+msgid "pc_ai_lyrics_adaptation_generating"
+msgstr "generating..."
+
+msgid "pc_ai_lyrics_adaptation_lines_count"
+msgstr "%d/%d lines"
+
+msgid "pc_ai_lyrics_adaptation_material_tip"
+msgstr "The function will process the materials you upload. Please ensure that the content is original by you or has obtained complete authorization, and complies with the relevant requirements of <a href=\"%1\">Jianying Terms of Service<a/>."
+
+msgid "pc_ai_lyrics_adaptation_paste"
+msgstr "Paste lyrics"
+
+msgid "pc_ai_lyrics_adaptation_paste_detect"
+msgstr "Clipboard content detected. Paste and overwrite?"
+
+msgid "pc_ai_lyrics_adaptation_paste_modify"
+msgstr "Lyrics will be automatically optimized when pasted."
+
+msgid "pc_ai_lyrics_adaptation_toast_modify_failed"
+msgstr "Failed to optimize the lyrics. Please try again."
+
+msgid "pc_ai_lyrics_adaptation_toast_nochinesein_lyrics"
+msgstr "No Chinese characters in the lyrics. Lyric adaptation is not supported."
+
+msgid "pc_ai_lyrics_adaptation_toast_nolyrics"
+msgstr "Please modify the original lyrics before generating."
+
+msgid "pc_ai_lyrics_adaptation_toast_nolyrics_modify"
+msgstr "Please enter the lyrics before optimizing."
+
+msgid "pc_ai_lyrics_adaptation_toast_nonchinese"
+msgstr "Non-Chinese characters in lyrics cannot be edited."
+
+msgid "pc_ai_lyrics_adaptation_toast_nonchinese_input"
+msgstr "Only Chinese characters can be entered."
+
+msgid "pc_ai_lyrics_adaptation_wordcount_mismatch"
+msgstr "Lyric word count doesn't match. Please modify lyrics."
+
+msgid "pc_ai_lyrics_empty_lyrics"
+msgstr "Please input the right number of words in lyrics"
+
 msgid "pc_ai_media_compliance"
 msgstr "By using this service, you acknowledge and agree that you allow CapCut to upload your selected media to our server. The content is automatically suggested based on your input. CapCut does not make any promises or warranties regarding the legality or appropriateness of any content. You shall be solely responsible for content made using CapCut, and such content is not and will not be endorsed, sponsored, or approved by CapCut."
 
@@ -8197,6 +8911,12 @@ msgstr "Cancel"
 
 msgid "pc_ai_media_compliance_tip"
 msgstr "To protect your privacy, avoid including personal or sensitive information in your prompt."
+
+msgid "pc_ai_melody_adaptation_failed"
+msgstr "The vocal melody of the song was not recognized."
+
+msgid "pc_ai_music_reset_original_lyrics"
+msgstr "Reset as original lyrics"
 
 msgid "pc_ai_packaging_broll"
 msgstr "Auto B-roll"
@@ -8570,6 +9290,9 @@ msgstr "Retry"
 msgid "pc_aigc_credit_balance_motion_effect"
 msgstr "Motion effects"
 
+msgid "pc_aigc_credit_bar"
+msgstr "Subscription credits reset monthly"
+
 msgid "pc_aigc_credit_cancel"
 msgstr "Cancel"
 
@@ -8707,6 +9430,9 @@ msgstr "Subscription credits:"
 msgid "pc_aigc_credit_sub_info"
 msgstr "Credits about to expire will be consumed first."
 
+msgid "pc_aigc_credit_svip_bar"
+msgstr "Pro plan: {number} credits, resets monthly"
+
 msgid "pc_aigc_credit_the_currently_generateds_function2"
 msgid_plural "%1 free use will be deducted. You have %2 free uses now."
 msgstr[0] "%1 free use will be deducted. You have %2 free use now."
@@ -8722,6 +9448,9 @@ msgstr "Credits are available now"
 
 msgid "pc_aigc_credit_version_available"
 msgstr "Update your CapCut desktop app to version 5.8.0 or above to use credits."
+
+msgid "pc_aigc_credit_vip_bar"
+msgstr "Standard plan: {number} credits, resets monthly"
 
 msgid "pc_aigc_credit_vip_credit"
 msgstr "Pro members will get %1 subscription credits at the beginning of every subscription month."
@@ -8760,6 +9489,9 @@ msgstr "Pro uses left"
 msgid "pc_aigc_use_needed"
 msgstr "Use needed"
 
+msgid "pc_aigc_watermark_export_loading_desc"
+msgstr "Contains some AI-generated content. Please consider the impact before sharing."
+
 msgid "pc_aimusic_cant_use_function"
 msgstr "Can't use this feature"
 
@@ -8774,6 +9506,12 @@ msgstr "Cancel"
 
 msgid "pc_aimusic_desc_upgrade_update"
 msgstr "Update"
+
+msgid "pc_aimusic_duration_illegal_toast"
+msgstr "Only 30-second to 2-minute instrumental music can be generated currently."
+
+msgid "pc_aimusic_duration_illegal_toast_vocal"
+msgstr "Only 30-second to 4-minute vocal music can be generated currently."
 
 msgid "pc_aimusic_duration_tip"
 msgstr "Currently, you can only generate 1-minute instrumental music."
@@ -9051,6 +9789,9 @@ msgstr "Out point (O)"
 msgid "pc_area_out_point"
 msgstr "Out point"
 
+msgid "pc_aspect_ratio_hovertip"
+msgstr "Aspect ratio"
+
 msgid "pc_assign"
 msgstr "Copy"
 
@@ -9203,6 +9944,9 @@ msgstr "Auto styles"
 msgid "pc_auto_delete"
 msgstr "Auto delete cache"
 
+msgid "pc_auto_mark_beats"
+msgstr "Auto mark beats"
+
 msgid "pc_auto_packaging_ai_divide_video_chapter"
 msgstr "Automatically add chapter transitions according to topic changing."
 
@@ -9349,6 +10093,12 @@ msgstr "Can’t package videos longer than %1 minutes"
 msgid "pc_auto_packaging_video_recfail"
 msgstr "Couldn’t add intro. No video image is found in your clips."
 
+msgid "pc_auto_removal"
+msgstr "Remove background"
+
+msgid "pc_auto_removal_info"
+msgstr "Automatically detect human subjects and remove the background."
+
 msgid "pc_auto_remove"
 msgstr "Auto remove"
 
@@ -9372,6 +10122,9 @@ msgstr "Restore now"
 
 msgid "pc_auto_renewal_profile_text"
 msgstr "Restore auto-renewal subscription"
+
+msgid "pc_auto_renewal_successfully_toast"
+msgstr "Auto-renewal Pro subscription restored."
 
 msgid "pc_auto_renewal_text"
 msgstr "Restore auto-renewal to keep enjoying uninterrupted access to all your Pro benefits!"
@@ -9424,6 +10177,12 @@ msgstr "Got it"
 msgid "pc_automatic_updates_popup_freepro_desc"
 msgstr ""
 "Your CapCut version is outdated. For a smoother and safer experience, we'll update your app to the latest version after Mar 10.\n"
+"\n"
+"Once updated, you'll enjoy Pro benefits for a limited time. For questions, contact us via Feedback in the top-right corner of the homepage. Thank you!"
+
+msgid "pc_automatic_updates_popup_freepro_desc_july"
+msgstr ""
+"Your CapCut version is outdated. For a smoother and safer experience, we'll update your app to the latest version after July 30.\n"
 "\n"
 "Once updated, you'll enjoy Pro benefits for a limited time. For questions, contact us via Feedback in the top-right corner of the homepage. Thank you!"
 
@@ -9985,6 +10744,9 @@ msgstr "Submit"
 msgid "pc_avatar_submit_unavailable"
 msgstr "Once it’s uploaded, you won’t be able to make certain edits to the video tracks of the original AI avatar, such as changing the voice or script."
 
+msgid "pc_avatar_system_error"
+msgstr "Can't use this feature right now. Try again later."
+
 msgid "pc_avatar_tag_creations_left"
 msgid_plural "%1 creations left"
 msgstr[0] "%1 creation left"
@@ -10024,13 +10786,13 @@ msgid "pc_avatar_title_changeface"
 msgstr "Replace current avatar?"
 
 msgid "pc_avatar_title_choose"
-msgstr "AI avatar"
+msgstr "Choose avatar"
 
 msgid "pc_avatar_title_clong"
 msgstr "Create with video"
 
 msgid "pc_avatar_title_dub"
-msgstr "Voiceover"
+msgstr "Add speech"
 
 msgid "pc_avatar_title_generate"
 msgstr "Generate"
@@ -10441,6 +11203,57 @@ msgstr "Source language"
 
 msgid "pc_bilingual_subtitles_upload_failed"
 msgstr "Couldn’t update translated captions. Try again."
+
+msgid "pc_billing_email_btn"
+msgstr "Done"
+
+msgid "pc_billing_email_desc"
+msgstr "Enter an email to automatically receive your receipts and invoices. If you update it, future emails will be sent to the new address. For Google Play or App Store purchases, please check your account there."
+
+msgid "pc_billing_email_title"
+msgstr "Billing email address"
+
+msgid "pc_billing_email_tooltip"
+msgstr "Add your billing email to have new receipts and invoices sent to your inbox automatically."
+
+msgid "pc_billing_email_updated_toast"
+msgstr "Billing email updated"
+
+msgid "pc_billing_entry_tooltip"
+msgstr "You can now check your receipts in \"Billing\" from here."
+
+msgid "pc_billing_entry_tooltip_btn"
+msgstr "Got it"
+
+msgid "pc_billing_history"
+msgstr "Billing history"
+
+msgid "pc_billing_history_payment_method"
+msgstr "Payment method"
+
+msgid "pc_billing_history_tab_individual"
+msgstr "Individual"
+
+msgid "pc_billing_history_tab_other"
+msgstr "Others"
+
+msgid "pc_billing_history_tab_space"
+msgstr "Space"
+
+msgid "pc_billing_history_tab_teams"
+msgstr "Teams"
+
+msgid "pc_billing_order_copied_toast"
+msgstr "Copied"
+
+msgid "pc_billing_popup_title"
+msgstr "Billing"
+
+msgid "pc_billing_receipt_availability_info"
+msgstr "Receipts are available for purchases after %1. Some countries and regions aren't supported yet."
+
+msgid "pc_billing_setting"
+msgstr "Billing"
 
 msgid "pc_birthday_info_remove_account_button"
 msgstr "Log out"
@@ -10910,13 +11723,13 @@ msgid "pc_capitalization_capitalize_first_letter"
 msgstr "Title case"
 
 msgid "pc_captain_apply_cc_settings_apply_cta"
-msgstr "Apply"
+msgstr "Import"
 
 msgid "pc_captain_apply_cc_settings_cancel_cta"
 msgstr "Cancel"
 
 msgid "pc_captain_apply_cc_settings_desc"
-msgstr "Your language and editing settings from CapCut will be applied to the new app for a seamless experience."
+msgstr "Your language and editing settings from CapCut will be imported to this new desktop app for a seamless experience."
 
 msgid "pc_captain_apply_cc_settings_done_restart_later_cta"
 msgstr "Restart later"
@@ -10925,16 +11738,16 @@ msgid "pc_captain_apply_cc_settings_done_restart_now_cta"
 msgstr "Restart now"
 
 msgid "pc_captain_apply_cc_settings_done_title"
-msgstr "CapCut settings applied, please restart to apply"
+msgstr "CapCut settings imported. Restart to apply changes."
 
 msgid "pc_captain_apply_cc_settings_title"
-msgstr "Apply your CapCut settings?"
+msgstr "Import your CapCut settings?"
 
 msgid "pc_captain_apply_cc_settings_wip_popup_cta"
 msgstr "Cancel"
 
 msgid "pc_captain_apply_cc_settings_wip_popup_title"
-msgstr "Applying settings..."
+msgstr "Importing settings..."
 
 msgid "pc_captain_new_app_import_projects_cta"
 msgstr "Import"
@@ -10943,10 +11756,18 @@ msgid "pc_captain_new_app_import_projects_desc"
 msgstr "Access your CapCut project locations and select where to import your projects"
 
 msgid "pc_captain_new_app_import_projects_done_toast"
-msgstr "{num} projects imported"
+msgid_plural "%1 projects imported"
+msgstr[0] "%1 project imported"
+msgstr[1] "%1 projects imported"
 
 msgid "pc_captain_new_app_import_projects_entry"
 msgstr "Import CapCut projects"
+
+msgid "pc_captain_new_app_import_projects_error"
+msgstr "No projects available to import"
+
+msgid "pc_captain_new_app_import_projects_error_toast"
+msgstr "Couldn't import projects. Try again."
 
 msgid "pc_captain_new_app_import_projects_fail_popup_cta"
 msgstr "OK"
@@ -10954,17 +11775,47 @@ msgstr "OK"
 msgid "pc_captain_new_app_import_projects_fail_popup_title"
 msgstr "Local projects not found"
 
+msgid "pc_captain_new_app_import_projects_path"
+msgstr "Project path"
+
+msgid "pc_captain_new_app_import_projects_status"
+msgstr "Status"
+
+msgid "pc_captain_new_app_import_projects_status_import_error"
+msgstr "Import error"
+
+msgid "pc_captain_new_app_import_projects_status_import_ready"
+msgstr "Ready to import"
+
+msgid "pc_captain_new_app_import_projects_status_imported"
+msgstr "Imported (%1)"
+
+msgid "pc_captain_new_app_import_projects_status_imported_all"
+msgstr "All imported (%1)"
+
 msgid "pc_captain_new_app_import_projects_wip_popup_cta"
 msgstr "Cancel"
 
 msgid "pc_captain_new_app_import_projects_wip_popup_title"
 msgstr "Importing projects..."
 
+msgid "pc_captain_new_project_popup_cta1"
+msgstr "Cancel"
+
+msgid "pc_captain_new_project_popup_cta2"
+msgstr "Open project"
+
+msgid "pc_captain_new_project_popup_desc"
+msgstr "This project was imported from a higher version of CapCut Desktop. Some elements may not be available when you open it."
+
+msgid "pc_captain_new_project_popup_title"
+msgstr "Open this project?"
+
 msgid "pc_captain_transfer_create_new_account_cta"
 msgstr "Create new account"
 
 msgid "pc_captain_transfer_find_account_error_popup_desc"
-msgstr "Sign in to CapCut to identify your account, then we’ll recover your CapCut account on the new desktop version. After recovery, you won’t be able to sign into the previous desktop version with this account."
+msgstr "Sign in to CapCut to identify your account, then we’ll recover your CapCut account on the new desktop version. After recovery, you won’t be able to sign in to the previous desktop version with this account."
 
 msgid "pc_captain_transfer_find_account_error_popup_title"
 msgstr "Already a CapCut user?"
@@ -10979,10 +11830,13 @@ msgid "pc_captain_transfer_get_new_version_desc_split1"
 msgstr "Introducing the new “CapCut US\" in the U.S. Starting Apr 5, 2025, [OpCo] will be the controller of your personal data. The storage location of your personal data will change to include Malaysia on or around Dec 31, 2025."
 
 msgid "pc_captain_transfer_get_new_version_desc_split2"
-msgstr "You may access and download your personal data by visiting <here>here</here> before Dec 31, 2026. Should you choose not to download the new desktop version of CapCut US, your account will be deleted by Dec 31, 2026. We have updated our <privacy-policy>Privacy Policy</privacy-policy> and <terms-of-service>Terms of Service</terms-of-service>, effective Apr 5, 2025."
+msgstr "You may access and download your personal data by visiting <here>here</here> before Dec 31, 2026. We have updated our <privacy-policy>Privacy Policy</privacy-policy> and <terms-of-service>Terms of Service</terms-of-service>, effective Apr 5, 2025."
 
 msgid "pc_captain_transfer_get_new_version_desc_split3"
-msgstr "Download the new PC version to continue accessing CapCut in the U.S.!"
+msgstr "Download the new desktop version to continue accessing CapCut in the U.S.!"
+
+msgid "pc_captain_transfer_get_new_version_desc_splitnew"
+msgstr "If you have been paying for an auto-renewal subscription to CapCut through the App Store or Google Play, please cancel it after recovering your account in the new desktop version to avoid duplicate charges. For help, contact capcut.support@bytedance.com."
 
 msgid "pc_captain_transfer_get_new_version_title"
 msgstr "Get the new desktop version"
@@ -11014,11 +11868,20 @@ msgstr "Maybe later"
 msgid "pc_captain_transfer_new_app_new_account_done_toast"
 msgstr "Your new account is ready. Welcome to CapCut US!"
 
+msgid "pc_captain_transfer_new_app_welcome_header"
+msgstr "Welcome back!"
+
 msgid "pc_captain_transfer_new_app_welcome_phone_email_desc"
-msgstr "You have multiple existing CapCut accounts linked to this sign-in method. Select one account (including related projects and data) to recover on CapCut US. After recovery, you won’t be able to sign into the previous CapCut desktop version with this account."
+msgstr "You have multiple existing CapCut accounts linked to this sign-in method. Select one account (including related projects and data) to recover on CapCut US. After recovery, you won’t be able to sign in to the previous CapCut desktop version with this account."
+
+msgid "pc_captain_transfer_new_app_welcome_signedup_date"
+msgstr "Signed up"
+
+msgid "pc_captain_transfer_new_app_welcome_small_title"
+msgstr "Select account to recover"
 
 msgid "pc_captain_transfer_new_app_welcome_third_party_desc_split1"
-msgstr "You have an existing CapCut account linked to this sign-in method. If you choose to recover your account (including projects and data) on CapCut US, you won’t be able to sign into the previous CapCut desktop version with this account."
+msgstr "You have an existing CapCut account linked to this sign-in method. If you choose to recover your account (including projects and data) on CapCut US, you won’t be able to sign in to the previous CapCut desktop version with this account."
 
 msgid "pc_captain_transfer_new_app_welcome_third_party_desc_split2"
 msgstr "If you do not wish to recover your existing account on CapCut US yet, you can create a new account or recover later in Settings > Manage accounts on the new desktop version by Dec 31, 2026, after which your previous CapCut account will be deleted."
@@ -11026,17 +11889,26 @@ msgstr "If you do not wish to recover your existing account on CapCut US yet, yo
 msgid "pc_captain_transfer_new_app_welcome_title"
 msgstr "Welcome to CapCut US!"
 
+msgid "pc_captain_transfer_old_signin_fail_toast"
+msgstr "This account has been recovered in CapCut US. You can no longer sign in to CapCut with this account."
+
 msgid "pc_captain_transfer_recover_account_cta"
 msgstr "Recover account"
 
+msgid "pc_captain_transfer_recover_account_error_toast"
+msgstr "Couldn't recover account. Try again."
+
 msgid "pc_captain_transfer_recover_account_popup_desc"
-msgstr "Sign in to CapCut to identify your account, then we’ll recover your CapCut account on the new desktop version. After recovery, you won’t be able to sign into the previous desktop version with this account. If this account uses the same sign-in method, your existing projects and data will be replaced by those from your recovered CapCut account."
+msgstr "Sign in to CapCut to identify your account, then we’ll recover your CapCut account on the new desktop version. After recovery, you won’t be able to sign in to the previous desktop version with this account. If this account uses the same sign-in method, your existing projects and data will be replaced by those from your recovered CapCut account."
 
 msgid "pc_captain_transfer_recover_account_popup_title"
 msgstr "Recover your CapCut account"
 
 msgid "pc_captain_transfer_recover_account_title"
 msgstr "Recover CapCut account"
+
+msgid "pc_captain_transfer_recover_done_toast"
+msgstr "Account recovered"
 
 msgid "pc_caption_auto_start"
 msgstr "Highlight keywords automatically?"
@@ -11052,6 +11924,162 @@ msgstr "This will overwrite your selected filler words."
 
 msgid "pc_caption_identifying_filler_words"
 msgstr "Identifying filler words..."
+
+msgid "pc_caption_language_azerbaijani"
+msgstr "Azerbaijani"
+
+msgid "pc_caption_language_azerbaijani_n"
+msgstr "Azərbaycan dili"
+
+msgid "pc_caption_language_bulgarian"
+msgstr "Bulgarian"
+
+msgid "pc_caption_language_bulgarian_n"
+msgstr "български"
+
+msgid "pc_caption_language_czech"
+msgstr "Czech"
+
+msgid "pc_caption_language_czech_n"
+msgstr "čeština"
+
+msgid "pc_caption_language_danish"
+msgstr "Danish"
+
+msgid "pc_caption_language_danish_n"
+msgstr "Dansk"
+
+msgid "pc_caption_language_finnish"
+msgstr "Finnish"
+
+msgid "pc_caption_language_finnish_n"
+msgstr "Suomi"
+
+msgid "pc_caption_language_greek"
+msgstr "Greek"
+
+msgid "pc_caption_language_greek_n"
+msgstr "Ελληνικά"
+
+msgid "pc_caption_language_hausa"
+msgstr "Hausa"
+
+msgid "pc_caption_language_hausa_n"
+msgstr "Hausa"
+
+msgid "pc_caption_language_hebrew"
+msgstr "Hebrew"
+
+msgid "pc_caption_language_hebrew_n"
+msgstr "עברית"
+
+msgid "pc_caption_language_hungarian"
+msgstr "Hungarian"
+
+msgid "pc_caption_language_hungarian_n"
+msgstr "Magyar"
+
+msgid "pc_caption_language_kannada"
+msgstr "Kannada"
+
+msgid "pc_caption_language_kannada_n"
+msgstr "ಕನ್ನಡ"
+
+msgid "pc_caption_language_khmer"
+msgstr "Khmer"
+
+msgid "pc_caption_language_khmer_n"
+msgstr "ភាសាខ្មែរ"
+
+msgid "pc_caption_language_kurdish"
+msgstr "Kurdish"
+
+msgid "pc_caption_language_kurdish_n"
+msgstr "Kurdî"
+
+msgid "pc_caption_language_malayalam"
+msgstr "Malayalam"
+
+msgid "pc_caption_language_malayalam_n"
+msgstr "മലയാളം"
+
+msgid "pc_caption_language_marathi"
+msgstr "Marathi"
+
+msgid "pc_caption_language_marathi_n"
+msgstr "मराठी"
+
+msgid "pc_caption_language_nepali"
+msgstr "Nepali"
+
+msgid "pc_caption_language_nepali_n"
+msgstr "नेपाली"
+
+msgid "pc_caption_language_norwegian"
+msgstr "Norwegian"
+
+msgid "pc_caption_language_norwegian_n"
+msgstr "Norsk"
+
+msgid "pc_caption_language_pashto"
+msgstr "Pashto"
+
+msgid "pc_caption_language_pashto_n"
+msgstr "پښتو"
+
+msgid "pc_caption_language_punjabi"
+msgstr "Punjabi"
+
+msgid "pc_caption_language_punjabi_n"
+msgstr "ਪੰਜਾਬੀ"
+
+msgid "pc_caption_language_sindhi"
+msgstr "Sindhi"
+
+msgid "pc_caption_language_sindhi_n"
+msgstr "سنڌي"
+
+msgid "pc_caption_language_swahili"
+msgstr "Swahili"
+
+msgid "pc_caption_language_swahili_n"
+msgstr "Kiswahili"
+
+msgid "pc_caption_language_swedish"
+msgstr "Swedish"
+
+msgid "pc_caption_language_swedish_n"
+msgstr "Svenska"
+
+msgid "pc_caption_language_tamil"
+msgstr "Tamil"
+
+msgid "pc_caption_language_tamil_n"
+msgstr "தமிழ்"
+
+msgid "pc_caption_language_telugu"
+msgstr "Telugu"
+
+msgid "pc_caption_language_telugu_n"
+msgstr "తెలుగు"
+
+msgid "pc_caption_language_ukrainian"
+msgstr "Ukrainian"
+
+msgid "pc_caption_language_ukrainian_n"
+msgstr "Українська"
+
+msgid "pc_caption_language_urdu"
+msgstr "Urdu"
+
+msgid "pc_caption_language_urdu_n"
+msgstr "اردو"
+
+msgid "pc_caption_language_zulu"
+msgstr "Zulu"
+
+msgid "pc_caption_language_zulu_n"
+msgstr "isiZulu"
 
 msgid "pc_caption_lyrics"
 msgstr "Lyrics"
@@ -11242,6 +12270,9 @@ msgstr "Import caption file"
 msgid "pc_captions_no_space_toast"
 msgstr "Not enough space for bilingual captions"
 
+msgid "pc_captions_not_enough_space"
+msgstr "Not enough disk space. Free up some space and try again."
+
 msgid "pc_captions_show_bilingual_caption"
 msgstr "Bilingual"
 
@@ -11326,6 +12357,29 @@ msgstr "CapCut is running. Quit it before uninstalling it."
 
 msgid "pc_cc_prohibited_running_lower_win7"
 msgstr "Couldn't run CapCut in system compatibility mode lower than Windows 7"
+
+msgid "pc_cc_text_effect_post_page_title_left_sub_web"
+msgstr "You can only post text effects here."
+
+msgid "pc_cc_text_effect_post_page_title_left_web"
+msgstr "Text effects"
+
+msgid "pc_cc_text_effect_post_page_title_web"
+msgstr "Post text effects"
+
+msgid "pc_cc_text_effect_post_popup_desc"
+msgstr "Couldn't post. Improve as suggested below."
+
+msgid "pc_cc_text_effect_post_popup_link"
+msgstr ""
+"To repost, meet at least one of these requirements for text effects: \n"
+"-Multiple outer shadows\n"
+"-Multiple strokes\n"
+"-Inner shadow\n"
+"-Gradient\n"
+"-Texture\n"
+"-Shadow stroke\n"
+"-Stroke thickness > 100"
 
 msgid "pc_cdl_support"
 msgstr "Supports .cube/.3dl"
@@ -12080,6 +13134,315 @@ msgstr "Select an area by clip"
 msgid "pc_clip_too_short"
 msgstr "Clip is too short. Should be at least 0.1s after speed ramping."
 
+msgid "pc_clipper_add_media_btn"
+msgstr "Add"
+
+msgid "pc_clipper_analysis_failed"
+msgstr "Couldn't analyze your file"
+
+msgid "pc_clipper_analyzing"
+msgstr "Analyzing... %1%"
+
+msgid "pc_clipper_auto_arrange"
+msgstr "Auto arrange clips"
+
+msgid "pc_clipper_auto_arrange_info"
+msgstr "Automatically arrange your clips in order."
+
+msgid "pc_clipper_choose_media_all_btn"
+msgstr "Choose all"
+
+msgid "pc_clipper_choose_media_info"
+msgstr "Choose all or select specific media to use this feature."
+
+msgid "pc_clipper_choose_media_select_btn"
+msgstr "Select media"
+
+msgid "pc_clipper_choose_media_title"
+msgstr "Choose media to continue"
+
+msgid "pc_clipper_clip_again_btn"
+msgstr "Get clips"
+
+msgid "pc_clipper_clip_again_cancel_btn"
+msgstr "Not now"
+
+msgid "pc_clipper_clip_again_info"
+msgstr "Keyframes and speed changes will be removed. Some elements may be removed or may not sync with the main track."
+
+msgid "pc_clipper_clip_again_title"
+msgstr "Get highlight clips again?"
+
+msgid "pc_clipper_clip_from_all"
+msgstr "Get highlights from all clips"
+
+msgid "pc_clipper_clips_ready"
+msgstr "Your highlight clips are ready"
+
+msgid "pc_clipper_clips_ready_view"
+msgstr "View"
+
+msgid "pc_clipper_clips_results"
+msgstr "Highlight clips"
+
+msgid "pc_clipper_clips_results_view"
+msgstr "View"
+
+msgid "pc_clipper_cta"
+msgstr "Get clips"
+
+msgid "pc_clipper_duration"
+msgstr "Duration"
+
+msgid "pc_clipper_duration_auto"
+msgstr "Auto"
+
+msgid "pc_clipper_duration_four"
+msgstr "1min+"
+
+msgid "pc_clipper_duration_one"
+msgstr "0–15s"
+
+msgid "pc_clipper_duration_three"
+msgstr "30s–1min"
+
+msgid "pc_clipper_duration_two"
+msgstr "15–30s"
+
+msgid "pc_clipper_edit_highlights_ok_btn"
+msgstr "OK"
+
+msgid "pc_clipper_edit_highlights_tooltip"
+msgstr "Click here to edit your highlights"
+
+msgid "pc_clipper_edit_save_btn"
+msgstr "Save"
+
+msgid "pc_clipper_editing_style"
+msgstr "Editing style"
+
+msgid "pc_clipper_editing_style_auto"
+msgstr "Auto (edit based on your video content)"
+
+msgid "pc_clipper_editing_style_chronological"
+msgstr "Chronological"
+
+msgid "pc_clipper_editing_style_info"
+msgstr "This determines how your clips will be arranged."
+
+msgid "pc_clipper_editing_style_montage"
+msgstr "Montage"
+
+msgid "pc_clipper_editing_style_narrative"
+msgstr "Story-driven"
+
+msgid "pc_clipper_editing_style_other"
+msgstr "Other"
+
+msgid "pc_clipper_editing_style_speech_based"
+msgstr "Speech-based"
+
+msgid "pc_clipper_entry"
+msgstr "AI clipper"
+
+msgid "pc_clipper_failed"
+msgstr "Couldn't get clips"
+
+msgid "pc_clipper_failed_network_cancel_btn"
+msgstr "Cancel"
+
+msgid "pc_clipper_failed_network_info"
+msgstr "Check your internet connection and try again."
+
+msgid "pc_clipper_failed_network_retry_btn"
+msgstr "Retry"
+
+msgid "pc_clipper_failed_network_title"
+msgstr "Couldn't create clips"
+
+msgid "pc_clipper_failed_retry"
+msgstr "Retry"
+
+msgid "pc_clipper_get_clips_btn"
+msgstr "Get clips"
+
+msgid "pc_clipper_get_highlights_btn"
+msgstr "Get clips"
+
+msgid "pc_clipper_get_highlights_cancel_btn"
+msgstr "Cancel"
+
+msgid "pc_clipper_get_highlights_info"
+msgstr "Keyframes and speed changes will be removed. Some elements may be removed or may not sync with the main track."
+
+msgid "pc_clipper_get_highlights_title"
+msgstr "Get highlight clips?"
+
+msgid "pc_clipper_image_toast"
+msgstr "Can't adjust the duration of image clips"
+
+msgid "pc_clipper_in_progress"
+msgstr "Getting highlight clips... %1%"
+
+msgid "pc_clipper_in_progress_cancel"
+msgstr "Cancel"
+
+msgid "pc_clipper_leave_btn"
+msgstr "Leave"
+
+msgid "pc_clipper_leave_cancel"
+msgstr "Cancel"
+
+msgid "pc_clipper_leave_info"
+msgstr "Your changes to the clips won't be saved."
+
+msgid "pc_clipper_leave_title"
+msgstr "Leave now?"
+
+msgid "pc_clipper_more_requirements"
+msgstr "More requirements"
+
+msgid "pc_clipper_more_requirements_hint"
+msgstr "Describe the theme, pacing, or specific moments to include."
+
+msgid "pc_clipper_new_entry"
+msgstr "AI clipper"
+
+msgid "pc_clipper_new_onboarding"
+msgstr "Easily identify and organize video highlights with AI."
+
+msgid "pc_clipper_no_clips"
+msgstr "No highlight clips"
+
+msgid "pc_clipper_no_videos_in_folder_toast"
+msgstr "Select videos to use this feature"
+
+msgid "pc_clipper_number"
+msgid_plural "%1 highlight clips"
+msgstr[0] "%1 highlight clip"
+msgstr[1] "%1 highlight clips"
+
+msgid "pc_clipper_onboarding"
+msgstr "Let AI find and clip your best moments. No more scrubbing through footage."
+
+msgid "pc_clipper_onboarding_title"
+msgstr "<a>Get highlight clips</a> in one click"
+
+msgid "pc_clipper_progress_cancel_btn"
+msgstr "Cancel"
+
+msgid "pc_clipper_progress_info"
+msgstr "AI is selecting your best moments..."
+
+msgid "pc_clipper_progress_title"
+msgstr "Creating clips... %1%"
+
+msgid "pc_clipper_results_cancel_btn"
+msgstr "Cancel"
+
+msgid "pc_clipper_results_chapters"
+msgstr "Outline"
+
+msgid "pc_clipper_results_chapters_num"
+msgid_plural "%1 segments"
+msgstr[0] "%1 segment"
+msgstr[1] "%1 segments"
+
+msgid "pc_clipper_results_clip_again"
+msgstr "Get clips again"
+
+msgid "pc_clipper_results_clip_again_btn"
+msgstr "Clip again"
+
+msgid "pc_clipper_results_clips"
+msgstr "Clips"
+
+msgid "pc_clipper_results_clips_num"
+msgid_plural "%1 clips"
+msgstr[0] "%1 clip"
+msgstr[1] "%1 clips"
+
+msgid "pc_clipper_results_delete_btn"
+msgstr "Delete"
+
+msgid "pc_clipper_results_done"
+msgstr "Done"
+
+msgid "pc_clipper_results_edit"
+msgstr "Edit"
+
+msgid "pc_clipper_results_save_btn"
+msgstr "Save"
+
+msgid "pc_clipper_results_save_to_timeline"
+msgstr "Save to timeline"
+
+msgid "pc_clipper_results_settings_btn"
+msgstr "Settings"
+
+msgid "pc_clipper_save_replace_existing_btn"
+msgstr "Save"
+
+msgid "pc_clipper_save_replace_existing_cancel"
+msgstr "Cancel"
+
+msgid "pc_clipper_save_replace_existing_info"
+msgstr "The current clips in the timeline will be replaced."
+
+msgid "pc_clipper_save_replace_existing_title"
+msgstr "Save clips to timeline?"
+
+msgid "pc_clipper_subtitle"
+msgstr "Automatically find and organize your best moments. No more reviewing hours of footage."
+
+msgid "pc_clipper_title"
+msgstr "Get highlight clips with AI"
+
+msgid "pc_clipper_tooltip_onboarding"
+msgstr "Too much footage? Get your highlights in one click!"
+
+msgid "pc_clipper_tooltip_onboarding_close_btn"
+msgstr "Close"
+
+msgid "pc_clipper_tooltip_onboarding_try_btn"
+msgstr "Try it"
+
+msgid "pc_clipper_total_duration"
+msgstr "Duration"
+
+msgid "pc_clipper_total_duration_auto"
+msgstr "Auto"
+
+msgid "pc_clipper_total_duration_fifteen_min_plus"
+msgstr "15min+"
+
+msgid "pc_clipper_total_duration_fifteen_sec"
+msgstr "0–15s"
+
+msgid "pc_clipper_total_duration_five_min_plus"
+msgstr "5min+"
+
+msgid "pc_clipper_total_duration_one_min"
+msgstr "30s–1min"
+
+msgid "pc_clipper_total_duration_one_min_plus"
+msgstr "1min+"
+
+msgid "pc_clipper_total_duration_thirty_sec"
+msgstr "15–30s"
+
+msgid "pc_clipper_total_duration_three_min_plus"
+msgstr "3min+"
+
+msgid "pc_clipper_unavailable_hovertip"
+msgstr "Can't use AI clipper"
+
+msgid "pc_clipper_upload_storyline"
+msgstr "Video outline"
+
+msgid "pc_clipper_upload_storyline_info"
+msgstr "For better results, upload a DOCX, TXT, or MD file that describes each segment of your video."
+
 msgid "pc_clipping_pro_does_not_currently_support_devices"
 msgstr "No graphics card driver installed"
 
@@ -12095,6 +13458,9 @@ msgstr "Clips lost on current timeline"
 msgid "pc_clips_willbe_deleted_and_composite_clip_willbe_reloaded"
 msgstr "After deleted, materials in the track will also be deleted, and compound clip will be reloaded."
 
+msgid "pc_close_all_gap"
+msgstr "[null]"
+
 msgid "pc_close_draft_before_clearing_cache"
 msgstr "Close the project before clearing the cache"
 
@@ -12106,6 +13472,9 @@ msgstr "Close the project before selecting a proxy location"
 
 msgid "pc_close_draft_modify_save_location"
 msgstr "Close project before changing preset save path."
+
+msgid "pc_close_gap"
+msgstr "[null]"
 
 msgid "pc_close_linkage"
 msgstr "Turn off linkage"
@@ -12120,7 +13489,77 @@ msgid "pc_closed_beta_can_set_in_version_num"
 msgstr "Beta test version is turned off. You can turn it on in Settings>Version."
 
 msgid "pc_closing_window_will_not_affect_upgrade"
-msgstr "CapCut is being upgraded. Close the window won't affect upgrading."
+msgstr "CapCut is being upgraded. Closing this window won't affect the upgrade."
+
+msgid "pc_clothvideo_action_choose"
+msgstr "Select motion"
+
+msgid "pc_clothvideo_action_next"
+msgstr "Next"
+
+msgid "pc_clothvideo_action_upload"
+msgstr "Upload model or clothing"
+
+msgid "pc_clothvideo_desc_pose"
+msgstr "The model in the final video will differ from the preview."
+
+msgid "pc_clothvideo_desc_posetime"
+msgstr "%1s"
+
+msgid "pc_clothvideo_errcode_addnum"
+msgstr "You can upload up to %1 models. Delete some to add more."
+
+msgid "pc_clothvideo_errcode_cannotdo"
+msgstr "Your image doesn't meet the requirements"
+
+msgid "pc_clothvideo_errcode_delete"
+msgstr "Image files deleted"
+
+msgid "pc_clothvideo_errcode_fail"
+msgstr "Couldn't upload"
+
+msgid "pc_clothvideo_errcode_num"
+msgid_plural "Select up to %1 poses"
+msgstr[0] "Select up to %1 pose"
+msgstr[1] "Select up to %1 poses"
+
+msgid "pc_clothvideo_failed_info"
+msgstr "Check your internet connection and try again."
+
+msgid "pc_clothvideo_failed_title"
+msgstr "Couldn't generate"
+
+msgid "pc_clothvideo_failed_toast"
+msgstr "Couldn't generate"
+
+msgid "pc_clothvideo_legal"
+msgstr "You are solely responsible for the content generated based on your inputs. You acknowledge that this feature may provide you with content generated by AI models based on your inputs. By using this feature, you confirm that you have all necessary rights, licenses, and permissions needed to use the inputs, and will not infringe on any third-party's rights.\" In addition, you agree to abide by <a style='color:#00C1CD;text-decoration:none' href='statement1'>CapCut's Community Guidelines</a>. You bear the ultimate responsibility for the final version of this picture and video content. Any content generated using this feature is not endorsed, sponsored, or approved by CapCut."
+
+msgid "pc_clothvideo_name"
+msgstr "Fashion model video"
+
+msgid "pc_clothvideo_rules"
+msgstr "For better results, upload clear full-body model photos or flat-lay clothing photos."
+
+msgid "pc_clothvideo_rules_n"
+msgstr ""
+"1. To use your model, upload a front-facing model photo with arms down, feet visible, and a clear face.\n"
+"2. If you don't have such a photo, or you want to upload a clothing photo, we'll match an AI model for you."
+
+msgid "pc_clothvideo_success_toast"
+msgstr "Generated"
+
+msgid "pc_clothvideo_tips_fail"
+msgstr "Couldn't save"
+
+msgid "pc_clothvideo_tips_success"
+msgstr "Saved"
+
+msgid "pc_clothvideo_upload_photo"
+msgstr "Upload photo"
+
+msgid "pc_clothvideo_upload_photo_btn"
+msgstr "Upload model or clothing photo"
 
 msgid "pc_cloud_already_exists_in_cloud_backup_overwrite"
 msgstr "Some projects already exist on space. Replace projects on space?"
@@ -12980,7 +14419,7 @@ msgid "pc_color_space"
 msgstr "Color space"
 
 msgid "pc_color_space:"
-msgstr "Color space: "
+msgstr "Color space"
 
 msgid "pc_color_space_conversion"
 msgstr "Color space conversion"
@@ -13167,6 +14606,36 @@ msgstr "Content not appropriate for underage"
 
 msgid "pc_content_violation"
 msgstr "Content violation"
+
+msgid "pc_context_menu"
+msgstr "Right-click menu"
+
+msgid "pc_context_menu_check_box"
+msgstr "Add to Windows right-click menu"
+
+msgid "pc_context_menu_download_btn"
+msgstr "Download"
+
+msgid "pc_context_menu_download_title"
+msgstr "Download CapCut to quickly import and edit your media."
+
+msgid "pc_context_menu_edit_in_cc"
+msgstr "Edit in CapCut"
+
+msgid "pc_context_menu_less_btn"
+msgstr "Less"
+
+msgid "pc_context_menu_more_btn"
+msgstr "More"
+
+msgid "pc_context_menu_setting"
+msgstr "Add CapCut to Windows right-click menu"
+
+msgid "pc_context_menu_setting_info"
+msgstr "Quickly import and edit your media."
+
+msgid "pc_context_menu_setting_info_first"
+msgstr "Quickly import and edit your media. You need to grant permission the first time you add it."
 
 msgid "pc_continue_backup"
 msgstr "Continue backup"
@@ -13703,7 +15172,7 @@ msgid "pc_crop"
 msgstr "Crop"
 
 msgid "pc_crop_ratio"
-msgstr "Crop ratio"
+msgstr "Crop"
 
 msgid "pc_cur_proj_no_longer_prompted"
 msgstr "Don't remind me again for this project"
@@ -15230,71 +16699,14 @@ msgstr "To use this feature, add captions first"
 msgid "pc_emoji_adding"
 msgstr "Adding emojis..."
 
+msgid "pc_emoji_auto_captions_toast"
+msgstr "AI emojis can only be applied to auto-generated captions"
+
 msgid "pc_emoji_auto_update"
 msgstr "Auto update emojis"
 
 msgid "pc_emoji_cannot_replace_hidden"
 msgstr "Can't replace hidden emojis"
-
-msgid "pc_emoji_category_animals"
-msgstr "Animals"
-
-msgid "pc_emoji_category_body"
-msgstr "Body parts"
-
-msgid "pc_emoji_category_drink"
-msgstr "Drink"
-
-msgid "pc_emoji_category_emotions"
-msgstr "Emotions"
-
-msgid "pc_emoji_category_entertainment"
-msgstr "Entertainment"
-
-msgid "pc_emoji_category_events"
-msgstr "Events"
-
-msgid "pc_emoji_category_face"
-msgstr "Faces"
-
-msgid "pc_emoji_category_flags"
-msgstr "Flags"
-
-msgid "pc_emoji_category_food"
-msgstr "Food"
-
-msgid "pc_emoji_category_hands"
-msgstr "Hands"
-
-msgid "pc_emoji_category_objects"
-msgstr "Objects"
-
-msgid "pc_emoji_category_other"
-msgstr "Other"
-
-msgid "pc_emoji_category_people"
-msgstr "People"
-
-msgid "pc_emoji_category_places"
-msgstr "Places"
-
-msgid "pc_emoji_category_plants"
-msgstr "Plants"
-
-msgid "pc_emoji_category_sky"
-msgstr "Sky & weather"
-
-msgid "pc_emoji_category_symbols"
-msgstr "Symbols"
-
-msgid "pc_emoji_category_time"
-msgstr "Time"
-
-msgid "pc_emoji_category_tools"
-msgstr "Work tools"
-
-msgid "pc_emoji_category_transport"
-msgstr "Transport"
 
 msgid "pc_emoji_emojis_tab"
 msgstr "Emojis"
@@ -15374,6 +16786,9 @@ msgstr "The caption template already includes emojis"
 msgid "pc_emoji_title"
 msgstr "Emoji magic in one tap"
 
+msgid "pc_emoji_unsuppported_language"
+msgstr "This feature is only available for videos in English or Chinese"
+
 msgid "pc_emoji_update_captions_dialog_title"
 msgstr "Update sub captions and AI emojis?"
 
@@ -15403,6 +16818,12 @@ msgstr "Speed up hardware encoding"
 
 msgid "pc_enable_or_disable_fragments"
 msgstr "Activate/Deactivate clip"
+
+msgid "pc_enhance_audio"
+msgstr "Enhance audio"
+
+msgid "pc_enhance_quality"
+msgstr "Enhance visuals"
 
 msgid "pc_enhance_quality_pop_up"
 msgstr "Do you allow CapCut to enhance the quality of your images?"
@@ -15924,11 +17345,26 @@ msgstr "Premium templates"
 msgid "pc_export_type_pro_temp"
 msgstr "Pro templates"
 
+msgid "pc_export_watermark"
+msgstr "Made with CapCut Desktop"
+
+msgid "pc_export_watermark_off"
+msgstr "Remove"
+
+msgid "pc_export_watermark_on"
+msgstr "Keep"
+
+msgid "pc_export_watermark_setting"
+msgstr "Watermark"
+
 msgid "pc_exported_again_and_stored"
 msgstr "Your video will be exported again to the saved location if this option is selected"
 
 msgid "pc_exporting"
 msgstr "Exporting"
+
+msgid "pc_exporting_in_ultra_hd"
+msgstr "Exporting in ultra HD..."
 
 msgid "pc_exposure"
 msgstr "Exposure"
@@ -16191,6 +17627,143 @@ msgstr "Fan-made videos"
 
 msgid "pc_far_near"
 msgstr "Earliest to latest"
+
+msgid "pc_fashionmodel_action_add"
+msgstr "Use model"
+
+msgid "pc_fashionmodel_action_aigc"
+msgstr "Create"
+
+msgid "pc_fashionmodel_action_aigccreate"
+msgstr "Create AI model"
+
+msgid "pc_fashionmodel_action_delete"
+msgstr "Delete"
+
+msgid "pc_fashionmodel_action_down"
+msgstr "Save"
+
+msgid "pc_fashionmodel_action_generate"
+msgstr "Generate"
+
+msgid "pc_fashionmodel_action_generate_num"
+msgstr "Generate (%1)"
+
+msgid "pc_fashionmodel_action_genvid"
+msgstr "Generate video"
+
+msgid "pc_fashionmodel_action_name"
+msgstr "Select poses (%1/%2)"
+
+msgid "pc_fashionmodel_action_noupload"
+msgstr "Upload your model photos"
+
+msgid "pc_fashionmodel_action_pcupload"
+msgstr "Upload"
+
+msgid "pc_fashionmodel_action_replace"
+msgstr "Replace"
+
+msgid "pc_fashionmodel_action_title"
+msgstr "Clothing"
+
+msgid "pc_fashionmodel_action_upload"
+msgstr "Upload clothing photo"
+
+msgid "pc_fashionmodel_aimodel_word"
+msgstr "A female model with brown skin posed in front of a clean white background. Highlights the details of clothing, light nature, no shadow. Full-body shot."
+
+msgid "pc_fashionmodel_almost_there"
+msgstr "Almost there…"
+
+msgid "pc_fashionmodel_analyzing_image"
+msgstr "Analyzing your image…"
+
+msgid "pc_fashionmodel_clear_photo_hovertip"
+msgstr "Clear photo"
+
+msgid "pc_fashionmodel_clear_selection_hovertip"
+msgstr "Clear selection"
+
+msgid "pc_fashionmodel_desc_aigc"
+msgstr "Describe your model's appearance, pose, and background to generate it."
+
+msgid "pc_fashionmodel_desc_aigccreate"
+msgstr "Describe your model"
+
+msgid "pc_fashionmodel_desc_detail"
+msgstr "Easily create on-model images with AI."
+
+msgid "pc_fashionmodel_desc_limit"
+msgid_plural "Enter no more than %1 characters"
+msgstr[0] "Enter no more than %1 character"
+msgstr[1] "Enter no more than %1 characters"
+
+msgid "pc_fashionmodel_desc_title"
+msgstr "Show clothes on models"
+
+msgid "pc_fashionmodel_desc_upload"
+msgstr "You can upload up to %1 models. To delete one, right-click it and click \"Delete.\""
+
+msgid "pc_fashionmodel_finding_motions"
+msgstr "Finding the right motions…"
+
+msgid "pc_fashionmodel_generating"
+msgstr "Generating… %1%. The final model may differ from the preview."
+
+msgid "pc_fashionmodel_generating_video"
+msgstr "Generating fashion model video..."
+
+msgid "pc_fashionmodel_history_onmodel_subtitle"
+msgstr "On-model image"
+
+msgid "pc_fashionmodel_history_pic_subtitle"
+msgstr "AI model"
+
+msgid "pc_fashionmodel_history_title"
+msgstr "History"
+
+msgid "pc_fashionmodel_history_welcome"
+msgstr "Your on-model images and AI models will appear here."
+
+msgid "pc_fashionmodel_loading_motions"
+msgstr "Loading motions…"
+
+msgid "pc_fashionmodel_no_aigc"
+msgstr "Create your AI models"
+
+msgid "pc_fashionmodel_recognizing"
+msgstr "Recognizing..."
+
+msgid "pc_fashionmodel_save_banner"
+msgstr "Save the images to your device, or they'll be lost if you uninstall CapCut."
+
+msgid "pc_fashionmodel_suggestion_desc_upload"
+msgstr "Upload requirements for better results"
+
+msgid "pc_fashionmodel_suggestion_detail_upload"
+msgstr "Upload JPEG and PNG images with a shorter side of at least 512px."
+
+msgid "pc_fashionmodel_suggestion_upload"
+msgstr "Upload requirements"
+
+msgid "pc_fashionmodel_tab_ai"
+msgstr "AI"
+
+msgid "pc_fashionmodel_tab_offical"
+msgstr "Recommended"
+
+msgid "pc_fashionmodel_tip_added"
+msgstr "Added to models"
+
+msgid "pc_fashionmodel_tip_added_already"
+msgstr "You've already added this model"
+
+msgid "pc_fashionmodel_tip_download"
+msgstr "History is kept for 30 days only."
+
+msgid "pc_fashionmodel_tool"
+msgstr "AI fashion model"
 
 msgid "pc_fast_for_weak_and_slow_for_strong"
 msgstr "Select Weaker if picture changes fast. Select Stronger if picture changes slowly."
@@ -16804,7 +18377,7 @@ msgid "pc_finished_film"
 msgstr "Exported videos"
 
 msgid "pc_fission_agreement"
-msgstr "By continuing, you agree to CapCut <a target='_blank' href='https://sf21-draftcdn-sg.ibytedtos.com/obj/ies-hotsoon-draft-sg/capcut/via_clause_user_agreement_en.html'>Terms of Service</a> and acknowledge that you have read CapCut <a target='_blank' href='https://sf21-draftcdn-sg.ibytedtos.com/obj/ies-hotsoon-draft-sg/capcut/via_clause_privacy_policy_en.html'>Privacy Policy</a>."
+msgstr "By continuing, you agree to CapCut <a target='_blank' href='https://www.capcut.com/clause/terms-of-service?lang=en'>Terms of Service</a> and acknowledge that you have read CapCut <a target='_blank' href='https://www.capcut.com/clause/privacy-policy?lang=en'>Privacy Policy</a>."
 
 msgid "pc_fission_agreement_new"
 msgstr "By continuing, you agree to CapCut <a target='_blank' data-pp='terms_of_service'>Terms of Service</a> and acknowledge that you have read CapCut <a target='_blank' data-pp='privacy_policy'>Privacy Policy</a>."
@@ -17407,6 +18980,9 @@ msgstr "Upgrade to unlock Pro benefits on desktop app"
 msgid "pc_full_screen"
 msgstr "Full screen"
 
+msgid "pc_full_screen_hovertip"
+msgstr "Full screen"
+
 msgid "pc_full_social_media_creator"
 msgstr "Full-time social media creator"
 
@@ -17442,6 +19018,15 @@ msgstr "Gecko Local Info"
 
 msgid "pc_gender"
 msgstr "Gender"
+
+msgid "pc_general_v_three"
+msgstr "Image 3.0"
+
+msgid "pc_general_v_three_hint"
+msgstr "Describe your image. Add the text you want to generate in quotation marks (\" \")."
+
+msgid "pc_general_v_three_info"
+msgstr "Natural and realistic. Supports text generation. Powered by Seedream."
 
 msgid "pc_generate_subtitles"
 msgstr "Generate captions"
@@ -17749,6 +19334,54 @@ msgstr "Grow my social following"
 msgid "pc_guest_banner_singin_get_free_pro"
 msgstr "Sign in to get free Pro"
 
+msgid "pc_hair"
+msgstr "Hair"
+
+msgid "pc_hair_color"
+msgstr "Color"
+
+msgid "pc_hair_custom"
+msgstr "Customize"
+
+msgid "pc_hair_custom_prompt_five"
+msgstr "Make the hair blue"
+
+msgid "pc_hair_custom_prompt_four"
+msgstr "Make the hair red"
+
+msgid "pc_hair_custom_prompt_one"
+msgstr "Make the hair short"
+
+msgid "pc_hair_custom_prompt_seven"
+msgstr "Make the hair pink and white with a gradient"
+
+msgid "pc_hair_custom_prompt_six"
+msgstr "Make the hair blonde"
+
+msgid "pc_hair_custom_prompt_three"
+msgstr "Make the hair curly"
+
+msgid "pc_hair_custom_prompt_two"
+msgstr "Make the hair long"
+
+msgid "pc_hair_customize_hair"
+msgstr "Customize hair"
+
+msgid "pc_hair_images_only"
+msgstr "This effect can only be applied to images"
+
+msgid "pc_hair_none"
+msgstr "None"
+
+msgid "pc_hair_quality"
+msgstr "Quality"
+
+msgid "pc_hair_style"
+msgstr "Style"
+
+msgid "pc_hair_try_another"
+msgstr "Try another"
+
 msgid "pc_hardware_environment_anomaly"
 msgstr "Abnormal hardware environment"
 
@@ -17760,6 +19393,21 @@ msgstr "Video upload failed, please"
 
 msgid "pc_hd"
 msgstr "HD"
+
+msgid "pc_hd_apply_effect_cancel"
+msgstr "Cancel"
+
+msgid "pc_hd_apply_effect_continue"
+msgstr "Continue"
+
+msgid "pc_hd_apply_effect_info"
+msgstr "Quality enhancement will be removed."
+
+msgid "pc_hd_apply_effect_title"
+msgstr "Continue to apply?"
+
+msgid "pc_hd_unsupported_media"
+msgstr "Images don't support HD adjustment"
 
 msgid "pc_hdr_conversion_tool"
 msgstr "HDR conversion tool"
@@ -17809,8 +19457,35 @@ msgstr "Higher"
 msgid "pc_highlight"
 msgstr "Highlight"
 
+msgid "pc_home_ai_remove_info"
+msgstr "Remove unwanted objects from your image or video"
+
+msgid "pc_home_auto_adjust_banner"
+msgstr "Color adjustment has never been easier"
+
+msgid "pc_home_brainstorm_info"
+msgstr "Enter an idea, and AI will brainstorm topics and key points for you"
+
 msgid "pc_home_details_collect"
 msgstr "%1 added to Favorites"
+
+msgid "pc_home_dialogue_scene_info"
+msgstr "Make the character in your photo talk, sing, or react"
+
+msgid "pc_home_editor_onboarding"
+msgstr "Get started with our professional and AI-powered video editor"
+
+msgid "pc_home_editor_onboarding_btn"
+msgstr "Close"
+
+msgid "pc_home_enhance_quality_banner"
+msgstr "Enhance the clarity of every detail in one click"
+
+msgid "pc_home_enhance_quality_info"
+msgstr "Enhance the quality of your image or video in one click"
+
+msgid "pc_home_fashion_model_info"
+msgstr "Turn your clothing photos into on-model images in one click"
 
 msgid "pc_home_icon_review_reject"
 msgstr "Not approved"
@@ -17860,6 +19535,12 @@ msgstr "Only approved templates can be used by others"
 msgid "pc_home_material_repeat"
 msgstr "Material is repeated with existing one"
 
+msgid "pc_home_more_tools"
+msgstr "More tools"
+
+msgid "pc_home_optical_flow_info"
+msgstr "Make your video smoother by automatically filling in missing frames"
+
 msgid "pc_home_percent_amount"
 msgstr "%1 %2"
 
@@ -17869,8 +19550,26 @@ msgstr "Only approved materials can be used"
 msgid "pc_home_prompt_delete"
 msgstr "Delete selected %1? This action can’t be undone."
 
+msgid "pc_home_ratio"
+msgstr "Aspect ratio:"
+
+msgid "pc_home_ratio_default"
+msgstr "Auto"
+
+msgid "pc_home_ratio_more"
+msgstr "More"
+
+msgid "pc_home_ratio_original"
+msgstr "Original"
+
+msgid "pc_home_record_screen_info"
+msgstr "Record your screen and edit it in the timeline"
+
 msgid "pc_home_release_time"
 msgstr "Posted on: %1"
+
+msgid "pc_home_remove_bg_banner"
+msgstr "Remove backgrounds in one click without a green screen"
 
 msgid "pc_home_review_reason_beauty_low"
 msgstr "Material is out of aesthetic trends"
@@ -17923,6 +19622,24 @@ msgstr "Material contains watermarks"
 msgid "pc_home_review_reject_show"
 msgstr "View details"
 
+msgid "pc_home_script_to_video_info"
+msgstr "Generate a script and turn it into a video using stock media or your own"
+
+msgid "pc_home_shorts_info"
+msgstr "Automatically find highlights in a long video and get multiple shorts"
+
+msgid "pc_home_storyboard_info"
+msgstr "Create script, voiceover, media, and effects with AI to generate a video"
+
+msgid "pc_home_tools_less"
+msgstr "Show less"
+
+msgid "pc_home_tools_more"
+msgstr "Show more"
+
+msgid "pc_home_tts_info"
+msgstr "Turn text into natural-sounding speech in a variety of voices"
+
 msgid "pc_home_uniqueid"
 msgstr "CapCut ID"
 
@@ -17931,6 +19648,9 @@ msgstr "%1 used"
 
 msgid "pc_home_user_amount"
 msgstr "%1 used"
+
+msgid "pc_home_video_translator_info"
+msgstr "Translate a video into other languages with synced lip movements"
 
 msgid "pc_home_view_amount"
 msgstr "%1 played"
@@ -18005,6 +19725,15 @@ msgid "pc_image_super_min"
 msgid_plural "The clip must not exceed %1 seconds"
 msgstr[0] "The clip must not exceed %1 second"
 msgstr[1] "The clip must not exceed %1 seconds"
+
+msgid "pc_image_three_aesthetic"
+msgstr "Image 3.0 Aesthetic"
+
+msgid "pc_image_three_aesthetic_info"
+msgstr "Rich, versatile aesthetics. Powered by Seedream."
+
+msgid "pc_image_three_aesthetic_n"
+msgstr "Image 3.1"
 
 msgid "pc_import"
 msgstr "Import"
@@ -18440,10 +20169,10 @@ msgid "pc_installer_open_name"
 msgstr "Open {placeholder0}"
 
 msgid "pc_installer_read_describe"
-msgstr "CapCut provides dozens of voices that can meet any style needs for voice characters."
+msgstr "Transform your text into natural-sounding speech with a wide range of realistic voices."
 
 msgid "pc_installer_read_title"
-msgstr "Text-to-speech"
+msgstr "Text to speech"
 
 msgid "pc_installer_reframe_describe"
 msgstr "You can change the video’s aspect ratio as you like. The main object in the video will always be included in the frame."
@@ -18727,6 +20456,9 @@ msgstr "Join"
 msgid "pc_join_group"
 msgstr "Join group"
 
+msgid "pc_join_pro_and_export_btn"
+msgstr "Join Pro and export"
+
 msgid "pc_join_space"
 msgstr "Join"
 
@@ -18870,6 +20602,9 @@ msgstr "Removing background..."
 msgid "pc_keying_stabilizing_export_with_effect"
 msgstr "Removing background and stabilizing..."
 
+msgid "pc_keymob_adaptation_music_processing_edit_unavailable"
+msgstr "Please wait until the lyrics adaptation processing is complete"
+
 msgid "pc_keyword_ai"
 msgstr "Highlight"
 
@@ -18957,6 +20692,48 @@ msgstr "Playback is lagging"
 msgid "pc_language"
 msgstr "Language"
 
+msgid "pc_language_afrikaans"
+msgstr "Afrikaans"
+
+msgid "pc_language_amharic"
+msgstr "Amharic"
+
+msgid "pc_language_armenian"
+msgstr "Armenian"
+
+msgid "pc_language_assamese"
+msgstr "Assamese"
+
+msgid "pc_language_asturian"
+msgstr "Asturian"
+
+msgid "pc_language_azerbaijani"
+msgstr "Azerbaijani"
+
+msgid "pc_language_belarusian"
+msgstr "Belarusian"
+
+msgid "pc_language_bengali"
+msgstr "Bengali"
+
+msgid "pc_language_bosnian"
+msgstr "Bosnian"
+
+msgid "pc_language_burmese"
+msgstr "Burmese"
+
+msgid "pc_language_cantonese"
+msgstr "Cantonese"
+
+msgid "pc_language_catalan"
+msgstr "Catalan"
+
+msgid "pc_language_cebuano"
+msgstr "Cebuano"
+
+msgid "pc_language_chichewa"
+msgstr "Chichewa"
+
 msgid "pc_language_cs"
 msgstr "Czech"
 
@@ -18966,23 +20743,134 @@ msgstr "Danish"
 msgid "pc_language_el"
 msgstr "Greek"
 
+msgid "pc_language_estonian"
+msgstr "Estonian"
+
 msgid "pc_language_fi"
 msgstr "Finnish"
+
+msgid "pc_language_fulah"
+msgstr "Fulah"
+
+msgid "pc_language_galician"
+msgstr "Galician"
+
+msgid "pc_language_ganda"
+msgstr "Ganda"
+
+msgid "pc_language_georgian"
+msgstr "Georgian"
+
+msgid "pc_language_gujarati"
+msgstr "Gujarati"
+
+msgid "pc_language_hausa"
+msgstr "Hausa"
+
+msgid "pc_language_hebrew"
+msgstr "Hebrew"
 
 msgid "pc_language_hu"
 msgstr "Hungarian"
 
+msgid "pc_language_icelandic"
+msgstr "Icelandic"
+
+msgid "pc_language_igbo"
+msgstr "Igbo"
+
+msgid "pc_language_irish"
+msgstr "Irish"
+
+msgid "pc_language_javanese"
+msgstr "Javanese"
+
+msgid "pc_language_kabuverdianu"
+msgstr "Kabuverdianu"
+
+msgid "pc_language_kannada"
+msgstr "Kannada"
+
+msgid "pc_language_kazakh"
+msgstr "Kazakh"
+
+msgid "pc_language_khmer"
+msgstr "Khmer"
+
 msgid "pc_language_km"
 msgstr "Khmer"
+
+msgid "pc_language_kurdish"
+msgstr "Kurdish"
+
+msgid "pc_language_kyrgyz"
+msgstr "Kyrgyz"
+
+msgid "pc_language_lao"
+msgstr "Lao"
+
+msgid "pc_language_latvian"
+msgstr "Latvian"
+
+msgid "pc_language_lingala"
+msgstr "Lingala"
+
+msgid "pc_language_lithuanian"
+msgstr "Lithuanian"
+
+msgid "pc_language_luo"
+msgstr "Luo"
+
+msgid "pc_language_luxembourgish"
+msgstr "Luxembourgish"
+
+msgid "pc_language_macedonian"
+msgstr "Macedonian"
+
+msgid "pc_language_malayalam"
+msgstr "Malayalam"
+
+msgid "pc_language_maltese"
+msgstr "Maltese"
+
+msgid "pc_language_maori"
+msgstr "Māori"
+
+msgid "pc_language_marathi"
+msgstr "Marathi"
+
+msgid "pc_language_mongolian"
+msgstr "Mongolian"
 
 msgid "pc_language_my"
 msgstr "Burmese"
 
+msgid "pc_language_nepali"
+msgstr "Nepali"
+
 msgid "pc_language_nl"
 msgstr "Dutch"
 
+msgid "pc_language_northern_sotho"
+msgstr "Northern Sotho"
+
+msgid "pc_language_occitan"
+msgstr "Occitan"
+
+msgid "pc_language_odia"
+msgstr "Odia"
+
+msgid "pc_language_pashto"
+msgstr "Pashto"
+
+msgid "pc_language_persian"
+msgstr "Persian"
+
 msgid "pc_language_pl"
 msgstr "Polish"
+
+msgid "pc_language_punjabi"
+msgstr "Punjabi"
 
 msgid "pc_language_ro"
 msgstr "Romanian"
@@ -18990,8 +20878,26 @@ msgstr "Romanian"
 msgid "pc_language_ru"
 msgstr "Russian"
 
+msgid "pc_language_serbian"
+msgstr "Serbian"
+
+msgid "pc_language_shona"
+msgstr "Shona"
+
+msgid "pc_language_sindhi"
+msgstr "Sindhi"
+
+msgid "pc_language_slovenian"
+msgstr "Slovenian"
+
+msgid "pc_language_somali"
+msgstr "Somali"
+
 msgid "pc_language_sv"
 msgstr "Swedish"
+
+msgid "pc_language_swahili"
+msgstr "Swahili"
 
 msgid "pc_language_switch_not_now_button"
 msgstr "Not now"
@@ -19005,8 +20911,38 @@ msgstr "Your device seems to be set to \"%1\". Switch the app language to match?
 msgid "pc_language_switch_remind_title"
 msgstr "Switch app language?"
 
+msgid "pc_language_tajik"
+msgstr "Tajik"
+
+msgid "pc_language_telugu"
+msgstr "Telugu"
+
+msgid "pc_language_thai"
+msgstr "Thai"
+
 msgid "pc_language_uk"
 msgstr "Ukrainian"
+
+msgid "pc_language_umbundu"
+msgstr "Umbundu"
+
+msgid "pc_language_urdu"
+msgstr "Urdu"
+
+msgid "pc_language_uzbek"
+msgstr "Uzbek"
+
+msgid "pc_language_welsh"
+msgstr "Welsh"
+
+msgid "pc_language_wolof"
+msgstr "Wolof"
+
+msgid "pc_language_xhosa"
+msgstr "Xhosa"
+
+msgid "pc_language_zulu"
+msgstr "Zulu"
 
 msgid "pc_large_enterprise_staff"
 msgstr "Large enterprise staff"
@@ -19081,7 +21017,7 @@ msgid "pc_launcher_loading_status"
 msgstr "Loading... %1"
 
 msgid "pc_launcher_mkt_studio"
-msgstr "Marketing studio"
+msgstr "Marketing tools"
 
 msgid "pc_launcher_network_error"
 msgstr "Network error."
@@ -19134,8 +21070,17 @@ msgstr "Layer"
 msgid "pc_layout_adjust"
 msgstr "Attributes"
 
+msgid "pc_layout_attributes"
+msgstr "Attributes"
+
+msgid "pc_layout_attributes_info"
+msgstr "Expands the attribute panel."
+
 msgid "pc_layout_basic"
 msgstr "Default"
+
+msgid "pc_layout_btn"
+msgstr "Layout"
 
 msgid "pc_layout_cus_one"
 msgstr "Custom layout 1"
@@ -19145,6 +21090,18 @@ msgstr "Custom layout 3"
 
 msgid "pc_layout_cus_two"
 msgstr "Custom layout 2"
+
+msgid "pc_layout_default"
+msgstr "Default"
+
+msgid "pc_layout_default_info"
+msgstr "Balanced panel layout."
+
+msgid "pc_layout_media"
+msgstr "Media"
+
+msgid "pc_layout_media_info"
+msgstr "Expands the media panel."
 
 msgid "pc_layout_mode"
 msgstr "Layout"
@@ -19161,8 +21118,14 @@ msgstr "Reset current layout"
 msgid "pc_layout_settings"
 msgstr "Layout"
 
+msgid "pc_layout_vertical"
+msgstr "Vertical"
+
 msgid "pc_layout_vertical_creation"
 msgstr "Vertical"
+
+msgid "pc_layout_vertical_info"
+msgstr "Ideal for vertical videos on social media."
 
 msgid "pc_learn_tuorial"
 msgstr "Watch CapCut tutorials and create videos easily"
@@ -19990,9 +21953,6 @@ msgstr "Generate %1?"
 msgid "pc_m10n_aigc_credits_generate_btn"
 msgstr "Generate"
 
-msgid "pc_m10n_aigc_credits_generate_btn( 复用)"
-msgstr "Generate"
-
 msgid "pc_m10n_aigc_credits_generate_credits_consumed_toast"
 msgstr "Generation completed. %1 credits consumed."
 
@@ -20133,6 +22093,21 @@ msgstr[1] "Extra {number} days free"
 msgid "pc_m10n_free_storage_btn"
 msgstr "Manage members"
 
+msgid "pc_m10n_ft_rule_day5_desc"
+msgstr "Get a notification about when your trial ends."
+
+msgid "pc_m10n_ft_rule_day7_desc"
+msgstr "Your Pro subscription will begin and you'll be charged. Cancel anytime before."
+
+msgid "pc_m10n_ft_rule_day_n"
+msgstr "Day {day}"
+
+msgid "pc_m10n_ft_rule_today"
+msgstr "Today"
+
+msgid "pc_m10n_ft_rule_today_desc"
+msgstr "Your free trial starts and you have full access to all premium features."
+
 msgid "pc_m10n_get_teams_for_pro_benefits"
 msgstr "You're enjoying Pro benefits as a Teams member."
 
@@ -20175,6 +22150,51 @@ msgstr "First {number} months"
 msgid "pc_m10n_month_discount_tag_singular"
 msgstr "First month"
 
+msgid "pc_m10n_onboarding_subscription_benefit1_assets"
+msgstr "Premium assets"
+
+msgid "pc_m10n_onboarding_subscription_benefit1_assets_desc"
+msgstr "Millions of quality creative assets."
+
+msgid "pc_m10n_onboarding_subscription_benefit2_platforms"
+msgstr "Sync across devices"
+
+msgid "pc_m10n_onboarding_subscription_benefit2_platforms_desc"
+msgstr "Mobile, desktop, and web access."
+
+msgid "pc_m10n_onboarding_subscription_benefit3_copyright"
+msgstr "Commercial use"
+
+msgid "pc_m10n_onboarding_subscription_benefit3_copyright_desc"
+msgstr "Licensed use for commercial purposes."
+
+msgid "pc_m10n_onboarding_subscription_benefit4_ai"
+msgstr "Generative AI"
+
+msgid "pc_m10n_onboarding_subscription_benefit4_ai_desc"
+msgstr "Turn your ideas into visuals, fast."
+
+msgid "pc_m10n_onboarding_subscription_btn_free_trial"
+msgstr "Start {day}-day free trial"
+
+msgid "pc_m10n_onboarding_subscription_btn_subscribe"
+msgstr "Subscribe"
+
+msgid "pc_m10n_onboarding_subscription_ft_subtitle"
+msgstr "Subscribe now and enjoy {discount}% off your first month."
+
+msgid "pc_m10n_onboarding_subscription_ft_title"
+msgstr "Try CapCut Pro for free"
+
+msgid "pc_m10n_onboarding_subscription_pro_editing"
+msgstr "Your all-access pass to everything premium."
+
+msgid "pc_m10n_onboarding_subscription_subtitle"
+msgstr "Your all-access pass to everything premium."
+
+msgid "pc_m10n_onboarding_subscription_title"
+msgstr "Power up your edits with CapCut Pro"
+
 msgid "pc_m10n_paid_feature_free_use_left"
 msgid_plural "%1 (%2 free uses left)"
 msgstr[0] "%1 (%2 free use left)"
@@ -20212,6 +22232,9 @@ msgstr "Easily remove the background from your video to focus on what matters mo
 
 msgid "pc_m10n_paywall_remove_bg_title"
 msgstr "Join Pro to remove background"
+
+msgid "pc_m10n_placeholder_countdown"
+msgstr "Offer ends in {day}d {hour}h {minute}m {second}s"
 
 msgid "pc_m10n_player_btn_add_to_timeline"
 msgstr "Apply"
@@ -20256,6 +22279,100 @@ msgid_plural "{price} after {number} years"
 msgstr[0] "{price} after {number} year"
 msgstr[1] "{price} after {number} years"
 
+msgid "pc_m10n_pro_benefit_all_platforms"
+msgstr "Mobile, desktop, and web access."
+
+msgid "pc_m10n_pro_benefit_hover_redirect"
+msgstr "Check in editor"
+
+msgid "pc_m10n_pro_benefit_used_title"
+msgstr "Subscribe to unlock:"
+
+msgid "pc_m10n_pro_expire_countdown"
+msgstr "Expires in {day}d {hour}h {minute}m {second}s"
+
+msgid "pc_m10n_pro_export_banner"
+msgid_plural "Enjoy %1 free exports"
+msgstr[0] "Enjoy %1 free export"
+msgstr[1] "Enjoy %1 free exports"
+
+msgid "pc_m10n_pro_export_benefit_resolution"
+msgstr "High resolution"
+
+msgid "pc_m10n_pro_export_benefit_unlimited"
+msgstr "Unlimited export"
+
+msgid "pc_m10n_pro_export_benefit_watermark"
+msgstr "Remove watermark"
+
+msgid "pc_m10n_pro_export_per_month_banner"
+msgid_plural "Enjoy %1 free exports this month"
+msgstr[0] "Enjoy %1 free export this month"
+msgstr[1] "Enjoy %1 free exports this month"
+
+msgid "pc_m10n_pro_export_per_week_banner"
+msgid_plural "Enjoy %1 free exports this week"
+msgstr[0] "Enjoy %1 free export this week"
+msgstr[1] "Enjoy %1 free exports this week"
+
+msgid "pc_m10n_pro_export_tag_uses_per_week"
+msgid_plural "%1 uses/week"
+msgstr[0] "%1 use/week"
+msgstr[1] "%1 uses/week"
+
+msgid "pc_m10n_pro_for_free_banner"
+msgstr "Pro features for FREE"
+
+msgid "pc_m10n_pro_for_free_ended_popup_btn"
+msgstr "Got it"
+
+msgid "pc_m10n_pro_for_free_ended_popup_desc"
+msgstr ""
+"As a friendly reminder, your free access to Pro features will end on %1, so make the most of your time left.\n"
+"After that, you can always subscribe to continue using all the Pro features. You can learn more about subscriptions in the subscription page or on our official website."
+
+msgid "pc_m10n_pro_for_free_ended_popup_title"
+msgstr "Your free access to Pro features ends soon"
+
+msgid "pc_m10n_pro_for_free_popup_btn"
+msgstr "Start exploring"
+
+msgid "pc_m10n_pro_for_free_popup_desc"
+msgstr ""
+"We're excited to let you know that many of our Pro features are now available to you for FREE! Now's the perfect time to explore our top features.\n"
+"This free access gives you most Pro features, but not all. Some advanced tools, select Pro templates, and AI features are excluded."
+
+msgid "pc_m10n_pro_for_free_popup_title"
+msgstr "We're offering many Pro features for FREE"
+
+msgid "pc_m10n_pro_for_free_rules"
+msgstr ""
+"Dear users,\n"
+"We're excited to offer many of our Pro features and assets for free for a limited time! We hope you'll enjoy exploring the full potential of CapCut's desktop app and making the most out of your editing experience.\n"
+"\n"
+"About your free access\n"
+"This free access gives you most Pro features, but not all. Some advanced tools, select Pro templates, and AI features are excluded. Full access to all Pro features requires a subscription. It helps us keep everything top quality for our users.\n"
+"\n"
+"Please be aware that your free access is time-limited. We'll send you a reminder 2 days before it ends. You can always subscribe to CapCut Pro to get unlimited access to all premium features and assets.\n"
+"\n"
+"Thank you for being a member of our community. We look forward to exploring more possibilities with you in CapCut!\n"
+"\n"
+"CapCut Team"
+
+msgid "pc_m10n_pro_for_free_time_limited_popup_desc"
+msgstr ""
+"Try many of our Pro features for FREE. Now's the perfect time to explore our top features.\n"
+"This free access gives you most Pro features, but not all. Some advanced tools, select Pro templates, and AI features are excluded.\n"
+"We'll send you a reminder 2 days before your free access ends. This is a limited-time offer, so don't miss out!"
+
+msgid "pc_m10n_pro_for_free_time_limited_popup_title"
+msgstr "Try Pro features FREE for a limited time"
+
+msgid "pc_m10n_pro_free_use_count"
+msgid_plural "{number} uses left"
+msgstr[0] "{number} use left"
+msgstr[1] "{number} uses left"
+
 msgid "pc_m10n_pro_plan_10_month"
 msgstr "10 months"
 
@@ -20291,6 +22408,27 @@ msgstr "8 months"
 
 msgid "pc_m10n_pro_plan_9_month"
 msgstr "9 months"
+
+msgid "pc_m10n_pro_popup_btn_sigin"
+msgstr "Sign in"
+
+msgid "pc_m10n_profile_hover_card_btn_subscribe"
+msgstr "Subscribe"
+
+msgid "pc_m10n_profile_hover_card_feature1_captions"
+msgstr "Auto captions"
+
+msgid "pc_m10n_profile_hover_card_feature2_ai"
+msgstr "AI tools"
+
+msgid "pc_m10n_profile_hover_card_feature3_voice"
+msgstr "Isolate voice"
+
+msgid "pc_m10n_profile_hover_card_feature4_assets"
+msgstr "Quality assets"
+
+msgid "pc_m10n_profile_hover_card_title"
+msgstr "Unlock 80+ premium features with Pro"
 
 msgid "pc_m10n_seats_cannot_select"
 msgstr "Number of current space members exceeds seat number"
@@ -20409,6 +22547,26 @@ msgstr "Get a Teams plan for your space to enjoy all Teams benefits."
 
 msgid "pc_m10n_space_tab"
 msgstr "Space"
+
+msgid "pc_m10n_subscription_btn_renew"
+msgstr "Renew now"
+
+msgid "pc_m10n_subscription_ft_benefit1_free"
+msgid_plural "First {day} days free. Cancel anytime."
+msgstr[0] "First {day} day free. Cancel anytime."
+msgstr[1] "First {day} days free. Cancel anytime."
+
+msgid "pc_m10n_subscription_ft_benefit2_pro"
+msgstr "Full access to all premium features."
+
+msgid "pc_m10n_subscription_ft_benefit3_notify"
+msgstr "You'll be reminded before your trial ends."
+
+msgid "pc_m10n_subscription_ft_btn_start"
+msgstr "Start free trial"
+
+msgid "pc_m10n_subscription_ft_title"
+msgstr "How your free trial works"
 
 msgid "pc_m10n_subscription_title_order_history"
 msgstr "Billing history"
@@ -20676,6 +22834,9 @@ msgstr "Choose plan (Seats in current subscription: {num})"
 
 msgid "pc_m10n_teams_space_expire_date"
 msgstr "Expired on {date}"
+
+msgid "pc_m10n_teams_space_expiry_date"
+msgstr "Expires on {date}"
 
 msgid "pc_m10n_teams_space_frozen_popup_btn_cancel"
 msgstr "Not now"
@@ -21034,6 +23195,9 @@ msgstr "Portrait"
 
 msgid "pc_material_copyright_video"
 msgstr "Videos"
+
+msgid "pc_material_create_new_timeline"
+msgstr "[null]"
 
 msgid "pc_material_display_all"
 msgstr "Show all"
@@ -21474,6 +23638,18 @@ msgstr "Media"
 msgid "pc_media_format_not_supported"
 msgstr "Media format not supported"
 
+msgid "pc_media_gen_ai"
+msgstr "Generate"
+
+msgid "pc_media_gen_ai_n"
+msgstr "Gen AI"
+
+msgid "pc_media_generate_with_ai"
+msgstr "Generate with AI"
+
+msgid "pc_media_import"
+msgstr "Import"
+
 msgid "pc_media_link_lost"
 msgstr "Right-click to reset the media link if media link is lost"
 
@@ -21489,6 +23665,24 @@ msgstr "Media"
 msgid "pc_media_material_preferred"
 msgstr "Media first"
 
+msgid "pc_media_no_audio_found"
+msgstr "No audio yet"
+
+msgid "pc_media_no_photos_found"
+msgstr "No images yet"
+
+msgid "pc_media_no_results_found"
+msgstr "No results found"
+
+msgid "pc_media_no_results_try_generating"
+msgstr "Generate media with AI"
+
+msgid "pc_media_no_results_try_generating_image"
+msgstr "Generate with AI"
+
+msgid "pc_media_no_videos_found"
+msgstr "No videos yet"
+
 msgid "pc_media_path_lost"
 msgstr "Media paths lost"
 
@@ -21500,6 +23694,9 @@ msgstr "Subprojects"
 
 msgid "pc_media_transcoding"
 msgstr "Media transcoding..."
+
+msgid "pc_media_try_creating_media"
+msgstr "No media? Create with these tools"
 
 msgid "pc_member"
 msgstr "Group members"
@@ -21542,6 +23739,39 @@ msgstr "Memory"
 
 msgid "pc_menu"
 msgstr "Menu"
+
+msgid "pc_menu_adjust_color"
+msgstr "Adjust color"
+
+msgid "pc_menu_auto_mark_beats"
+msgstr "Auto mark beats"
+
+msgid "pc_menu_copy_paste_attributes"
+msgstr "Copy/paste attributes"
+
+msgid "pc_menu_enhance_audio"
+msgstr "Enhance audio"
+
+msgid "pc_menu_enhance_motion"
+msgstr "Enhance motion"
+
+msgid "pc_menu_enhance_quality"
+msgstr "Enhance visuals"
+
+msgid "pc_menu_generate_captions"
+msgstr "Generate captions"
+
+msgid "pc_menu_more"
+msgstr "More clip actions"
+
+msgid "pc_menu_more_actions"
+msgstr "Edit"
+
+msgid "pc_menu_remove_bg"
+msgstr "Remove background"
+
+msgid "pc_menu_tts"
+msgstr "Text to speech"
 
 msgid "pc_method_two_delete_temporary_files"
 msgstr "Method 2: Delete temporary files. It doesn't affect the use of CapCut."
@@ -21590,6 +23820,31 @@ msgstr "Bubbles not found"
 msgid "pc_mix_mode"
 msgstr "Splice"
 
+msgid "pc_mob_adaptation_music_processing_edit_unavailable"
+msgstr "Currently in the process of modifying lyrics and cover singing..."
+
+msgid "pc_mob_cancel_comfirm"
+msgstr "Confirm"
+
+msgid "pc_mob_cancel_content2"
+msgstr "Generation is in process. You won't be refunded the free use deducted."
+
+msgid "pc_mob_cancel_not"
+msgstr "Keep generating"
+
+msgid "pc_mob_cancel_title"
+msgstr "Stop generating?"
+
+msgid "pc_mob_trial_icon"
+msgid_plural "%1 uses"
+msgstr[0] "%1 use"
+msgstr[1] "%1 uses"
+
+msgid "pc_mob_trial_times_icon"
+msgid_plural "%1 uses/month"
+msgstr[0] "%1 use/month"
+msgstr[1] "%1 uses/month"
+
 msgid "pc_mobile_next"
 msgstr "Next"
 
@@ -21601,6 +23856,12 @@ msgstr "Only English scripts supported"
 
 msgid "pc_mode"
 msgstr "Mode"
+
+msgid "pc_model_g_four"
+msgstr "Video G4.0"
+
+msgid "pc_model_g_four_info"
+msgstr "Stable camera motion and lifelike scenes. Powered by Runway."
 
 msgid "pc_model_seaweed"
 msgstr "Seaweed V1.0"
@@ -21634,6 +23895,9 @@ msgstr "CapCut team"
 
 msgid "pc_more_actions"
 msgstr "More"
+
+msgid "pc_more_quick_actions"
+msgstr "More actions"
 
 msgid "pc_mosaic_add"
 msgstr "Click the rectangle on the face to apply the effect"
@@ -21895,6 +24159,9 @@ msgstr "Enable multi-camera clip?"
 
 msgid "pc_multi_camera_turnon_sound"
 msgstr "Audio"
+
+msgid "pc_multi_camera_view_hovertip"
+msgstr "Multi-camera view"
 
 msgid "pc_multi_camera_warning"
 msgstr "Flattening multi-camera clip... Try again later."
@@ -22247,7 +24514,7 @@ msgid "pc_new_encode_decode"
 msgstr "Encode and decode"
 
 msgid "pc_new_enhance_image"
-msgstr "Enhance image"
+msgstr "Enhance quality"
 
 msgid "pc_new_export_audio"
 msgstr "Audio"
@@ -22861,6 +25128,168 @@ msgstr "Modify graphic card settings and restart"
 
 msgid "pc_order_has_been_generated"
 msgstr "Finished"
+
+msgid "pc_organizer_agreement_desc"
+msgstr "To continue, allow CapCut to upload your media to our server for processing."
+
+msgid "pc_organizer_allow"
+msgstr "Allow"
+
+msgid "pc_organizer_dates_locations"
+msgstr "Dates & locations"
+
+msgid "pc_organizer_dates_locations_info"
+msgstr "Group your clips by when and where they were captured."
+
+msgid "pc_organizer_discard_results_btn"
+msgstr "Discard"
+
+msgid "pc_organizer_discard_results_cancel"
+msgstr "Cancel"
+
+msgid "pc_organizer_discard_results_title"
+msgstr "Discard grouping results?"
+
+msgid "pc_organizer_empty_folder"
+msgstr "Select videos or images first"
+
+msgid "pc_organizer_enter_clip_name"
+msgstr "Enter clip name"
+
+msgid "pc_organizer_enter_folder_name"
+msgstr "Enter folder name"
+
+msgid "pc_organizer_face_not_detected"
+msgstr "No face detected"
+
+msgid "pc_organizer_faces"
+msgstr "People"
+
+msgid "pc_organizer_group_btn"
+msgstr "Group clips"
+
+msgid "pc_organizer_group_by"
+msgstr "Group by"
+
+msgid "pc_organizer_grouped"
+msgstr "Clips grouped"
+
+msgid "pc_organizer_grouping"
+msgstr "Grouping clips..."
+
+msgid "pc_organizer_grouping_failed"
+msgstr "Couldn't group clips"
+
+msgid "pc_organizer_hovertip"
+msgstr "Smart organizer"
+
+msgid "pc_organizer_leave_now_btn"
+msgstr "Leave"
+
+msgid "pc_organizer_leave_now_cancel"
+msgstr "Cancel"
+
+msgid "pc_organizer_leave_now_info"
+msgstr "The groups won't be saved."
+
+msgid "pc_organizer_leave_now_title"
+msgstr "Leave now?"
+
+msgid "pc_organizer_missing_date_location_info_hovertip"
+msgstr "No date or location information found"
+
+msgid "pc_organizer_no_clips"
+msgstr "No clips"
+
+msgid "pc_organizer_no_clips_hovertip"
+msgstr "There are no clips to save"
+
+msgid "pc_organizer_no_date_location"
+msgstr "No date or location information found"
+
+msgid "pc_organizer_no_face"
+msgstr "No face detected"
+
+msgid "pc_organizer_not_allow"
+msgstr "Not now"
+
+msgid "pc_organizer_number_clips"
+msgstr "%1 clip"
+
+msgid "pc_organizer_onboarding"
+msgstr "Automatically group selected videos and images with \"Smart organizer\""
+
+msgid "pc_organizer_onboarding_btn"
+msgstr "Got it"
+
+msgid "pc_organizer_people_info"
+msgstr "Identify and group clips with similar faces."
+
+msgid "pc_organizer_permission_request"
+msgstr "Permission request"
+
+msgid "pc_organizer_person"
+msgstr "Person %1"
+
+msgid "pc_organizer_retry"
+msgstr "Retry"
+
+msgid "pc_organizer_save_btn"
+msgstr "Save"
+
+msgid "pc_organizer_save_groups_btn"
+msgstr "Save groups"
+
+msgid "pc_organizer_save_preset_btn"
+msgstr "Save"
+
+msgid "pc_organizer_save_preset_cancel"
+msgstr "Not now"
+
+msgid "pc_organizer_save_preset_info"
+msgstr "Once saved, you can access this folder in other projects."
+
+msgid "pc_organizer_save_preset_title"
+msgstr "Save as preset"
+
+msgid "pc_organizer_scenes"
+msgstr "Scenes"
+
+msgid "pc_organizer_scenes_info"
+msgstr "Identify and group clips with similar scenes."
+
+msgid "pc_organizer_select_media_btn"
+msgstr "Select"
+
+msgid "pc_organizer_select_media_group_all"
+msgstr "Group all"
+
+msgid "pc_organizer_select_media_info"
+msgstr "Select the videos and images you want to group or click \"Group all\" to group everything."
+
+msgid "pc_organizer_select_media_title"
+msgstr "Select media to group"
+
+msgid "pc_organizer_stop_grouping_btn"
+msgstr "Stop"
+
+msgid "pc_organizer_stop_grouping_cancel"
+msgstr "Cancel"
+
+msgid "pc_organizer_stop_grouping_title"
+msgstr "Stop grouping clips?"
+
+msgid "pc_organizer_title_dates"
+msgstr "<a>Group clips</a> by dates and locations"
+
+msgid "pc_organizer_title_people"
+msgstr "<a>Group clips</a> by people"
+
+msgid "pc_organizer_title_scenes"
+msgstr "<a>Group clips</a> by scenes"
+
+msgid "pc_organizer_view_btn"
+msgstr "View"
 
 msgid "pc_original_all_muted"
 msgstr "Video sound off"
@@ -23505,6 +25934,188 @@ msgstr "Bio"
 msgid "pc_personal_user_v2"
 msgstr "Personal user"
 
+msgid "pc_photoacting_action_audio"
+msgstr "Or add audio"
+
+msgid "pc_photoacting_action_audio_time"
+msgstr "%1s selected"
+
+msgid "pc_photoacting_action_cancel"
+msgstr "Cancel"
+
+msgid "pc_photoacting_action_choosevoice"
+msgstr "Select voice"
+
+msgid "pc_photoacting_action_comfirm"
+msgstr "Done"
+
+msgid "pc_photoacting_action_do"
+msgstr "Try it"
+
+msgid "pc_photoacting_action_generate"
+msgstr "Generate"
+
+msgid "pc_photoacting_action_morevoice"
+msgstr "More voices"
+
+msgid "pc_photoacting_action_next"
+msgstr "Next"
+
+msgid "pc_photoacting_action_select"
+msgstr "Select character"
+
+msgid "pc_photoacting_action_select_all"
+msgstr "All"
+
+msgid "pc_photoacting_action_select_x"
+msgstr "%1"
+
+msgid "pc_photoacting_action_select_x_n"
+msgstr "Character %1"
+
+msgid "pc_photoacting_action_tab_acting"
+msgstr "Talk or sing"
+
+msgid "pc_photoacting_action_tab_listen"
+msgstr "React"
+
+msgid "pc_photoacting_action_upload"
+msgstr "Upload photo"
+
+msgid "pc_photoacting_action_write"
+msgstr "Enter dialogue"
+
+msgid "pc_photoacting_action_write_selected"
+msgstr "Enter dialogue for selected character"
+
+msgid "pc_photoacting_action_writedesc"
+msgstr "Enter what you want your character to say"
+
+msgid "pc_photoacting_aimedia_uplod"
+msgstr "Upload character photo"
+
+msgid "pc_photoacting_audio_compliance"
+msgstr "Change the audio and try again."
+
+msgid "pc_photoacting_audio_legal_detail"
+msgstr ""
+"By using this feature, you confirm and agree that you own the rights to, or have obtained all necessary permissions for, the image, video or audio you are uploading to CapCut.\n"
+"Please ensure that the content uploaded complies with all applicable laws, regulations, and community guidelines. You are solely responsible for any content created using this feature, as well as how such content is used, and you agree to our <a style='color:#00C1CD;text-decoration:none' href='statement1'>Terms of Service</a> and <a style='color:#00C1CD;text-decoration:none' href='statement2'>Privacy Policy</a>, including indemnity provisions.\n"
+"By proceeding, you acknowledge these responsibilities."
+
+msgid "pc_photoacting_audio_limit"
+msgstr "Select between %1 and %2 seconds."
+
+msgid "pc_photoacting_audio_limit_toast"
+msgstr "Select up to %1 seconds"
+
+msgid "pc_photoacting_audio_minimum_limit_toast"
+msgid_plural "Your video must be at least %1 seconds long"
+msgstr[0] "Your video must be at least %1 second long"
+msgstr[1] "Your video must be at least %1 seconds long"
+
+msgid "pc_photoacting_audio_too_short"
+msgstr "Your audio is too short"
+
+msgid "pc_photoacting_change_audio"
+msgstr "Change the audio and try again"
+
+msgid "pc_photoacting_change_image_compliance"
+msgstr "Change the image and try again"
+
+msgid "pc_photoacting_change_image_copyright"
+msgstr "Change the image and try again"
+
+msgid "pc_photoacting_desc_details"
+msgstr "Make the character in your photo talk, sing, or react. For multiple characters, you can pick who talks."
+
+msgid "pc_photoacting_desc_title"
+msgstr "Create dialogue scenes"
+
+msgid "pc_photoacting_detecting"
+msgstr "Detecting characters..."
+
+msgid "pc_photoacting_expand_text"
+msgstr "Make your dialogue longer and try again"
+
+msgid "pc_photoacting_failed"
+msgstr "Couldn't generate. Try again later."
+
+msgid "pc_photoacting_failed_track"
+msgstr "Couldn't generate scene"
+
+msgid "pc_photoacting_generate_fail"
+msgstr "Couldn't generate scene"
+
+msgid "pc_photoacting_generate_success"
+msgstr "Scene generated"
+
+msgid "pc_photoacting_name"
+msgstr "AI dialogue scene"
+
+msgid "pc_photoacting_no_characters_btn"
+msgstr "Re-upload"
+
+msgid "pc_photoacting_no_characters_detected"
+msgstr "No characters in your image. Try another one."
+
+msgid "pc_photoacting_no_characters_info"
+msgstr "Upload an image with one or more characters."
+
+msgid "pc_photoacting_no_characters_title"
+msgstr "No characters found"
+
+msgid "pc_photoacting_reaction_desc"
+msgstr "Currently, we can only generate random reactions that apply to all characters. The process may take a while, so please be patient. Stay tuned for more feature updates."
+
+msgid "pc_photoacting_render_failed"
+msgstr "Couldn't generate. Try again later."
+
+msgid "pc_photoacting_revert_btn"
+msgstr "Revert"
+
+msgid "pc_photoacting_revert_cancel_btn"
+msgstr "Cancel"
+
+msgid "pc_photoacting_revert_info"
+msgstr "The scene will be reverted to the original image."
+
+msgid "pc_photoacting_revert_info_conflict"
+msgstr "To use this feature, you must revert the scene to the original image first."
+
+msgid "pc_photoacting_revert_title"
+msgstr "Revert scene to image?"
+
+msgid "pc_photoacting_server_busy"
+msgstr "Too many people are using this feature. Try again later."
+
+msgid "pc_photoacting_server_error"
+msgstr "Something went wrong. Try again later."
+
+msgid "pc_photoacting_shorten_text"
+msgstr "Make your dialogue shorter and try again"
+
+msgid "pc_photoacting_stop_detection_btn"
+msgstr "Stop"
+
+msgid "pc_photoacting_stop_detection_cancel"
+msgstr "Cancel"
+
+msgid "pc_photoacting_stop_detection_info"
+msgstr "To generate scenes, we need to detect characters first."
+
+msgid "pc_photoacting_stop_detection_title"
+msgstr "Stop detecting characters?"
+
+msgid "pc_photoacting_time_desc"
+msgstr "%1s"
+
+msgid "pc_photoacting_time_title"
+msgstr "Duration"
+
+msgid "pc_photoacting_video_compliance"
+msgstr "Change the image and try again"
+
 msgid "pc_picture_low_upgrade"
 msgstr "Your CapCut version is too low to open the website. Upgrade CapCut and try again."
 
@@ -23528,6 +26139,21 @@ msgstr "Graphics"
 
 msgid "pc_plane_rotation"
 msgstr "Plane rotation"
+
+msgid "pc_plans_billing_ai_feature"
+msgstr "AI feature"
+
+msgid "pc_plans_billing_biz_template"
+msgstr "Business template"
+
+msgid "pc_plans_billing_biz_template_export"
+msgstr "Business template"
+
+msgid "pc_plans_billing_but_templates"
+msgstr "Buy template"
+
+msgid "pc_plans_billing_buy_credits"
+msgstr "%d credits"
 
 msgid "pc_plans_billing_history_desc"
 msgstr "You can check all your billings within the last 6 months."
@@ -23580,11 +26206,17 @@ msgstr "To start"
 msgid "pc_plans_billing_price"
 msgstr "Price"
 
+msgid "pc_plans_billing_unlock_templates"
+msgstr "Unlock template"
+
 msgid "pc_playback_aspect_ratio_custom"
 msgstr "Custom"
 
 msgid "pc_playback_problem"
 msgstr "Video playing"
+
+msgid "pc_playback_quality_hovertip"
+msgstr "Playback quality"
 
 msgid "pc_playback_resolution_better_quality"
 msgstr "Better quality"
@@ -24008,6 +26640,9 @@ msgstr "Detailed information will help us find the problem quickly."
 
 msgid "pc_problem_detected"
 msgstr "Error"
+
+msgid "pc_process_audio"
+msgstr "Extract audio"
 
 msgid "pc_processing"
 msgstr "Processing"
@@ -24495,6 +27130,12 @@ msgstr "10.0x"
 msgid "pc_quick_2.0x"
 msgstr "2.0x"
 
+msgid "pc_quick_action_open_cc"
+msgstr "Open CapCut"
+
+msgid "pc_quick_action_quit_cc"
+msgstr "Quit CapCut"
+
 msgid "pc_quit"
 msgstr "Quit"
 
@@ -24564,23 +27205,440 @@ msgstr "Auto Captions"
 msgid "pc_recognize_vocal_in_audio_tips"
 msgstr "Recognize voice in audio tracks and generate captions on the timeline automatically. Currently only supports Mandarin Chinese."
 
+msgid "pc_recommend_all_good"
+msgstr "All good! Keep creating and come back later."
+
+msgid "pc_recommend_analysis_complete"
+msgstr "Analysis complete"
+
+msgid "pc_recommend_analysis_complete_info"
+msgstr "Check out suggestions to improve your project."
+
+msgid "pc_recommend_analysis_complete_title"
+msgstr "Analysis complete"
+
+msgid "pc_recommend_analysis_complete_view_btn"
+msgstr "View"
+
+msgid "pc_recommend_analyze_again"
+msgstr "Analyze again"
+
+msgid "pc_recommend_analyze_again_title"
+msgstr "Project updated. Try analyzing again."
+
+msgid "pc_recommend_analyze_check_audio"
+msgstr "Check your audio"
+
+msgid "pc_recommend_analyze_check_video"
+msgstr "Check your video"
+
+msgid "pc_recommend_analyze_checked_audio"
+msgstr "Audio check is done"
+
+msgid "pc_recommend_analyze_checked_audio_info"
+msgstr "Checked for inconsistent volume, noise, unclear speech, and more."
+
+msgid "pc_recommend_analyze_checked_video"
+msgstr "Video check is done"
+
+msgid "pc_recommend_analyze_checked_video_info"
+msgstr "Checked for flicker, blur, shaking, dropped frames, and more."
+
+msgid "pc_recommend_analyze_checking_audio"
+msgstr "Checking your audio…"
+
+msgid "pc_recommend_analyze_checking_audio_info"
+msgstr "Checking for inconsistent volume, noise, unclear speech, and more..."
+
+msgid "pc_recommend_analyze_checking_video"
+msgstr "Checking your video..."
+
+msgid "pc_recommend_analyze_checking_video_info"
+msgstr "Checking for flicker, blur, shaking, dropped frames, and more..."
+
+msgid "pc_recommend_analyze_stop"
+msgstr "Stop"
+
+msgid "pc_recommend_analyze_stop_btn"
+msgstr "Stop"
+
+msgid "pc_recommend_analyze_stop_cancel"
+msgstr "Cancel"
+
+msgid "pc_recommend_analyze_stop_info"
+msgstr "We're close to finding ways to improve your project."
+
+msgid "pc_recommend_analyze_stop_title"
+msgstr "Stop analyzing?"
+
+msgid "pc_recommend_analyze_suggest"
+msgstr "Suggest ways to improve"
+
+msgid "pc_recommend_analyze_suggested"
+msgstr "Suggestions are ready"
+
+msgid "pc_recommend_analyze_suggesting"
+msgstr "Suggesting ways to improve..."
+
+msgid "pc_recommend_analyzing_project"
+msgstr "Analyzing... %1%"
+
+msgid "pc_recommend_apply_again"
+msgstr "Apply"
+
+msgid "pc_recommend_apply_to_all"
+msgstr "Apply"
+
+msgid "pc_recommend_auto_adjust"
+msgstr "Make colors better"
+
+msgid "pc_recommend_auto_adjust_hovertip"
+msgstr "Enhance colors for all clips in one click"
+
+msgid "pc_recommend_auto_adjust_scenes"
+msgstr "Scenes to improve"
+
+msgid "pc_recommend_avatar"
+msgstr "Add talking avatar"
+
+msgid "pc_recommend_avatar_hovertip"
+msgstr "Tell your story with lifelike avatars"
+
+msgid "pc_recommend_avatar_tip"
+msgstr "Edit your avatar here"
+
 msgid "pc_recommend_beauty"
 msgstr "Retouch your face in one click"
+
+msgid "pc_recommend_captions"
+msgstr "Add captions"
+
+msgid "pc_recommend_captions_change_style_tip"
+msgstr "Change your caption style here"
+
+msgid "pc_recommend_captions_hovertip"
+msgstr "Add trendy captions for a more engaging video"
+
+msgid "pc_recommend_change_captions_style_tip"
+msgstr "Change your caption style here"
+
+msgid "pc_recommend_check_out_ways"
+msgstr "Check out these ways to improve your project"
+
+msgid "pc_recommend_color_match"
+msgstr "Make colors consistent"
+
+msgid "pc_recommend_color_match_hovertip"
+msgstr "Make colors consistent across all clips in one click"
 
 msgid "pc_recommend_coloring"
 msgstr "Adjust colors automatically in one click"
 
+msgid "pc_recommend_cta"
+msgstr "Analyze"
+
+msgid "pc_recommend_dividing_line"
+msgstr "Or you might want to"
+
+msgid "pc_recommend_enhance_quality_hovertip"
+msgstr "Enhance the quality of all clips in one click"
+
+msgid "pc_recommend_enhance_quality_scenes"
+msgstr "Scenes to improve"
+
+msgid "pc_recommend_enhance_voice"
+msgstr "Make voice clearer"
+
+msgid "pc_recommend_enhance_voice_hovertip"
+msgstr "Enhance voices in all clips with one click"
+
+msgid "pc_recommend_enhance_voice_progress"
+msgstr "Making voice clearer... %1%"
+
+msgid "pc_recommend_express_better"
+msgstr "Express better"
+
+msgid "pc_recommend_eye"
+msgstr "Correct eye contact"
+
+msgid "pc_recommend_eye_applying"
+msgstr "Selected the right feature. Applying it now..."
+
+msgid "pc_recommend_eye_contact"
+msgstr "Eye contact"
+
+msgid "pc_recommend_eye_contact_hovertip"
+msgstr "Redirect your gaze to the camera to engage viewers"
+
+msgid "pc_recommend_eye_detected"
+msgstr "Identified clips to correct eye contact."
+
+msgid "pc_recommend_eye_detecting"
+msgstr "Identifying clips to correct eye contact..."
+
+msgid "pc_recommend_eye_progress"
+msgstr "Correcting eye contact... %1%"
+
+msgid "pc_recommend_feature_name"
+msgstr "Smart suggestions"
+
+msgid "pc_recommend_feature_name_n"
+msgstr "Smart suggestions"
+
+msgid "pc_recommend_global_tools"
+msgstr "Improve your project"
+
+msgid "pc_recommend_hide_analysis"
+msgstr "Hide"
+
+msgid "pc_recommend_look_better"
+msgstr "Look better"
+
+msgid "pc_recommend_loudness_normalization_hovertip"
+msgstr "Adjust all clips to the same loudness in one click"
+
 msgid "pc_recommend_movement"
 msgstr "Apply stunning camera movements"
+
+msgid "pc_recommend_new_clips_added"
+msgstr "New clips added. "
+
+msgid "pc_recommend_new_clips_added_apply"
+msgstr "Apply"
+
+msgid "pc_recommend_project"
+msgstr "Project"
+
+msgid "pc_recommend_quality"
+msgstr "Make video clearer"
+
+msgid "pc_recommend_quality_checked"
+msgstr "Checked for flicker, blur, shaking, dropped frames, and more."
+
+msgid "pc_recommend_quality_checking"
+msgstr "Checking for flicker, blur, shaking, dropped frames, and more..."
+
+msgid "pc_recommend_quality_detecting"
+msgstr "Selected the most suitable features from the options below. Applying them now…"
+
+msgid "pc_recommend_quality_enhance"
+msgstr "Enhance quality"
+
+msgid "pc_recommend_quality_flicker"
+msgstr "Remove flickers"
+
+msgid "pc_recommend_quality_optical_flow"
+msgstr "Optical flow"
+
+msgid "pc_recommend_quality_progress"
+msgstr "Making video clearer... %1%"
+
+msgid "pc_recommend_quality_reduce_noise"
+msgstr "Reduce image noise"
+
+msgid "pc_recommend_quality_stabilize"
+msgstr "Stabilize"
+
+msgid "pc_recommend_retouch"
+msgstr "Retouch face"
+
+msgid "pc_recommend_retouch_hovertip"
+msgstr "Retouch faces in all clips with one click"
+
+msgid "pc_recommend_retouch_scenes"
+msgstr "Scenes to improve"
+
+msgid "pc_recommend_show_analysis"
+msgstr "Show"
+
+msgid "pc_recommend_show_less_details"
+msgstr "Show less"
+
+msgid "pc_recommend_show_more_details"
+msgstr "Show more"
+
+msgid "pc_recommend_sound_better"
+msgstr "Sound better"
+
+msgid "pc_recommend_style_captions"
+msgstr "Style captions"
+
+msgid "pc_recommend_style_captions_hovertip"
+msgstr "Style your captions for a more engaging video"
+
+msgid "pc_recommend_title"
+msgstr "Find out how your video can be improved"
 
 msgid "pc_recommend_try"
 msgstr "Try now"
 
+msgid "pc_recommend_unclear_clips_added"
+msgstr "Low-quality clips added. "
+
+msgid "pc_recommend_unclear_clips_added_apply"
+msgstr "Apply"
+
+msgid "pc_recommend_undo_auto_adjust_btn"
+msgstr "Remove"
+
+msgid "pc_recommend_undo_auto_adjust_cancel"
+msgstr "Cancel"
+
+msgid "pc_recommend_undo_auto_adjust_info"
+msgstr "Color adjustments applied to all clips will be removed."
+
+msgid "pc_recommend_undo_auto_adjust_title"
+msgstr "Remove color adjustments?"
+
+msgid "pc_recommend_undo_captions_btn"
+msgstr "Remove"
+
+msgid "pc_recommend_undo_captions_cancel"
+msgstr "Cancel"
+
+msgid "pc_recommend_undo_captions_info"
+msgstr "Captions added for all clips will be removed."
+
+msgid "pc_recommend_undo_captions_style_btn"
+msgstr "Remove"
+
+msgid "pc_recommend_undo_captions_style_cancel"
+msgstr "Cancel"
+
+msgid "pc_recommend_undo_captions_style_info"
+msgstr "Caption effects applied to all clips will be removed."
+
+msgid "pc_recommend_undo_captions_style_title"
+msgstr "Remove caption effects？"
+
+msgid "pc_recommend_undo_captions_title"
+msgstr "Remove captions?"
+
+msgid "pc_recommend_undo_color_match_btn"
+msgstr "Remove"
+
+msgid "pc_recommend_undo_color_match_cancel"
+msgstr "Cancel"
+
+msgid "pc_recommend_undo_color_match_info"
+msgstr "Color adjustments applied to all clips will be removed."
+
+msgid "pc_recommend_undo_color_match_title"
+msgstr "Remove color adjustments?"
+
+msgid "pc_recommend_undo_eye_btn"
+msgstr "Remove"
+
+msgid "pc_recommend_undo_eye_cancel"
+msgstr "Cancel"
+
+msgid "pc_recommend_undo_eye_info"
+msgstr "Eye contact adjustment applied to all clips will be removed."
+
+msgid "pc_recommend_undo_eye_title"
+msgstr "Remove eye contact adjustment?"
+
+msgid "pc_recommend_undo_for_all"
+msgstr "Remove"
+
+msgid "pc_recommend_undo_quality_btn"
+msgstr "Remove"
+
+msgid "pc_recommend_undo_quality_cancel"
+msgstr "Cancel"
+
+msgid "pc_recommend_undo_quality_info"
+msgstr "Quality enhancement applied to all clips will be removed."
+
+msgid "pc_recommend_undo_quality_title"
+msgstr "Remove quality enhancement?"
+
+msgid "pc_recommend_undo_retrouch_btn"
+msgstr "Remove"
+
+msgid "pc_recommend_undo_retrouch_cancel"
+msgstr "Cancel"
+
+msgid "pc_recommend_undo_retrouch_info"
+msgstr "Retouching effects applied to all clips will be removed."
+
+msgid "pc_recommend_undo_retrouch_title"
+msgstr "Remove retouching effects?"
+
+msgid "pc_recommend_undo_voice_btn"
+msgstr "Remove"
+
+msgid "pc_recommend_undo_voice_cancel"
+msgstr "Cancel"
+
+msgid "pc_recommend_undo_voice_info"
+msgstr "Voice enhancement and noise reduction applied to all clips will be removed."
+
+msgid "pc_recommend_undo_voice_title"
+msgstr "Remove audio adjustments?"
+
+msgid "pc_recommend_undo_volume_btn"
+msgstr "Remove"
+
+msgid "pc_recommend_undo_volume_cancel"
+msgstr "Cancel"
+
+msgid "pc_recommend_undo_volume_info"
+msgstr "Loudness normalization and noise reduction applied to all clips will be removed."
+
+msgid "pc_recommend_undo_volume_title"
+msgstr "Remove audio adjustments?"
+
+msgid "pc_recommend_used_by_many"
+msgstr "Other"
+
+msgid "pc_recommend_view"
+msgstr "View"
+
 msgid "pc_recommend_voice"
 msgstr "Convert text to speech with different voices"
 
+msgid "pc_recommend_voice_choosing"
+msgstr "Selected one or both of the features below. Applying them now…"
+
+msgid "pc_recommend_voice_detected"
+msgstr "Detected voice, background sounds, and noise."
+
+msgid "pc_recommend_voice_detecting"
+msgstr "Detecting voice, background sounds, and noise… Preparing to enhance voice clarity…"
+
+msgid "pc_recommend_voice_enhance"
+msgstr "Enhance voice"
+
+msgid "pc_recommend_voice_reduce_noise"
+msgstr "Reduce noise"
+
 msgid "pc_recommend_volume"
 msgstr "Adjust to the optimal volume in one click"
+
+msgid "pc_recommend_volume_choosing"
+msgstr "Selected one or both of the features below. Applying them now…"
+
+msgid "pc_recommend_volume_consistent"
+msgstr "Make volume consistent"
+
+msgid "pc_recommend_volume_consistent_progress"
+msgstr "Making volume consistent... %1%"
+
+msgid "pc_recommend_volume_detected"
+msgstr "Checked audio volume and dynamics, and detected parts that are too loud or too soft."
+
+msgid "pc_recommend_volume_detecting"
+msgstr "Checking audio volume and dynamics, and detecting parts that are too loud or too soft…"
+
+msgid "pc_recommend_volume_normalize_loudness"
+msgstr "Normalize loudness"
+
+msgid "pc_recommend_volume_reduce_noise"
+msgstr "Reduce noise"
+
+msgid "pc_recommend_will_not_upload_to_server"
+msgstr "Your project will not be uploaded to the server for analysis."
 
 msgid "pc_recommended_download_from_official_website"
 msgstr "It is recommended to download the newer updates of the graphics card from official websites"
@@ -24794,6 +27852,81 @@ msgstr "Red (R)"
 
 msgid "pc_reduction"
 msgstr "Restore"
+
+msgid "pc_reference_edit_btn_cancel"
+msgstr "Cancel"
+
+msgid "pc_reference_edit_btn_ok"
+msgstr "OK"
+
+msgid "pc_reference_edit_position"
+msgstr "Position"
+
+msgid "pc_reference_edit_title"
+msgstr "Edit guide"
+
+msgid "pc_reference_edit_unit"
+msgstr "Units"
+
+msgid "pc_reference_edit_unit_percentage"
+msgstr "Percent"
+
+msgid "pc_reference_edit_unit_pixel"
+msgstr "Pixels"
+
+msgid "pc_reference_menu_line"
+msgstr "Guides and rulers"
+
+msgid "pc_reference_menu_line_addhorizon"
+msgstr "Add horizontal guide"
+
+msgid "pc_reference_menu_line_addvertical"
+msgstr "Add vertical guide"
+
+msgid "pc_reference_menu_line_clearline"
+msgstr "Clear guides"
+
+msgid "pc_reference_menu_line_hideline"
+msgstr "Hide guides"
+
+msgid "pc_reference_menu_line_hideruler"
+msgstr "Hide rulers"
+
+msgid "pc_reference_menu_line_lock"
+msgstr "Lock guides"
+
+msgid "pc_reference_menu_line_showline"
+msgstr "Show guides"
+
+msgid "pc_reference_menu_line_showruler"
+msgstr "Show rulers"
+
+msgid "pc_reference_menu_line_unlock"
+msgstr "Unlock guides"
+
+msgid "pc_reference_rightclick_delete"
+msgstr "Delete guide"
+
+msgid "pc_reference_rightclick_edit"
+msgstr "Edit guide"
+
+msgid "pc_reference_rightclick_percentage"
+msgstr "Percent"
+
+msgid "pc_reference_rightclick_pixel"
+msgstr "Pixels"
+
+msgid "pc_reference_shortcut_line"
+msgstr "Show/hide guides"
+
+msgid "pc_reference_shortcut_ruler"
+msgstr "Show/hide rulers"
+
+msgid "pc_reference_toast_line_lock"
+msgstr "Guides locked"
+
+msgid "pc_reference_toast_maxlimit"
+msgstr "Maximum number of guides reached"
 
 msgid "pc_refresh"
 msgstr "Refresh"
@@ -25783,10 +28916,10 @@ msgid "pc_scene_button_video_apply"
 msgstr "Apply now"
 
 msgid "pc_scene_button_video_model_flux"
-msgstr "Image F1.0 Pro"
+msgstr "Image 2.0 Pro"
 
 msgid "pc_scene_button_video_model_flux_info"
-msgstr "Improved image quality, prompt adherence, and diversity."
+msgstr "Excellent image details. Powered by Flux."
 
 msgid "pc_scene_button_video_model_pixeldance_v10"
 msgstr "PixelDance V1.0"
@@ -25831,7 +28964,7 @@ msgid "pc_scene_desc_image_model_general14"
 msgstr "Ideal for short films, anime design, and graphic illustrations."
 
 msgid "pc_scene_desc_image_model_general20"
-msgstr "Excels in realistic style. Ideal for photography and promos."
+msgstr "Excels at realistic style. Ideal for photography and promos."
 
 msgid "pc_scene_desc_image_model_generalXL"
 msgstr "Ideal for text posters and supports multiple reference elements."
@@ -25843,7 +28976,7 @@ msgid "pc_scene_desc_legal_approval"
 msgstr "Allow CapCut to upload your media and prompts to our server. The content is automatically suggested based on what you provide. CapCut does not make any promises or warranties regarding the legality or appropriateness of any content. You shall be solely responsible for content created using CapCut, including but not limited to the use of the AI image and AI video features, which are not and will not be endorsed, sponsored, or approved by CapCut."
 
 msgid "pc_scene_desc_model_midjourney"
-msgstr "Excels in artistic style and creativity. Ideal for film, TV, and design projects."
+msgstr "Excels at artistic style and creativity. Ideal for film, TV, and design projects."
 
 msgid "pc_scene_desc_model_quality"
 msgstr "A higher value means better quality but takes longer to generate."
@@ -25891,13 +29024,13 @@ msgid "pc_scene_desc_video_apply"
 msgstr "Apply for beta testing to create videos with AI."
 
 msgid "pc_scene_desc_video_model_luma"
-msgstr "Excels in motion and creativity. Ideal for memes and remakes."
+msgstr "Excels at motion and creativity. Ideal for memes and remakes."
 
 msgid "pc_scene_desc_video_model_pixeldance"
 msgstr "Ideal for stylized creative videos and supports generating videos from multiple images."
 
 msgid "pc_scene_desc_video_model_runway_gen_3"
-msgstr "Stable motion and high quality. Excels in realistic style."
+msgstr "Stable motion and high quality. Excels at realistic style."
 
 msgid "pc_scene_desc_vision_to_image"
 msgstr "Describe the image you want to generate"
@@ -26262,6 +29395,12 @@ msgstr "Search for text templates"
 msgid "pc_search_transition_name/element"
 msgstr "Search for transitions"
 
+msgid "pc_seaweed_one"
+msgstr "Seaweed V1.0"
+
+msgid "pc_seaweed_one_info"
+msgstr "Works with first and last frames, produces stable motion, and generates faster."
+
 msgid "pc_second_n"
 msgid_plural "%1 seconds"
 msgstr[0] "%1 second"
@@ -26269,6 +29408,21 @@ msgstr[1] "%1 seconds"
 
 msgid "pc_seconds"
 msgstr "%1s"
+
+msgid "pc_seedance"
+msgstr "Seedance"
+
+msgid "pc_seedance_fl"
+msgstr "Seedance FL"
+
+msgid "pc_seedance_fl_frames"
+msgstr "Seedance Frames"
+
+msgid "pc_seedance_fl_info"
+msgstr "Understands your prompts better and generates super smooth motion."
+
+msgid "pc_seedance_info"
+msgstr "Excels at understanding text prompts. Fast generation and stable results."
 
 msgid "pc_segment_id"
 msgstr "Segment ID"
@@ -26491,6 +29645,9 @@ msgstr "Shadow style"
 
 msgid "pc_shake_remove_confirm"
 msgstr "Auto reframe will be removed if you turn on stabilize."
+
+msgid "pc_shape_property_tab_shape"
+msgstr "Shape"
 
 msgid "pc_share_and_check"
 msgstr "Share review"
@@ -27143,6 +30300,27 @@ msgstr "Reversing clip..."
 msgid "pc_snippet_view"
 msgstr "Show clip"
 
+msgid "pc_social_media_preview"
+msgstr "Social media preview"
+
+msgid "pc_social_media_preview_ig"
+msgstr "Instagram Reels"
+
+msgid "pc_social_media_preview_info"
+msgstr "What you see may vary depending on your device."
+
+msgid "pc_social_media_preview_none"
+msgstr "None"
+
+msgid "pc_social_media_preview_title"
+msgstr "Preview your video for social media"
+
+msgid "pc_social_media_preview_tt"
+msgstr "TikTok"
+
+msgid "pc_social_media_preview_ytb"
+msgstr "YouTube Shorts"
+
 msgid "pc_software_need_upgraded"
 msgstr "CapCut needs to be updated"
 
@@ -27256,6 +30434,9 @@ msgstr "%1 not detected"
 msgid "pc_sound_seperation_finish_tips"
 msgstr "Audio separated"
 
+msgid "pc_sound_seperation_instruments"
+msgstr "Instruments"
+
 msgid "pc_sound_seperation_new"
 msgstr "Separate audio"
 
@@ -27300,6 +30481,9 @@ msgstr "Separate"
 
 msgid "pc_sound_seperation_tips"
 msgstr "%1 separated. Select other audio elements you want to separate."
+
+msgid "pc_sound_seperation_voice"
+msgstr "Voice"
 
 msgid "pc_sound_seperation_wrong_toast"
 msgstr "Couldn’t separate. Try again."
@@ -27591,6 +30775,9 @@ msgstr "Select disk"
 
 msgid "pc_specified_preset_save_path%1_not_found"
 msgstr "Couldn't find preset saving path %1. Check if a disk is inserted or a disk path is specified."
+
+msgid "pc_speechavatar_name"
+msgstr "AI avatars"
 
 msgid "pc_split_audio"
 msgstr "Extract audio"
@@ -29239,6 +32426,12 @@ msgstr "Sync exported videos to space"
 msgid "pc_sync_exported_video_to_space_hover"
 msgstr "You can go to \"Settings\" to view or edit the auto sync settings"
 
+msgid "pc_sync_failed_media"
+msgstr "The media contains content that violates our Community Guidelines."
+
+msgid "pc_sync_failed_project"
+msgstr "The project contains content that violates our Community Guidelines."
+
 msgid "pc_sync_get_storage_btn"
 msgstr "Get storage"
 
@@ -29308,6 +32501,9 @@ msgstr "At least %1GB disk space needed"
 
 msgid "pc_system_font"
 msgstr "System font"
+
+msgid "pc_system_time_incorrect"
+msgstr "Failed to split due to the incorrect system time."
 
 msgid "pc_tag_illegal_fail_web"
 msgstr "Couldn’t add tag. Your tag includes inappropriate content."
@@ -29479,6 +32675,81 @@ msgstr "[None]"
 
 msgid "pc_team_template_five_contact_more"
 msgstr "[None]"
+
+msgid "pc_teams_download_group_tips_0527"
+msgstr "Some clips are still downloading. It will take about a bit longer to export."
+
+msgid "pc_teams_edit_group_tips_0528"
+msgstr "Last saved at %1. The project will be auto-saved to space when you leave."
+
+msgid "pc_teams_sell_tips_0528"
+msgstr "/seat"
+
+msgid "pc_teams_share_button1_0414"
+msgstr "Create link"
+
+msgid "pc_teams_share_button2_0414"
+msgstr "Copy link"
+
+msgid "pc_teams_share_heading_0414"
+msgstr "Share project"
+
+msgid "pc_teams_share_title2_0415"
+msgstr "Uploading the project to your space..."
+
+msgid "pc_teams_share_title_0414"
+msgstr "Create a link to share your project"
+
+msgid "pc_teams_upload_group_button1_0515"
+msgstr "Confirm"
+
+msgid "pc_teams_upload_group_button2_0527"
+msgstr "OK"
+
+msgid "pc_teams_upload_group_button_save_as"
+msgstr "Save as new"
+
+msgid "pc_teams_upload_group_describe1_0515"
+msgstr "This project has been edited by another member in the Teams space. To save your changes, you'll need to save it as a new project."
+
+msgid "pc_teams_upload_group_describe2_0515"
+msgstr "Can't save this project to space because you're no longer a member of the Teams space. Choose a location to save your project instead."
+
+msgid "pc_teams_upload_group_describe3_0527"
+msgstr "Can't save the project to space because you're no longer a member of the Teams space. Your project has been saved locally."
+
+msgid "pc_teams_upload_group_tips1_0527"
+msgstr "Couldn't save the project to space. Click to try again."
+
+msgid "pc_teams_upload_group_tips2_0527"
+msgstr "Uploading to space... %1"
+
+msgid "pc_teams_upload_group_tips3_0527"
+msgstr "Downloading... %1"
+
+msgid "pc_teams_upload_group_title1_0515"
+msgstr "Save this as a new project?"
+
+msgid "pc_teams_upload_group_title2_0515"
+msgstr "Choose a location to save your project"
+
+msgid "pc_teams_upload_personal_button1_0515"
+msgstr "Replace"
+
+msgid "pc_teams_upload_personal_button2_0515"
+msgstr "Keep both"
+
+msgid "pc_teams_upload_personal_button3_0515"
+msgstr "Cancel"
+
+msgid "pc_teams_upload_personal_describe_0515"
+msgstr "You've edited this project. To save the changes to space, you can choose to replace the version in space or keep both."
+
+msgid "pc_teams_upload_personal_title_0515"
+msgstr "How to save your changes?"
+
+msgid "pc_teams_upload_save_toast_0515"
+msgstr "Your project has been auto-saved to space"
 
 msgid "pc_teeth"
 msgstr "Teeth"
@@ -30546,6 +33817,9 @@ msgstr "Your video has been updated."
 msgid "pc_text_default"
 msgstr "Default"
 
+msgid "pc_text_draft_storyboard"
+msgstr "storyboard draft"
+
 msgid "pc_text_edit"
 msgstr "Edit text"
 
@@ -31183,6 +34457,9 @@ msgstr "Text template ({X})"
 msgid "pc_text_templates"
 msgstr "Text templates"
 
+msgid "pc_text_title_entry"
+msgstr "AI Storyboard"
+
 msgid "pc_text_to_speech"
 msgstr "Text to speech"
 
@@ -31788,8 +35065,83 @@ msgstr "The exported video resolution won’t be affected."
 msgid "pc_transcode_media_title"
 msgstr "Your media may cause playback lag"
 
+msgid "pc_transcript_auto_captions"
+msgstr "Auto captions"
+
+msgid "pc_transcript_auto_captions_info"
+msgstr "Automatically transcribe your video and generate captions."
+
+msgid "pc_transcript_auto_captions_title"
+msgstr "Auto captions"
+
+msgid "pc_transcript_complete_info"
+msgstr "Your internet seems a bit slow. Please wait a moment."
+
+msgid "pc_transcript_complete_title"
+msgstr "Poor connection"
+
+msgid "pc_transcript_delete_segments_toast"
+msgstr "Deleted segments can't be copied or cut."
+
+msgid "pc_transcript_extracting_audio"
+msgstr "Extracting audio..."
+
+msgid "pc_transcript_extracting_audio_title"
+msgstr "Extracting audio... %1%"
+
+msgid "pc_transcript_filler_words_info"
+msgstr "Cut out filler words from your video in one click."
+
+msgid "pc_transcript_filler_words_title"
+msgstr "Remove filler words"
+
+msgid "pc_transcript_overdubbing_try_later_toast"
+msgstr "This segment is being overdubbed. Try again later."
+
+msgid "pc_transcript_paste"
+msgstr "Paste"
+
+msgid "pc_transcript_preparation_title"
+msgstr "Getting things ready... %1%"
+
+msgid "pc_transcript_preprocessing_audio_title"
+msgstr "Preprocessing audio... %1%"
+
+msgid "pc_transcript_recognize"
+msgstr "Recognize"
+
+msgid "pc_transcript_remove_filler_words"
+msgstr "Remove filler words"
+
+msgid "pc_transcript_text_based_editing_info"
+msgstr "Edit your video by editing the transcript. Just copy, paste, or delete."
+
+msgid "pc_transcript_text_based_editing_title"
+msgstr "Text-based editing"
+
+msgid "pc_transcript_time_left_info"
+msgstr "Give it a little more time, and it will save you days of work."
+
+msgid "pc_transcript_time_left_title"
+msgstr "Estimated time left: %1s"
+
+msgid "pc_transcript_transcribe"
+msgstr "Transcribe"
+
+msgid "pc_transcript_upload"
+msgstr "Upload"
+
+msgid "pc_transcript_uploading_to_server_info"
+msgstr "Your video is a bit long and may take longer to upload."
+
+msgid "pc_transcript_uploading_to_server_title"
+msgstr "Processing... %1%"
+
 msgid "pc_transfer_list"
 msgstr "Transfer list ("
+
+msgid "pc_transform"
+msgstr "Transform"
 
 msgid "pc_transformation_of_material_packages_into_common_composite_clips"
 msgstr "Material package converted to compound clip"
@@ -32356,6 +35708,9 @@ msgstr "Space"
 msgid "pc_trending_filters_effects"
 msgstr "Videos following a trend"
 
+msgid "pc_trials_times_back"
+msgstr "Couldn’t generate. 1 free use returned."
+
 msgid "pc_try_credits"
 msgid_plural "%1 free uses left. Join Standard to use it with credits."
 msgstr[0] "%1 free use left. Join Standard to use it with credits."
@@ -32429,6 +35784,30 @@ msgstr "Speed"
 msgid "pc_tts_apply_to_all"
 msgstr "Apply to all"
 
+msgid "pc_tts_download_failed"
+msgstr "Couldn't download"
+
+msgid "pc_tts_downloading"
+msgstr "Downloading..."
+
+msgid "pc_tts_downloads"
+msgstr "Downloads"
+
+msgid "pc_tts_entry"
+msgstr "Text to speech"
+
+msgid "pc_tts_existing_project_create_btn"
+msgstr "Create new"
+
+msgid "pc_tts_existing_project_info"
+msgstr "You've edited this voiceover in an existing project. Do you want to open it or create a new one?"
+
+msgid "pc_tts_existing_project_open_btn"
+msgstr "Open existing project"
+
+msgid "pc_tts_existing_project_title"
+msgstr "Edit voiceover in existing project?"
+
 msgid "pc_tts_filter"
 msgstr "Filters"
 
@@ -32441,8 +35820,56 @@ msgstr "More"
 msgid "pc_tts_filter_reset"
 msgstr "Reset"
 
+msgid "pc_tts_leave_btn"
+msgstr "Leave"
+
+msgid "pc_tts_leave_cancel_btn"
+msgstr "Cancel"
+
+msgid "pc_tts_leave_info"
+msgstr "Ongoing downloads will stop."
+
+msgid "pc_tts_leave_info_generation"
+msgstr "Ongoing generation tasks will stop."
+
+msgid "pc_tts_leave_title"
+msgstr "Leave now?"
+
+msgid "pc_tts_loading"
+msgstr "Loading..."
+
+msgid "pc_tts_onboarding"
+msgstr "Create Al voiceovers from text or audio"
+
+msgid "pc_tts_open_new_btn"
+msgstr "Open"
+
+msgid "pc_tts_open_new_cancel_btn"
+msgstr "Cancel"
+
+msgid "pc_tts_open_new_info"
+msgstr "This window will close and your changes won't be saved."
+
+msgid "pc_tts_open_new_title"
+msgstr "Open a new window?"
+
 msgid "pc_tts_reset"
 msgstr "Reset"
+
+msgid "pc_tts_show_in_folder"
+msgstr "Show in folder"
+
+msgid "pc_tts_signed_out_btn"
+msgstr "Sign in"
+
+msgid "pc_tts_signed_out_info"
+msgstr "Sign in to continue creating AI voiceovers."
+
+msgid "pc_tts_signed_out_title"
+msgstr "You've signed out"
+
+msgid "pc_tts_sts_voice_changer_tool_name"
+msgstr "Voice changer"
 
 msgid "pc_tts_title_audition"
 msgstr "Preview"
@@ -32692,6 +36119,12 @@ msgstr "Upgrading..."
 msgid "pc_upload_a_draft"
 msgstr "Upload project:"
 
+msgid "pc_upload_auto_update"
+msgstr "none"
+
+msgid "pc_upload_auto_upgrade"
+msgstr "none"
+
 msgid "pc_upload_check"
 msgstr "Uploaded"
 
@@ -32715,6 +36148,9 @@ msgstr "Couldn't upload. Try again later."
 msgid "pc_upload_image"
 msgstr "Upload image:"
 
+msgid "pc_upload_later"
+msgstr "none"
+
 msgid "pc_upload_limit_within_200mb"
 msgstr "Upload limit: under 200MB"
 
@@ -32724,8 +36160,35 @@ msgstr "Upload material and use it anytime and anywhere you want"
 msgid "pc_upload_material_anytime_anywhere_how"
 msgstr "Upload material to create videos. How to upload?"
 
+msgid "pc_upload_new_ver_updated"
+msgstr "none"
+
+msgid "pc_upload_new_ver_updating"
+msgstr "none"
+
+msgid "pc_upload_next_auto_upg"
+msgstr "none"
+
 msgid "pc_upload_pictures/videos"
 msgstr "Upload photo/video:"
+
+msgid "pc_upload_retry_now"
+msgstr "none"
+
+msgid "pc_upload_update_done"
+msgstr "none"
+
+msgid "pc_upload_update_fail"
+msgstr "none"
+
+msgid "pc_upload_update_failed_net_disk"
+msgstr "none"
+
+msgid "pc_upload_updating"
+msgstr "none"
+
+msgid "pc_upload_view_dtl"
+msgstr "none"
 
 msgid "pc_uploaded_downloaded_draft_lost"
 msgstr "Currently uploading/downloading projects may be lost. Confirm and try again."
@@ -32760,6 +36223,12 @@ msgstr "Method 3: Use 360 Security Guard, Computer Manager, SpaceSniffer and oth
 msgid "pc_user_privacy"
 msgstr "Privacy Policy"
 
+msgid "pc_uses_per_month"
+msgstr "%d exports/month"
+
+msgid "pc_uses_per_week"
+msgstr "%d exports/week"
+
 msgid "pc_values_need_to_be_multiples_of_four"
 msgstr "Length and width need to be multiples of 4"
 
@@ -32775,11 +36244,29 @@ msgstr "Couldn’t apply this voice effect because the AI avatars are not applie
 msgid "pc_vc_failed_audio_limit"
 msgstr "Can’t apply voice effects to clips longer than %1 minutes"
 
+msgid "pc_vc_generated_success_desc"
+msgstr "Your information is encrypted and safe with us. We'll only use it with your permission. Feel free to create and enjoy your custom voices."
+
 msgid "pc_vc_laugh_loading"
 msgstr "Re-applying voice effect..."
 
 msgid "pc_vc_library_unavailable"
 msgstr "Can’t apply voice effect to music from CapCut and TikTok"
+
+msgid "pc_vc_regenerate_confirmation_popup_cancelbtn"
+msgstr "Cancel"
+
+msgid "pc_vc_regenerate_confirmation_popup_confirmbtn"
+msgstr "Discard"
+
+msgid "pc_vc_regenerate_confirmation_popup_desc"
+msgstr "Your voice will not be saved."
+
+msgid "pc_vc_regenerate_confirmation_popup_title"
+msgstr "Discard voice?"
+
+msgid "pc_vc_regenerate_free_use_popup_desc"
+msgstr "Your custom voice will not be saved. The deducted free use won't be returned."
 
 msgid "pc_vc_reverse_unavailable"
 msgstr "Can’t apply voice effects to reversed clips"
@@ -32879,6 +36366,12 @@ msgstr "Update now"
 
 msgid "pc_version_update_what_new"
 msgstr "What's new"
+
+msgid "pc_vertical_layout_tooltip"
+msgstr "Working on a vertical video? Switch to the vertical layout here."
+
+msgid "pc_vertical_layout_tooltip_btn"
+msgstr "Got it"
 
 msgid "pc_vertical_rotation"
 msgstr "Vertical rotation"
@@ -33746,6 +37239,9 @@ msgstr "Cancel"
 
 msgid "pc_voice_delete_clone_confirm"
 msgstr "Delete"
+
+msgid "pc_voice_does_not_support_language"
+msgstr "The selected voice doesn't support this language"
 
 msgid "pc_voice_effect_applied_successful"
 msgstr "Voice effect applied"
@@ -34912,6 +38408,12 @@ msgstr "AI watermark"
 msgid "pc_watermark_cc"
 msgstr "Watermark"
 
+msgid "pc_watermark_free_btn"
+msgstr "Export with watermark"
+
+msgid "pc_watermark_free_subtitle"
+msgstr "Watermark included"
+
 msgid "pc_watermark_free_trial_count_tag_left"
 msgid_plural "%1 uses left this month"
 msgstr[0] "%1 use left this month"
@@ -34952,6 +38454,21 @@ msgstr "Try watermark removal for free"
 msgid "pc_watermark_info"
 msgstr "It'll only appear on the AI-generated part and can't be hidden for compliance reasons"
 
+msgid "pc_watermark_intro1"
+msgstr "Watermark-free video exports"
+
+msgid "pc_watermark_intro2"
+msgstr "Advanced AI-powered tools"
+
+msgid "pc_watermark_intro3"
+msgstr "Unlimited premium features"
+
+msgid "pc_watermark_intro4"
+msgstr "Tons of assets, refreshed monthly"
+
+msgid "pc_watermark_intro5"
+msgstr "Mobile, desktop, and web access. Cancel anytime."
+
 msgid "pc_watermark_lower_left"
 msgstr "Lower left"
 
@@ -34972,6 +38489,15 @@ msgstr "Upgrade to Pro to remove watermark"
 
 msgid "pc_watermark_off"
 msgstr "Off"
+
+msgid "pc_watermark_pro_btn"
+msgstr "Join Pro and export"
+
+msgid "pc_watermark_pro_subtitle"
+msgstr "HD export, no watermark"
+
+msgid "pc_watermark_title"
+msgstr "Join Pro to remove watermarks and enjoy more benefits"
 
 msgid "pc_watermark_upper_left"
 msgstr "Upper left"
@@ -35171,6 +38697,9 @@ msgstr "The video title and cover will also be shared to TikTok."
 msgid "pc_ytb_tt_share_privacy_settings"
 msgstr "Privacy settings"
 
+msgid "pc_zoom_hovertip"
+msgstr "Zoom"
+
 msgid "pc_zooming_tracking_effect_is_removed"
 msgstr "Current tracking will be removed after zooming in"
 
@@ -35245,6 +38774,9 @@ msgstr "none"
 msgid "personal_info"
 msgstr "Bio"
 
+msgid "personal_info_expire_time"
+msgstr "enjoy SVIP benefits %1 will expire"
+
 msgid "personal_pc"
 msgstr "Casual purpose"
 
@@ -35282,7 +38814,7 @@ msgid "picture_material_n"
 msgstr "Photo"
 
 msgid "picture_quality_increasing"
-msgstr "Image enhancement"
+msgstr "Enhance quality"
 
 msgid "picture_screen"
 msgstr "Image"
@@ -35474,6 +39006,20 @@ msgstr "By clicking “Post”, you agree to {X}."
 
 msgid "power_ful_features"
 msgstr "Powerful features"
+
+msgid "pp_notify_2025_06"
+msgstr ""
+"<p>We're Updating Our Terms of Service<br />\n"
+"We’ve made some updates to our Terms of Service, which will take effect on June 12, 2025. Most of the changes clarify our existing policies, but a few sections have been updated to reflect certain materials' availability for commercial use and your use of some third-party services. <br />\n"
+"Please take a moment to review the updated terms here:<a href='{0}'>Terms of Service</a> <br />\n"
+"By continuing to use CapCut after June 12, 2025, you’re agreeing to the new Terms of Service.</p>"
+
+msgid "pp_notify_2025_06_with_lang"
+msgstr ""
+"<p>We're Updating Our Terms of Service<br />\n"
+"We’ve made some updates to our Terms of Service, which will take effect on June 12, 2025. Most of the changes clarify our existing policies, but a few sections have been updated to reflect certain materials' availability for commercial use and your use of some third-party services. <br />\n"
+"Please take a moment to review the updated terms here:<a href='https://www.capcut.com/clause/terms-of-service?lang=en'>Terms of Service</a> <br />\n"
+"By continuing to use CapCut after June 12, 2025, you’re agreeing to the new Terms of Service.</p>"
 
 msgid "prank_comedy"
 msgstr "Prank or comedy"
@@ -36314,6 +39860,9 @@ msgstr "Saved to “Customized”"
 msgid "saved_to_projects"
 msgstr "Saved to drafts"
 
+msgid "saved_to_subtitles"
+msgstr "Saved to subtitles - create new subtitles"
+
 msgid "saving"
 msgstr "Saving...Don't lock screen or switch to other apps"
 
@@ -36334,6 +39883,9 @@ msgstr "Range"
 
 msgid "screen"
 msgstr "Screen"
+
+msgid "screen_guide_tracking_edit"
+msgstr "[null]"
 
 msgid "screen_portrait"
 msgstr "Screen and camera"
@@ -36368,6 +39920,9 @@ msgstr "Search project name"
 msgid "search_elements_locate_fragment_lines_easily"
 msgstr "Try searching subjects in images to quickly locate clips. You can also search oral broadcasting lines to quickly find material."
 
+msgid "search_file_name_cnt"
+msgstr "[null]"
+
 msgid "search_file_names_screen_elements_lines"
 msgstr "Search project, subjects in image, lines"
 
@@ -36391,6 +39946,27 @@ msgstr "Search for video scenes/elements"
 
 msgid "search_history_pc"
 msgstr "Search history"
+
+msgid "search_intelligent_cnt"
+msgstr "[null]"
+
+msgid "search_intelligent_loading"
+msgstr "[null]"
+
+msgid "search_intelligent_loading_fail_1"
+msgstr "[null]"
+
+msgid "search_line_cnt"
+msgstr "[null]"
+
+msgid "search_line_loading"
+msgstr "[null]"
+
+msgid "search_loading_fail_retry_2"
+msgstr "[null]"
+
+msgid "search_network_error_fail_1"
+msgstr "[null]"
 
 msgid "search_pc"
 msgstr "Search"
@@ -36580,6 +40156,9 @@ msgstr "Shortest to longest"
 
 msgid "shortcut"
 msgstr "Shortcut"
+
+msgid "shortcut_key_combine_back"
+msgstr "[null]"
 
 msgid "shortcut_key_conflict"
 msgstr "Shortcuts conflict"
@@ -37140,6 +40719,9 @@ msgstr "Nose"
 msgid "slim_waist"
 msgstr "Waist"
 
+msgid "slovak_pc"
+msgstr "Slovak"
+
 msgid "slow_clips_only"
 msgstr "(Only applied to slow-mo videos)"
 
@@ -37239,6 +40821,12 @@ msgstr "Some songs may not be shown due to copyright"
 msgid "sort_by"
 msgstr "Sort by"
 
+msgid "sound_separation_restore_action"
+msgstr "Restore original audio"
+
+msgid "sound_separation_toast_none"
+msgstr "This element is no longer in the audio"
+
 msgid "sound_subtitle_complete_update_render_preview"
 msgstr "Speech and captions are updated. You can preview the whole clip when avatars are updated."
 
@@ -37274,6 +40862,9 @@ msgstr "Couldn’t join. Space is full."
 
 msgid "space_name_pc"
 msgstr "Name"
+
+msgid "space_no_teams_template"
+msgstr "select project files to create team templates"
 
 msgid "space_not_enough_buy_more"
 msgstr "Insufficient cloud storage. Please buy more storage or delete some drafts"
@@ -37613,6 +41204,9 @@ msgstr "Talking head or explainer"
 
 msgid "talking_knowledge_explanation"
 msgstr "🎙 Talking head / Explainer"
+
+msgid "tamil_pc"
+msgstr "Tamil"
 
 msgid "tap_drag_adjust_layers"
 msgstr "Tap and drag to adjust layers"
@@ -37964,11 +41558,53 @@ msgstr ""
 msgid "time_same"
 msgstr "Duration"
 
+msgid "timeline_apply_to"
+msgstr "[null]"
+
+msgid "timeline_cnt_limit_error"
+msgstr "[null]"
+
+msgid "timeline_create"
+msgstr "[null]"
+
+msgid "timeline_default_name"
+msgstr "[null]"
+
+msgid "timeline_delete"
+msgstr "[null]"
+
+msgid "timeline_delete_confirm_cintent"
+msgstr "[null]"
+
+msgid "timeline_delete_confirm_title"
+msgstr "[null]"
+
+msgid "timeline_name"
+msgstr "[null]"
+
+msgid "timeline_parameter"
+msgstr "[null]"
+
+msgid "timeline_pin"
+msgstr "[null]"
+
+msgid "timeline_pin_toast"
+msgstr "[null]"
+
+msgid "timeline_rename"
+msgstr "[null]"
+
 msgid "timeline_scrolls_left_and_right"
 msgstr "Timeline scrolls left and right"
 
 msgid "timeline_scrolls_up_and_down"
 msgstr "Timeline scrolls up and down"
+
+msgid "timeline_settings"
+msgstr "[null]"
+
+msgid "timeline_space_limit_error"
+msgstr "[null]"
 
 msgid "timeline_zoom"
 msgstr "Zoom in/Zoom out"
@@ -38104,6 +41740,18 @@ msgstr "Tracking complete"
 
 msgid "tracking_speed_resize"
 msgstr "Tracking speed"
+
+msgid "tracking_trajectory_edit"
+msgstr "[null]"
+
+msgid "tracking_trajectory_show"
+msgstr "[null]"
+
+msgid "tracking_trajectory_smooth"
+msgstr "[null]"
+
+msgid "tracking_trajectory_smooth_explanation"
+msgstr "[null]"
 
 msgid "transcoding_p_c"
 msgstr "Transcoding..."
@@ -38297,6 +41945,12 @@ msgstr "Type"
 msgid "ugc_editor"
 msgstr "by HEYCAN creator: %s"
 
+msgid "unable_add_brand_material"
+msgstr "Unable to add more branded material"
+
+msgid "unable_add_brand_material_desc"
+msgstr "Space is not currently subscribed. The current type can add up to %1 materials. Please contact the space owner, upgrade subscription team edition can get unlimited amount"
+
 msgid "unable_sync_sounds"
 msgstr "Unable to sync original sounds from TikTok. Allow access to your TikTok Favorites and try again."
 
@@ -38447,6 +42101,9 @@ msgstr "Upgrade"
 msgid "upgrade_pc_cloud_n"
 msgstr "Update"
 
+msgid "upgrade_svip_teams_template"
+msgstr "upgrade to SVIP to publish team template"
+
 msgid "upgrade_to_pro"
 msgstr "Join CapCut Pro"
 
@@ -38486,6 +42143,9 @@ msgstr "Couldn't upload"
 msgid "upload_failed_pc_n"
 msgstr "Couldn’t upload."
 
+msgid "upload_files_under_500mb"
+msgstr "Please upload a file no larger than 500MB"
+
 msgid "upload_font"
 msgstr "Upload font"
 
@@ -38506,6 +42166,9 @@ msgstr "Upload to CapCut Cloud Space?"
 
 msgid "upload_permission_ye_contact_team_administrator"
 msgstr "You don’t have access to upload. Contact the space administrator."
+
+msgid "upload_plural_timeline_content"
+msgstr "[null]"
 
 msgid "upload_screenshot"
 msgstr "Upload screenshots"
@@ -38897,176 +42560,179 @@ msgstr "Vlog"
 msgid "vocal_enhance"
 msgstr "Vocal enhancement"
 
+msgid "vocal_separation_start_action"
+msgstr "Apply"
+
 msgid "voice_changer"
 msgstr "Voice effects"
 
 msgid "voice_clone_reading_text_001"
-msgstr "The sun sets slowly beyond the horizon, casting a warm glow across the sky and transforming the landscape into a canvas of orange and pink hues."
+msgstr "The sun sets slowly beyond the horizon, casting a warm glow across the sky and turning the landscape into a canvas painted in orange and pink."
 
 msgid "voice_clone_reading_text_002"
-msgstr "A gentle breeze rustles the leaves of the trees, carrying with it the sweet, fragrant scent of blooming flowers that fills the air and invites a moment of peaceful reflection."
+msgstr "A gentle breeze rustles the tree leaves, carrying a sweet and fragrant scent of blooming flowers that fills the air and invites a peaceful reflection."
 
 msgid "voice_clone_reading_text_003"
-msgstr "The soccer ball soars through the air with a powerful kick, spinning gracefully as it arcs high above the field, marking a triumphant goal."
+msgstr "The soccer ball soars through the air with a powerful kick, spinning gracefully as it flies high above the field, marking a victorious goal."
 
 msgid "voice_clone_reading_text_004"
-msgstr "The laughter of children playing on the playground is a symphony of joy that fills the air, echoing the carefree innocence of youth and the simple pleasures of a sunny afternoon."
+msgstr "The children's laughter on the playground is a joyous symphony that echoes their carefree innocence and the simple pleasures of a sunny afternoon."
 
 msgid "voice_clone_reading_text_005"
-msgstr "A train speeds down the tracks with a thunderous roar, its horn blasting a powerful signal as it rushes towards the distant station, a testament to the relentless pace of modern progress."
+msgstr "A train speeds down the tracks with a thunderous roar as it rushes towards the station, a testament to the rapid and relentless modern progress."
 
 msgid "voice_clone_reading_text_006"
-msgstr "The waves crash upon the shore with a mighty force, their white foam hugging the sand in a fleeting embrace before retreating back to the sea, a timeless dance of the natural world."
+msgstr "The waves crash upon the shore, their white foam hugging the sand in a fleeting embrace before retreating back to the sea, a timeless dance of nature."
 
 msgid "voice_clone_reading_text_007"
-msgstr "The sun dips slowly beneath the horizon, its farewell rays painting the sky with a vibrant sunset."
+msgstr "The sun dips slowly beneath the horizon, its rays painting the sky with a vibrant sunset, and the clouds are dyed orange and red, as if aflame."
 
 msgid "voice_clone_reading_text_008"
-msgstr "A gentle breeze whispers through the garden, the fragrance of flowers mingling with the fresh, clean air."
+msgstr "A gentle breeze whispers through the garden, the fragrance of flowers mingling with the fresh air, creating a safe space for peaceful reflection."
 
 msgid "voice_clone_reading_text_009"
-msgstr "Each wave crashes upon the shore, leaving a lace-like edge of foam before receding back to the sea."
+msgstr "Each wave crashes upon the shore with a hiss, leaving lace-like foam on the sand before receding back to the sea, then rushing toward the shore again."
 
 msgid "voice_clone_reading_text_010"
-msgstr "The chirping of crickets grows louder as night falls, their song a natural clock signaling the arrival of twilight and the stillness it brings."
+msgstr "The crickets' chirping grows louder as night falls, their song a natural clock signaling the slow arrival of twilight and the resounding stillness it brings."
 
 msgid "voice_clone_reading_text_011"
-msgstr "A steaming cup of hot chocolate, rich and velvety, cradled in cold hands on a winter's day, offers a sweet respite from the chill that bites at the air."
+msgstr "A steaming cup of hot chocolate, rich and velvety, cradled in cold hands on a winter's day, offers a sweet respite from the biting chill in the air."
 
 msgid "voice_clone_reading_text_012"
-msgstr "The evening breeze whispers through the trees, its gentle touch cooling the day's heat away, and the rustling leaves seem to sing a soothing lullaby for the setting sun."
+msgstr "The evening breeze whispers through the trees, its gentle touch cooling the day's heat, and the rustling leaves sing a soothing lullaby for the setting sun."
 
 msgid "voice_clone_reading_text_013"
-msgstr "A bookshelf stands tall, filled with stories of adventure, love, and mystery, each spine a journey waiting to be discovered, inviting readers to lose themselves in the magic of words."
+msgstr "A bookshelf stands tall, filled with adventure, love, and mystery, each a journey waiting to be discovered, inviting readers to lose themselves in the magic of words."
 
 msgid "voice_clone_reading_text_014"
-msgstr "The distant thunder rumbles, echoing across the vast sky, a prelude to the approaching storm, as the first drops of rain begin to fall, dotting the dusty ground with dark prints."
+msgstr "The distant thunder rumbles in the vast sky, a prelude to the approaching storm, then the raindrops begin to fall and dot the dusty ground with dark spots."
 
 msgid "voice_clone_reading_text_015"
-msgstr "A lone streetlight stands vigil, its glow a beacon of safety in the night, casting a warm and steady light on the quiet sidewalk, a silent guardian against the encroaching darkness."
+msgstr "A lone streetlight stands as a beacon of safety in the night, casting a warm and steady light on the quiet sidewalk, like a silent guardian against the darkness."
 
 msgid "voice_clone_reading_text_016"
-msgstr "The aroma of freshly brewed coffee wafts through the air, a rich and inviting scent that promises a warm and comforting cup, perfect for a cozy morning spent wrapped in a soft blanket."
+msgstr "The rich and inviting aroma of coffee wafts through the air, promising a warm and comforting drink, perfect for a cozy morning spent wrapped in a blanket."
 
 msgid "voice_clone_reading_text_017"
-msgstr "The melody of a piano fills the room, each note a delicate thread in the intricate tapestry of music, as the pianist's skilled fingers dance across the keys, weaving a story of sound."
+msgstr "The piano's melody fills the room, each note like a delicate thread in the tapestry of music, as the pianist's fingers dance across the keys skillfully."
 
 msgid "voice_clone_reading_text_018"
-msgstr "The golden retriever bounds across the meadow, its fur glistening in the sunlight, a picture of health and joy, its enthusiastic wag of the tail a testament to the simple pleasures of a playful run."
+msgstr "The golden retriever bounds across the meadow, its glistening fur radiating health and joy. Its wagging tail symbolizes the simple pleasures of a playful run."
 
 msgid "voice_clone_reading_text_019"
-msgstr "The garden blooms with a kaleidoscope of colors, each flower a vibrant burst of life in the soft morning light, their fragrance weaving a tapestry of scents through the air."
+msgstr "The garden blooms with colors, each flower a vibrant burst of life in the soft morning light, their fragrance weaving different scents in the air together."
 
 msgid "voice_clone_reading_text_020"
-msgstr "A train's rhythmic clatter on the tracks fills the air, a symphony of industry and progress, as it races towards the horizon, carrying with it the hopes and dreams of its passengers."
+msgstr "A train's rhythmic clatter on the tracks creates a symphony of industrial power and progress. It races towards the horizon, carrying the passengers' hopes and dreams."
 
 msgid "voice_clone_reading_text_021"
-msgstr "The chef's knives dance through the air, a well-choreographed ballet of precision and skill, as ingredients transform under his deft hands into a culinary masterpiece."
+msgstr "The chef's knives dance through the air, showing off precision and skill, as ingredients transform into a culinary masterpiece under his agile hands."
 
 msgid "voice_clone_reading_text_022"
-msgstr "A child's laughter rings out in the playground, a sound as clear as a bell, echoing the innocence and delight of youth, a melody that uplifts the spirits of all who hear it."
+msgstr "A child's silvery laughter rings out in the playground, as clear as a bell, echoing the innocence and delight of youth, creating an uplifting melody."
 
 msgid "voice_clone_reading_text_023"
-msgstr "The painter adds the final brushstroke to the canvas, a masterpiece brought to life with a spectrum of colors, capturing a moment in time for all to admire."
+msgstr "The painter adds the final brushstroke to the canvas, bringing a masterpiece to life with vibrant colors and capturing a moment in time for all to admire."
 
 msgid "voice_clone_reading_text_024"
-msgstr "The violin's strings vibrate with life as the musician plays, each note a wave of emotion, filling the concert hall with a rich and evocative sound."
+msgstr "The violin's strings vibrate with life as the musician plays. Each note brings a wave of emotion, filling the concert hall with a rich and melodious sound."
 
 msgid "voice_clone_reading_text_025"
-msgstr "The soft patter of rain on the rooftop is a lullaby to the city, a gentle reminder of nature's presence, as the world outside slows to the rhythm of the falling drops."
+msgstr "The softly pattering rain on the rooftop is a lullaby to the city, a gentle reminder from nature, as the world outside slows to the rhythm of raindrops."
 
 msgid "voice_clone_reading_text_026"
-msgstr "The dancer's graceful movements across the stage captivate the audience, her fluid gestures telling a story without words, a visual poem of motion and emotion."
+msgstr "The dancer's graceful movements captivate the audience, her fluid gestures telling a story without words, a visual poem created with motions and emotions."
 
 msgid "voice_clone_reading_text_027"
-msgstr "The crackle of the fire in the hearth is a comforting sound, a reminder of home and hearth, as the flames dance and cast their warm glow on the surrounding room."
+msgstr "The crackling fire in the hearth emits a comforting sound, a homely reminder, as the flames dance and cast their warm glow around the room."
 
 msgid "voice_clone_reading_text_028"
-msgstr "The early morning joggers greet the day with a steady rhythm of footsteps, their breath visible in the cool air, a testament to the vibrancy of life as the city begins to wake."
+msgstr "The early morning joggers greet the day with a steady rhythm of footsteps, their breath visible in the cool air, as the city wakes up from its slumber."
 
 msgid "voice_clone_reading_text_029"
-msgstr "The soft creak of the swing as it sways back and forth under the old oak tree, the tranquil scene a timeless snapshot of summer's lazy days."
+msgstr "The swing creaks softly as it sways back and forth under the old oak tree, creating a tranquil scene, a timeless snapshot of lazy summer days."
 
 msgid "voice_clone_reading_text_030"
-msgstr "A warm cup of tea cradled in my hands, its steam rising to meet the cool evening air, brings a sense of calm and solace after a long day's work."
+msgstr "A warm cup of tea is cradled in my hands, its steam rising to meet the cool evening air, bringing calmness and solace after a long day's work."
 
 msgid "voice_clone_reading_text_031"
-msgstr "The dew-kissed grass underfoot as I walk through the meadow, each step releasing a fresh, earthy scent that mingles with the fragrance of wildflowers."
+msgstr "The dew-kissed grass rustles as I walk through the meadow, each step releasing a fresh and earthy scent that mingles with the fragrance of wildflowers."
 
 msgid "voice_clone_reading_text_032"
-msgstr "The old bicycle, its frame rusted and paint chipped, stands as a testament to countless journeys and memories made along the way."
+msgstr "The old bicycle with a rusted frame and chipped paint exists as a testament to the countless journeys it has witnessed and the memories made along the way."
 
 msgid "voice_clone_reading_text_033"
 msgstr "The flickering candlelight casts dancing shadows on the walls, creating an intimate ambiance as family and friends gather to share stories and laughter."
 
 msgid "voice_clone_reading_text_034"
-msgstr "The first light of dawn creeps over the horizon, casting a warm glow that slowly banishes the shadows of the long night and welcomes the day."
+msgstr "At dawn, the first light creeps over the gloomy horizon, casting a bright glow that chases away the long and dark night, welcoming a new day."
 
 msgid "voice_clone_reading_text_035"
-msgstr "A single rose in full bloom, its petals unfurled to reveal the beauty within, stands as a symbol of love and passion in the stillness of the garden."
+msgstr "Here is a single rose in full bloom, its petals unfurled to reveal the beauty within, standing as a symbol of love and passion in the quiet garden."
 
 msgid "voice_clone_reading_text_036"
-msgstr "The early morning light filters through the curtains, bathing the room in a warm, golden glow and gently rousing me from a peaceful night's sleep."
+msgstr "The early morning light filters through the curtains, bathing the room in a warm and golden glow, gently rousing me from a peaceful night's sleep."
 
 msgid "voice_clone_reading_text_037"
-msgstr "The rhythmic sound of the ocean's waves crashing against the shore, a soothing backdrop to the seaside's serenity, invites the soul to find tranquility."
+msgstr "The ocean waves crash against the shore, creating a rhythmic sound and a soothing backdrop to the serene seaside, leading the soul on a path to peace."
 
 msgid "voice_clone_reading_text_038"
-msgstr "The sound of a gentle breeze through the leaves, a whispering serenade, is a calming presence that speaks of nature's peace and the quiet of the forest."
+msgstr "The gentle breeze slipped through the leaves like a whispering serenade, a calming presence that speaks of nature's peace and the forest's stillness."
 
 msgid "voice_clone_reading_text_039"
 msgstr "A flock of birds takes flight from the treetops, their wings beating in unison, creating a breathtaking spectacle as they soar towards the heavens."
 
 msgid "voice_clone_reading_text_040"
-msgstr "The first snowfall of winter blankets the landscape in a pure white, muffling the sounds of the city and transforming the world into a serene, peaceful haven."
+msgstr "The first snowfall of winter blankets the landscape in a pure white, muffling the city's bustle and turning the world into a serene, peaceful haven."
 
 msgid "voice_clone_reading_text_041"
-msgstr "The crackling fire in the hearth roars to life, its warm, orange flames casting a cozy light that fills the room with a sense of warmth and belonging."
+msgstr "The crackling fire in the hearth roars to life, its warm and orange flames casting a cozy light that fills the room with warmth and a sense of belonging."
 
 msgid "voice_clone_reading_text_042"
-msgstr "The old library's musty scent, a mix of ancient paper and ink, is like a time machine that transports you to the past, where the wisdom of the ages awaits."
+msgstr "The old library's musty scent is a mix of paper and stale ink. It is a time machine that transports you to the past, where the ancient wisdom awaits."
 
 msgid "voice_clone_reading_text_043"
-msgstr "The garden at dawn is a sight to behold, with dew-laden flowers nodding in the gentle breeze, and the first rays of sunlight painting the sky with delicate hues."
+msgstr "The garden at dawn is a sight to behold, with dew-kissed flowers nodding in the gentle breeze, and the first rays of sunlight painting the sky with delicate colors."
 
 msgid "voice_clone_reading_text_044"
-msgstr "The rhythmic tapping of rain on the window is a lullaby that soothes the soul, inviting you to drift into a peaceful slumber as the world outside slows to a tranquil standstill."
+msgstr "The rain taps on the window, creating a lullaby that soothes the soul, letting you drift into a peaceful sleep as the world outside slows to a standstill."
 
 msgid "voice_clone_reading_text_045"
-msgstr "The smell of fresh bread wafting from the bakery is an irresistible invitation to taste the simple pleasures of life, a warm, comforting aroma that fills the street with promise."
+msgstr "The smell of fresh bread wafting from the bakery is an irresistible invitation to taste the simple pleasures in life. It is a comforting aroma that fills the street with promise."
 
 msgid "voice_clone_reading_text_046"
-msgstr "The sound of children playing in the park, their laughter and shouts filling the air, is a reminder of the joy and innocence that are the hallmarks of a carefree childhood."
+msgstr "The children play in the park, their laughter and shouts are a reminder of the simple joy and innocence that make a carefree and happy childhood."
 
 msgid "voice_clone_reading_text_047"
-msgstr "The soft purr of a contented cat, curled up on a warm, sunny windowsill, is a peaceful symphony that fills the room with a sense of tranquility."
+msgstr "A contented cat is curled up on a warm and sunny windowsill, its soft purrs a peaceful symphony that fills the room with a sense of comfort and peace."
 
 msgid "voice_clone_reading_text_048"
-msgstr "The laughter of a child at play, innocent and carefree, is a melody that resonates with joy, a poignant reminder of the simple pleasures in life."
+msgstr "The laughter of an innocent and carefree child is a melody that resonates with joy, as well as a living testament to the simple pleasures in life."
 
 msgid "voice_clone_reading_text_049"
-msgstr "The rhythmic sound of the ocean waves, a constant ebb and flow, is a soothing melody that calms the spirit and reminds us of nature's enduring rhythm."
+msgstr "The rolling ocean waves move in constant ebb and flow. The sound it creates is a soothing melody that reminds us of nature's enduring rhythm."
 
 msgid "voice_clone_reading_text_050"
-msgstr "The taste of a ripe, juicy peach, its sweet juices bursting in your mouth, is a sensory delight that heralds the arrival of summer and the bounty of fresh fruits."
+msgstr "You bit into a ripe peach, and its sweet juice burst in your mouth. The taste is a sensory delight that heralds the summer's arrival and the bounty of fresh fruits."
 
 msgid "voice_clone_reading_text_051"
-msgstr "The sound of a train whistle in the distance, a lonesome call that cuts through the still night air, evokes a sense of travel and adventure that stirs the imagination."
+msgstr "The train whistles in the distance, making a lonesome call that cuts through the night air, evoking the wonder of adventure that stirs the imagination."
 
 msgid "voice_clone_reading_text_052"
-msgstr "The gentle sway of a willow tree by the riverbank, its branches dipping into the cool water, creates a tranquil scene that invites reflection and quiet contemplation."
+msgstr "A willow tree sways gently by the riverbank, its branches dipping into the cool water, creating a tranquil scene that invites quiet contemplation."
 
 msgid "voice_clone_reading_text_053"
-msgstr "The feel of a soft, cozy blanket, enveloping you in warmth on a chilly night, is a comforting embrace that promises a night of peaceful sleep."
+msgstr "On a chilly night, the soft blanket envelops you in a warm and cozy embrace. The comfort it gives you promises a night of peaceful sleep."
 
 msgid "voice_clone_reading_text_054"
-msgstr "The sight of a golden sunset, its warm hues painting the sky, is a beautiful reminder of the day's end and the promise of a new morning."
+msgstr "The golden sunset paints the sky in warm and vivid colors. It ends the day with a beautiful spectacle and signals the promise of a new morning."
 
 msgid "voice_clone_reading_text_055"
-msgstr "The soft glow of a lantern in the darkness, a beacon of hope and guidance, brings a sense of security and comfort to those who navigate the night."
+msgstr "The lantern emits a soft glow in the darkness, like a beacon guiding you to safety, bringing a sense of security and comfort to those who roam the night."
 
 msgid "voice_clone_reading_text_056"
-msgstr "The gentle hum of a bee as it flits from flower to flower, collecting nectar, is a sweet symphony of nature's tireless workers at their daily task."
+msgstr "The bees hum gently as they flit from flower to flower, collecting nectar tirelessly, creating a sweet symphony of diligence and duty together."
 
 msgid "voice_pitch"
 msgstr "Change pitch"
@@ -39250,6 +42916,15 @@ msgstr "Learn more CapCut tutorials"
 
 msgid "weak_pc"
 msgstr "Weak"
+
+msgid "web_account_btn_sign_in_with_facebook"
+msgstr "Open Facebook"
+
+msgid "web_account_desc_sign_in_with_facebook"
+msgstr "If the current page doesn’t redirect automatically, click the button below to open Facebook."
+
+msgid "web_account_title_sign_in_with_facebook"
+msgstr "Sign in to CapCut with Facebook"
 
 msgid "web_accounts_tab_terms_and_policies"
 msgstr "Terms and Policies"
