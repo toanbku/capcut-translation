@@ -72,6 +72,9 @@ msgstr "完成编辑"
 msgid "PC_collaboration_edition"
 msgstr "团队版"
 
+msgid "PC_feedback_emergency_prompt"
+msgstr "尊敬的用户您好，当前字幕识别使用人数较多，我们正在加急恢复中，请耐心等待系统恢复。给您带来的不便表示歉意，感谢您的理解和支持！"
+
 msgid "PC_legal_popdetail"
 msgstr ""
 "本功能需您：\n"
@@ -169,6 +172,9 @@ msgid "account_deleted"
 msgstr "您的账号已删除"
 
 msgid "account_deleted_log_out"
+msgstr "您的帐号已删除，请点击 [确定] 退出。"
+
+msgid "account_deleted_log_out_pad"
 msgstr "您的帐号已删除，请点击 [确定] 退出。"
 
 msgid "account_deleted_retry"
@@ -335,6 +341,12 @@ msgstr "由PIPO处理的支付交易，在您确认支付后将同意PIPO的隐�
 
 msgid "agree_to_the_clipping_creator_service_agreement"
 msgstr "同意剪映创作者服务协议"
+
+msgid "agree_to_the_clipping_creator_service_agreement_pad"
+msgstr "同意剪映创作者服务协议"
+
+msgid "ai__rough_cut_new"
+msgstr "想做影视解说？右键素材，试试「智能解说粗剪」"
 
 msgid "ai_accurate_recognition"
 msgstr "AI 个性化识别"
@@ -582,8 +594,20 @@ msgstr "AI 帮你创作优质文案，智能生成视频内容"
 msgid "ai_identify_quick_click_delete"
 msgstr "快让AI帮你识别口播素材中的停顿、重复、语气词，一键删除就可以快速完成粗剪啦！"
 
+msgid "ai_image_generation_desc_pc_seedreamfour"
+msgstr "支持多参考图、图片特征迁移与融合，具备文本指令、图片信息的推理能力。"
+
+msgid "ai_image_generation_tips_pc_seedreamfour"
+msgstr "请描述你想要生成的图片。"
+
+msgid "ai_image_generation_title_pc_seedreamfour"
+msgstr "Seedream 4.0"
+
 msgid "ai_packaging_popup_des_trial"
 msgstr "该功能可智能识别视频内容并一键添加素材"
+
+msgid "ai_packaging_toast_maintrack_nomedia"
+msgstr "中间的主轨道未识别到素材，请移动/添加"
 
 msgid "ai_pc__lyrics_adaptation"
 msgstr "改词翻唱"
@@ -637,13 +661,16 @@ msgid "ai_pc_lyrics_adaptation_wordcount_mismatch"
 msgstr "与原曲歌词字数不匹配，请修改"
 
 msgid "ai_rough_cut"
-msgstr "基于解说稿的智能粗剪"
+msgstr "智能解说粗剪"
 
 msgid "ai_rough_cut_enter_summary"
-msgstr "贴入解说稿，我们将从所选素材中截取画面与解说词匹配。推荐在影视解说类剪辑中使用"
+msgstr "贴入解说稿，我们将从所选素材中截取画面与解说词匹配。推荐在解说类剪辑中使用，目前支持中英文素材"
 
 msgid "ai_rough_cut_enter_tilte"
 msgstr "输入解说稿"
+
+msgid "ai_rough_cut_error_no_line"
+msgstr "暂不支持理解无人声素材，粗剪失败"
 
 msgid "ai_rough_cut_error_not_connected"
 msgstr "待粗剪片段必须首尾相接"
@@ -657,6 +684,9 @@ msgstr "总时长需小于%1分钟"
 msgid "ai_rough_cut_error_too_short"
 msgstr "总时长需大于%1分钟"
 
+msgid "ai_rough_cut_error_unlegal"
+msgstr "视频不合规，粗剪失败"
+
 msgid "ai_rough_cut_failed"
 msgstr "粗剪失败"
 
@@ -669,23 +699,29 @@ msgstr "重试"
 msgid "ai_rough_cut_failed_summary"
 msgstr "点击“取消”将返回到解说稿输入"
 
+msgid "ai_rough_cut_loading_ai_writing_waiting"
+msgstr "预计生成解说还需要%1"
+
 msgid "ai_rough_cut_loading_cancel"
 msgstr "取消生成"
 
 msgid "ai_rough_cut_loading_cutting"
-msgstr "正在粗剪……"
+msgstr "正在粗剪…"
+
+msgid "ai_rough_cut_loading_final_cut_waiting"
+msgstr "预计完成粗剪还需要%1"
 
 msgid "ai_rough_cut_loading_video_understanding"
-msgstr "正在理解素材……"
+msgstr "正在理解素材…"
 
 msgid "ai_rough_cut_loading_waiting"
 msgstr "预计还需要%1"
 
 msgid "ai_rough_cut_loading_writing"
-msgstr "正在生成解说……"
+msgstr "正在生成解说…"
 
 msgid "ai_rough_cut_smart_writing"
-msgstr "Ai帮写"
+msgstr "AI帮写解说"
 
 msgid "ai_rough_cut_smart_writing_back"
 msgstr "返回"
@@ -696,14 +732,20 @@ msgstr "内容存在风险，请重新输入"
 msgid "ai_rough_cut_smart_writing_error_network"
 msgstr "网络错误，请重试"
 
+msgid "ai_rough_cut_smart_writing_error_no_sound"
+msgstr "不支持为无声视频生成解说"
+
 msgid "ai_rough_cut_smart_writing_error_server"
 msgstr "生成失败，请重试"
 
+msgid "ai_rough_cut_smart_writing_error_unlegal"
+msgstr "文案不合规，请返回修改"
+
 msgid "ai_rough_cut_smart_writing_guide_1"
-msgstr "试试用Ai生成解说"
+msgstr "试试用AI生成解说"
 
 msgid "ai_rough_cut_smart_writing_guide_2"
-msgstr "如果对解说不满意，可点击此处重新生成。新生成的文案将覆盖原文案"
+msgstr "如果对解说不满意，可重新生成"
 
 msgid "ai_rough_cut_smart_writing_label_1"
 msgstr "写作风格"
@@ -748,10 +790,16 @@ msgid "ai_rough_cut_stop_cancel"
 msgstr "停止粗剪"
 
 msgid "ai_rough_cut_stop_confirm"
-msgstr "是否取消智能粗剪？"
+msgstr "是否退出智能粗剪？"
+
+msgid "ai_rough_cut_stop_confirm_text"
+msgstr "解说词不会被保存"
 
 msgid "ai_rough_cut_stop_continue"
 msgstr "继续等待"
+
+msgid "ai_rough_cut_stop_exit"
+msgstr "退出"
 
 msgid "ai_rough_cut_writing_error"
 msgstr "字数已超上限"
@@ -1010,6 +1058,19 @@ msgstr "已为你自动开启防抖处理"
 msgid "app_ai_writer_generate_capiton"
 msgstr "生成旁白"
 
+msgid "app_store_update_note_pc_430_pad"
+msgstr ""
+"- 视频素材支持智能补帧，提升画面流畅度\n"
+" - 复合片段支持存为预设，一键复用提高创作效率\n"
+" - 支持调节时间线轨道高度和波形图占比，剪辑更方便\n"
+" - 修复了一些已知的体验问题，让剪辑更顺畅"
+
+msgid "app_store_update_note_pc_480_pad"
+msgstr ""
+"- 新增支持字幕模板，可以更换不同风格的字幕效果\n"
+" - 支持视频 AI 消除，只需简单涂抹选取，即可一键消除\n"
+" - 修复了一些已知的体验问题，让剪辑更顺畅"
+
 msgid "app_subtitle_template_subtemplate_edit_toast"
 msgstr "字幕模板编辑可能存在问题，建议在PC端操作"
 
@@ -1084,6 +1145,9 @@ msgstr "排列"
 
 msgid "arrow_pc"
 msgstr "箭头"
+
+msgid "art_character"
+msgstr "花字"
 
 msgid "askbot_dialogue_generated_results"
 msgstr "生成结果"
@@ -1174,6 +1238,9 @@ msgstr "认证失败"
 
 msgid "authentication_prompt_pc"
 msgstr "身份认证提示"
+
+msgid "author_fallback_msg"
+msgstr "当前系统在升级维护，已加急恢复数据，请耐心等待"
 
 msgid "authoring_script_n"
 msgstr "创作脚本"
@@ -1266,6 +1333,9 @@ msgid "avatar_button_photo"
 msgstr "上传照片形象"
 
 msgid "avatar_button_upload_add"
+msgstr "将照片拖动进来，或点击添加"
+
+msgid "avatar_button_upload_add_pad"
 msgstr "将照片拖动进来，或点击添加"
 
 msgid "avatar_button_upload_cancel"
@@ -1573,6 +1643,60 @@ msgstr "基本"
 msgid "basic_2"
 msgstr "基本"
 
+msgid "basic_edit_all"
+msgstr "全部"
+
+msgid "basic_edit_angle"
+msgstr "角度"
+
+msgid "basic_edit_blur"
+msgstr "模糊度"
+
+msgid "basic_edit_border_radius"
+msgstr "圆角"
+
+msgid "basic_edit_color"
+msgstr "颜色"
+
+msgid "basic_edit_distance"
+msgstr "距离"
+
+msgid "basic_edit_flip"
+msgstr "翻转"
+
+msgid "basic_edit_gradient"
+msgstr "渐变"
+
+msgid "basic_edit_gradient_range"
+msgstr "渐变范围"
+
+msgid "basic_edit_key_frame_gradient_cnt"
+msgstr "关键帧暂不支持修改渐变数量"
+
+msgid "basic_edit_key_frame_gradient_range"
+msgstr "关键帧暂不支持修改渐变范围"
+
+msgid "basic_edit_opacity"
+msgstr "不透明度"
+
+msgid "basic_edit_restrict"
+msgstr "暂不支持该功能"
+
+msgid "basic_edit_scale"
+msgstr "缩放"
+
+msgid "basic_edit_single_char"
+msgstr "单字"
+
+msgid "basic_edit_solid_color"
+msgstr "纯色"
+
+msgid "basic_edit_stroke"
+msgstr "描边"
+
+msgid "basic_edit_texture"
+msgstr "纹理"
+
 msgid "basic_graphics"
 msgstr "基础图形"
 
@@ -1673,7 +1797,7 @@ msgid "bind_successfully_and"
 msgstr "绑定成功"
 
 msgid "bind_your_account_to_enjoy_more_features"
-msgstr "链接到TikTok账户，享受更多TikTok相关功能"
+msgstr "链接到 TikTok 账户，享受更多 TikTok 相关功能"
 
 msgid "binding_succeeded_pc"
 msgstr "绑定成功"
@@ -1739,7 +1863,7 @@ msgid "border"
 msgstr "边框"
 
 msgid "bound_tt_account"
-msgstr "绑定TikTok账号"
+msgstr "绑定 TikTok 账号"
 
 msgid "brand_add_success"
 msgstr "添加成功"
@@ -2108,7 +2232,7 @@ msgid "by_continuing_agree_tos_pp"
 msgstr "继续即表示你同意我们的<a target='_blank' data-pp='terms_of_service'>服务条款</a>并确认已阅读我们的<a target='_blank' data-pp='privacy_policy'>隐私政策</a>，了解我们如何收集、使用及分享你的数据。"
 
 msgid "by_counting_agree_tos_pp"
-msgstr "继续即表示你同意我们的服务条款并确认已阅读我们的隐私政策，了解我们如何收集、使用及分享你的数据。"
+msgstr "继续即表示你同意我们的<a target='_blank' href='https://www.capcut.com/clause/terms-of-service?lang=en'>服务条款</a>并确认已阅读我们的<a target='_blank' href='https://www.capcut.com/clause/privacy-policy?lang=en'>隐私政策</a>，了解我们如何收集、使用及分享你的数据。"
 
 msgid "by_sentence"
 msgstr "按整句"
@@ -2272,6 +2396,12 @@ msgstr "好的"
 msgid "cc4b_traffic_desc_createanymarketingcontent"
 msgstr "只需点击几下，即可快速轻松创建任何营销内容！"
 
+msgid "cc4b_traffic_desc_createanymarketingcontent_pad"
+msgstr "只需点击几下，即可快速轻松创建任何营销内容！"
+
+msgid "ccPC_hover_AIimage"
+msgstr "AI图像生成，一键补充图片素材、生成创意内容"
+
 msgid "cc_business_template_copyright_issue_popup_desc"
 msgstr "以下素材存在版权问题，替换后即可发布为模板。"
 
@@ -2298,6 +2428,54 @@ msgstr "在线安全法案"
 
 msgid "cc_desktop_available_space_100"
 msgstr "桌面端版本的云空间将很快在以后的版本中提供，届时你将可以获得100GB的巨大云空间。"
+
+msgid "cc_language_ar"
+msgstr "阿拉伯语"
+
+msgid "cc_language_de"
+msgstr "德语"
+
+msgid "cc_language_en"
+msgstr "英语"
+
+msgid "cc_language_es"
+msgstr "西班牙语"
+
+msgid "cc_language_fil"
+msgstr "菲律宾语"
+
+msgid "cc_language_fr"
+msgstr "法语"
+
+msgid "cc_language_id"
+msgstr "印度尼西亚语"
+
+msgid "cc_language_it"
+msgstr "意大利语"
+
+msgid "cc_language_ja"
+msgstr "日语"
+
+msgid "cc_language_ko"
+msgstr "韩语"
+
+msgid "cc_language_ms"
+msgstr "马来语"
+
+msgid "cc_language_pt"
+msgstr "葡萄牙语"
+
+msgid "cc_language_th"
+msgstr "泰语"
+
+msgid "cc_language_tr"
+msgstr "土耳其语"
+
+msgid "cc_language_vn"
+msgstr "越南语"
+
+msgid "cc_language_zh_tw"
+msgstr "繁体中文"
 
 msgid "cc_m10n_risk_notification_button"
 msgstr "去下载"
@@ -2443,6 +2621,9 @@ msgstr "取消"
 msgid "cc_pc_material_visual_effect_publish_term_desc"
 msgstr "点击即代表同意%1"
 
+msgid "cc_pc_material_visual_effect_publish_term_desc_pad"
+msgstr "点击即代表同意%1"
+
 msgid "cc_pc_material_visual_effect_publish_term_link"
 msgstr "剪映-素材创作者服务协议"
 
@@ -2522,6 +2703,9 @@ msgid "cc_pc_media_type_dreamina_sub_videos"
 msgstr "视频"
 
 msgid "cc_pc_post_to_dreamina_desc"
+msgstr "上传完成后，你可以在即梦登录和剪映一致的账号，在短片发布页中编辑作品描述、标签等信息后发布"
+
+msgid "cc_pc_post_to_dreamina_desc_pad"
 msgstr "上传完成后，你可以在即梦登录和剪映一致的账号，在短片发布页中编辑作品描述、标签等信息后发布"
 
 msgid "cc_pc_risk_reject_prompt_toast"
@@ -2623,6 +2807,12 @@ msgstr "发生错误，请稍后重试"
 msgid "cccreator_publish_area"
 msgstr "发布国家/地区"
 
+msgid "ccmob_homeBn_AIimage_sub"
+msgstr "一键补充图片素材、生成创意内容"
+
+msgid "ccmob_homeBn_AIimage_title"
+msgstr "图片生成"
+
 msgid "ccpc_banner_aividseedc"
 msgstr "AI视频生成，由Seedance提供支持"
 
@@ -2630,7 +2820,7 @@ msgid "cctemp_benefit_content"
 msgstr ""
 "1.用户为您的模板付费后，您能根据用户支付的金额获取收益\n"
 "2.发布模板后，您不能重新设置模板的使用金额\n"
-"3.如果您的模板出现合规问题，Capcut有权关闭模板使用功能，并收回该模板给你提供的收入\n"
+"3.如果您的模板出现合规问题，CapCut有权关闭模板使用功能，并收回该模板给你提供的收入\n"
 "4.您收到的金额可能会受到每个国家或地区的税率、汇率、用户退订等情况的影响。您收到的金额以实际为准。"
 
 msgid "cctemp_limit_free_allow"
@@ -2642,7 +2832,7 @@ msgstr "用户解锁模板后可以自由编辑，你将根据使用次数获得
 msgid "cctemp_rule_content"
 msgstr ""
 "1.设置模板付费金额并发布后，用户可付费使用这个模板\n"
-"2.用户有两种付费使用模板的方法，一种是直接付费一种是充值Capcut pro会员使用"
+"2.用户有两种付费使用模板的方法，一种是直接付费一种是充值CapCut pro会员使用"
 
 msgid "cctmpl_publish_auto_fill"
 msgstr "Auto-fill自动填充"
@@ -2790,7 +2980,7 @@ msgid "check_fail_try_again"
 msgstr "检测异常，请重试"
 
 msgid "check_for_posting_tiktok"
-msgstr "投稿TikTok的视频音乐版权校验"
+msgstr "投稿 TikTok 的视频音乐版权校验"
 
 msgid "check_in_editor"
 msgstr "定位到"
@@ -2799,7 +2989,7 @@ msgid "check_internet_try_again"
 msgstr "请检查网络状况后重试"
 
 msgid "check_music_before_submit_avoid_mute"
-msgstr "我们将检查视频中所使用的音乐是否投稿到TikTok后会发生侵权"
+msgstr "我们将检查视频中所使用的音乐是否投稿到 TikTok 后会发生侵权"
 
 msgid "check_pro_date"
 msgstr "查看会员到期时间和管理订阅"
@@ -2909,10 +3099,16 @@ msgstr "请清理团队成员数量至上限内，否则协作版将无法生效
 msgid "click_again_lessons_help"
 msgstr "点击这里再次体验教程，或获得更多使用帮助"
 
+msgid "click_again_lessons_help_pad"
+msgstr "点击这里再次体验教程，或获得更多使用帮助"
+
 msgid "click_clean_effect"
 msgstr "点击后会清除当前镜头追踪效果，是否确定？"
 
 msgid "click_continue_to_skip_following_files_and_upload_other_files"
+msgstr "点击“继续”跳过以下文件，上传其他文件"
+
+msgid "click_continue_to_skip_following_files_and_upload_other_files_pad"
 msgstr "点击“继续”跳过以下文件，上传其他文件"
 
 msgid "click_continue_to_start_subtitle_recognize_and_wait_download_segment"
@@ -2924,10 +3120,16 @@ msgstr "点击编辑去镜头追踪，可看到视频最佳效果"
 msgid "click_for_commercial_music"
 msgstr "点击查看商用音乐说明"
 
+msgid "click_for_commercial_music_pad"
+msgstr "点击查看商用音乐说明"
+
 msgid "click_for_more_usage_help"
 msgstr "点击这里，获得更多使用帮助"
 
 msgid "click_here_location_add_source"
+msgstr "点击这里，从本地添加素材。"
+
+msgid "click_here_location_add_source_pad"
 msgstr "点击这里，从本地添加素材。"
 
 msgid "click_lock_area_apply"
@@ -2937,6 +3139,9 @@ msgid "click_or_drag_into_the_video_to_watch_together"
 msgstr "点击或拖入视频一起看"
 
 msgid "click_retry_pc"
+msgstr "点击重试"
+
+msgid "click_retry_pc_pad"
 msgstr "点击重试"
 
 msgid "click_review_function,quick_share_other"
@@ -2951,6 +3156,9 @@ msgstr "点击播放，预览视频"
 msgid "click_submit_data_log"
 msgstr "点击 [提交] 后，日志和崩溃数据会传送到 CapCut，以协助解决问题，改进我们的服务，须遵守我们的"
 
+msgid "click_submit_data_log_pad"
+msgstr "点击 [提交] 后，日志和崩溃数据会传送到 CapCut，以协助解决问题，改进我们的服务，须遵守我们的"
+
 msgid "click_to_add_keyframes"
 msgstr "点击此处可以添加关键帧"
 
@@ -2960,22 +3168,37 @@ msgstr "点击取消上传"
 msgid "click_to_copy"
 msgstr "点击复制"
 
+msgid "click_to_copy_pad"
+msgstr "点击复制"
+
 msgid "click_to_listen_choose_favorite_dubbing_style"
 msgstr "点击试听，选择你喜欢的配音风格。"
 
 msgid "click_to_modify_the_shortcut_key"
 msgstr "点击修改快捷键"
 
+msgid "click_to_modify_the_shortcut_key_pad"
+msgstr "点击修改快捷键"
+
 msgid "click_to_try_again"
 msgstr "点击重试"
 
+msgid "click_to_try_again_pad"
+msgstr "点击重试"
+
 msgid "click_to_upload_or_drag_and_drop_files_here"
+msgstr "点击上传或拖拽文件到这里"
+
+msgid "click_to_upload_or_drag_and_drop_files_here_pad"
 msgstr "点击上传或拖拽文件到这里"
 
 msgid "click_toggle_lock_the_subject"
 msgstr "点击切换追踪对象"
 
 msgid "clicking_continue_skip_unsupported_drafts"
+msgstr "点击“继续”将跳过不支持的草稿，继续下载其他文件。"
+
+msgid "clicking_continue_skip_unsupported_drafts_pad"
 msgstr "点击“继续”将跳过不支持的草稿，继续下载其他文件。"
 
 msgid "clip"
@@ -3207,10 +3430,10 @@ msgid "commercial_music"
 msgstr "商用音乐"
 
 msgid "commercial_music_all_users_tt"
-msgstr "在CapCut声音资源库中，商用音乐是对所有用户开放的。您已预先得到授权，可在CapCut和TikTok的广告视频中使用来自该资源库的商用音乐。"
+msgstr "在 CapCut 声音资源库中，商用音乐是对所有用户开放的。您已预先得到授权，可在 CapCut 和 TikTok 的广告视频中使用来自该资源库的商用音乐。"
 
 msgid "commercial_music_sounds_worldwide_library"
-msgstr "商用音乐囊括了全球各地50多万首不同风格和流派的音乐。资源库中的所有商用音乐都已预先得到授权，可在CapCut和TikTok平台上用于商业用途，无需CapCut用户自行通过冗长的过程获取许可。"
+msgstr "商用音乐囊括了全球各地50多万首不同风格和流派的音乐。资源库中的所有商用音乐都已预先得到授权，可在 CapCut 和 TikTok 平台上用于商业用途，无需 CapCut 用户自行通过冗长的过程获取许可。"
 
 msgid "commercial_purposes_use_original_music"
 msgstr "请注意，CapCut未授权将此音乐用于商业目的。如果您选择在自己的有机内容或商业内容中使用原创音乐，请咨询您的法务团队，以确保您已获得适当的许可。"
@@ -3765,13 +3988,13 @@ msgid "date"
 msgstr "日期"
 
 msgid "dectect_copyright_issue"
-msgstr "投稿TikTok后视频会被静音"
+msgstr "投稿 TikTok 后视频会被静音"
 
 msgid "dectect_no_copyright_and_mute"
-msgstr "检测到视频中所使用的音乐存在版权问题，请替换视频音乐。你仍然可以发布已标记为侵权的视频，但TikTok平台会对该视频进行静音处理，以保护未经授权使用的音乐本身的版权。"
+msgstr "检测到视频中所使用的音乐存在版权问题，请替换视频音乐。你仍然可以发布已标记为侵权的视频，但 TikTok 平台会对该视频进行静音处理，以保护未经授权使用的音乐本身的版权。"
 
 msgid "dectect_no_copyright_and_mute_plu"
-msgstr "检测到视频中所使用的音乐存在版权问题，请替换视频音乐。你仍然可以发布已标记为侵权的视频，但TikTok平台会对该视频进行静音处理，以保护未经授权使用的音乐本身的版权。"
+msgstr "检测到视频中所使用的音乐存在版权问题，请替换视频音乐。你仍然可以发布已标记为侵权的视频，但 TikTok 平台会对该视频进行静音处理，以保护未经授权使用的音乐本身的版权。"
 
 msgid "default"
 msgstr "默认"
@@ -3837,6 +4060,9 @@ msgid "delete_the_selected_files"
 msgstr "要删除被选中的文件吗？这个操作不可逆。"
 
 msgid "deletr_date_peocess"
+msgstr "您的账号目前已停用，将在%1删除。点击 [恢复] 并在此日期之前登录，以防止您的账号被删除。"
+
+msgid "deletr_date_peocess_pad"
 msgstr "您的账号目前已停用，将在%1删除。点击 [恢复] 并在此日期之前登录，以防止您的账号被删除。"
 
 msgid "describe_creative_ideas_generate_copywriting"
@@ -4193,6 +4419,99 @@ msgstr "无法打开草稿"
 msgid "draft_devices_clip_done"
 msgstr "草稿换设备一键搞定"
 
+msgid "draft_folder_auto_backup_off"
+msgstr "关闭草稿自动备份"
+
+msgid "draft_folder_auto_backup_on"
+msgstr "开启草稿自动备份"
+
+msgid "draft_folder_cnt_max"
+msgstr "文件夹个数已达上限"
+
+msgid "draft_folder_confirm_del_recent"
+msgstr "确认移至最近删除"
+
+msgid "draft_folder_confirm_delete"
+msgstr "确认删除"
+
+msgid "draft_folder_content_count"
+msgstr "内容数量"
+
+msgid "draft_folder_draft"
+msgstr "草稿"
+
+msgid "draft_folder_draft_new_mgmt"
+msgstr "草稿支持新建文件夹管理了"
+
+msgid "draft_folder_exit"
+msgstr "退出"
+
+msgid "draft_folder_export_fail"
+msgstr "%1个文件导出失败"
+
+msgid "draft_folder_export_success"
+msgstr "%1个文件导出成功"
+
+msgid "draft_folder_exporting"
+msgstr "%1个文件导出中..."
+
+msgid "draft_folder_fast_transfer_restrict"
+msgstr "文件夹不支持剪映快传"
+
+msgid "draft_folder_folder"
+msgstr "文件夹"
+
+msgid "draft_folder_import_backup_move"
+msgstr "导入工程和草稿备份移动到这里了"
+
+msgid "draft_folder_know"
+msgstr "知道了"
+
+msgid "draft_folder_material_cnt"
+msgstr "%1个文件"
+
+msgid "draft_folder_more"
+msgstr "更多"
+
+msgid "draft_folder_move_here"
+msgstr "移动到此处"
+
+msgid "draft_folder_move_success"
+msgstr "文件已成功移入文件夹"
+
+msgid "draft_folder_move_to"
+msgstr "移动到"
+
+msgid "draft_folder_move_to_folder"
+msgstr "移动至文件夹"
+
+msgid "draft_folder_new"
+msgstr "新建文件夹"
+
+msgid "draft_folder_open_draft"
+msgstr "开启草稿"
+
+msgid "draft_folder_recent_del_30d"
+msgstr "最近删除中的文件会保留 30 天"
+
+msgid "draft_folder_search"
+msgstr "搜索"
+
+msgid "draft_folder_select_all"
+msgstr "全选"
+
+msgid "draft_folder_show_material"
+msgstr "展示文件夹内草稿"
+
+msgid "draft_folder_sort"
+msgstr "排序"
+
+msgid "draft_folder_upload_cloud"
+msgstr "上传至云空间"
+
+msgid "draft_folder_upload_restrict"
+msgstr "文件夹不支持上传"
+
 msgid "draft_frame_rate"
 msgstr "草稿帧率"
 
@@ -4281,7 +4600,7 @@ msgid "drainage_popup_login_content"
 msgstr "剪映专业版为部分用户提供免费体验机会，有效期内免费使用付费权益，畅享会员体验！"
 
 msgid "drainage_popup_login_title"
-msgstr "恭喜你！获得PC新用户%1日免费会员"
+msgstr "恭喜你！获得PC用户免费会员"
 
 msgid "drainage_popup_reward_content_mark"
 msgstr "剪映专业版为部分用户提供免费体验机会，有效期内免费使用付费权益，畅享会员体验！"
@@ -4296,7 +4615,7 @@ msgid "drainage_popup_reward_title"
 msgstr "您已完成登录，点击一键领取会员"
 
 msgid "drainage_popup_reward_title_mark"
-msgstr "恭喜你！获得PC新用户%1日免费会员"
+msgstr "恭喜你！获得PC用户%1日免费会员"
 
 msgid "drainage_toast_reward_success"
 msgstr "已成功领取会员，%1日内有效，快去使用吧"
@@ -4375,6 +4694,9 @@ msgstr "编辑"
 
 msgid "edit_pc"
 msgstr " - 编辑"
+
+msgid "edit_pilot_saftey_answer"
+msgstr "这个话题我帮不上忙。咱们试试别的吧！"
 
 msgid "edit_subtitle_choose"
 msgstr "选择"
@@ -4753,6 +5075,9 @@ msgid "export_settings_resize"
 msgstr "导出设置"
 
 msgid "export_shorts_entry_desc"
+msgstr "一键获取出彩的shorts片段"
+
+msgid "export_shorts_entry_desc_pad"
 msgstr "一键获取出彩的shorts片段"
 
 msgid "export_shorts_entry_name"
@@ -5160,7 +5485,7 @@ msgid "folders_support_copying_groups"
 msgstr "文件夹不支持复制到小组"
 
 msgid "follow_capcut_official_account_on_tiktok"
-msgstr "在TikTok上关注CapCut官方账号"
+msgstr "在 TikTok 上关注CapCut官方账号"
 
 msgid "follow_up"
 msgstr "后续都如此处理"
@@ -5362,6 +5687,11 @@ msgstr ""
 "1. 在CapCut桌面端上，点击“音频”按钮，然后点击“商用音乐”标签\n"
 "2.您可在“商用音乐”标签中查看各种音乐主题卡片（如“时尚”、“开箱”等），然后选择所需的声音。"
 
+msgid "from_desktop_capcut_tabfrom_pad"
+msgstr ""
+"1. 在CapCut桌面端上，点击“音频”按钮，然后点击“商用音乐”标签\n"
+" 2.您可在“商用音乐”标签中查看各种音乐主题卡片（如“时尚”、“开箱”等），然后选择所需的声音。"
+
 msgid "full_draft_continue_upload"
 msgstr "继续上传"
 
@@ -5395,6 +5725,9 @@ msgstr "GB"
 
 msgid "gender"
 msgstr "性别"
+
+msgid "general_fallback_msg"
+msgstr "当前功能使用人数较多，加急恢复中，请耐心等待"
 
 msgid "generate_audio_ai"
 msgstr "生成音频"
@@ -5828,6 +6161,9 @@ msgstr "最多同时导入9个字体"
 msgid "import_video_or_picture"
 msgstr "导入视频"
 
+msgid "import_video_or_picture_pad"
+msgstr "导入视频"
+
 msgid "importing_assets"
 msgstr "正在导入素材"
 
@@ -6027,6 +6363,60 @@ msgstr "日语"
 
 msgid "jewelry_accessories"
 msgstr "珠宝配饰"
+
+msgid "jianying_commercial_info_commercial_template_available"
+msgstr "行业模板可用"
+
+msgid "jianying_commercial_info_copyright_type"
+msgstr "版权类型"
+
+msgid "jianying_commercial_info_learn_more"
+msgstr "了解更多"
+
+msgid "jianying_commercial_info_notice1"
+msgstr "为避免侵权风险，使用素材前请确保已获得相应授权"
+
+msgid "jianying_commercial_info_paid_template_available"
+msgstr "付费模板可用"
+
+msgid "jianying_homepage_ascending"
+msgstr "升序"
+
+msgid "jianying_homepage_collapse"
+msgstr "收起"
+
+msgid "jianying_homepage_create_time"
+msgstr "创建时间"
+
+msgid "jianying_homepage_descending"
+msgstr "降序"
+
+msgid "jianying_homepage_expand"
+msgstr "展开"
+
+msgid "jianying_homepage_feature_upgrade"
+msgstr "该功能需要更高版本才能使用，是否升级至最新版本?"
+
+msgid "jianying_homepage_file_name"
+msgstr "文件名称"
+
+msgid "jianying_homepage_file_size"
+msgstr "文件大小"
+
+msgid "jianying_homepage_modify_time"
+msgstr "修改时间"
+
+msgid "jianying_homepage_more_fun"
+msgstr "更多剪映玩法，等你发现"
+
+msgid "jianying_homepage_net_error"
+msgstr "网络错误，请检查后%1"
+
+msgid "jianying_homepage_professional_upgrade"
+msgstr "专业升级"
+
+msgid "jianying_homepage_retry"
+msgstr "重试"
 
 msgid "jianying_login_banerror"
 msgstr "因涉嫌违规，该账号已被封禁，预计于%1解封"
@@ -6565,7 +6955,7 @@ msgid "launch_cc"
 msgstr "启动CapCut"
 
 msgid "launch_tiktok_music_copyright_detection_function"
-msgstr "上线TikTok音乐版权检测功能，投稿更放心"
+msgstr "上线 TikTok 音乐版权检测功能，投稿更放心"
 
 msgid "layer"
 msgstr "层级"
@@ -6792,7 +7182,7 @@ msgstr "追踪失败，请重试"
 msgid "lock_on_current_position"
 msgstr "当前位置已有镜头追踪效果，请从未覆盖位置继续"
 
-msgid "track"
+msgid "lock_track"
 msgstr "锁定轨道"
 
 msgid "lockable_target_found_target"
@@ -6829,7 +7219,7 @@ msgid "login_band_risk"
 msgstr "您的账号涉及风险违规操作，暂时无法登陆"
 
 msgid "login_by_tiktok"
-msgstr "登录TikTok"
+msgstr "登录 TikTok"
 
 msgid "login_choice"
 msgstr "或"
@@ -6838,7 +7228,7 @@ msgid "login_exception_try_again"
 msgstr "登录异常，请稍后重试"
 
 msgid "login_synchronize_tiktok_music"
-msgstr "登录即可同步TikTok收藏音乐"
+msgstr "登录即可同步 TikTok 收藏音乐"
 
 msgid "logout"
 msgstr "退出登录"
@@ -7069,6 +7459,11 @@ msgstr ""
 "点击使用示例文字试试吧：\\n"
 "%1"
 
+msgid "main_sample_text_n_pad"
+msgstr ""
+"点击使用示例文字试试吧：\\n"
+"%1"
+
 msgid "main_save_text_delete_duplicate"
 msgstr "如果继续，将只保留限定范围内的字数，超出内容会被精简"
 
@@ -7247,7 +7642,7 @@ msgid "material_search_intelligent_gray_words_intelligent_off"
 msgstr "搜索文件名"
 
 msgid "material_search_intelligent_gray_words_intelligent_on"
-msgstr "搜索文件名、台词、画面、情节"
+msgstr "搜索文件名、台词、情节"
 
 msgid "material_search_intelligent_loading_gray_words"
 msgstr "深度分析中…%1%"
@@ -7268,10 +7663,10 @@ msgid "material_search_intelligent_precise_gray_words"
 msgstr "搜索文件名称、画面元素、台词"
 
 msgid "material_search_intelligent_precise_loading_gray_words"
-msgstr "正在理解素材库内容的台词、故事情节、画面内容"
+msgstr "正在理解素材台词和故事情节"
 
 msgid "material_search_intelligent_precise_off_gray_words"
-msgstr "开启后支持搜索台词、画面、情节"
+msgstr "开启后支持搜索台词和情节"
 
 msgid "material_search_intelligent_precise_state_analyzing_materials"
 msgstr "分析素材中...%1%"
@@ -7291,7 +7686,13 @@ msgstr "所有素材已完成分析"
 msgid "material_search_intelligent_state_analyzing_materials_failure"
 msgstr "分析失败，请点击搜索框在面板内重试"
 
+msgid "material_search_intelligent_state_analyzing_materials_failure_pad"
+msgstr "分析失败，请点击搜索框在面板内重试"
+
 msgid "material_search_intelligent_state_analyzing_materials_partial_failure"
+msgstr "部分素材分析失败，请点击搜索框在面板内重试"
+
+msgid "material_search_intelligent_state_analyzing_materials_partial_failure_pad"
 msgstr "部分素材分析失败，请点击搜索框在面板内重试"
 
 msgid "material_search_intelligent_state_analyzing_materials_placation"
@@ -7576,6 +7977,9 @@ msgstr "点击提交后，日志/崩溃数据及以上信息会传至CapCut，�
 msgid "mob_feedback_submit_note_cn"
 msgstr "上述信息仅用于问题排查"
 
+msgid "mob_feedback_submit_note_pad"
+msgstr "点击提交后，日志/崩溃数据及以上信息会传至CapCut，上传的数据仅用于定位问题，会在处理问题后删除"
+
 msgid "mob_filter_all"
 msgstr "全部"
 
@@ -7608,6 +8012,12 @@ msgstr "剪映预设"
 
 msgid "mob_group_delete_toast_only_group_delete_failed"
 msgstr "无法删除小组。您必须保留至少 1 个小组来管理您的项目、材料等。"
+
+msgid "mob_model_veo_3"
+msgstr "Video 4.0"
+
+msgid "mob_model_veo_3_info"
+msgstr "支持声音生成。Powered by Veo 3。"
 
 msgid "mob_pay_failed_load"
 msgstr "加载失败"
@@ -8264,13 +8674,25 @@ msgid "not_yet_this_format"
 msgstr "暂不支持该格式"
 
 msgid "not_yet_tt_method"
-msgstr "暂不支持使用Tik Tok登录。如果你已经在CapCut用Tik Tok账号登录并订阅，请在CapCut关联新账户，然后使用此账户在PC登录。"
+msgstr "暂不支持使用 TikTok 登录。如果你已经在 CapCut 用 TikTok 账号登录并订阅，请在 CapCut 关联新账户，然后使用此账户在PC登录。"
 
 msgid "not_yet_upgrade_cloud"
 msgstr "暂不升级"
 
 msgid "nothing"
 msgstr "无"
+
+msgid "notification_button_settings"
+msgstr "去设置"
+
+msgid "notification_desc_off"
+msgstr "系统通知已关闭"
+
+msgid "notification_desc_on"
+msgstr "系统通知已开启"
+
+msgid "notification_title_settings"
+msgstr "系统通知"
 
 msgid "notifications_receive_events_comments"
 msgstr "开启通知，及时收到官方活动和粉丝点赞评论消息。"
@@ -8360,7 +8782,7 @@ msgid "only_photo_video_source"
 msgstr "仅支持图片/视频素材"
 
 msgid "only_showing_music_licensed"
-msgstr "只显示经许可在CapCut和TikTok上用于商业用途的音乐。"
+msgstr "只显示经许可在 CapCut 和 TikTok 上用于商业用途的音乐。"
 
 msgid "only_upload_other_draft"
 msgstr "仅上传其他草稿"
@@ -8718,6 +9140,9 @@ msgstr "建议填写QQ号"
 msgid "pc__fashionmodel_tab_diy"
 msgstr "上传"
 
+msgid "pc__fashionmodelvideo_uploaddesc"
+msgstr "请上传你的服装图，再选择真人或宠物模特，我们会生成服装展示视频。"
+
 msgid "pc_a_project_draft_error_was_detected."
 msgstr "工程打开失败，检测到工程草稿错误。"
 
@@ -8790,6 +9215,9 @@ msgstr "成员邀请失败"
 msgid "pc_account_join_group_failed"
 msgstr "加入小组失败"
 
+msgid "pc_accurate_preview_teaching"
+msgstr "拖拽两侧把手，裁剪更精确"
+
 msgid "pc_acting"
 msgstr "代理"
 
@@ -8843,6 +9271,36 @@ msgstr "已加入下载队列"
 
 msgid "pc_adjust"
 msgstr "调整"
+
+msgid "pc_adjust_backlight_correction"
+msgstr "逆光矫正"
+
+msgid "pc_adjust_base"
+msgstr "通用"
+
+msgid "pc_adjust_color_boost"
+msgstr "色彩层次"
+
+msgid "pc_adjust_commentary"
+msgstr "通用档适用大部分素材，去灰用于灰片素材"
+
+msgid "pc_adjust_dehaze"
+msgstr "去灰/去雾"
+
+msgid "pc_adjust_log"
+msgstr "去灰"
+
+msgid "pc_adjust_restore_details"
+msgstr "细节层次"
+
+msgid "pc_adjust_scenario"
+msgstr "场景"
+
+msgid "pc_adjust_soften"
+msgstr "去锐化"
+
+msgid "pc_adjust_vibrance"
+msgstr "自然饱和度"
 
 msgid "pc_adjusted_to_maximum_limit"
 msgstr "已调节至最大限值"
@@ -9104,6 +9562,9 @@ msgstr "歌词识别失败，"
 
 msgid "pc_ai_adaptation_lyrics_resing_failed"
 msgstr "改词翻唱失败，"
+
+msgid "pc_ai_adaptation_music_legal_prompt"
+msgstr "请确保您对素材内容享有充分权利或授权"
 
 msgid "pc_ai_avatar"
 msgstr "数字人"
@@ -9410,6 +9871,21 @@ msgstr "清唱录制的文本不匹配"
 
 msgid "pc_ai_clone_record_text_not_match_detail"
 msgstr "检测到清唱录制的文本和所提供的文本不匹配，请按照文本重新进行录制"
+
+msgid "pc_ai_design"
+msgstr "AI设计"
+
+msgid "pc_ai_design_new"
+msgstr "新"
+
+msgid "pc_ai_design_sign_in"
+msgstr "点击登录"
+
+msgid "pc_ai_design_sign_in_to_view_projects"
+msgstr "%1 查看草稿内容"
+
+msgid "pc_ai_design_tooltip"
+msgstr "AI设计全新升级，满足你所有图片创作需求"
 
 msgid "pc_ai_effect"
 msgstr "AI特效"
@@ -9753,6 +10229,9 @@ msgstr "本次消耗次数 %1"
 msgid "pc_ai_hd"
 msgstr "AI HD 超清"
 
+msgid "pc_ai_hd_n"
+msgstr "AI HD"
+
 msgid "pc_ai_hd_unsupported_media"
 msgstr "视频素材格式不支持 AI HD 档位调节"
 
@@ -9945,6 +10424,9 @@ msgstr "智能包装全新升级"
 msgid "pc_ai_packaging_new_info_detail"
 msgstr "功能升级！标题、字幕、花字、音效、特效一步到位，视频网感UP！"
 
+msgid "pc_ai_packaging_new_info_detail_pad"
+msgstr "功能升级！标题、字幕、花字、音效、特效一步到位，视频网感UP！"
+
 msgid "pc_ai_packaging_no_speaking"
 msgstr "未识别人声，暂不支持使用智能包装"
 
@@ -9958,6 +10440,9 @@ msgid "pc_ai_packaging_video_clear_captions"
 msgstr "同时清空已有字幕"
 
 msgid "pc_ai_packaging_video_introduction"
+msgstr "一键式AI自动剪辑，智能匹配字幕、花字、音效和特效"
+
+msgid "pc_ai_packaging_video_introduction_pad"
 msgstr "一键式AI自动剪辑，智能匹配字幕、花字、音效和特效"
 
 msgid "pc_ai_packaging_video_start"
@@ -9987,6 +10472,9 @@ msgstr "AI个性化偏好模式"
 msgid "pc_ai_remove_filler_word"
 msgstr "智能去水词"
 
+msgid "pc_ai_remove_prompt_placeholder"
+msgstr "输入描述词消除画面里对应的内容"
+
 msgid "pc_ai_remove_success_toast"
 msgstr "已智能删除水词！"
 
@@ -10006,7 +10494,7 @@ msgid "pc_ai_storyboard"
 msgstr "AI 口播创作"
 
 msgid "pc_ai_storyboard2"
-msgstr "AI 文案成片"
+msgstr "AI文字成片"
 
 msgid "pc_ai_text_feedback_Minor_safety"
 msgstr "未成年安全"
@@ -10143,6 +10631,42 @@ msgstr "最多可以输入 %1个字符"
 msgid "pc_ai_text_feedbackno_understand_requirements"
 msgstr "完全不理解要求，文不对题"
 
+msgid "pc_ai_uhd"
+msgstr "AI极清"
+
+msgid "pc_ai_uhd_cancel"
+msgstr "素材超过AI极清处理时长，任务被取消"
+
+msgid "pc_ai_uhd_cancel_use"
+msgstr "取消"
+
+msgid "pc_ai_uhd_confirm"
+msgstr "确认"
+
+msgid "pc_ai_uhd_define"
+msgstr "部分片段超过处理上限，未成功应用AI极清"
+
+msgid "pc_ai_uhd_detail"
+msgstr "延长或者替换素材，会取消AI极清生成的效果；"
+
+msgid "pc_ai_uhd_don't_remember_again"
+msgstr "下次不再提示"
+
+msgid "pc_ai_uhd_double_integral"
+msgstr "AI极清效果1次=64积分，素材帧率超过30帧每秒，需消耗更多积分处理"
+
+msgid "pc_ai_uhd_fps_remind"
+msgstr "高清可使人像更清晰自然，超清带有更多风格化清晰效果，AI极清利用AI大模型生成更多画面细节"
+
+msgid "pc_ai_uhd_remind"
+msgstr "积分消耗提醒"
+
+msgid "pc_ai_uhd_reminder_content"
+msgstr "使用该功能预计需要消耗xx积分，剩余xx积分"
+
+msgid "pc_ai_uhd_warn"
+msgstr "AI极清提示"
+
 msgid "pc_ai_writer_agree_content"
 msgstr "为了提升服务质量，你是否同意CapCut收集你的输入数据与生成文案，以进行后续的模型优化？如果不同意，将不会影响你使用此服务。"
 
@@ -10249,7 +10773,7 @@ msgid "pc_aigc_credit_check"
 msgstr "查余额充积分"
 
 msgid "pc_aigc_credit_check_balance_more_soon"
-msgstr "去CAPCUT充值积分"
+msgstr "去CapCut充值积分"
 
 msgid "pc_aigc_credit_check_entry"
 msgstr "查余额充积分"
@@ -10800,6 +11324,15 @@ msgstr "理解问题"
 msgid "pc_aiwriting_unlike"
 msgstr "点踩"
 
+msgid "pc_alert_button_250825"
+msgstr "我知道了"
+
+msgid "pc_alert_describe_250825"
+msgstr "检测到您的账号最近30天内登录设备已满，请合理使用账号，注意账号安全。你可以在 App - 我的 - 设置 - 登录设备管理中查看设备详情。"
+
+msgid "pc_alert_title_250825"
+msgstr "设备管理提醒"
+
 msgid "pc_align_left"
 msgstr "左对齐"
 
@@ -10989,6 +11522,9 @@ msgstr "文本、排列、气泡、花字应用到全部字幕"
 msgid "pc_apply_to_clip"
 msgstr "应用到片段"
 
+msgid "pc_apply_to_clip_pad"
+msgstr "应用到片段"
+
 msgid "pc_apply_to_fragment"
 msgstr "应用到片段"
 
@@ -11028,7 +11564,13 @@ msgstr "指定至..."
 msgid "pc_assistant_add_makeup"
 msgstr "试试一键美妆"
 
+msgid "pc_assistant_add_makeup_pad"
+msgstr "试试一键美妆"
+
 msgid "pc_assistant_adjust_facial_features"
+msgstr "试试一键美型"
+
+msgid "pc_assistant_adjust_facial_features_pad"
 msgstr "试试一键美型"
 
 msgid "pc_assistant_auto_highlight"
@@ -11037,19 +11579,34 @@ msgstr "智能添加字幕重点"
 msgid "pc_assistant_auto_reframe"
 msgstr "一键统一视频比例"
 
+msgid "pc_assistant_auto_reframe_pad"
+msgstr "一键统一视频比例"
+
 msgid "pc_assistant_before_release_regular_check"
 msgstr "发布前检测是否符合社区规范"
 
 msgid "pc_assistant_bilingual_captions"
 msgstr "一键生成双语字幕"
 
+msgid "pc_assistant_bilingual_captions_pad"
+msgstr "一键生成双语字幕"
+
 msgid "pc_assistant_camera_tracking"
+msgstr "一键实现锁定运镜"
+
+msgid "pc_assistant_camera_tracking_pad"
 msgstr "一键实现锁定运镜"
 
 msgid "pc_assistant_color_correction"
 msgstr "一键还原素材色彩"
 
+msgid "pc_assistant_color_correction_pad"
+msgstr "一键还原素材色彩"
+
 msgid "pc_assistant_color_match"
+msgstr "一键复制相同色彩"
+
+msgid "pc_assistant_color_match_pad"
 msgstr "一键复制相同色彩"
 
 msgid "pc_assistant_custom_voice"
@@ -11061,7 +11618,13 @@ msgstr "抖音发布预审"
 msgid "pc_assistant_enhance_image"
 msgstr "一键提升清晰度"
 
+msgid "pc_assistant_enhance_image_pad"
+msgstr "一键提升清晰度"
+
 msgid "pc_assistant_enhance_voice"
+msgstr "试试一键美化人声"
+
+msgid "pc_assistant_enhance_voice_pad"
 msgstr "试试一键美化人声"
 
 msgid "pc_assistant_filters"
@@ -11073,25 +11636,46 @@ msgstr "智能提取人声片段"
 msgid "pc_assistant_optical_flow"
 msgstr "一键提高画面流畅度"
 
+msgid "pc_assistant_optical_flow_pad"
+msgstr "一键提高画面流畅度"
+
 msgid "pc_assistant_reduce_image_noise"
 msgstr "智能消除画面噪点"
 
 msgid "pc_assistant_reduce_noise"
 msgstr "快速消除音频噪声"
 
+msgid "pc_assistant_reduce_noise_pad"
+msgstr "快速消除音频噪声"
+
 msgid "pc_assistant_relight"
+msgstr "一键智能打光"
+
+msgid "pc_assistant_relight_pad"
 msgstr "一键智能打光"
 
 msgid "pc_assistant_remove_bg"
 msgstr "一键去除人物背景"
 
+msgid "pc_assistant_remove_bg_pad"
+msgstr "一键去除人物背景"
+
 msgid "pc_assistant_remove_filler_words"
+msgstr "一键去掉口语水词"
+
+msgid "pc_assistant_remove_filler_words_pad"
 msgstr "一键去掉口语水词"
 
 msgid "pc_assistant_remove_flicker"
 msgstr "一键解决画面闪烁"
 
+msgid "pc_assistant_remove_flicker_pad"
+msgstr "一键解决画面闪烁"
+
 msgid "pc_assistant_reshape_body"
+msgstr "试试智能美体"
+
+msgid "pc_assistant_reshape_body_pad"
 msgstr "试试智能美体"
 
 msgid "pc_assistant_transcript_based_editing"
@@ -11112,6 +11696,12 @@ msgstr "音频"
 msgid "pc_audio_clip"
 msgstr "音频剪辑"
 
+msgid "pc_audio_effects_all"
+msgstr "全部"
+
+msgid "pc_audio_effects_all_audio"
+msgstr "全局音频"
+
 msgid "pc_audio_effects_cancel"
 msgstr "取消"
 
@@ -11124,6 +11714,9 @@ msgstr "继续使用"
 msgid "pc_audio_effects_height"
 msgstr "高度"
 
+msgid "pc_audio_effects_main"
+msgstr "主界面"
+
 msgid "pc_audio_effects_name"
 msgstr "音频来源"
 
@@ -11132,6 +11725,9 @@ msgstr "未识别到音频信息"
 
 msgid "pc_audio_effects_none"
 msgstr "无"
+
+msgid "pc_audio_effects_pip"
+msgstr "pip"
 
 msgid "pc_audio_effects_prompt"
 msgstr "提示"
@@ -11144,6 +11740,12 @@ msgstr "未识别到音频信息，效果展示折损，建议添加音频后使
 
 msgid "pc_audio_effects_replace"
 msgstr "当前为音频特效，替换后当前音频效果将消失"
+
+msgid "pc_audio_effects_sound"
+msgstr "有声"
+
+msgid "pc_audio_effects_volume"
+msgstr "音量"
 
 msgid "pc_audio_effects_width"
 msgstr "宽度"
@@ -11362,7 +11964,7 @@ msgid "pc_auto_packaging_analysis_picture_scene"
 msgstr "正在分析画面场景..."
 
 msgid "pc_auto_packaging_app_authorize"
-msgstr "是否允许剪映分析当前草稿信息用于该功能（包括轨道内上传的视频、音频等相关内容）？智能包装效果将根据您提供的内容自动生成，剪映CapCut不就此功能生成的内容作出任何承诺或保证。"
+msgstr "是否允许剪映分析当前草稿信息用于该功能（包括轨道内上传的视频、音频等相关内容）？智能包装效果将根据您提供的内容自动生成，剪映就此功能生成的内容作出任何承诺或保证。"
 
 msgid "pc_auto_packaging_app_text"
 msgstr "智能包装效果是根据您提供的内容自动生成的。剪映CapCut不就此功能生成的内容作出任何承诺或保证。"
@@ -11506,6 +12108,9 @@ msgid "pc_auto_save_local"
 msgstr "%1 自动保存本地"
 
 msgid "pc_auto_sub_title"
+msgstr "选择智能包装，一键匹配精美素材"
+
+msgid "pc_auto_sub_title_pad"
 msgstr "选择智能包装，一键匹配精美素材"
 
 msgid "pc_auto_upgrade_latest"
@@ -11892,6 +12497,9 @@ msgstr "描述你对人物样貌的要求，AI帮你生成"
 msgid "pc_avatar_desc_changeface"
 msgstr "本操作仅更换形象，若还需更换音色，需重新生成数字人"
 
+msgid "pc_avatar_desc_changeface_pad"
+msgstr "本操作仅更换形象，若还需更换音色，需重新生成数字人"
+
 msgid "pc_avatar_desc_clong"
 msgstr "1:1复刻声音和形象，效果自然逼真"
 
@@ -12141,6 +12749,9 @@ msgstr "提交"
 msgid "pc_avatar_submit_unavailable"
 msgstr "确认提交后，原数字人形象所生产的视频片段将会失效"
 
+msgid "pc_avatar_system_error"
+msgstr "抱歉，网络故障导致该功能不可用，请稍后再试"
+
 msgid "pc_avatar_tag_creations_left"
 msgstr "剩余%1个"
 
@@ -12327,6 +12938,9 @@ msgstr "上传个人口播视频"
 msgid "pc_avatar_upload_video_n_n"
 msgstr "上传视频"
 
+msgid "pc_avatar_upload_video_n_n_pad"
+msgstr "上传视频"
+
 msgid "pc_avatar_upload_video_time_requirement"
 msgstr "为达到更优的克隆效果，建议您上传30s以上的个人口播视频"
 
@@ -12408,6 +13022,18 @@ msgstr "返回编辑"
 msgid "pc_back_to_home"
 msgstr "返回首页"
 
+msgid "pc_backend_export_editor_back_homepage_major"
+msgstr "返回首页"
+
+msgid "pc_backend_export_editor_back_homepage_minor"
+msgstr "暂不退出"
+
+msgid "pc_backend_export_editor_back_homepage_text"
+msgstr "当前草稿已自动保存，返回首页以查看导出失败的草稿"
+
+msgid "pc_backend_export_editor_back_homepage_title"
+msgstr "是否退出草稿并返回首页？"
+
 msgid "pc_backend_export_editor_collapse"
 msgstr "收起至首页"
 
@@ -12420,6 +13046,9 @@ msgstr "导出成功，让更多人看到你的作品吧！"
 msgid "pc_backend_export_editor_export_title"
 msgstr "导出 — %1"
 
+msgid "pc_backend_export_editor_function_processing"
+msgstr "任务处理中，完成后即可收起至首页导出"
+
 msgid "pc_backend_export_editor_got_it"
 msgstr "知道了"
 
@@ -12431,6 +13060,9 @@ msgstr "其它草稿导出中，完成后会自动开始"
 
 msgid "pc_backend_export_editor_wait"
 msgstr "等待导出"
+
+msgid "pc_backend_export_external_fail_major_btn"
+msgstr "前往首页查看"
 
 msgid "pc_backend_export_external_fail_minor_btn"
 msgstr "知道了"
@@ -12482,6 +13114,9 @@ msgstr "草稿正在导出，请稍后再试"
 
 msgid "pc_backend_export_homepage_toast_home"
 msgstr "草稿已收起并继续导出"
+
+msgid "pc_backend_export_homepage_toast_sharing"
+msgstr "导出的视频待确认分享，请单击封面后继续"
 
 msgid "pc_backend_export_homepage_toast_template"
 msgstr "草稿已收起至首页并继续导出"
@@ -12564,6 +13199,18 @@ msgstr "前往设置"
 msgid "pc_backup_member"
 msgstr "%1人"
 
+msgid "pc_backup_migration_restore_confirm_major"
+msgstr "恢复"
+
+msgid "pc_backup_migration_restore_confirm_minor"
+msgstr "永久删除"
+
+msgid "pc_backup_migration_restore_confirm_text"
+msgstr "检测到有草稿可能在软件外被手动删除，请确认是否恢复这些草稿"
+
+msgid "pc_backup_migration_restore_confirm_title"
+msgstr "是否恢复更多草稿？"
+
 msgid "pc_backup_modify"
 msgstr "修改"
 
@@ -12600,6 +13247,9 @@ msgstr "备份至"
 msgid "pc_backup_upload_file_none"
 msgstr "暂未上传任何文件。点击上传或拖拽至此"
 
+msgid "pc_backup_upload_file_none_pad"
+msgstr "暂未上传任何文件。点击上传或拖拽至此"
+
 msgid "pc_backup_wrong"
 msgstr "备份发生了错误"
 
@@ -12626,6 +13276,9 @@ msgid "pc_batch_cut"
 msgstr "批量分割"
 
 msgid "pc_batch_management"
+msgstr "批量管理"
+
+msgid "pc_batch_management_pad"
 msgstr "批量管理"
 
 msgid "pc_batch_refresh_material_successfully"
@@ -13003,6 +13656,15 @@ msgstr "亮度（Luma）"
 msgid "pc_browse"
 msgstr "浏览"
 
+msgid "pc_bubble_audio_keyframe_curve"
+msgstr "音频关键帧现已支持曲线调节，右键关键帧即可设置"
+
+msgid "pc_business_material_filter_off"
+msgstr "商用筛选已关闭"
+
+msgid "pc_business_material_filter_on"
+msgstr "商用筛选已开启"
+
 msgid "pc_business_template_tab"
 msgstr "营销推广"
 
@@ -13095,6 +13757,9 @@ msgstr "应用智能运镜会移除当前智能裁剪效果，是否确认操作
 
 msgid "pc_can't_find_your_draft?"
 msgstr "找不到草稿?"
+
+msgid "pc_can_not_replace_imported_media"
+msgstr "暂不支持替换本地素材"
 
 msgid "pc_cance_the_current_subscription"
 msgstr "您已购买了自动续费套餐，无需重复购买，如需更换续费套餐，请前往相应的第三方管理页取消当前订阅套餐后再进行更换，谢谢。"
@@ -13211,7 +13876,7 @@ msgid "pc_captain_apply_cc_settings_cancel_cta"
 msgstr "取消"
 
 msgid "pc_captain_apply_cc_settings_desc"
-msgstr "为了更好的体验，你可以导入Capcut中设置的语言和编辑偏好。"
+msgstr "为了更好的体验，你可以导入CapCut中设置的语言和编辑偏好。"
 
 msgid "pc_captain_apply_cc_settings_done_restart_later_cta"
 msgstr "稍后重启"
@@ -13220,10 +13885,10 @@ msgid "pc_captain_apply_cc_settings_done_restart_now_cta"
 msgstr "立即重启"
 
 msgid "pc_captain_apply_cc_settings_done_title"
-msgstr "Capcut设置项导入完成。重启以应用设置项。"
+msgstr "CapCut设置项导入完成。重启以应用设置项。"
 
 msgid "pc_captain_apply_cc_settings_title"
-msgstr "应用Capcut本地设置？"
+msgstr "应用CapCut本地设置？"
 
 msgid "pc_captain_apply_cc_settings_wip_popup_cta"
 msgstr "取消"
@@ -13235,13 +13900,13 @@ msgid "pc_captain_new_app_import_projects_cta"
 msgstr "导入"
 
 msgid "pc_captain_new_app_import_projects_desc"
-msgstr "访问Capcut的草稿储存地址并选择导入草稿的路径"
+msgstr "访问CapCut的草稿储存地址并选择导入草稿的路径"
 
 msgid "pc_captain_new_app_import_projects_done_toast"
 msgstr "已导入%1"
 
 msgid "pc_captain_new_app_import_projects_entry"
-msgstr "导入Capcut草稿"
+msgstr "导入CapCut草稿"
 
 msgid "pc_captain_new_app_import_projects_error"
 msgstr "找不到可导入的草稿文件"
@@ -13279,8 +13944,17 @@ msgstr "取消"
 msgid "pc_captain_new_app_import_projects_wip_popup_title"
 msgstr "正在导入草稿"
 
+msgid "pc_captain_transfer_link_email_cta1"
+msgstr "绑定邮箱"
+
+msgid "pc_captain_transfer_link_email_cta2"
+msgstr "取消"
+
+msgid "pc_captain_transfer_link_email_desc"
+msgstr "你的账号可能存在风险。为预防可能存在的变化，请绑定你的电子邮箱，以保障账号安全，确保账号能够顺利找回。"
+
 msgid "pc_captain_transfer_link_email_title"
-msgstr "请绑定邮箱"
+msgstr "请为账号绑定邮箱"
 
 msgid "pc_caption_auto_start"
 msgstr "开始自动划重点？"
@@ -13510,6 +14184,9 @@ msgstr "去水词"
 msgid "pc_caption_menu_drag_support_format"
 msgstr "拖拽或点击按钮导入文件，支持SRT、LRC、ASS 字幕"
 
+msgid "pc_caption_menu_drag_support_format_pad"
+msgstr "拖拽或点击按钮导入文件，支持SRT、LRC、ASS 字幕"
+
 msgid "pc_caption_menu_edit_no"
 msgstr "去水词模式下，暂不支持使用字幕编辑快捷键"
 
@@ -13568,6 +14245,9 @@ msgid "pc_caption_menu_vip_cancel"
 msgstr "取消"
 
 msgid "pc_caption_menu_vip_right"
+msgstr "会员可一键识别并删除停顿、重复词和语气词"
+
+msgid "pc_caption_menu_vip_right_pad"
 msgstr "会员可一键识别并删除停顿、重复词和语气词"
 
 msgid "pc_caption_point_close"
@@ -13693,6 +14373,9 @@ msgstr "CBR（静态比特率）"
 msgid "pc_cc_commercial_music_definition_a"
 msgstr "商用音乐涵盖全球超过520,000多种风格和流派的声音。库中的所有商用音乐均已预先获得商业使用授权，因此剪映用户无需经历繁琐的许可获取过程。商用音乐有不同类型的许可证 - 一些可以覆盖剪映和抖音上的商业使用，一些可以覆盖其他社交平台。请点击每个具体的声音以查看版权信息和许可细节。商用音乐涵盖各种风格的音乐，包括摇滚、嘻哈、电子和民谣等，其中既有带歌词的音乐，也有无歌词的音乐，并将不断增加。"
 
+msgid "pc_cc_commercial_music_definition_a_pad"
+msgstr "商用音乐涵盖全球超过520,000多种风格和流派的声音。库中的所有商用音乐均已预先获得商业使用授权，因此剪映用户无需经历繁琐的许可获取过程。商用音乐有不同类型的许可证 - 一些可以覆盖剪映和抖音上的商业使用，一些可以覆盖其他社交平台。请点击每个具体的声音以查看版权信息和许可细节。商用音乐涵盖各种风格的音乐，包括摇滚、嘻哈、电子和民谣等，其中既有带歌词的音乐，也有无歌词的音乐，并将不断增加。"
+
 msgid "pc_cc_commercial_music_definition_q"
 msgstr "什么是商用音乐？"
 
@@ -13713,6 +14396,11 @@ msgstr ""
 "您可以在剪映音乐素材库中找到「商用音乐」面板。\n"
 "点击「音频」→「音乐」→「商用音乐」进行商用音乐选择。"
 
+msgid "pc_cc_commercial_music_path_a_pad"
+msgstr ""
+"您可以在剪映音乐素材库中找到「商用音乐」面板。\n"
+" 点击「音频」→「音乐」→「商用音乐」进行商用音乐选择。"
+
 msgid "pc_cc_commercial_music_path_q"
 msgstr "我在哪里可以找到商用音乐？"
 
@@ -13723,6 +14411,9 @@ msgid "pc_cc_commercial_music_terms_desc"
 msgstr "CapCut素材许可协议"
 
 msgid "pc_cc_commercial_music_use_method_a"
+msgstr "商用音乐可在剪映音乐库中供所有用户使用。你的视频已经获得了在剪映、抖音和其他社交平台上使用商用音乐制作广告视频的授权。具体每首歌曲的版权信息和授权细节，请点击每首歌曲进行查看。"
+
+msgid "pc_cc_commercial_music_use_method_a_pad"
 msgstr "商用音乐可在剪映音乐库中供所有用户使用。你的视频已经获得了在剪映、抖音和其他社交平台上使用商用音乐制作广告视频的授权。具体每首歌曲的版权信息和授权细节，请点击每首歌曲进行查看。"
 
 msgid "pc_cc_commercial_music_use_method_q"
@@ -13737,6 +14428,15 @@ msgstr "剪映专业版正在运行，请关闭后再继续卸载"
 msgid "pc_cc_prohibited_running_lower_win7"
 msgstr "CapCut禁止运行在低于win7的系统兼容模式下"
 
+msgid "pc_cccreatordll_failed_to_load"
+msgstr "cccreator.dll 加载失败"
+
+msgid "pc_cccreatordll_initialization_failed"
+msgstr "cccreator.dll 初始化失败"
+
+msgid "pc_cccreatordll_symbol_not_found"
+msgstr "cccreator.dll 未找到符号"
+
 msgid "pc_cdl_support"
 msgstr "支持 .cube/.3dl"
 
@@ -13745,6 +14445,39 @@ msgstr "庆祝视频"
 
 msgid "pc_centered"
 msgstr "居中"
+
+msgid "pc_change_bg_aspect_ratio"
+msgstr "选择比例"
+
+msgid "pc_change_bg_cancel_continue_btn"
+msgstr "取消"
+
+msgid "pc_change_bg_enter_prompt"
+msgstr "输入描述词"
+
+msgid "pc_change_bg_entry"
+msgstr "AI换背景"
+
+msgid "pc_change_bg_generating"
+msgstr "生成中...%1%"
+
+msgid "pc_change_bg_generating_please_wait"
+msgstr "结果生成中，请稍等"
+
+msgid "pc_change_bg_prompt_placeholder"
+msgstr "请描述你的换背景要求"
+
+msgid "pc_change_bg_reset_btn"
+msgstr "重置"
+
+msgid "pc_change_bg_reset_continue_btn"
+msgstr "确认"
+
+msgid "pc_change_bg_reset_info"
+msgstr "AI换背景结果会被移除"
+
+msgid "pc_change_bg_reset_title"
+msgstr "是否清除当前生成结果"
 
 msgid "pc_change_group_name"
 msgstr "修改小组名称"
@@ -13765,7 +14498,7 @@ msgid "pc_changelog_220"
 msgstr ""
 "功能升级，帮你轻松剪出美好生活～\n"
 "1.支持多片段批量裁剪、快捷键裁剪片段，剪辑更高效\n"
-"2.支持检测TikTok音乐版权，投稿更放心\n"
+"2.支持检测 TikTok 音乐版权，投稿更放心\n"
 "3.上线个人主页，管理素材更高效\n"
 "4.上线对齐能力，支持文本和素材快速对齐"
 
@@ -13784,6 +14517,13 @@ msgstr ""
 "2、支持文本弯曲效果\n"
 "3、支持多选片段统一响度，快速实现响度均衡"
 
+msgid "pc_changelog_260_pad"
+msgstr ""
+"功能升级，帮你轻松剪出美好生活～\n"
+" 1、支持英语一键大小写\n"
+" 2、支持文本弯曲效果\n"
+" 3、支持多选片段统一响度，快速实现响度均衡"
+
 msgid "pc_changelog_270"
 msgstr ""
 "功能升级，帮你轻松剪出美好生活～\n"
@@ -13792,6 +14532,15 @@ msgstr ""
 "3、支持选择不同形象，无需出镜制作口播内容\n"
 "4、一键克隆目标图色彩信息\n"
 "5、一键去除音频中的所有噪音问题，音质提升为录音棚品质"
+
+msgid "pc_changelog_270_pad"
+msgstr ""
+"功能升级，帮你轻松剪出美好生活～\n"
+" 1、支持多种玩法特效，如3D运镜、3D照片等\n"
+" 2、新增预设曲线\n"
+" 3、支持选择不同形象，无需出镜制作口播内容\n"
+" 4、一键克隆目标图色彩信息\n"
+" 5、一键去除音频中的所有噪音问题，音质提升为录音棚品质"
 
 msgid "pc_changelog_280"
 msgstr ""
@@ -13829,6 +14578,11 @@ msgid "pc_changelog_330"
 msgstr ""
 "功能升级，帮你轻松剪出美好生活～\n"
 "1.识别视频动作和音乐卡点，自动生成运镜效果"
+
+msgid "pc_changelog_330_pad"
+msgstr ""
+"功能升级，帮你轻松剪出美好生活～\n"
+" 1.识别视频动作和音乐卡点，自动生成运镜效果"
 
 msgid "pc_changelog_340"
 msgstr ""
@@ -14033,6 +14787,9 @@ msgid "pc_charts_download_template"
 msgstr "数据模板下载"
 
 msgid "pc_charts_drag_drop_xlsx_csv_file"
+msgstr "拖动或点击传入xlsx/csv"
+
+msgid "pc_charts_drag_drop_xlsx_csv_file_pad"
 msgstr "拖动或点击传入xlsx/csv"
 
 msgid "pc_charts_drop"
@@ -14446,13 +15203,25 @@ msgstr "请清理团队成员数量至上限内，否则团队版将无法生效
 msgid "pc_click_begin-record"
 msgstr "点击开始录制"
 
+msgid "pc_click_begin-record_pad"
+msgstr "点击开始录制"
+
 msgid "pc_click_edit_cover"
+msgstr "点击编辑封面"
+
+msgid "pc_click_edit_cover_pad"
 msgstr "点击编辑封面"
 
 msgid "pc_click_edit_effect"
 msgstr "点击编辑特效"
 
+msgid "pc_click_edit_effect_pad"
+msgstr "点击编辑特效"
+
 msgid "pc_click_end_record"
+msgstr "点击结束录制"
+
+msgid "pc_click_end_record_pad"
 msgstr "点击结束录制"
 
 msgid "pc_click_for_retry"
@@ -14461,13 +15230,25 @@ msgstr "点击重试"
 msgid "pc_click_here_to_retrieve_with_one_click"
 msgstr "点击这里，一键找回"
 
+msgid "pc_click_here_to_retrieve_with_one_click_pad"
+msgstr "点击这里，一键找回"
+
 msgid "pc_click_input"
+msgstr "点击输入"
+
+msgid "pc_click_input_pad"
 msgstr "点击输入"
 
 msgid "pc_click_input_url"
 msgstr "点击输入 URL"
 
+msgid "pc_click_input_url_pad"
+msgstr "点击输入 URL"
+
 msgid "pc_click_not_supported_to_split"
+msgstr "播放中，不支持鼠标点击分割"
+
+msgid "pc_click_not_supported_to_split_pad"
 msgstr "播放中，不支持鼠标点击分割"
 
 msgid "pc_click_ok_to_interrupt_export"
@@ -14476,7 +15257,13 @@ msgstr "视频正在导出，点击确认后将中断导出。"
 msgid "pc_click_open_in_the_file_manager"
 msgstr "检查到您的草稿或素材存放在移动磁盘 %1请选择该磁盘路径并允许。（在文件管理器点击“打开”即可）"
 
+msgid "pc_click_open_in_the_file_manager_pad"
+msgstr "检查到您的草稿或素材存放在移动磁盘 %1请选择%1磁盘路径并允许。（在文件管理器点击“打开”即可）"
+
 msgid "pc_click_or_drag_an_image_to_this_area"
+msgstr "点击或将图片拖至此区域"
+
+msgid "pc_click_or_drag_an_image_to_this_area_pad"
 msgstr "点击或将图片拖至此区域"
 
 msgid "pc_click_sign"
@@ -14485,7 +15272,13 @@ msgstr "点击登录"
 msgid "pc_click_submit_data_log"
 msgstr "点击 [提交] 后，日志和崩溃数据会传送到 CapCut，以协助解决问题，改进我们的服务，须遵守我们的%1。"
 
+msgid "pc_click_submit_data_log_pad"
+msgstr "点击 [提交] 后，日志和崩溃数据会传送到 CapCut，以协助解决问题，改进我们的服务，须遵守我们的%1。"
+
 msgid "pc_click_the_image_above_to_learn_more_and_make_video"
+msgstr "点击上图了解更多，让视频创作更简单"
+
+msgid "pc_click_the_image_above_to_learn_more_and_make_video_pad"
 msgstr "点击上图了解更多，让视频创作更简单"
 
 msgid "pc_click_to_cancel"
@@ -14494,10 +15287,16 @@ msgstr "点击取消"
 msgid "pc_click_to_edit_subtitles"
 msgstr "点击字幕可编辑"
 
+msgid "pc_click_to_edit_subtitles_pad"
+msgstr "点击字幕可编辑"
+
 msgid "pc_click_to_open_help"
 msgstr "点击打开帮助"
 
 msgid "pc_click_to_refresh"
+msgstr "点击刷新"
+
+msgid "pc_click_to_refresh_pad"
 msgstr "点击刷新"
 
 msgid "pc_click_to_update"
@@ -14518,14 +15317,38 @@ msgstr "以片段选定区域"
 msgid "pc_clip_too_short"
 msgstr "片段过短，变速后最小时长为0.1s"
 
+msgid "pc_clipper_add_clip"
+msgstr "添加片段"
+
 msgid "pc_clipper_add_media_btn"
 msgstr "确认添加"
+
+msgid "pc_clipper_add_new_segment"
+msgstr "添加新的章节"
+
+msgid "pc_clipper_analysis_failed"
+msgstr "无法分析你的文件"
+
+msgid "pc_clipper_analyzing"
+msgstr "分析中... %1%"
 
 msgid "pc_clipper_auto_arrange"
 msgstr "自动编排"
 
 msgid "pc_clipper_auto_arrange_info"
 msgstr "将对片段顺序进行智能编排"
+
+msgid "pc_clipper_choose_media_all_btn"
+msgstr "选择全部"
+
+msgid "pc_clipper_choose_media_info"
+msgstr "你当前没有选择素材片段，可以选择全部素材或选择指定素材进行粗剪"
+
+msgid "pc_clipper_choose_media_select_btn"
+msgstr "指定素材"
+
+msgid "pc_clipper_choose_media_title"
+msgstr "请选择素材片段"
 
 msgid "pc_clipper_clip_again_btn"
 msgstr "开始粗剪"
@@ -14541,6 +15364,75 @@ msgstr "重新获取高光？"
 
 msgid "pc_clipper_clip_from_all"
 msgstr "所有素材选取高光"
+
+msgid "pc_clipper_clips_ready"
+msgstr "AI粗剪成功！"
+
+msgid "pc_clipper_clips_ready_view"
+msgstr "查看"
+
+msgid "pc_clipper_clips_results"
+msgstr "管理你的粗剪结果"
+
+msgid "pc_clipper_clips_results_view"
+msgstr "编辑"
+
+msgid "pc_clipper_copy_all_done_toast"
+msgstr "已复制"
+
+msgid "pc_clipper_copy_all_hovertip"
+msgstr "保存为文件夹"
+
+msgid "pc_clipper_copy_view_highlight_clips"
+msgstr "查看粗剪结果"
+
+msgid "pc_clipper_cta"
+msgstr "开始剪辑"
+
+msgid "pc_clipper_delete_"
+msgstr "你删除了部分用于智能粗剪的素材，粗剪进程已中止，是否使用剩余素材继续粗剪"
+
+msgid "pc_clipper_delete_clip"
+msgstr "删除片段"
+
+msgid "pc_clipper_delete_popup_cancel_btn"
+msgstr "取消"
+
+msgid "pc_clipper_delete_popup_delete_btn"
+msgstr "删除"
+
+msgid "pc_clipper_delete_popup_desc"
+msgstr "该操作无法被撤销"
+
+msgid "pc_clipper_delete_popup_title"
+msgstr "删除片段？"
+
+msgid "pc_clipper_delete_source_all_popup_btn"
+msgstr "好的"
+
+msgid "pc_clipper_delete_source_all_popup_desc"
+msgstr "你删除了所有用于智能粗剪的素材，粗剪将被中止"
+
+msgid "pc_clipper_delete_source_all_popup_title"
+msgstr "进程中止"
+
+msgid "pc_clipper_delete_source_popup_desc"
+msgstr "素材已删除，智能粗剪中止，你可以使用其余素材继续粗剪"
+
+msgid "pc_clipper_delete_source_popup_primary_cta"
+msgstr "继续剪辑"
+
+msgid "pc_clipper_delete_source_popup_secondary_cta"
+msgstr "重新选择素材"
+
+msgid "pc_clipper_delete_source_popup_title"
+msgstr "进程中止"
+
+msgid "pc_clipper_drag_or_click"
+msgstr "拖拽添加新的片段"
+
+msgid "pc_clipper_drag_to_reorder"
+msgstr "调整顺序"
 
 msgid "pc_clipper_duration"
 msgstr "成片时长"
@@ -14566,11 +15458,44 @@ msgstr "好的"
 msgid "pc_clipper_edit_highlights_tooltip"
 msgstr "点击此处可编辑高光"
 
+msgid "pc_clipper_edit_highlights_tooltip_pad"
+msgstr "点击此处可编辑高光"
+
 msgid "pc_clipper_edit_save_btn"
 msgstr "保存"
 
+msgid "pc_clipper_editing_style"
+msgstr "剪辑风格"
+
+msgid "pc_clipper_editing_style_auto"
+msgstr "自动(根据你的视频内容匹配)"
+
+msgid "pc_clipper_editing_style_chronological"
+msgstr "按时间顺序"
+
+msgid "pc_clipper_editing_style_info"
+msgstr "选择按时间顺序、对话或乱序剪辑"
+
+msgid "pc_clipper_editing_style_montage"
+msgstr "蒙太奇手法"
+
+msgid "pc_clipper_editing_style_narrative"
+msgstr "按照故事逻辑"
+
+msgid "pc_clipper_editing_style_other"
+msgstr "其他"
+
+msgid "pc_clipper_editing_style_speech_based"
+msgstr "口播内容"
+
 msgid "pc_clipper_entry"
 msgstr "智能剪辑"
+
+msgid "pc_clipper_error_toast"
+msgstr "粗剪失败，请重试"
+
+msgid "pc_clipper_failed"
+msgstr "AI粗剪失败"
 
 msgid "pc_clipper_failed_network_cancel_btn"
 msgstr "取消"
@@ -14583,6 +15508,27 @@ msgstr "再试一次"
 
 msgid "pc_clipper_failed_network_title"
 msgstr "无法生成结果"
+
+msgid "pc_clipper_failed_retry"
+msgstr "重试"
+
+msgid "pc_clipper_generating_five"
+msgstr "创意的剪辑方式，通过不连续镜头的组接，来营造情绪和氛围"
+
+msgid "pc_clipper_generating_four"
+msgstr "适合口播内容，如果你的视频依靠口播讲述推进，请选择这个选项"
+
+msgid "pc_clipper_generating_one"
+msgstr "由 AI 自动检测视频内容，选择合适的编排方式"
+
+msgid "pc_clipper_generating_six"
+msgstr "更多可尝试的创意镜头"
+
+msgid "pc_clipper_generating_three"
+msgstr "AI 会为你的视频进行一个故事线的编排，分成合适的章节段落"
+
+msgid "pc_clipper_generating_two"
+msgstr "由 AI 自动检测视频中事件的发生时间，根据事件的发生时间进行编排"
 
 msgid "pc_clipper_get_clips_btn"
 msgstr "开始粗剪"
@@ -14602,6 +15548,18 @@ msgstr "确认使用吗？"
 msgid "pc_clipper_image_toast"
 msgstr "不可对图片调整时长"
 
+msgid "pc_clipper_in_progress"
+msgstr "AI粗剪中... %1%"
+
+msgid "pc_clipper_in_progress_cancel"
+msgstr "取消"
+
+msgid "pc_clipper_items_selected"
+msgstr "已选择 %1 个素材"
+
+msgid "pc_clipper_keep_at_least_one_clip"
+msgstr "至少需要保留一个片段"
+
 msgid "pc_clipper_leave_btn"
 msgstr "离开"
 
@@ -14614,8 +15572,26 @@ msgstr "当前做的改动将不会被保存"
 msgid "pc_clipper_leave_title"
 msgstr "确认离开？"
 
+msgid "pc_clipper_more_requirements"
+msgstr "更多要求"
+
+msgid "pc_clipper_more_requirements_hint"
+msgstr "补充你的视频主题、想要保留的镜头，或者视频脚本"
+
+msgid "pc_clipper_new_entry"
+msgstr "AI剪辑助手"
+
+msgid "pc_clipper_new_onboarding"
+msgstr "简单几步，快速完成视频粗剪"
+
 msgid "pc_clipper_no_clips"
 msgstr "没有高光"
+
+msgid "pc_clipper_no_clips_n"
+msgstr "无素材"
+
+msgid "pc_clipper_no_videos_in_folder_toast"
+msgstr "请先选择需要进行智能粗剪的素材"
 
 msgid "pc_clipper_number"
 msgstr "%1 高光片段"
@@ -14624,6 +15600,9 @@ msgid "pc_clipper_onboarding"
 msgstr "使用智能剪辑一键完成粗剪"
 
 msgid "pc_clipper_onboarding_title"
+msgstr "一键<a>获取高光片段</a>"
+
+msgid "pc_clipper_onboarding_title_pad"
 msgstr "一键<a>获取高光片段</a>"
 
 msgid "pc_clipper_progress_cancel_btn"
@@ -14635,20 +15614,110 @@ msgstr "正在为你挑选精彩片段"
 msgid "pc_clipper_progress_title"
 msgstr "正在粗剪中...%1%"
 
+msgid "pc_clipper_reclip_btn"
+msgstr "重新开始"
+
+msgid "pc_clipper_reclip_info"
+msgstr "正在进行智能粗剪，删除素材将改变粗剪效果，是否按照删除后的情况进行粗剪"
+
+msgid "pc_clipper_reclip_stop"
+msgstr "终止粗剪"
+
+msgid "pc_clipper_reclip_title"
+msgstr "重新开始粗剪？"
+
+msgid "pc_clipper_regenerate_btn"
+msgstr "重新生成"
+
+msgid "pc_clipper_regenerate_cancel"
+msgstr "取消"
+
+msgid "pc_clipper_regenerate_info"
+msgstr "新的粗剪任务完成后将会覆盖掉之前版本"
+
+msgid "pc_clipper_regenerate_title"
+msgstr "重新生成？"
+
+msgid "pc_clipper_results_cancel"
+msgstr "取消"
+
 msgid "pc_clipper_results_cancel_btn"
 msgstr "取消"
+
+msgid "pc_clipper_results_chapters"
+msgstr "章节模式"
+
+msgid "pc_clipper_results_chapters_num"
+msgstr "%1 章节"
+
+msgid "pc_clipper_results_clip_again"
+msgstr "再次粗剪"
 
 msgid "pc_clipper_results_clip_again_btn"
 msgstr "再次粗剪"
 
+msgid "pc_clipper_results_clips"
+msgstr "片段模式"
+
+msgid "pc_clipper_results_clips_num"
+msgstr "%1 片段"
+
 msgid "pc_clipper_results_delete_btn"
 msgstr "删除"
+
+msgid "pc_clipper_results_done"
+msgstr "完成"
+
+msgid "pc_clipper_results_edit"
+msgstr "编辑"
 
 msgid "pc_clipper_results_save_btn"
 msgstr "保存"
 
+msgid "pc_clipper_results_save_to_timeline"
+msgstr "保存落轨"
+
 msgid "pc_clipper_results_settings_btn"
 msgstr "设置"
+
+msgid "pc_clipper_save_as_folder"
+msgstr "保存为文件夹"
+
+msgid "pc_clipper_save_replace_existing_btn"
+msgstr "保存"
+
+msgid "pc_clipper_save_replace_existing_cancel"
+msgstr "取消"
+
+msgid "pc_clipper_save_replace_existing_info"
+msgstr "当前时间线上的片段将会被替换"
+
+msgid "pc_clipper_save_replace_existing_title"
+msgstr "保存会覆盖当前时间线，是否确定？"
+
+msgid "pc_clipper_selected"
+msgstr "已选择的"
+
+msgid "pc_clipper_source_video_desc"
+msgstr "你可以在\"素材\"面板中重新选择"
+
+msgid "pc_clipper_source_video_header"
+msgstr "已选中的素材"
+
+msgid "pc_clipper_stop_cancel"
+msgstr "取消"
+
+msgid "pc_clipper_stop_info"
+msgstr "终止"
+
+msgid "pc_clipper_stop_title"
+msgstr "终止粗剪？"
+
+msgid "pc_clipper_subtitle"
+msgstr "自动挑选并编排视频最佳片段"
+
+msgid "pc_clipper_title"
+msgstr "AI帮你完成视频粗剪"
 
 msgid "pc_clipper_tooltip_onboarding"
 msgstr "太多素材？试试一键获取高光片段！"
@@ -14656,11 +15725,53 @@ msgstr "太多素材？试试一键获取高光片段！"
 msgid "pc_clipper_tooltip_onboarding_close_btn"
 msgstr "关闭"
 
+msgid "pc_clipper_tooltip_onboarding_pad"
+msgstr "太多素材？试试一键获取高光片段！"
+
 msgid "pc_clipper_tooltip_onboarding_try_btn"
 msgstr "使用"
 
+msgid "pc_clipper_total_duration"
+msgstr "视频时长"
+
+msgid "pc_clipper_total_duration_auto"
+msgstr "按时间顺序排序（默认）"
+
+msgid "pc_clipper_total_duration_fifteen_min_plus"
+msgstr "15分钟以上"
+
+msgid "pc_clipper_total_duration_fifteen_sec"
+msgstr "0-15秒"
+
+msgid "pc_clipper_total_duration_five_min_plus"
+msgstr "5分钟以上"
+
+msgid "pc_clipper_total_duration_one_min"
+msgstr "30秒-1分钟"
+
+msgid "pc_clipper_total_duration_one_min_plus"
+msgstr "1分钟以上"
+
+msgid "pc_clipper_total_duration_thirty_sec"
+msgstr "15-30秒"
+
+msgid "pc_clipper_total_duration_three_min_plus"
+msgstr "3分钟以上"
+
 msgid "pc_clipper_unavailable_hovertip"
 msgstr "暂不支持使用AI Clipper"
+
+msgid "pc_clipper_unselected"
+msgstr "未选择的"
+
+msgid "pc_clipper_untitled_clip_prompt"
+msgstr "命名"
+
+msgid "pc_clipper_upload_storyline"
+msgstr "上传脚本"
+
+msgid "pc_clipper_upload_storyline_info"
+msgstr "上传脚本让结果更符合你的诉求"
 
 msgid "pc_clipping_mobile_desktop_tablet"
 msgstr ""
@@ -15100,6 +16211,9 @@ msgstr "草稿部分内容正在下载，你可以在剪辑时等待"
 msgid "pc_cloud_drag_upload"
 msgstr "松手后开始上传"
 
+msgid "pc_cloud_drag_upload_pad"
+msgstr "松手后开始上传"
+
 msgid "pc_cloud_edit_template_group_empty"
 msgstr ""
 "暂无团队模版，可点击右上角「发布模版」，\n"
@@ -15283,6 +16397,9 @@ msgstr "素材"
 
 msgid "pc_cloud_material_no"
 msgstr "还没有素材"
+
+msgid "pc_cloud_media_preview"
+msgstr "暂不支持预览音频文件"
 
 msgid "pc_cloud_member"
 msgstr "空间成员（%1 人）"
@@ -16368,6 +17485,9 @@ msgstr "时间轴上双击复合片段可编辑"
 msgid "pc_compound_double_clip_edit"
 msgstr "双击复合片段可进入编辑"
 
+msgid "pc_compound_double_clip_pad"
+msgstr "时间轴上双击复合片段可编辑"
+
 msgid "pc_compound_edit_unavailable"
 msgstr "不支持在子草稿里编辑此项"
 
@@ -16384,6 +17504,9 @@ msgid "pc_compound_preset_list_loading"
 msgstr "预设列表正在加载，请等待加载完成后再保存"
 
 msgid "pc_compound_text_double_clip"
+msgstr "如需修改文本，请双击进入复合片段"
+
+msgid "pc_compound_text_double_clip_pad"
 msgstr "如需修改文本，请双击进入复合片段"
 
 msgid "pc_compound_tier_exceed_failed"
@@ -16464,16 +17587,16 @@ msgid "pc_context_menu"
 msgstr "右键菜单"
 
 msgid "pc_context_menu_check_box"
-msgstr "添加capcut至系统右键菜单"
+msgstr "添加CapCut至系统右键菜单"
 
 msgid "pc_context_menu_download_btn"
 msgstr "去下载"
 
 msgid "pc_context_menu_download_title"
-msgstr "下载capcut后，可以快速将素材导入剪辑"
+msgstr "下载CapCut后，可以快速将素材导入剪辑"
 
 msgid "pc_context_menu_edit_in_cc"
-msgstr "使用capcut进行剪辑"
+msgstr "使用CapCut进行剪辑"
 
 msgid "pc_context_menu_less_btn"
 msgstr "收起更多"
@@ -16481,8 +17604,11 @@ msgstr "收起更多"
 msgid "pc_context_menu_more_btn"
 msgstr "展开更多"
 
+msgid "pc_context_menu_pad"
+msgstr "右键菜单"
+
 msgid "pc_context_menu_setting"
-msgstr "添加capcut至系统右键菜单"
+msgstr "添加CapCut至系统右键菜单"
 
 msgid "pc_context_menu_setting_info"
 msgstr "可以快速导入素材进行剪辑"
@@ -16664,7 +17790,7 @@ msgid "pc_copying"
 msgstr "复制中..."
 
 msgid "pc_copyright_bubble_tt"
-msgstr "上线TikTok音乐版权检测功能，投稿更放心"
+msgstr "上线 TikTok 音乐版权检测功能，投稿更放心"
 
 msgid "pc_copyright_button_again_check"
 msgstr "再次检验"
@@ -16700,16 +17826,16 @@ msgid "pc_copyright_prompt_no_similar_music"
 msgstr "无相似音乐"
 
 msgid "pc_copyright_prompt_tt_checking"
-msgstr "TikTok音乐版权校验中%1%"
+msgstr "TikTok 音乐版权校验中%1%"
 
 msgid "pc_copyright_publish"
 msgstr "投稿"
 
 msgid "pc_copyright_title_check"
-msgstr "TikTok音乐版权检查"
+msgstr "TikTok 音乐版权检查"
 
 msgid "pc_copyright_title_congratulate_checked"
-msgstr "恭喜，检测到你的视频未侵犯TikTok音乐版权"
+msgstr "恭喜，检测到你的视频未侵犯 TikTok 音乐版权"
 
 msgid "pc_copyright_title_details"
 msgstr "侵权详情"
@@ -16718,22 +17844,22 @@ msgid "pc_copyright_title_export"
 msgstr "是否要继续导出"
 
 msgid "pc_copyright_title_mute"
-msgstr "建议投稿TikTok之前，对视频中的音乐进行版权检查，避免视频侵犯版权，投稿后被静音。"
+msgstr "建议投稿 TikTok 之前，对视频中的音乐进行版权检查，避免视频侵犯版权，投稿后被静音。"
 
 msgid "pc_copyright_title_pause_flow"
-msgstr "正在检测TikTok音乐版权检测，导出后会终止校验流程"
+msgstr "正在检测 TikTok 音乐版权检测，导出后会终止校验流程"
 
 msgid "pc_copyright_title_similar_click"
 msgstr "您可能侵权以下歌曲，可点击%1添加有版权的相似音乐"
 
 msgid "pc_copyright_title_tt"
-msgstr "无风险，请放心投稿TikTok"
+msgstr "无风险，请放心投稿 TikTok"
 
 msgid "pc_copyright_title_tt_checking"
-msgstr "正在检测TikTok音乐版权检测，投稿后会终止校验流程"
+msgstr "正在检测 TikTok 音乐版权检测，投稿后会终止校验流程"
 
 msgid "pc_copyright_title_tt_no_sound"
-msgstr "投稿TikTok会被静音"
+msgstr "投稿 TikTok 会被静音"
 
 msgid "pc_copyright_title_whether_continue"
 msgstr "是否要继续投稿"
@@ -16751,10 +17877,10 @@ msgid "pc_copyright_toast_try_again"
 msgstr "检测异常，请重试"
 
 msgid "pc_copyright_toast_tt"
-msgstr "无风险，请放心投稿TikTok"
+msgstr "无风险，请放心投稿 TikTok"
 
 msgid "pc_copyright_try_similar"
-msgstr "检测到视频配乐侵犯他人版权，视频投稿到TikTok后将会被静音。您可以尝试使用曲库里有版权的音乐替换掉侵权音乐。"
+msgstr "检测到视频配乐侵犯他人版权，视频投稿到 TikTok 后将会被静音。您可以尝试使用曲库里有版权的音乐替换掉侵权音乐。"
 
 msgid "pc_copywriting_agree"
 msgstr "同意"
@@ -17115,6 +18241,9 @@ msgstr "创建组合"
 msgid "pc_create_groups_are_full"
 msgstr "创建小组名额已满"
 
+msgid "pc_create_new_cover"
+msgstr "直接做封面"
+
 msgid "pc_create_new_subdraft"
 msgstr "新建复合片段（子草稿）"
 
@@ -17358,8 +18487,71 @@ msgstr "预设保存位置"
 msgid "pc_default_style_mv"
 msgstr "预设样式（多个值）"
 
+msgid "pc_deformation_animation_restriction_text1"
+msgstr "变形效果将会被移除"
+
+msgid "pc_deformation_animation_restriction_text2"
+msgstr "动画效果将会被移除"
+
+msgid "pc_deformation_animation_restriction_title1"
+msgstr "应用当前动画会取消素材变形效果，是否确认？"
+
+msgid "pc_deformation_animation_restriction_title2"
+msgstr "应用变形功能会取消部分动画效果，是否确认？"
+
+msgid "pc_deformation_bottom_left"
+msgstr "左下"
+
+msgid "pc_deformation_bottom_right"
+msgstr "右下"
+
+msgid "pc_deformation_double_click_drag"
+msgstr "开启变形后，素材上双击可拖拽变形。端点参数为相对数值，输入 0 即恢复至原位置。"
+
+msgid "pc_deformation_double_click_redrag"
+msgstr "双击素材可再次拖动边角变形"
+
+msgid "pc_deformation_drag_corner_transform"
+msgstr "点按拖动边角进行素材变形"
+
+msgid "pc_deformation_drag_transform"
+msgstr "拖拽变形"
+
+msgid "pc_deformation_free_drag_transform"
+msgstr "素材自由拖动变形"
+
+msgid "pc_deformation_keyframe_not_supported"
+msgstr "暂不支持对启用 “大小” 或 “位置” 关键帧的素材进行自由变形"
+
+msgid "pc_deformation_restriction"
+msgstr "变形后的素材无法使用AI消除，可取消变形后使用。"
+
+msgid "pc_deformation_support_drag_transform"
+msgstr "素材支持拖动变形了"
+
+msgid "pc_deformation_top_left"
+msgstr "左上"
+
+msgid "pc_deformation_top_right"
+msgstr "右上"
+
+msgid "pc_deformation_transform"
+msgstr "变形"
+
+msgid "pc_deformation_try_it"
+msgstr "试试"
+
+msgid "pc_deformation_understood"
+msgstr "知道了"
+
 msgid "pc_delete"
 msgstr "删除"
+
+msgid "pc_delete_account_dialog"
+msgstr "PC端暂不支持注销当前账号，请前往App端操作"
+
+msgid "pc_delete_account_dialog_btn"
+msgstr "好的"
 
 msgid "pc_delete_ae_template_experience_project"
 msgstr "删除AE模板体验草稿"
@@ -17375,6 +18567,24 @@ msgstr "要删除被选中的"
 
 msgid "pc_delete_this_audio"
 msgstr "删除这段音频"
+
+msgid "pc_delete_useless_combine_draft"
+msgstr "清除未添加的子草稿"
+
+msgid "pc_delete_useless_combine_draft_failed"
+msgstr "所有子草稿均已被添加"
+
+msgid "pc_delete_useless_combine_draft_status"
+msgstr "已清除%1个子草稿"
+
+msgid "pc_delete_useless_materials"
+msgstr "清除未添加的素材"
+
+msgid "pc_delete_useless_materials_failed"
+msgstr "所有素材均已被添加"
+
+msgid "pc_delete_useless_materials_status"
+msgstr "已清除%1个素材"
 
 msgid "pc_deleting_finished_film_and_reviews"
 msgstr "正在删除成片和关联的审阅"
@@ -17727,6 +18937,9 @@ msgstr "30秒"
 msgid "pc_domain_prompt_45_sec"
 msgstr "45秒"
 
+msgid "pc_domain_prompt_CapCut"
+msgstr "如：CapCut"
+
 msgid "pc_domain_prompt_about_minute"
 msgstr "1分钟左右"
 
@@ -18006,6 +19219,9 @@ msgstr ".00帧/秒"
 msgid "pc_double-click_the_combined_clip_to_adjust_the_parameters"
 msgstr "双击组合片段，可进行调参操作"
 
+msgid "pc_double-click_the_combined_clip_to_adjust_the_parameters_pad"
+msgstr "双击组合片段，可进行调参操作"
+
 msgid "pc_double_click_backspace"
 msgstr ""
 "• 双击序号快速播放\n"
@@ -18014,6 +19230,15 @@ msgstr ""
 " • 文字换行：Ctrl+Enter\n"
 " • 向上合并(光标在句首): Backspace\n"
 " • 向下合并(光标在句尾): Delete"
+
+msgid "pc_double_click_backspace_pad"
+msgstr ""
+"• 双击序号快速播放\n"
+"• 分割语句(句中)：Enter\n"
+"• 退出编辑(句首尾)：Enter\n"
+"• 文字换行：Ctrl+Enter\n"
+"• 向上合并(光标在句首): Backspace\n"
+"• 向下合并(光标在句尾): Delete"
 
 msgid "pc_double_click_delete"
 msgstr ""
@@ -18024,7 +19249,19 @@ msgstr ""
 " • 向上合并(光标在句首): Delete\n"
 " • 向下合并(光标在句尾): Fn+Delete"
 
+msgid "pc_double_click_delete_pad"
+msgstr ""
+"• 双击序号快速播放\n"
+"• 分割语句(句中)：Enter\n"
+"• 退出编辑(句首尾)：Enter\n"
+"• 文字换行：Command+Enter\n"
+"• 向上合并(光标在句首): Delete\n"
+"• 向下合并(光标在句尾): Fn+Delete"
+
 msgid "pc_double_click_to_edit_text"
+msgstr "双击编辑文字"
+
+msgid "pc_double_click_to_edit_text_pad"
 msgstr "双击编辑文字"
 
 msgid "pc_douyin_authorize_login"
@@ -18294,6 +19531,243 @@ msgstr "边缘羽化"
 msgid "pc_edit"
 msgstr "编辑"
 
+msgid "pc_edit_agent_added"
+msgstr "已添加"
+
+msgid "pc_edit_agent_ai_clipper"
+msgstr "请确认剪辑结果："
+
+msgid "pc_edit_agent_ai_clipper_adjust"
+msgstr "去调整"
+
+msgid "pc_edit_agent_ai_clipper_save_timeline"
+msgstr "保存至时间线"
+
+msgid "pc_edit_agent_ai_text"
+msgstr "请确认生成结果："
+
+msgid "pc_edit_agent_ai_text_add_timeline"
+msgstr "添加至时间线"
+
+msgid "pc_edit_agent_ai_text_clip"
+msgstr "拆分为短字幕"
+
+msgid "pc_edit_agent_all_finished"
+msgstr "成功完成所有任务！"
+
+msgid "pc_edit_agent_ask_main_title"
+msgstr "选一个最贴近你想法的选项："
+
+msgid "pc_edit_agent_auto_update_speech"
+msgstr "朗读跟随更新"
+
+msgid "pc_edit_agent_change_voice"
+msgstr "去更换"
+
+msgid "pc_edit_agent_cloned_voice"
+msgstr "克隆音色"
+
+msgid "pc_edit_agent_confimed_ask"
+msgstr "已确认："
+
+msgid "pc_edit_agent_confimed_title"
+msgstr "已确认"
+
+msgid "pc_edit_agent_confirm_ask"
+msgstr "确认提交"
+
+msgid "pc_edit_agent_connection_error"
+msgstr "网络异常"
+
+msgid "pc_edit_agent_deeplink"
+msgstr "更多编辑 >>"
+
+msgid "pc_edit_agent_doing"
+msgstr "任务执行中"
+
+msgid "pc_edit_agent_enter_text_here"
+msgstr "请输入文本"
+
+msgid "pc_edit_agent_expand"
+msgstr "拉高窗口"
+
+msgid "pc_edit_agent_filters"
+msgstr "滤镜"
+
+msgid "pc_edit_agent_find_more"
+msgstr "查看更多"
+
+msgid "pc_edit_agent_generation_failed"
+msgstr "生成失败"
+
+msgid "pc_edit_agent_interrupt_cancel_button"
+msgstr "取消"
+
+msgid "pc_edit_agent_interrupt_confirm_button"
+msgstr "确认"
+
+msgid "pc_edit_agent_interrupt_confirm_subtitle"
+msgstr "终止后，未完成的任务将不再进行"
+
+msgid "pc_edit_agent_interrupt_confirm_title"
+msgstr "确认终止？"
+
+msgid "pc_edit_agent_interrupt_not_ask"
+msgstr "不再询问"
+
+msgid "pc_edit_agent_intro_new"
+msgstr "今天我们创作些什么呢？"
+
+msgid "pc_edit_agent_loading_chat"
+msgstr "加载中"
+
+msgid "pc_edit_agent_main_intro"
+msgstr "Hi，我是你的助手Edit Pilot"
+
+msgid "pc_edit_agent_minimize"
+msgstr "关闭窗口"
+
+msgid "pc_edit_agent_music"
+msgstr "推荐音乐"
+
+msgid "pc_edit_agent_name"
+msgstr "Edit Pilot"
+
+msgid "pc_edit_agent_network_error"
+msgstr "网络异常，请重试"
+
+msgid "pc_edit_agent_normalize"
+msgstr "恢复默认窗口"
+
+msgid "pc_edit_agent_ongoing_tasks"
+msgstr "%1条任务执行中"
+
+msgid "pc_edit_agent_prompt_1"
+msgstr "剪出一条1分钟的fancy视频"
+
+msgid "pc_edit_agent_prompt_2"
+msgstr "给口播视频去水词"
+
+msgid "pc_edit_agent_prompt_3"
+msgstr "智能包装视频"
+
+msgid "pc_edit_agent_prompt_4"
+msgstr "添加一首背景音乐"
+
+msgid "pc_edit_agent_prompt_5"
+msgstr "添加字幕并划重点"
+
+msgid "pc_edit_agent_prompt_intro"
+msgstr "请描述你的剪辑想法..."
+
+msgid "pc_edit_agent_reference_adjustment"
+msgstr "%1个调节片段"
+
+msgid "pc_edit_agent_reference_audio_clip"
+msgstr "%1个音频片段"
+
+msgid "pc_edit_agent_reference_avatar_clip"
+msgstr "%1个数字人片段"
+
+msgid "pc_edit_agent_reference_effect"
+msgstr "%1个特效"
+
+msgid "pc_edit_agent_reference_filter"
+msgstr "%1个滤镜"
+
+msgid "pc_edit_agent_reference_sticker"
+msgstr "%1个贴纸"
+
+msgid "pc_edit_agent_reference_text_clip"
+msgstr "%1个文字片段"
+
+msgid "pc_edit_agent_reference_transition"
+msgstr "%1个转场"
+
+msgid "pc_edit_agent_reference_video_clip"
+msgstr "%1个视频片段"
+
+msgid "pc_edit_agent_remove_reference"
+msgstr "取消引用"
+
+msgid "pc_edit_agent_send_button"
+msgstr "发送"
+
+msgid "pc_edit_agent_send_interrupt"
+msgstr "中断任务"
+
+msgid "pc_edit_agent_send_max_character_toast"
+msgstr "最多可输入%1个字符哦"
+
+msgid "pc_edit_agent_sign_in"
+msgstr "登录"
+
+msgid "pc_edit_agent_sign_intro"
+msgstr "登录后我才可以帮你一起剪视频哦"
+
+msgid "pc_edit_agent_sound_effect"
+msgstr "推荐音效"
+
+msgid "pc_edit_agent_sticker"
+msgstr "推荐贴纸"
+
+msgid "pc_edit_agent_sub_intro"
+msgstr "你可以询问我任何剪辑需求。尝试像这样问问我："
+
+msgid "pc_edit_agent_task_failed"
+msgstr "%1条任务失败"
+
+msgid "pc_edit_agent_task_pending_confirmation"
+msgstr "%1条任务等待确认中"
+
+msgid "pc_edit_agent_task_retry"
+msgstr "重试"
+
+msgid "pc_edit_agent_text_deleted"
+msgstr "暂无文本"
+
+msgid "pc_edit_agent_text_template"
+msgstr "推荐文字模板"
+
+msgid "pc_edit_agent_todo_list"
+msgstr "To-Do List"
+
+msgid "pc_edit_agent_transcript_delete"
+msgstr "删除"
+
+msgid "pc_edit_agent_transcript_finish_des"
+msgstr "已删除所选中的无效的口播内容"
+
+msgid "pc_edit_agent_transcript_finish_title"
+msgstr "已确认删除"
+
+msgid "pc_edit_agent_transcript_loading"
+msgstr "识别口播内容中%1%"
+
+msgid "pc_edit_agent_transcript_title"
+msgstr "请确认要删除的内容："
+
+msgid "pc_edit_agent_understanding"
+msgstr "需求理解中..."
+
+msgid "pc_edit_agent_video"
+msgstr "推荐视频"
+
+msgid "pc_edit_agent_video_effect"
+msgstr "推荐特效"
+
+msgid "pc_edit_agent_video_transition"
+msgstr "推荐转场"
+
+msgid "pc_edit_agent_voice"
+msgstr "推荐音色"
+
+msgid "pc_edit_agent_waiting_to_confirm"
+msgstr "等待用户确认"
+
+msgid "pc_edit_agent_waiting_to_view"
+msgstr "待查看"
+
 msgid "pc_edit_as_template_video"
 msgstr "将使用者视频裁剪至与模板视频一致"
 
@@ -18311,6 +19785,75 @@ msgstr "导入到新草稿"
 
 msgid "pc_edit_it_on_mobile_phone"
 msgstr "模板，图文视频的草稿，尚未支持，请在手机剪映进行编辑。"
+
+msgid "pc_edit_material_favorite_empty"
+msgstr "暂无收藏的动画，长按动画封面可进行收藏"
+
+msgid "pc_edit_material_favorite_favorite"
+msgstr "收藏"
+
+msgid "pc_edit_material_favorite_limit_toast"
+msgstr "收藏数量已达上限"
+
+msgid "pc_edit_material_favorite_more"
+msgstr "更多"
+
+msgid "pc_edit_material_favorite_textanimate_limit_toast"
+msgstr "收藏数量已达上限，文本和字幕动画总数不超过 100 个"
+
+msgid "pc_edit_material_favorite_videoanimate_limit_toast"
+msgstr "收藏数量已达上限，视频各类动画总数不超过 100 个"
+
+msgid "pc_edit_material_search_animation"
+msgstr "搜索动画"
+
+msgid "pc_edit_material_search_cancel"
+msgstr "关闭"
+
+msgid "pc_edit_material_search_delete_all"
+msgstr "全部删除"
+
+msgid "pc_edit_material_search_guide"
+msgstr "大家都在搜「%s」"
+
+msgid "pc_edit_material_search_history"
+msgstr "搜索记录"
+
+msgid "pc_edit_material_search_hot"
+msgstr "猜你想搜"
+
+msgid "pc_edit_material_search_ok"
+msgstr "完成"
+
+msgid "pc_edit_material_search_result"
+msgstr "搜索结果"
+
+msgid "pc_edit_material_search_text_template"
+msgstr "搜索文字模板"
+
+msgid "pc_edit_material_search_voice_change"
+msgstr "搜索音色"
+
+msgid "pc_edit_material_textanimate_in"
+msgstr "入场"
+
+msgid "pc_edit_material_textanimate_loop"
+msgstr "循环"
+
+msgid "pc_edit_material_textanimate_out"
+msgstr "出场"
+
+msgid "pc_edit_material_textanimate_script"
+msgstr "字幕动画"
+
+msgid "pc_edit_material_videoanimate_combo"
+msgstr "组合"
+
+msgid "pc_edit_material_videoanimate_in"
+msgstr "入场"
+
+msgid "pc_edit_material_videoanimate_out"
+msgstr "出场"
 
 msgid "pc_edit_subtitle_empty"
 msgstr "清空"
@@ -19011,6 +20554,9 @@ msgstr "错误报告"
 msgid "pc_error_reports_already"
 msgstr "相关错误报告和日志已生成，选择发送此报告可以帮助我们改善服务质量。点击“发送报告”，错误报告和相关日志会被发送至CapCut，具体可见"
 
+msgid "pc_error_reports_already_pad"
+msgstr "相关错误报告和日志已生成，选择发送此报告可以帮助我们改善服务质量。点击“发送报告”，错误报告和相关日志会被发送至CapCut，具体可见"
+
 msgid "pc_et_switch"
 msgstr "ET埋点开关"
 
@@ -19021,7 +20567,7 @@ msgid "pc_event_allow_cancel"
 msgstr "取消"
 
 msgid "pc_event_allow_text"
-msgstr "允许CapCut获得您活动期间的活动投稿在TikTok的浏览数据"
+msgstr "允许 CapCut 获得您活动期间的活动投稿在 TikTok 的浏览数据"
 
 msgid "pc_event_allow_title"
 msgstr "允许访问"
@@ -19033,10 +20579,10 @@ msgid "pc_event_link_btn"
 msgstr "绑定 Link"
 
 msgid "pc_event_link_text"
-msgstr "将此CapCut账号绑定TikTok账号。您可以随时从“我的”>“管理帐户”取消关联。"
+msgstr "将此 CapCut 账号绑定 TikTok 账号。您可以随时从“我的”>“管理帐户”取消关联。"
 
 msgid "pc_event_link_title"
-msgstr "绑定TikTok账号"
+msgstr "绑定 TikTok 账号"
 
 msgid "pc_event_linked_btn"
 msgstr "已绑定"
@@ -19383,6 +20929,12 @@ msgstr "会员模板：模板%1项"
 msgid "pc_export_rle"
 msgstr "RLE"
 
+msgid "pc_export_settings_remove_aigc_watermark_switch_subtext"
+msgstr "包含 AI 生成/合成内容时，开启后将不展示 AIGC 水印"
+
+msgid "pc_export_settings_remove_aigc_watermark_switch_title"
+msgstr "去除 AIGC 水印"
+
 msgid "pc_export_static_frame"
 msgstr "导出静帧画面"
 
@@ -19485,6 +21037,9 @@ msgstr "勾选后会再次导出视频并存在导出路径下"
 msgid "pc_exporting"
 msgstr "正在导出"
 
+msgid "pc_exporting_in_ultra_hd"
+msgstr "超清导出中"
+
 msgid "pc_exposure"
 msgstr "曝光度"
 
@@ -19498,6 +21053,9 @@ msgid "pc_external_harddrive_toast_project_location"
 msgstr "草稿位置在外接设备，可能导致卡顿，建议设置为本地磁盘。"
 
 msgid "pc_external_storage_device_detected_click"
+msgstr "检测到有外部存储设备插入，点击刷新媒体列表"
+
+msgid "pc_external_storage_device_detected_click_pad"
 msgstr "检测到有外部存储设备插入，点击刷新媒体列表"
 
 msgid "pc_extract_audio"
@@ -19543,10 +21101,10 @@ msgid "pc_fade_out_duration"
 msgstr "淡出时长"
 
 msgid "pc_fail_go_tt"
-msgstr "获取TikTok uid失败"
+msgstr "获取 TikTok uid失败"
 
 msgid "pc_fail_open_tt_id"
-msgstr "获取TikTok open_id失败"
+msgstr "获取 TikTok open_id 失败"
 
 msgid "pc_fail_to_download_text_template"
 msgstr "文字模板下载失败"
@@ -19579,10 +21137,10 @@ msgid "pc_fail_to_text_reading"
 msgstr "文本朗读失败"
 
 msgid "pc_fail_tt_access"
-msgstr "获取TikTok access_token失败"
+msgstr "获取 TikTok access_token 失败"
 
 msgid "pc_fail_tt_share"
-msgstr "获取TikTok open_api的share_id失败"
+msgstr "获取 TikTok open_api 的 share_id 失败"
 
 msgid "pc_failed"
 msgstr "失败"
@@ -19858,8 +21416,14 @@ msgstr "借助AI让模特展示你的服装图"
 msgid "pc_fashionmodel_desc_upload"
 msgstr "最多只能上传 %1 个模特，超过可以右键删除"
 
+msgid "pc_fashionmodel_desc_upload_pad"
+msgstr "最多只能上传 %1 个模特，超过可以右键删除"
+
 msgid "pc_fashionmodel_generating"
 msgstr "生成中 %1%"
+
+msgid "pc_fashionmodel_generating_n"
+msgstr "正在生成 %1%"
 
 msgid "pc_fashionmodel_history_onmodel_subtitle"
 msgstr "模特展示图"
@@ -19908,6 +21472,24 @@ msgstr "生成结果只保存30天。"
 
 msgid "pc_fashionmodel_tool"
 msgstr "模特换装图片生成"
+
+msgid "pc_fashionmodelvideo_duration_timechoose"
+msgstr "%1秒"
+
+msgid "pc_fashionmodelvideo_select"
+msgstr "确认上传"
+
+msgid "pc_fashionmodelvideo_selectcloth"
+msgstr "上传服装商品图"
+
+msgid "pc_fashionmodelvideo_selectcloth_desc"
+msgstr "上传服装图"
+
+msgid "pc_fashionmodelvideo_selectmodel"
+msgstr "选择展示模特"
+
+msgid "pc_fashionmodelvideo_selectmodel_auto"
+msgstr "自动推荐"
 
 msgid "pc_fast_for_weak_and_slow_for_strong"
 msgstr "画面变化快建议选择较弱，画面变化慢建议选择较强"
@@ -20032,6 +21614,9 @@ msgstr "自动识别人体，轻松完成抠像，快去试试吧！"
 msgid "pc_feature_cutout_title"
 msgstr "感受智能抠图的方便高效"
 
+msgid "pc_feature_cutout_title_pad"
+msgstr "感受智能抠图的方便高效"
+
 msgid "pc_feature_draft"
 msgstr "云空间跨端同步"
 
@@ -20057,6 +21642,9 @@ msgid "pc_feature_enhance_voice_content"
 msgstr "人声美化功能可以去除混响、喷麦等噪音并增强音质。"
 
 msgid "pc_feature_enhance_voice_title"
+msgstr "一键提升你的音频到录音棚音质！"
+
+msgid "pc_feature_enhance_voice_title_pad"
 msgstr "一键提升你的音频到录音棚音质！"
 
 msgid "pc_feature_feature_color_title"
@@ -20125,7 +21713,13 @@ msgstr "智能剪口播"
 msgid "pc_feature_remove_words_content"
 msgstr "自动识别片段中的停顿、重复和语气词等无效片段，并支持一键删除。"
 
+msgid "pc_feature_remove_words_content_pad"
+msgstr "自动识别片段中的停顿、重复和语气词等无效片段，并支持一键删除。"
+
 msgid "pc_feature_remove_words_title"
+msgstr "智能剪口播：一键编辑口播素材"
+
+msgid "pc_feature_remove_words_title_pad"
 msgstr "智能剪口播：一键编辑口播素材"
 
 msgid "pc_feature_screen"
@@ -20682,6 +22276,9 @@ msgstr "查找"
 
 msgid "pc_find_content_does_not_exist"
 msgstr "查找内容不存在"
+
+msgid "pc_find_feature_here_tooltip"
+msgstr "下次可在此处快速找到功能"
 
 msgid "pc_finish_crop"
 msgstr "完成裁剪"
@@ -21392,16 +22989,88 @@ msgid "pc_gender"
 msgstr "性别"
 
 msgid "pc_general_v_three"
-msgstr "General V3.0"
+msgstr "Seedream 3.0L"
 
 msgid "pc_general_v_three_hint"
 msgstr "请描述你想要生成图片，在“”内输入想要生成的文字"
 
 msgid "pc_general_v_three_info"
-msgstr "更自然真实，品质更高，可生成文字海报"
+msgstr "更自然真实，可生成文字海报。"
 
 msgid "pc_generate_subtitles"
 msgstr "生成字幕"
+
+msgid "pc_generate_transition"
+msgstr "生成转场"
+
+msgid "pc_generate_transition_apply_all_button_cancel"
+msgstr "取消"
+
+msgid "pc_generate_transition_apply_all_button_generate"
+msgstr "生成转场视频"
+
+msgid "pc_generate_transition_apply_all_description"
+msgstr "一共将生成%1段转场视频，预计消耗%2积分，剩余%3积分"
+
+msgid "pc_generate_transition_apply_all_title"
+msgstr "全局应用转场效果"
+
+msgid "pc_generate_transition_crdits_use_popup_free"
+msgstr "AI 转场本次0积分使用，已减免%1积分"
+
+msgid "pc_generate_transition_crdits_use_popup_remain"
+msgstr "AI 转场消耗%1积分使用，当前剩余%2积分可用"
+
+msgid "pc_generate_transition_crdits_use_popup_upper_limit"
+msgstr "AI 转场超出积分限免上限，还需额外消耗%1积分"
+
+msgid "pc_generate_transition_crdits_use_title"
+msgstr "本次积分消耗"
+
+msgid "pc_generate_transition_lable"
+msgstr "AI 转场"
+
+msgid "pc_generate_transition_loading"
+msgstr "AI 转场生成中"
+
+msgid "pc_generate_transition_prompt_panel_description"
+msgstr "输入转场描述，AI 帮你丝滑过度"
+
+msgid "pc_generate_transition_prompt_panel_title"
+msgstr "转场描述"
+
+msgid "pc_generate_transition_toast_add_transition"
+msgstr "请在右侧的转场面板里调节转场时长，生成 AI 转场效果"
+
+msgid "pc_generate_transition_toast_cant_add"
+msgstr "转场素材生成中，不支持添加 AI 转场效果"
+
+msgid "pc_generate_transition_toast_generate_fail"
+msgstr "AI 转场生成失败"
+
+msgid "pc_generate_transition_toast_generate_failed"
+msgstr "AI 转场生成失败，限免次数或积分已返还"
+
+msgid "pc_generate_transition_toast_generate_success"
+msgstr "AI 转场生成成功"
+
+msgid "pc_generate_transition_toast_popup_cancel_button_scale_notsupport"
+msgstr "取消"
+
+msgid "pc_generate_transition_toast_popup_generate_button_scale_notsupport"
+msgstr "调整比例并生成"
+
+msgid "pc_generate_transition_toast_popup_title_scale_notsupport"
+msgstr "自动调整至支持的画面比例"
+
+msgid "pc_generate_transition_toast_redo"
+msgstr "恢复 AI 转场效果"
+
+msgid "pc_generate_transition_toast_scale_notsupport"
+msgstr "AI 转场仅支持%1的画面比例"
+
+msgid "pc_generate_transition_toast_undo"
+msgstr "撤销 AI 转场效果"
 
 msgid "pc_generating_effect"
 msgstr "正在生成效果，请完成后重试"
@@ -21938,10 +23607,19 @@ msgstr "关闭"
 msgid "pc_home_enhance_quality_banner"
 msgstr "一键超清升级，视频细节清晰可见"
 
+msgid "pc_home_enhance_quality_banner_pad"
+msgstr "一键超清升级，视频细节清晰可见"
+
 msgid "pc_home_enhance_quality_info"
 msgstr "一键即可提升图片或视频的清晰度"
 
+msgid "pc_home_enhance_quality_info_pad"
+msgstr "一键即可提升图片或视频的清晰度"
+
 msgid "pc_home_fashion_model_info"
+msgstr "上传你的服装图，一键批量生成模特换装图"
+
+msgid "pc_home_fashion_model_info_pad"
 msgstr "上传你的服装图，一键批量生成模特换装图"
 
 msgid "pc_home_icon_review_reject"
@@ -22032,6 +23710,9 @@ msgid "pc_home_release_time_n"
 msgstr "发布时间：%1"
 
 msgid "pc_home_remove_bg_banner"
+msgstr "无需绿幕，一键抠像轻松换背景"
+
+msgid "pc_home_remove_bg_banner_pad"
 msgstr "无需绿幕，一键抠像轻松换背景"
 
 msgid "pc_home_review_reason_beauty_low"
@@ -22235,6 +23916,9 @@ msgstr "没有想要咨询的草稿"
 msgid "pc_im_upload_project_disclaimer_hint"
 msgstr "您上传的草稿仅用于排查问题，问题排查之后会立即删除。"
 
+msgid "pc_image_analyzing_prompt"
+msgstr "Prompt分析中，请耐心等待"
+
 msgid "pc_image_create"
 msgstr "创作图片"
 
@@ -22243,6 +23927,18 @@ msgstr "图片草稿"
 
 msgid "pc_image_fill"
 msgstr "图片填充"
+
+msgid "pc_image_four"
+msgstr "Seedream 4.0s"
+
+msgid "pc_image_four_info"
+msgstr "支持系列组图生成。"
+
+msgid "pc_image_four_info_n"
+msgstr "支持多图参考、系列组图生成。"
+
+msgid "pc_image_four_placeholder"
+msgstr "请描述你想要生成的图片。"
 
 msgid "pc_image_photo"
 msgstr "图片"
@@ -22253,14 +23949,32 @@ msgstr "画质"
 msgid "pc_image_quality_priority"
 msgstr "画质优先"
 
+msgid "pc_image_seedream_four_five_info"
+msgstr "图片主体一致性提升，文字保持和小语种准确性提升"
+
 msgid "pc_image_super_min"
 msgstr "视频超过%1秒不可试用"
+
+msgid "pc_image_three_aesthetic_info"
+msgstr "美感更丰富。"
+
+msgid "pc_image_three_aesthetic_n"
+msgstr "Seedream 3.0L-艺术版"
+
+msgid "pc_image_upload_max_four"
+msgstr "最多支持导入 %1 张图片"
 
 msgid "pc_import"
 msgstr "导入"
 
 msgid "pc_import_audio_notes"
 msgstr "支持视频文件提取音频"
+
+msgid "pc_import_combine_draft_from_draft"
+msgstr "来自草稿内部"
+
+msgid "pc_import_combine_draft_from_launchpad"
+msgstr "来自启动台导入"
 
 msgid "pc_import_damage"
 msgstr "导入素材中有源文件损坏"
@@ -22313,6 +24027,9 @@ msgstr "你可以像导入素材一样，将其他草稿导入到当前草稿使
 msgid "pc_import_subdraft_notice_content_2"
 msgstr "点击“导入”，选择想要使用的草稿。导入后，对子草稿点击“插入”即可将其放入时间线。"
 
+msgid "pc_import_subdraft_notice_content_2_pad"
+msgstr "点击“导入”，选择想要使用的草稿。导入后，对子草稿点击“插入”即可将其放入时间线。"
+
 msgid "pc_import_subdraft_notice_content_3"
 msgstr "通过这种方式，你可以将多个草稿拼接为一个新草稿。"
 
@@ -22330,6 +24047,9 @@ msgstr "在素材面板展示子草稿的音视频素材"
 
 msgid "pc_import_subdraft_select_notice"
 msgstr "导入的草稿为子草稿副本，在当前时间线内的修改不会影响到原始草稿"
+
+msgid "pc_import_subdraft_select_unable_click"
+msgstr "不支持导入空草稿"
 
 msgid "pc_import_subdraft_selected"
 msgstr "已选择%1项草稿"
@@ -22678,6 +24398,9 @@ msgstr "加载发生异常,请重试 (或点击 <a style='color:#00c1cd' href='%
 msgid "pc_installer_failed_retry"
 msgstr "无法下载？重新下载"
 
+msgid "pc_installer_failed_retry_pad"
+msgstr "无法下载？重新下载"
+
 msgid "pc_installer_file_download"
 msgstr "点击这个文件开始安装CapCut"
 
@@ -22733,6 +24456,9 @@ msgid "pc_installer_reinstall"
 msgstr "重新安装"
 
 msgid "pc_installer_remove_describe"
+msgstr "CapCut可以自动识别语气词（比如额，啊等）和气口间隔，并一键去除"
+
+msgid "pc_installer_remove_describe_pad"
 msgstr "CapCut可以自动识别语气词（比如额，啊等）和气口间隔，并一键去除"
 
 msgid "pc_installer_remove_title"
@@ -22901,7 +24627,7 @@ msgid "pc_int_sound_effect_intro_title"
 msgstr "智能识别视频画面，生成合适的音效"
 
 msgid "pc_int_sound_effect_limit_atime"
-msgstr "暂仅支持对%1分钟到%2分钟的原视频片段生成音效"
+msgstr "暂仅支持对%1秒到%2分钟的原视频片段生成音效"
 
 msgid "pc_int_sound_effect_limit_vtime"
 msgstr "暂仅支持对%1秒到%2秒的原视频片段生成音效"
@@ -23016,6 +24742,142 @@ msgstr "邀请一起拍成员"
 
 msgid "pc_invite_group_member"
 msgstr "邀请组员"
+
+msgid "pc_ipad_allow_access_to_photos"
+msgstr "允许CapCut读取和写入相册内容及属性信息，帮助导入和保存内容"
+
+msgid "pc_ipad_beta_notice"
+msgstr "Beta版介绍"
+
+msgid "pc_ipad_beta_notice_n"
+msgstr "Beta版介绍"
+
+msgid "pc_ipad_change_language"
+msgstr "更换语言，请先退出CapCut再手动重启它"
+
+msgid "pc_ipad_change_language_quit_btn"
+msgstr "退出"
+
+msgid "pc_ipad_explore_app"
+msgstr "CapCut Pad"
+
+msgid "pc_ipad_explore_app_title"
+msgstr "发现"
+
+msgid "pc_ipad_explore_app_title_n"
+msgstr "发现"
+
+msgid "pc_ipad_export_to_files"
+msgstr "导出文件"
+
+msgid "pc_ipad_export_to_photos"
+msgstr "导出视频"
+
+msgid "pc_ipad_from_files"
+msgstr "来自文件"
+
+msgid "pc_ipad_from_photos"
+msgstr "来自图片"
+
+msgid "pc_ipad_guide"
+msgstr "引导"
+
+msgid "pc_ipad_guide_add_clips"
+msgstr "添加素材加入轨道"
+
+msgid "pc_ipad_guide_add_clips_info"
+msgstr "点击「+」按钮 或 长按拖拽素材，即可将其加入轨道。也支持长按后多选，批量导入更高效。"
+
+msgid "pc_ipad_guide_export_videos"
+msgstr "导出视频"
+
+msgid "pc_ipad_guide_export_videos_info"
+msgstr "完成剪辑后，轻点界面右上角的“导出”按钮，即可快速保存或分享你的视频。"
+
+msgid "pc_ipad_guide_move_edit"
+msgstr "调整轨道"
+
+msgid "pc_ipad_guide_move_edit_info"
+msgstr "长按并拖拽轨道上的片段，即可轻松调整其位置。在片段上长按，还可快速唤出快捷菜单进行更多编辑。"
+
+msgid "pc_ipad_guide_navigate_timeline"
+msgstr "浏览视频"
+
+msgid "pc_ipad_guide_navigate_timeline_info"
+msgstr "拖拽预览轴浏览视频内容，单指拖拽滚动时间线，双指缩放可自调整轨道视图大小。"
+
+msgid "pc_ipad_guide_select_clips"
+msgstr "多选素材"
+
+msgid "pc_ipad_guide_select_clips_info"
+msgstr "若要同时处理多个素材，请长按轨道空白区域并拖拽，即可框选。你也可以通过右键菜单进入多选模式。"
+
+msgid "pc_ipad_import_from_files"
+msgstr "从文件导入"
+
+msgid "pc_ipad_import_from_photos"
+msgstr "从相册导入"
+
+msgid "pc_ipad_keep_screen_on_during_export"
+msgstr "导出过程中，请保持屏幕点亮，不要锁屏或切换程序"
+
+msgid "pc_ipad_multi_select_btn"
+msgstr "选择"
+
+msgid "pc_ipad_multi_select_on_toast"
+msgstr "已进入多选状态，可点击选中或取消选中素材"
+
+msgid "pc_ipad_open_files"
+msgstr "打开文件"
+
+msgid "pc_ipad_open_photos"
+msgstr "打开图库"
+
+msgid "pc_ipad_performance_tips_btn"
+msgstr "知道了"
+
+msgid "pc_ipad_performance_tips_info"
+msgstr ""
+"检测到上一次应用因设备运行内存不足而意外退出。可能原因为：草稿内容较复杂、同时打开应用太多导致软件卡顿崩溃。 为避免再次崩溃，建议您尝试：\n"
+"1. 清理 iPad 后台其他应用，释放内存；\n"
+"2. 适当简化草稿内元素和片段，或导出时切换到更低分辨率；\n"
+"3. 同步草稿至性能更强的设备上继续编辑和导出。"
+
+msgid "pc_ipad_performance_tips_title"
+msgstr "性能不足提示"
+
+msgid "pc_ipad_permission_request_cancel_btn"
+msgstr "取消"
+
+msgid "pc_ipad_permission_request_info"
+msgstr "如需访问照片库，请在设置中允许访问权限。"
+
+msgid "pc_ipad_permission_request_open_settings_btn"
+msgstr "去设置"
+
+msgid "pc_ipad_permission_request_title"
+msgstr "请授权"
+
+msgid "pc_ipad_pro_editing_info"
+msgstr "Beta 期间，您可能会遇到功能缺失或不稳定的情况；同时大部分 Pro 功能将限时免费，我们将在后续版本中逐步恢复付费订阅、完善产品体验"
+
+msgid "pc_ipad_pro_editing_title"
+msgstr "专为 Pad 打造的专业剪辑"
+
+msgid "pc_ipad_select_from_device"
+msgstr "从设备选择"
+
+msgid "pc_ipad_select_from_device_info"
+msgstr "从设备内选择音频"
+
+msgid "pc_ipad_select_from_device_tab"
+msgstr "从设备选择"
+
+msgid "pc_ipad_user_guide"
+msgstr "使用引导"
+
+msgid "pc_ipad_welcome_to_cc_pad"
+msgstr "欢迎使用 CapCut iPad"
 
 msgid "pc_it_is_good"
 msgstr "好"
@@ -23176,6 +25038,9 @@ msgid "pc_keyframe_clear_change"
 msgstr "「面板内添加关键帧」无法清空，请输入修饰键完成快捷键设置"
 
 msgid "pc_keyframe_create_toast"
+msgstr "右键关键帧可设置变速动画"
+
+msgid "pc_keyframe_create_toast_pad"
 msgstr "右键关键帧可设置变速动画"
 
 msgid "pc_keyframe_effect_try"
@@ -23955,6 +25820,15 @@ msgstr "喜欢视频/剪同款失败"
 msgid "pc_limit_10_videos_re-select_upload"
 msgstr "此处限制添加10个视频，请重新选择后上传"
 
+msgid "pc_limit_button_250825"
+msgstr "知道了"
+
+msgid "pc_limit_describe_250825"
+msgstr "账号最近30天内登录设备已满，当前设备已被该账号限制登录，请登录其他账号"
+
+msgid "pc_limit_title_250825"
+msgstr "账号限制登录"
+
 msgid "pc_line_spacing"
 msgstr "行间距"
 
@@ -23990,6 +25864,9 @@ msgstr "链接媒体成功"
 
 msgid "pc_link_only_current"
 msgstr "仅链接当前"
+
+msgid "pc_link_tt_account_failed"
+msgstr "无法绑定当前账号，请换一个账号重试"
 
 msgid "pc_link_ytb_entrance"
 msgstr "绑定YouTube账号"
@@ -24339,6 +26216,9 @@ msgstr "登录即可同步抖音收藏音乐"
 msgid "pc_logout"
 msgstr "退出登录"
 
+msgid "pc_logout_toast_250825"
+msgstr "登录过期，请重新登陆"
+
 msgid "pc_long"
 msgstr "宽"
 
@@ -24678,6 +26558,9 @@ msgstr "开通会员无限使用"
 msgid "pc_m10n_paywall_enhance_quality_desc"
 msgstr "助你一键转换高清视频，让你的视频更清晰"
 
+msgid "pc_m10n_paywall_enhance_quality_desc_pad"
+msgstr "助你一键转换高清视频，让你的视频更清晰"
+
 msgid "pc_m10n_paywall_enhance_quality_title"
 msgstr "开通会员即刻享用超清画质功能。"
 
@@ -24686,6 +26569,18 @@ msgstr "助你精准提取人声，背景音自由处理"
 
 msgid "pc_m10n_paywall_isolate_voice_title"
 msgstr "开通会员即刻享用人声分离功能。"
+
+msgid "pc_m10n_paywall_paid_feature_animation_stock"
+msgstr "视频动画库"
+
+msgid "pc_m10n_paywall_paid_feature_effect_stock"
+msgstr "画面特效库"
+
+msgid "pc_m10n_paywall_paid_feature_text_animation_stock"
+msgstr "文字动画库"
+
+msgid "pc_m10n_paywall_paid_feature_transition_stock"
+msgstr "转场效果库"
 
 msgid "pc_m10n_paywall_reduce_noise_desc"
 msgstr "助你消除环境噪音，让你的声音更清晰"
@@ -24717,6 +26612,9 @@ msgstr "智能识别字幕，轻松添加文本"
 msgid "pc_m10n_player_desc_enhance_quality"
 msgstr "一键转换高清视频，让你的视频更清晰"
 
+msgid "pc_m10n_player_desc_enhance_quality_pad"
+msgstr "一键转换高清视频，让你的视频更清晰"
+
 msgid "pc_m10n_player_desc_isolate_voice"
 msgstr "精准提取人声，背景音自由处理"
 
@@ -24733,6 +26631,9 @@ msgid "pc_m10n_player_status_before"
 msgstr "使用前"
 
 msgid "pc_m10n_player_tooltip"
+msgstr "点击play或者space空格键，即可播放视频查看对比效果"
+
+msgid "pc_m10n_player_tooltip_pad"
 msgstr "点击play或者space空格键，即可播放视频查看对比效果"
 
 msgid "pc_m10n_pro_benefit_all_platforms"
@@ -24951,7 +26852,7 @@ msgid "pc_m10n_teams_expired_toast_btn"
 msgstr "激活空间云容量"
 
 msgid "pc_m10n_teams_expired_toast_desc"
-msgstr "teams订阅已过期，空间owner需订阅capcut teams激活该空间"
+msgstr "teams订阅已过期，空间owner需订阅CapCut teams激活该空间"
 
 msgid "pc_m10n_teams_invite_failed_desc"
 msgstr "您的团队存在异常，暂无法邀请成员。如有疑问，请在首页-帮助-反馈处进行反馈"
@@ -25064,8 +26965,20 @@ msgstr "{num}TB"
 msgid "pc_m10n_teams_space_toast_network_error"
 msgstr "网络错误，请检查后{retry}"
 
+msgid "pc_m10n_teams_space_toast_network_error_pad"
+msgstr "网络错误，请检查后{retry}"
+
 msgid "pc_m10n_teams_switch_pro_empty_state_desc"
 msgstr "暂未订阅pro自动续费商品"
+
+msgid "pc_m10n_tooltip_new_stock_free_uses"
+msgstr "%1全新升级，已为您赠送试用次数，立即使用并导出"
+
+msgid "pc_m10n_tooltip_new_stock_non_subscribers"
+msgstr "%1全新升级，解锁会员后，将可使用相关素材制作视频并导出"
+
+msgid "pc_m10n_tooltip_new_stock_pro_users"
+msgstr "%1全新升级，您将可以使用相关素材制作视频并导出"
 
 msgid "pc_m10n_ultra_hd_conflict_toast"
 msgstr "无法处理，当前画质已经最高或者格式不支持"
@@ -25083,6 +26996,9 @@ msgid "pc_m10n_using_pro_feature_btn_join_pro"
 msgstr "立即订阅"
 
 msgid "pc_m10n_using_pro_feature_desc_"
+msgstr "会员可一键识别并删除停顿部分和语气"
+
+msgid "pc_m10n_using_pro_feature_desc__pad"
 msgstr "会员可一键识别并删除停顿部分和语气"
 
 msgid "pc_m10n_using_pro_feature_desc_used_all"
@@ -25267,11 +27183,32 @@ msgstr "蒙版"
 msgid "pc_mask_heart"
 msgstr "爱心"
 
+msgid "pc_mask_none"
+msgstr "没有抠像任务时不支持反转"
+
+msgid "pc_mask_outline"
+msgstr "蒙版描边"
+
 msgid "pc_mask_pen"
 msgstr "钢笔"
 
+msgid "pc_mask_shadow"
+msgstr "蒙版阴影"
+
 msgid "pc_mask_star"
 msgstr "星形"
+
+msgid "pc_mask_stroke_guide"
+msgstr "可以设置蒙版描边和阴影了,向下滚动试试效果"
+
+msgid "pc_mask_stroke_guide_close"
+msgstr "去添加"
+
+msgid "pc_mask_stroke_horizontal_offset"
+msgstr "水平偏移"
+
+msgid "pc_mask_stroke_vertical_offset"
+msgstr "垂直偏移"
 
 msgid "pc_mask_text"
 msgstr "文本"
@@ -25402,6 +27339,9 @@ msgstr "素材加载失败"
 msgid "pc_material_local_quick"
 msgstr "将外接硬盘或局域网共享盘中的素材迁移到本地，导出速度更快"
 
+msgid "pc_material_mark_tag_delete_all"
+msgstr "删除此素材所有标记"
+
 msgid "pc_material_match"
 msgstr "智能匹配素材"
 
@@ -25432,6 +27372,9 @@ msgstr "根据选中素材创建文件夹"
 msgid "pc_material_release_agreement"
 msgstr "发布即代表同意剪映《创作者服务协议》"
 
+msgid "pc_material_release_agreement_pad"
+msgstr "发布即代表同意剪映《创作者服务协议》"
+
 msgid "pc_material_release_apply_all"
 msgstr "应用到全部"
 
@@ -25445,6 +27388,9 @@ msgid "pc_material_release_cancel_confirm"
 msgstr "确定取消发布"
 
 msgid "pc_material_release_click"
+msgstr "点击或拖拽文件至此区域"
+
+msgid "pc_material_release_click_pad"
 msgstr "点击或拖拽文件至此区域"
 
 msgid "pc_material_release_delete"
@@ -25829,6 +27775,9 @@ msgstr "导入"
 msgid "pc_media_link_lost"
 msgstr "有媒体链接丢失，可右键重设媒体链接"
 
+msgid "pc_media_link_lost_pad"
+msgstr "有媒体链接丢失，可右键重设媒体链接"
+
 msgid "pc_media_links_from_directory_lost"
 msgstr "来源于%1 的媒体链接丢失，请插入对应存储设备"
 
@@ -26030,6 +27979,9 @@ msgstr "混合模式"
 msgid "pc_mob_adaptation_music_processing_edit_unavailable"
 msgstr "正在改词翻唱处理中..."
 
+msgid "pc_mob_trial_times_icon"
+msgstr "%1 次使用/月"
+
 msgid "pc_mobile_next"
 msgstr "下一个"
 
@@ -26043,10 +27995,10 @@ msgid "pc_mode"
 msgstr "类型"
 
 msgid "pc_model_g_four"
-msgstr "视频G4.0"
+msgstr "RunwayGen4"
 
 msgid "pc_model_g_four_info"
-msgstr "画面运动稳定，真实感表现更好。Powered by Runway"
+msgstr "画面运动稳定，真实感表现更好。"
 
 msgid "pc_model_seaweed"
 msgstr "Seaweed v1.0"
@@ -26059,6 +28011,12 @@ msgstr "Seaweed v1.0 Pro"
 
 msgid "pc_model_seaweed_pro_info"
 msgstr "画面运动自然流畅，整体画质高，写实风格表现好"
+
+msgid "pc_model_veo_3"
+msgstr "Veo 3"
+
+msgid "pc_model_veo_3_info"
+msgstr "支持声音生成。"
 
 msgid "pc_modify"
 msgstr "修改"
@@ -26093,10 +28051,16 @@ msgstr "更多会员素材可以在剪辑台查看"
 msgid "pc_mosaic_add"
 msgstr "点击人脸框添加效果"
 
+msgid "pc_mosaic_add_pad"
+msgstr "点击人脸框添加效果"
+
 msgid "pc_mosaic_application_max"
 msgstr "最多仅支持%1个人脸应用效果"
 
 msgid "pc_mosaic_remove"
+msgstr "点击效果区域移除效果"
+
+msgid "pc_mosaic_remove_pad"
 msgstr "点击效果区域移除效果"
 
 msgid "pc_mosaic_save"
@@ -26312,6 +28276,9 @@ msgstr "多机位片段新建成功"
 msgid "pc_multi_camera_some_clips"
 msgstr "部分片段对齐失败，请双击进入多机位片段手动对齐"
 
+msgid "pc_multi_camera_some_clips_pad"
+msgstr "部分片段对齐失败，请双击进入多机位片段手动对齐"
+
 msgid "pc_multi_camera_sound"
 msgstr "声音"
 
@@ -26328,6 +28295,9 @@ msgid "pc_multi_camera_turn_to_video"
 msgstr "预合成多机位片段"
 
 msgid "pc_multi_camera_turn_to_video_toast"
+msgstr "多机位切换能力已停用，可通过“启用多机位”恢复"
+
+msgid "pc_multi_camera_turn_to_video_toast_pad"
 msgstr "多机位切换能力已停用，可通过“启用多机位”恢复"
 
 msgid "pc_multi_camera_turn_to_video_warning"
@@ -26386,7 +28356,7 @@ msgid "pc_music_commercial_a_n"
 msgstr "商用声音，具体包括商用音乐、商用音色，集合了全球几十万种声音，风格多样，流派多样。除非另有商用许可平台的特别说明，剪映提供所有商用声音可满足用户在剪映和抖音平台上进行商业使用，省去了用户自行获取音乐版权方许可的冗长过程。"
 
 msgid "pc_music_commercial_agreement"
-msgstr "Capcut Materials License Agreement"
+msgstr "CapCut Materials License Agreement"
 
 msgid "pc_music_commercial_elsewhere_a"
 msgstr "Please note that CapCut has not cleared this music to use for commercial purposes. If you choose to use original music in your organic or commercial content, consult your legal team to ensure you have obtained a proper license."
@@ -26433,7 +28403,7 @@ msgstr "Terms of Commercial Music"
 
 msgid "pc_music_commercial_use_a"
 msgstr ""
-"Commercial Music is available in the Capcut Sounds library for all users.\n"
+"Commercial Music is available in the CapCut Sounds library for all users.\n"
 "You're pre-cleared to use Commercial Sounds from the library in your ads videos in CapCut and TikTok."
 
 msgid "pc_music_commercial_use_q"
@@ -26467,10 +28437,19 @@ msgid "pc_music_term_title"
 msgstr "商用声音使用条款"
 
 msgid "pc_music_tt_cc"
-msgstr "仅TikTok&CapCut"
+msgstr "仅 TikTok&CapCut"
 
 msgid "pc_music_tt_cc_commercial"
-msgstr "仅TikTok&CapCut可商用"
+msgstr "仅 TikTok&CapCut 可商用"
+
+msgid "pc_musical_modulation_cents"
+msgstr "音分"
+
+msgid "pc_musical_modulation_pitch_shift"
+msgstr "变调"
+
+msgid "pc_musical_modulation_semitones"
+msgstr "半音"
 
 msgid "pc_mutable_material_empty_cant_post"
 msgstr "没有可替换素材不可以发布为模板"
@@ -26522,6 +28501,36 @@ msgstr "*该名称已存在"
 
 msgid "pc_name_sensitive_word"
 msgstr "名称包含敏感词，请修改后上传"
+
+msgid "pc_native_cannot_upload"
+msgstr "上传失败"
+
+msgid "pc_native_cannot_upload_retry_toast"
+msgstr "视频上传失败，点击下方按钮重试。"
+
+msgid "pc_native_confirm_cancel_upload"
+msgstr "确定后将取消上传，视频不会被分享到%1中。"
+
+msgid "pc_native_export_completed"
+msgstr "导出成功，让更多人看到你的作品吧!"
+
+msgid "pc_native_finish_upload"
+msgstr "上传完成后，你可以在抖音发布页中登录抖音账号，编辑作品描述、标签等信息后发布。"
+
+msgid "pc_native_finish_upload_add_desc"
+msgstr "上传完成后，你可以在即梦登录和剪映一致的账号，在短片发布页中编辑作品描述、标签等信息后发布"
+
+msgid "pc_native_project"
+msgstr "查看草稿"
+
+msgid "pc_native_publish_desc"
+msgstr "点击下方的“发布”按钮后，将打开抖音发布平台，你可以在新窗口中登录抖音帐号、完成发布操作。"
+
+msgid "pc_native_upload_details"
+msgstr "上传详情: %1/%2"
+
+msgid "pc_native_uploading"
+msgstr "正在上传文件"
 
 msgid "pc_near_far"
 msgstr "近-远"
@@ -26619,6 +28628,9 @@ msgstr "比例"
 msgid "pc_new_audio_agreeement"
 msgstr "登录即同意用户协议和《“CapCut”隐私协议，请仔细阅读。政策》"
 
+msgid "pc_new_audio_agreeement_pad"
+msgstr "登录即同意用户协议和《“CapCut”隐私协议，请仔细阅读。政策》"
+
 msgid "pc_new_audio_extract"
 msgstr "音频提取"
 
@@ -26635,7 +28647,7 @@ msgid "pc_new_audio_reduce_noise"
 msgstr "音频降噪"
 
 msgid "pc_new_audio_tt_account"
-msgstr "链接到TikTok账户，享受更多TikTok相关功能"
+msgstr "链接到 TikTok 账户，享受更多 TikTok 相关功能"
 
 msgid "pc_new_audio_tt_link"
 msgstr "绑定TT账号"
@@ -26695,13 +28707,13 @@ msgid "pc_new_copy_project"
 msgstr "复制至草稿"
 
 msgid "pc_new_copyright_check"
-msgstr "TikTok音乐版权检查"
+msgstr "TikTok 音乐版权检查"
 
 msgid "pc_new_copyright_commercial"
-msgstr "建议投稿TikTok之前，对视频中的音乐进行版权检查，避免视频侵犯版权，投稿后被静音。"
+msgstr "建议投稿 TikTok 之前，对视频中的音乐进行版权检查，避免视频侵犯版权，投稿后被静音。"
 
 msgid "pc_new_copyright_running"
-msgstr "TikTok音乐版权校验中%1%"
+msgstr "TikTok 音乐版权校验中%1%"
 
 msgid "pc_new_create_new_project"
 msgstr "开始创作"
@@ -27224,6 +29236,9 @@ msgstr "注意"
 msgid "pc_num"
 msgstr "数量"
 
+msgid "pc_num_free_use"
+msgstr "限免 %1 次"
+
 msgid "pc_nv_setting_tips_context_launch"
 msgstr "检测到显卡设置不符合CapCut要求，为保证更好的播放体验，建议优化显卡设置，避免造成黑屏、花屏等问题。"
 
@@ -27351,6 +29366,27 @@ msgstr "开启后，用户导入模板的视频将保留原声"
 msgid "pc_open_linkage"
 msgstr "打开联动"
 
+msgid "pc_open_project_future_update_btn"
+msgstr "知道了"
+
+msgid "pc_open_project_future_update_info"
+msgstr "检测到草稿版本较新，电脑端暂无法打开使用，需等待新版本上线后升级打开。新版本即将上线，感谢耐心等待。"
+
+msgid "pc_open_project_future_update_title"
+msgstr "电脑端暂无法打开该草稿"
+
+msgid "pc_open_project_update_btn"
+msgstr "去升级"
+
+msgid "pc_open_project_update_cancel_btn"
+msgstr "取消"
+
+msgid "pc_open_project_update_info"
+msgstr "检测到草稿版本较新，需要升级软件至%1或以上版本以打开草稿，是否升级？"
+
+msgid "pc_open_project_update_title"
+msgstr "软件版本需要升级"
+
 msgid "pc_open_team_expansion_invite"
 msgstr "您可以开通团队版，扩充小组人数后，再进行组员邀请"
 
@@ -27407,6 +29443,15 @@ msgstr "或粘贴抖音/西瓜视频链接"
 
 msgid "pc_order_has_been_generated"
 msgstr "订单已生成，"
+
+msgid "pc_organize_tracks"
+msgstr "整理轨道"
+
+msgid "pc_organize_tracks_status_failed"
+msgstr "无整理空间"
+
+msgid "pc_organize_tracks_status_success"
+msgstr "整理完成"
 
 msgid "pc_organizer_agreement_desc"
 msgstr "为了获得优质的效果，素材将被上传至服务端处理。"
@@ -27544,7 +29589,10 @@ msgid "pc_organizer_select_media_group_all"
 msgstr "全部分类"
 
 msgid "pc_organizer_select_media_info"
-msgstr "详细描述"
+msgstr "请选择要分类的素材，或选择“全部分类”"
+
+msgid "pc_organizer_select_media_info_pad"
+msgstr "请选择要分类的素材，或选择“全部分类”"
 
 msgid "pc_organizer_select_media_title"
 msgstr "请选择要分类的素材"
@@ -27581,6 +29629,15 @@ msgstr "原始"
 
 msgid "pc_original_resolution_default_explanation"
 msgstr "以草稿尺寸（%1×%2）导出，可前往「草稿参数」修改"
+
+msgid "pc_original_resolution_fixed"
+msgstr "固定为 1080P"
+
+msgid "pc_original_resolution_same_as_material"
+msgstr "与轨道首个素材相同，最低 1080P"
+
+msgid "pc_original_resolution_settings"
+msgstr "默认分辨率"
 
 msgid "pc_original_voice_in_ai_change_voice"
 msgstr "原音色"
@@ -28026,6 +30083,9 @@ msgstr "为确保修改的音频为您本人的声音，请先进行声音验证
 msgid "pc_overdub_selected_parts"
 msgstr "圈选需要修改的部分，点击「改口误」，在文本框输入修正文案，即可实现音视频同步修正。"
 
+msgid "pc_overdub_selected_parts_pad"
+msgstr "圈选需要修改的部分，点击「改口误」，在文本框输入修正文案，即可实现音视频同步修正。"
+
 msgid "pc_overdub_sound_going_complete"
 msgstr "声音比对即将完成，取消会导致录音音频丢失，确认取消吗？"
 
@@ -28128,6 +30188,24 @@ msgstr "安装包文件异常，请重新安装"
 msgid "pc_package_verify_error_tip"
 msgstr "验证出错"
 
+msgid "pc_pad_app_unavailable_btn"
+msgstr "知道了"
+
+msgid "pc_pad_app_unavailable_info"
+msgstr "CapCut Pad 目前尚未在你所在的国家/地区提供服务。敬请期待！"
+
+msgid "pc_pad_app_unavailable_title"
+msgstr "暂未支持"
+
+msgid "pc_pad_update_app_btn"
+msgstr "立即更新"
+
+msgid "pc_pad_update_app_info"
+msgstr "CapCut Pad 已支持你所在的国家/地区，快去更新最新版吧。"
+
+msgid "pc_pad_update_app_title"
+msgstr "更新版本"
+
 msgid "pc_paid_unlock_content"
 msgstr "付费解锁收益：该功能带来的收入均归创作人所有，剪映平台不进行任何抽成，但实际收益会按国家规定扣除渠道费用、税费和支付手续费。由于不同操作系统的渠道费用不一致，所以在不同的操作系统支付，可获得的收益可能出现差异。"
 
@@ -28150,7 +30228,7 @@ msgid "pc_password_copied_successfully"
 msgstr "口令复制成功"
 
 msgid "pc_past_music_tt"
-msgstr "粘贴TikTok 分享的视频/音乐链接"
+msgstr "粘贴 TikTok 分享的视频/音乐链接"
 
 msgid "pc_paste"
 msgstr "粘贴"
@@ -28690,7 +30768,7 @@ msgid "pc_post_as_template"
 msgstr "发布为模板"
 
 msgid "pc_post_aspect_ratio_title"
-msgstr "调整适配 Tiktok 的比例"
+msgstr "调整适配 TikTok 的比例"
 
 msgid "pc_post_description_title"
 msgstr "视频描述"
@@ -28756,7 +30834,7 @@ msgid "pc_post_too_long_error"
 msgstr "最长 150 个字"
 
 msgid "pc_post_tt_hashtags_error_toast"
-msgstr "暂无标签， 请登录TikTok查看"
+msgstr "暂无标签， 请登录 TikTok 查看"
 
 msgid "pc_post_tt_note"
 msgstr "视频最大支持 %1 分钟，或 %2GB"
@@ -28771,10 +30849,10 @@ msgid "pc_post_tt_preview_nickname"
 msgstr "用户名称"
 
 msgid "pc_post_tt_preview_off_hovertip"
-msgstr "TikTok预览效果关闭"
+msgstr "TikTok 预览效果关闭"
 
 msgid "pc_post_tt_preview_on_hovertip"
-msgstr "TikTok预览效果打开"
+msgstr "TikTok 预览效果打开"
 
 msgid "pc_post_tt_preview_tooltip"
 msgstr "正在展示TikTok 内预览效果"
@@ -28839,10 +30917,16 @@ msgstr "预设移动中"
 msgid "pc_preset_learning_content_1"
 msgstr "如果你经常用到某些片段，你可以将其保存为「个人预设」：框选这些片段，右键菜单选择「保存为我的预设」。"
 
+msgid "pc_preset_learning_content_1_pad"
+msgstr "如果你经常用到某些片段，你可以将其保存为「个人预设」：框选这些片段，右键菜单选择「保存为我的预设」。"
+
 msgid "pc_preset_learning_content_2"
 msgstr "保存的预设可以在「素材」-「个人预设」面板找到。"
 
 msgid "pc_preset_learning_content_3"
+msgstr "预设添加到时间线后会以复合片段形式存在，你可以通过以下方式修改复合片段内容：1、双击进入复合片段内部进行修改。2、右键复合片段「解除复合片段预设」将其还原为零散的片段。"
+
+msgid "pc_preset_learning_content_3_pad"
 msgstr "预设添加到时间线后会以复合片段形式存在，你可以通过以下方式修改复合片段内容：1、双击进入复合片段内部进行修改。2、右键复合片段「解除复合片段预设」将其还原为零散的片段。"
 
 msgid "pc_preset_learning_content_4"
@@ -28887,6 +30971,9 @@ msgstr "已保存至“个人预设”，你可以在“媒体”中找到"
 msgid "pc_preset_toast_first_use"
 msgstr "右键“解除复合片段”可打散预设片段"
 
+msgid "pc_preset_toast_first_use_pad"
+msgstr "右键“解除复合片段”可打散预设片段"
+
 msgid "pc_preview"
 msgstr "预览"
 
@@ -28929,7 +31016,13 @@ msgstr "点击“同意并继续”按钮代表您已阅读并同意CapCut的<a 
 msgid "pc_privacy_click_agree_cn"
 msgstr "点击“同意并继续”按钮代表您已阅读并同意剪映专业版的<a style='text-decoration:none;color:#00c1cd' href='termsOfService'>服务协议</a>和<a style='text-decoration:none;color:#00c1cd' href='privacyPolicy'>隐私政策</a>"
 
+msgid "pc_privacy_click_agree_pad"
+msgstr "点击“同意并继续”按钮代表您已阅读并同意CapCut的<a style='text-decoration:none;color:#00c1cd' href='termsOfService'>服务协议</a>和<a style='text-decoration:none;color:#00c1cd' href='privacyPolicy'>隐私政策</a>"
+
 msgid "pc_privacy_content"
+msgstr "<p>我们正在更新自2023年10月15日起生效的隐私政策，以包含以下更多信息：<br />• 我们收集的信息，例如，当您将账户与其他平台同步时；<br />• 我们如何使用您的信息；和<br />• 我们在哪里存储以及我们如何传输您的信息<br />点击<a href='{0}'>这里</a>查看我们更新的隐私政策</p>"
+
+msgid "pc_privacy_content_pad"
 msgstr "<p>我们正在更新自2023年10月15日起生效的隐私政策，以包含以下更多信息：<br />• 我们收集的信息，例如，当您将账户与其他平台同步时；<br />• 我们如何使用您的信息；和<br />• 我们在哪里存储以及我们如何传输您的信息<br />点击<a href='{0}'>这里</a>查看我们更新的隐私政策</p>"
 
 msgid "pc_privacy_disagree_quit"
@@ -29023,7 +31116,7 @@ msgid "pc_projects_toast_project_name_requirement"
 msgstr "草稿名称不能以“.”结尾"
 
 msgid "pc_promote_agreement_brand"
-msgstr "上传内容，您确认您的内容将发布到TikTok，并且您同意遵守TikTok的%1和%2。"
+msgstr "上传内容，您确认您的内容将发布到 TikTok，并且您同意遵守 TikTok 的%1和%2。"
 
 msgid "pc_promote_agreement_brand_placeholder1"
 msgstr "品牌内容政策"
@@ -29032,7 +31125,7 @@ msgid "pc_promote_agreement_brand_placeholder2"
 msgstr "音乐使用权确认"
 
 msgid "pc_promote_agreement_music"
-msgstr "上传内容，您确认您的内容将发布到TikTok，并且您同意遵守TikTok的%1。"
+msgstr "上传内容，您确认您的内容将发布到 TikTok，并且您同意遵守 TikTok 的%1。"
 
 msgid "pc_promote_agreement_music_placeholder"
 msgstr "音乐使用权确认"
@@ -29613,23 +31706,515 @@ msgstr "识别字幕"
 msgid "pc_recognize_vocal_in_audio_tips"
 msgstr "识别音轨中的人声，并自动在时间轴上生成字幕文本。目前仅支持国语。"
 
+msgid "pc_recommend_all_good"
+msgstr "草稿效果已不错，继续创作后再来检测吧"
+
+msgid "pc_recommend_analysis_complete"
+msgstr "智能推荐已完成"
+
+msgid "pc_recommend_analysis_complete_info"
+msgstr "草稿已检测和推荐完成，发现提升点"
+
+msgid "pc_recommend_analysis_complete_title"
+msgstr "分析完成"
+
+msgid "pc_recommend_analysis_complete_view_btn"
+msgstr "去查看"
+
+msgid "pc_recommend_analysis_compliance_popup_allow_cta"
+msgstr "同意"
+
+msgid "pc_recommend_analysis_compliance_popup_cancel_cta"
+msgstr "取消"
+
+msgid "pc_recommend_analysis_compliance_popup_desc"
+msgstr "CapCut将在本地分析你的项目，并给你提供智能建议。你的草稿数据不会上传到云端服务器上。"
+
+msgid "pc_recommend_analysis_compliance_popup_title"
+msgstr "允许CapCut分析你的草稿？"
+
+msgid "pc_recommend_analysis_global_actions"
+msgstr "全局操作"
+
+msgid "pc_recommend_analysis_last_time"
+msgstr "最后检测：%1"
+
+msgid "pc_recommend_analyze_again"
+msgstr "重新推荐"
+
+msgid "pc_recommend_analyze_again_title"
+msgstr "草稿有更新，建议重新检测"
+
+msgid "pc_recommend_analyze_check_audio"
+msgstr "检查你的音频"
+
+msgid "pc_recommend_analyze_check_video"
+msgstr "检测你的视频"
+
+msgid "pc_recommend_analyze_checked_audio"
+msgstr "音频检测完成"
+
+msgid "pc_recommend_analyze_checked_audio_info"
+msgstr "已检查完：音频片段是否存在响度不一致、噪音、人声模糊等问题。\n"
+
+msgid "pc_recommend_analyze_checked_video"
+msgstr "视频检测完成"
+
+msgid "pc_recommend_analyze_checked_video_info"
+msgstr "已检测完：视频片段是否存在频闪、清晰度、抖动、丢帧等问题。"
+
+msgid "pc_recommend_analyze_checking_audio"
+msgstr "检测音频中"
+
+msgid "pc_recommend_analyze_checking_audio_info"
+msgstr "判断音频片段是否存在响度不一致、噪音、人声模糊等问题。"
+
+msgid "pc_recommend_analyze_checking_video"
+msgstr "检测视频中"
+
+msgid "pc_recommend_analyze_checking_video_info"
+msgstr "判断视频片段是否存在频闪、清晰度、抖动、丢帧等问题。"
+
+msgid "pc_recommend_analyze_stop"
+msgstr "停止"
+
+msgid "pc_recommend_analyze_stop_btn"
+msgstr "确定"
+
+msgid "pc_recommend_analyze_stop_cancel"
+msgstr "取消"
+
+msgid "pc_recommend_analyze_stop_info"
+msgstr "马上要帮你发现能提升草稿效果的地方了，确定要取消检测吗？"
+
+msgid "pc_recommend_analyze_stop_title"
+msgstr "取消检测？"
+
+msgid "pc_recommend_analyze_suggest"
+msgstr "推荐以下方式提升效果"
+
+msgid "pc_recommend_analyze_suggested"
+msgstr "已给出对应建议"
+
+msgid "pc_recommend_analyze_suggesting"
+msgstr "正在提供效果建议"
+
+msgid "pc_recommend_analyzing_project"
+msgstr "智能检测项目 ...%1%"
+
+msgid "pc_recommend_apply_again"
+msgstr "重新应用"
+
+msgid "pc_recommend_apply_to_all"
+msgstr "全局应用"
+
+msgid "pc_recommend_auto_adjust"
+msgstr "让色彩更美观"
+
+msgid "pc_recommend_auto_adjust_hovertip"
+msgstr "一键让整个项目色彩表现更美观"
+
+msgid "pc_recommend_auto_adjust_hovertip_pad"
+msgstr "一键让整个项目色彩表现更美观"
+
+msgid "pc_recommend_auto_adjust_scenes"
+msgstr "部分画面可更好"
+
+msgid "pc_recommend_auto_retouch_tip"
+msgstr "你可以在此处进行更多调整"
+
+msgid "pc_recommend_avatar"
+msgstr "通过数字人生动讲述"
+
+msgid "pc_recommend_avatar_hovertip"
+msgstr "通过数字人生动讲述视频故事"
+
+msgid "pc_recommend_avatar_tip"
+msgstr "可在此处调整数字人"
+
 msgid "pc_recommend_beauty"
 msgstr "试试一键变美"
+
+msgid "pc_recommend_beauty_pad"
+msgstr "试试一键变美"
+
+msgid "pc_recommend_captions"
+msgstr "添加字幕效果"
+
+msgid "pc_recommend_captions_change_style_tip"
+msgstr "可在此处调整字幕样式或模版"
+
+msgid "pc_recommend_captions_hovertip"
+msgstr "一键添加吸引人的字幕，提升视频节奏感"
+
+msgid "pc_recommend_change_captions_style_tip"
+msgstr "可在此处调整字幕样式或模版"
+
+msgid "pc_recommend_change_reference_image"
+msgstr "修改参考图"
+
+msgid "pc_recommend_check_out_ways"
+msgstr "根据分析结果，推荐以下方式或许可以帮你提升整体效果。"
+
+msgid "pc_recommend_clip_deleted_toast"
+msgstr "此片段已删除"
+
+msgid "pc_recommend_color_match"
+msgstr "让色彩更一致"
+
+msgid "pc_recommend_color_match_hovertip"
+msgstr "一键让整个项目色彩效果更一致"
+
+msgid "pc_recommend_color_match_hovertip_pad"
+msgstr "一键让整个项目色彩效果更一致"
 
 msgid "pc_recommend_coloring"
 msgstr "一键get专业调色"
 
+msgid "pc_recommend_coloring_pad"
+msgstr "一键get专业调色"
+
+msgid "pc_recommend_cta"
+msgstr "开始分析"
+
+msgid "pc_recommend_dividing_line"
+msgstr "可能你还需要"
+
+msgid "pc_recommend_enhance_quality_hovertip"
+msgstr "一键让整个项目视频清晰"
+
+msgid "pc_recommend_enhance_quality_hovertip_pad"
+msgstr "一键让整个项目视频清晰"
+
+msgid "pc_recommend_enhance_quality_scenes"
+msgstr "部分画面可更好"
+
+msgid "pc_recommend_enhance_voice"
+msgstr "全局人声更清晰"
+
+msgid "pc_recommend_enhance_voice_hovertip"
+msgstr "一键让整个项目人声更清晰"
+
+msgid "pc_recommend_enhance_voice_hovertip_pad"
+msgstr "一键让整个项目人声更清晰"
+
+msgid "pc_recommend_enhance_voice_progress"
+msgstr "正在让人声更清晰...%1%"
+
+msgid "pc_recommend_express_better"
+msgstr "表述更好"
+
+msgid "pc_recommend_eye"
+msgstr "让眼睛聚焦镜头更专注"
+
+msgid "pc_recommend_eye_applying"
+msgstr "已选择对应功能，正在应用中..."
+
+msgid "pc_recommend_eye_contact"
+msgstr "眼神聚焦"
+
+msgid "pc_recommend_eye_contact_hovertip"
+msgstr "让眼睛聚焦镜头，视频更有代入感"
+
+msgid "pc_recommend_eye_detected"
+msgstr "已确认需要调整的片段"
+
+msgid "pc_recommend_eye_detecting"
+msgstr "正在确认需要调整的片段"
+
+msgid "pc_recommend_eye_progress"
+msgstr "正在让眼神聚焦屏幕...%1%"
+
+msgid "pc_recommend_feature_name"
+msgstr "智能建议"
+
+msgid "pc_recommend_feature_name_n"
+msgstr "智能建议"
+
+msgid "pc_recommend_global_tools"
+msgstr "全局操作"
+
+msgid "pc_recommend_hide_analysis"
+msgstr "收起"
+
+msgid "pc_recommend_look_better"
+msgstr "看起来更好"
+
+msgid "pc_recommend_loudness_normalization_hovertip"
+msgstr "一键让整个项目音频响度更统一"
+
+msgid "pc_recommend_loudness_normalization_hovertip_pad"
+msgstr "一键让整个项目音频响度更统一"
+
 msgid "pc_recommend_movement"
 msgstr "一键应用大师级运镜"
+
+msgid "pc_recommend_new_clips_added"
+msgstr "部分片段发生变化，重新应用"
+
+msgid "pc_recommend_new_clips_added_apply"
+msgstr "应用"
+
+msgid "pc_recommend_project"
+msgstr "项目"
+
+msgid "pc_recommend_quality"
+msgstr "让视频更清晰"
+
+msgid "pc_recommend_quality_checked"
+msgstr "已确认完：不同画面频闪、清晰度、抖动、丢帧等问题"
+
+msgid "pc_recommend_quality_checking"
+msgstr "正在确认不同画面频闪、清晰度、抖动、丢帧等问题"
+
+msgid "pc_recommend_quality_detecting"
+msgstr "智能选择运用不同能力"
+
+msgid "pc_recommend_quality_enhance"
+msgstr "超清画质"
+
+msgid "pc_recommend_quality_flicker"
+msgstr "去频闪"
+
+msgid "pc_recommend_quality_optical_flow"
+msgstr "补帧"
+
+msgid "pc_recommend_quality_progress"
+msgstr "正在让视频更清晰...%1%"
+
+msgid "pc_recommend_quality_reduce_noise"
+msgstr "降噪"
+
+msgid "pc_recommend_quality_stabilize"
+msgstr "防抖"
+
+msgid "pc_recommend_regenerate_captions_desc"
+msgstr "将删除现有字幕，并使用相同的字幕样式或模版帮你重新草稿内全部字幕。"
+
+msgid "pc_recommend_regenerate_captions_primary_cta"
+msgstr "生成"
+
+msgid "pc_recommend_regenerate_captions_secondary_cta"
+msgstr "取消"
+
+msgid "pc_recommend_regenerate_captions_title"
+msgstr "重新生成字幕？"
+
+msgid "pc_recommend_retouch"
+msgstr "让人物更出众"
+
+msgid "pc_recommend_retouch_hovertip"
+msgstr "一键让项目中的人脸表现更初出众"
+
+msgid "pc_recommend_retouch_hovertip_pad"
+msgstr "一键让项目中的人脸表现更初出众"
+
+msgid "pc_recommend_retouch_scenes"
+msgstr "部分画面可更好"
+
+msgid "pc_recommend_show_analysis"
+msgstr "展开"
+
+msgid "pc_recommend_show_less_details"
+msgstr "收起"
+
+msgid "pc_recommend_show_more_details"
+msgstr "更多"
+
+msgid "pc_recommend_sound_better"
+msgstr "听起来更好"
+
+msgid "pc_recommend_style_captions"
+msgstr "优化字幕效果"
+
+msgid "pc_recommend_style_captions_hovertip"
+msgstr "一键让字幕更有吸引力，提升视频节奏感"
+
+msgid "pc_recommend_title"
+msgstr "来了解如何优化你的项目"
+
+msgid "pc_recommend_tooltip1"
+msgstr "暂无提升空间了"
+
+msgid "pc_recommend_tooltip2"
+msgstr "部分片段无法应用，%1"
+
+msgid "pc_recommend_tooltip2_p2"
+msgstr "重试"
 
 msgid "pc_recommend_try"
 msgstr "试试"
 
+msgid "pc_recommend_unclear_clips_added"
+msgstr "新增不清晰片段，应用"
+
+msgid "pc_recommend_unclear_clips_added_apply"
+msgstr "应用"
+
+msgid "pc_recommend_undo_auto_adjust_btn"
+msgstr "确定"
+
+msgid "pc_recommend_undo_auto_adjust_cancel"
+msgstr "取消"
+
+msgid "pc_recommend_undo_auto_adjust_info"
+msgstr "取消后全局应用的色彩调节效果将取消。"
+
+msgid "pc_recommend_undo_auto_adjust_title"
+msgstr "确定取消应用吗？"
+
+msgid "pc_recommend_undo_captions_btn"
+msgstr "确定"
+
+msgid "pc_recommend_undo_captions_cancel"
+msgstr "取消"
+
+msgid "pc_recommend_undo_captions_info"
+msgstr "取消后全局应用的字幕将取消。"
+
+msgid "pc_recommend_undo_captions_style_btn"
+msgstr "确定"
+
+msgid "pc_recommend_undo_captions_style_cancel"
+msgstr "取消"
+
+msgid "pc_recommend_undo_captions_style_info"
+msgstr "取消后全局应用的字幕效果将取消。"
+
+msgid "pc_recommend_undo_captions_style_title"
+msgstr "确定取消应用吗？"
+
+msgid "pc_recommend_undo_captions_title"
+msgstr "确定取消应用吗？"
+
+msgid "pc_recommend_undo_color_match_btn"
+msgstr "确定"
+
+msgid "pc_recommend_undo_color_match_cancel"
+msgstr "取消"
+
+msgid "pc_recommend_undo_color_match_info"
+msgstr "取消后全局应用的色彩调节效果将取消。"
+
+msgid "pc_recommend_undo_color_match_title"
+msgstr "确定取消应用吗？"
+
+msgid "pc_recommend_undo_eye_btn"
+msgstr "确定"
+
+msgid "pc_recommend_undo_eye_cancel"
+msgstr "取消"
+
+msgid "pc_recommend_undo_eye_info"
+msgstr "取消后全局应用的眼神聚焦效果将取消。"
+
+msgid "pc_recommend_undo_eye_title"
+msgstr "确定取消应用吗？"
+
+msgid "pc_recommend_undo_for_all"
+msgstr "全局取消"
+
+msgid "pc_recommend_undo_quality_btn"
+msgstr "确定"
+
+msgid "pc_recommend_undo_quality_cancel"
+msgstr "取消"
+
+msgid "pc_recommend_undo_quality_info"
+msgstr "取消后全局的画质提升效果将取消。"
+
+msgid "pc_recommend_undo_quality_title"
+msgstr "确定取消应用吗？"
+
+msgid "pc_recommend_undo_retrouch_btn"
+msgstr "确定"
+
+msgid "pc_recommend_undo_retrouch_cancel"
+msgstr "取消"
+
+msgid "pc_recommend_undo_retrouch_info"
+msgstr "取消后全局应用的人物美颜效果将取消。"
+
+msgid "pc_recommend_undo_retrouch_title"
+msgstr "确定取消应用吗？"
+
+msgid "pc_recommend_undo_voice_btn"
+msgstr "确定"
+
+msgid "pc_recommend_undo_voice_cancel"
+msgstr "取消"
+
+msgid "pc_recommend_undo_voice_info"
+msgstr "取消后全局应用的人声或音频提升效果将取消。"
+
+msgid "pc_recommend_undo_voice_title"
+msgstr "确定取消应用吗？"
+
+msgid "pc_recommend_undo_volume_btn"
+msgstr "确定"
+
+msgid "pc_recommend_undo_volume_cancel"
+msgstr "取消"
+
+msgid "pc_recommend_undo_volume_info"
+msgstr "取消后全局应用的响度统一和降噪将取消。"
+
+msgid "pc_recommend_undo_volume_title"
+msgstr "确定取消应用吗？"
+
+msgid "pc_recommend_used_by_many"
+msgstr "很多人都在用"
+
+msgid "pc_recommend_view"
+msgstr "跳转使用"
+
 msgid "pc_recommend_voice"
 msgstr "试试不同的配音风格"
 
+msgid "pc_recommend_voice_choosing"
+msgstr "已智能选择运用不同能力，正在应用中..."
+
+msgid "pc_recommend_voice_detected"
+msgstr "已区分：人声、环境音和噪声等问题"
+
+msgid "pc_recommend_voice_detecting"
+msgstr "正在区分人声、环境音和噪声问题，准备增强语音清晰度…"
+
+msgid "pc_recommend_voice_enhance"
+msgstr "人声美化"
+
+msgid "pc_recommend_voice_reduce_noise"
+msgstr "降噪"
+
 msgid "pc_recommend_volume"
 msgstr "快速统一视频音量"
+
+msgid "pc_recommend_volume_choosing"
+msgstr "已智能选择运用不同能力，正在应用中..."
+
+msgid "pc_recommend_volume_consistent"
+msgstr "全局音频响度更一致"
+
+msgid "pc_recommend_volume_consistent_progress"
+msgstr "正在让响度更一致...%1%\n"
+
+msgid "pc_recommend_volume_detected"
+msgstr "已分析完成：音频响度和动态起伏，音量过高或过低等问题。"
+
+msgid "pc_recommend_volume_detecting"
+msgstr "正在分析音频响度和动态起伏，检测音量过高或过低的片段…"
+
+msgid "pc_recommend_volume_normalize_loudness"
+msgstr "响度统一"
+
+msgid "pc_recommend_volume_pad"
+msgstr "快速统一视频音量"
+
+msgid "pc_recommend_volume_reduce_noise"
+msgstr "降噪"
+
+msgid "pc_recommend_will_not_upload_to_server"
+msgstr "检测内容不会上传云端，保证你的隐私安全，请放心使用"
 
 msgid "pc_recommended_download_from_official_website"
 msgstr "建议到显卡厂商官网下载更新"
@@ -29671,10 +32256,10 @@ msgid "pc_recorder_auto_captions_info"
 msgstr "自动识别录屏字幕"
 
 msgid "pc_recorder_camera_access_info_mac"
-msgstr "请进入“系统偏好设置”>“隐私与安全性”>“摄像头”，授权“Capcut”摄像头权限"
+msgstr "请进入“系统偏好设置”>“隐私与安全性”>“摄像头”，授权“CapCut”摄像头权限"
 
 msgid "pc_recorder_camera_access_info_windows"
-msgstr "请打开系统权限设置，授权“Capcut”摄像头权限"
+msgstr "请打开系统权限设置，授权“CapCut”摄像头权限"
 
 msgid "pc_recorder_camera_access_title"
 msgstr "需要开启摄像头权限"
@@ -29692,7 +32277,7 @@ msgid "pc_recorder_cursor_off_hovertip"
 msgstr "光标已关闭"
 
 msgid "pc_recorder_dialog_header"
-msgstr "Capcut录屏提示"
+msgstr "CapCut录屏提示"
 
 msgid "pc_recorder_download_btn"
 msgstr "下载"
@@ -29709,14 +32294,17 @@ msgstr "人声增强更清晰"
 msgid "pc_recorder_media_drag_drop"
 msgstr "拖拽导入"
 
+msgid "pc_recorder_media_drag_drop_pad"
+msgstr "拖拽导入"
+
 msgid "pc_recorder_media_record"
 msgstr "录屏"
 
 msgid "pc_recorder_microphone_access_info_mac"
-msgstr "请进入“系统偏好设置”>“隐私与安全性”>“麦克风”，授权“Capcut”麦克风权限"
+msgstr "请进入“系统偏好设置”>“隐私与安全性”>“麦克风”，授权“CapCut”麦克风权限"
 
 msgid "pc_recorder_microphone_access_info_windows"
-msgstr "请打开系统权限设置，授权“Capcut”麦克风权限"
+msgstr "请打开系统权限设置，授权“CapCut”麦克风权限"
 
 msgid "pc_recorder_microphone_access_title"
 msgstr "需要开启麦克风权限"
@@ -29743,7 +32331,7 @@ msgid "pc_recorder_recording_access_info_mac"
 msgstr "请进入“系统偏好设置”>“隐私与安全性”>“录屏”，授权“CapCut”录屏权限"
 
 msgid "pc_recorder_recording_access_info_windows"
-msgstr "请打开系统权限设置，授权“Capcut”录屏权限"
+msgstr "请打开系统权限设置，授权“CapCut”录屏权限"
 
 msgid "pc_recorder_recording_access_open_btn"
 msgstr "去开启"
@@ -29767,6 +32355,9 @@ msgid "pc_recorder_retouch"
 msgstr "美颜美体"
 
 msgid "pc_recorder_retouch_info"
+msgstr "人像一键美化"
+
+msgid "pc_recorder_retouch_info_pad"
 msgstr "人像一键美化"
 
 msgid "pc_recorder_screen_recording_title"
@@ -30008,6 +32599,18 @@ msgstr "已存在同名预设"
 
 msgid "pc_remember_create_instantly"
 msgstr "何时想起，即时创作"
+
+msgid "pc_remove_aigc_watermark_popup_desc"
+msgstr "开启后，导出你创作的含 AI 生成/合成内容时将不再展示 AIGC 水印（剪映品牌贴不在此设置范围内），请遵守<a style='color:#00C1CD;text-decoration:none' href='statement'>《“剪映”AI功能使用规范 》</a>。"
+
+msgid "pc_remove_aigc_watermark_popup_primary_button"
+msgstr "我知道了"
+
+msgid "pc_remove_aigc_watermark_popup_secondary_button"
+msgstr "取消"
+
+msgid "pc_remove_aigc_watermark_popup_title"
+msgstr "去除 AIGC 水印提示"
 
 msgid "pc_remove_cannot_view"
 msgstr "将组员移出小组后，该组员将无法浏览小组云空间所有内容。"
@@ -30253,7 +32856,7 @@ msgid "pc_resetting_graphics_card_device"
 msgstr "正在重置显卡设备..."
 
 msgid "pc_resize_360p_unavailable"
-msgstr "TikTok暂不支持360p以下视频，请切换分辨率重试"
+msgstr "TikTok 暂不支持360p以下视频，请切换分辨率重试"
 
 msgid "pc_resize_apply_failed_retry"
 msgstr "处理失败，请重试"
@@ -30442,7 +33045,7 @@ msgid "pc_retouch_allow_dialog_info_two"
 msgstr "如有疑惑或感到焦虑，可查询隐私协议或提交反馈来获取更多信息。"
 
 msgid "pc_retouch_allow_dialog_title"
-msgstr "允许Capcut收集你的面部和身体信息以进行视频美化？"
+msgstr "允许CapCut收集你的面部和身体信息以进行视频美化？"
 
 msgid "pc_retouch_auto_body"
 msgstr "智能美体"
@@ -30452,6 +33055,12 @@ msgstr "美体"
 
 msgid "pc_retouch_body_auto"
 msgstr "美体"
+
+msgid "pc_retouch_body_golden_ratio"
+msgstr "黄金比例"
+
+msgid "pc_retouch_body_hourglass"
+msgstr "沙漏"
 
 msgid "pc_retouch_body_manual"
 msgstr "手动美体"
@@ -30464,6 +33073,9 @@ msgstr "瘦身瘦腿"
 
 msgid "pc_retouch_body_manual_stretch"
 msgstr "拉长"
+
+msgid "pc_retouch_body_natural"
+msgstr "自然"
 
 msgid "pc_retouch_body_not_detected"
 msgstr "当前片段画面暂未识别到人体"
@@ -30544,6 +33156,9 @@ msgid "pc_retouch_manual_brush_inside_toast"
 msgstr "仅支持在人脸框内涂抹"
 
 msgid "pc_retouch_manual_brush_toast"
+msgstr "点击或涂抹需要精修的区域"
+
+msgid "pc_retouch_manual_brush_toast_pad"
 msgstr "点击或涂抹需要精修的区域"
 
 msgid "pc_retouch_manual_eraser"
@@ -30855,6 +33470,9 @@ msgstr "扫码导入"
 msgid "pc_scanupload_tooltip_syncfail_retry"
 msgstr "导入到草稿失败，点击重试"
 
+msgid "pc_scanupload_tooltip_syncfail_retry_pad"
+msgstr "导入到草稿失败，点击重试"
+
 msgid "pc_scanupload_tooltip_syncfail_reupload"
 msgstr "导入到草稿失败，请重新上传"
 
@@ -30988,10 +33606,10 @@ msgid "pc_scene_button_video_apply"
 msgstr "申请内测"
 
 msgid "pc_scene_button_video_model_flux"
-msgstr "图片F1.0 Pro"
+msgstr "Flux 1.1 pro"
 
 msgid "pc_scene_button_video_model_flux_info"
-msgstr "图像细节、及时性、风格多样性和场景复杂性方面表现更好"
+msgstr "图像细节表现更好。"
 
 msgid "pc_scene_button_video_model_pixeldance_v10"
 msgstr "PixelDance v1.0"
@@ -31149,7 +33767,7 @@ msgid "pc_scene_image_model_quality"
 msgstr "精细度"
 
 msgid "pc_scene_ratio_fit"
-msgstr "适应画布"
+msgstr "自适应"
 
 msgid "pc_scene_tag_image_failed"
 msgstr "图片生成失败"
@@ -31545,7 +34163,13 @@ msgid "pc_seconds"
 msgstr "%1 秒"
 
 msgid "pc_seedance"
-msgstr "Seedance"
+msgstr "Seedance 1.0 mini"
+
+msgid "pc_seedance_fast"
+msgstr "Seedance 1.0 fast"
+
+msgid "pc_seedance_fast_info"
+msgstr "运动表现力更强，生成更快，效果更稳定。"
 
 msgid "pc_seedance_fl"
 msgstr "Seedance 首尾帧"
@@ -31624,6 +34248,9 @@ msgstr "已选"
 
 msgid "pc_selected_area_out_point"
 msgstr "选定区域出点"
+
+msgid "pc_selected_items"
+msgstr "选择 %1 个素材"
 
 msgid "pc_selected_regional_entry_point"
 msgstr "选定区域入点"
@@ -31813,8 +34440,23 @@ msgstr ""
 "功能升级，帮你轻松剪出美好生活～\n"
 "1.性能和体验优化"
 
+msgid "pc_settings_editing_slide_adjust_text"
+msgstr "开启后可通过滑动修改输入框内的参数"
+
+msgid "pc_settings_editing_slide_adjust_title"
+msgstr "滑动修改数值"
+
 msgid "pc_settings_import_project_tips"
 msgstr "可在启动台导入其他剪辑软件工程。"
+
+msgid "pc_settings_remove_aigc_watermark_label"
+msgstr "AIGC水印"
+
+msgid "pc_settings_remove_aigc_watermark_switch_subtext"
+msgstr "开启后，导出含 AI 生成/合成内容时将不再展示 AIGC 水印。剪映品牌贴不在此设置范围内"
+
+msgid "pc_settings_remove_aigc_watermark_switch_title"
+msgstr "导出内容去除 AIGC 水印"
 
 msgid "pc_severely_dropped_frames"
 msgstr "严重卡顿"
@@ -31873,7 +34515,13 @@ msgstr "图形库"
 msgid "pc_shape_player_custom_drawing"
 msgstr "点按以绘制图形"
 
+msgid "pc_shape_player_custom_drawing_pad"
+msgstr "点按以绘制图形"
+
 msgid "pc_shape_player_custom_preview"
+msgstr "点击“+”后开始绘制图形"
+
+msgid "pc_shape_player_custom_preview_pad"
 msgstr "点击“+”后开始绘制图形"
 
 msgid "pc_shape_player_custom_unable"
@@ -31907,6 +34555,9 @@ msgid "pc_shape_property_custom_drawing_one"
 msgstr "绘制完成后即可编辑"
 
 msgid "pc_shape_property_custom_drawing_two"
+msgstr "在预览区双击可结束绘制"
+
+msgid "pc_shape_property_custom_drawing_two_pad"
 msgstr "在预览区双击可结束绘制"
 
 msgid "pc_shape_property_fill"
@@ -32033,6 +34684,9 @@ msgid "pc_sharereview_export_for_share"
 msgstr "导出并分享"
 
 msgid "pc_sharereview_file_drag"
+msgstr "将视频文件拖放到此处"
+
+msgid "pc_sharereview_file_drag_pad"
 msgstr "将视频文件拖放到此处"
 
 msgid "pc_sharereview_link_share"
@@ -32449,6 +35103,9 @@ msgstr "是否关闭窗口"
 msgid "pc_shorts_processing_desc_new"
 msgstr "生成短视频需要一些时间，你可以点击“返回”按钮，在历史列表查看进度。"
 
+msgid "pc_shorts_processing_desc_new_pad"
+msgstr "生成短视频需要一些时间，你可以点击“返回”按钮，在历史列表查看进度。"
+
 msgid "pc_shorts_remaining_time_pop_login"
 msgstr "请登录后查看可使用的剩余时长"
 
@@ -32476,7 +35133,13 @@ msgstr "显示轨道片段"
 msgid "pc_si_effect_pic_generating"
 msgstr "AI效果图片生成中"
 
+msgid "pc_sign_in_code_failed"
+msgstr "暂不支持扫码登录，请使用其他方式登录"
+
 msgid "pc_sign_in_to_agree"
+msgstr "登录即同意"
+
+msgid "pc_sign_in_to_agree_pad"
 msgstr "登录即同意"
 
 msgid "pc_sign_rules_video_cut"
@@ -32597,10 +35260,10 @@ msgid "pc_smart_frame_cancel"
 msgstr "AI补帧已取消"
 
 msgid "pc_smart_frame_client"
-msgstr "云端"
+msgstr "本地"
 
 msgid "pc_smart_frame_cloud"
-msgstr "本地"
+msgstr "云端"
 
 msgid "pc_smart_frame_complement"
 msgstr "智能补帧"
@@ -32778,6 +35441,18 @@ msgstr "应用失败，暂不支持对模板素材应用该效果"
 
 msgid "pc_song_voice_effect_re_gen"
 msgstr "变声效果重新处理中"
+
+msgid "pc_sora_two"
+msgstr "Sora 2"
+
+msgid "pc_sora_two_info"
+msgstr "更擅长文生视频，暂不支持真人照片。"
+
+msgid "pc_sora_two_info_n"
+msgstr "更擅长文生视频，支持声音生成，多镜头切换更丰富。"
+
+msgid "pc_sora_two_toast"
+msgstr "审核不通过，请修改文字内容 或重新上传图片"
 
 msgid "pc_sort"
 msgstr "排序"
@@ -33423,10 +36098,16 @@ msgstr "已导入{X}个，至少上传{Y}个，上限是{Z}个"
 msgid "pc_sticker_release_agree_{X}_web"
 msgstr "发布即代表同意{X}"
 
+msgid "pc_sticker_release_agree_{X}_web_pad"
+msgstr "发布即代表同意{X}"
+
 msgid "pc_sticker_release_cancel"
 msgstr "确定取消发布？"
 
 msgid "pc_sticker_release_drag_web"
+msgstr "点击或将文件拖拽至本区域"
+
+msgid "pc_sticker_release_drag_web_pad"
 msgstr "点击或将文件拖拽至本区域"
 
 msgid "pc_sticker_release_failed_retry_web"
@@ -33620,6 +36301,12 @@ msgstr "点击或将文件拖拽至本区域"
 
 msgid "pc_stickers_release_drag_in_web"
 msgstr "点击导入或拖拽文件到这里"
+
+msgid "pc_stickers_release_drag_in_web_pad"
+msgstr "点击导入或拖拽文件到这里"
+
+msgid "pc_stickers_release_drag_pad"
+msgstr "点击或将文件拖拽至本区域"
 
 msgid "pc_stickers_release_edit_cover_web"
 msgstr "编辑封面\n"
@@ -33879,6 +36566,9 @@ msgstr "前往 APP 新建空间"
 msgid "pc_storage_drag_or_click"
 msgstr "当前云空间为空，拖拽文件或点击按钮进行上传"
 
+msgid "pc_storage_drag_or_click_pad"
+msgstr "当前云空间为空，拖拽文件或点击按钮进行上传"
+
 msgid "pc_storage_space"
 msgstr "存储空间："
 
@@ -33904,6 +36594,9 @@ msgid "pc_store_add"
 msgstr "批量添加至面板"
 
 msgid "pc_store_add_mine"
+msgstr "点击「+」加入我的分类"
+
+msgid "pc_store_add_mine_pad"
 msgstr "点击「+」加入我的分类"
 
 msgid "pc_store_added"
@@ -34030,7 +36723,7 @@ msgid "pc_stroke_three"
 msgstr "三层描边"
 
 msgid "pc_stroke_transparency"
-msgstr "透明度"
+msgstr "不透明度"
 
 msgid "pc_stroke_vertical_displacement"
 msgstr "垂直位移"
@@ -34358,6 +37051,9 @@ msgid "pc_subtitle_template_add_animation_mode"
 msgstr "添加动画模式"
 
 msgid "pc_subtitle_template_add_web"
+msgstr "点击添加字幕模板"
+
+msgid "pc_subtitle_template_add_web_pad"
 msgstr "点击添加字幕模板"
 
 msgid "pc_subtitle_template_allsetting"
@@ -34909,6 +37605,15 @@ msgstr "去开通"
 msgid "pc_switch_account"
 msgstr "切换账号"
 
+msgid "pc_switch_account_region_btn"
+msgstr "知道了"
+
+msgid "pc_switch_account_region_info"
+msgstr "当前Tiktok账号归属区域跟CapCut账号不同，请切换Tiktok或CapCut账号"
+
+msgid "pc_switch_account_region_title"
+msgstr "请重新切换账号"
+
 msgid "pc_switch_anti_shake_effect"
 msgstr "防抖效果已切换"
 
@@ -35237,6 +37942,18 @@ msgstr "团队版 升级成功"
 msgid "pc_team_word"
 msgstr "输入小组口令"
 
+msgid "pc_teams_discount_toast_button1_250825"
+msgstr "狠心拒绝"
+
+msgid "pc_teams_discount_toast_button2_250825"
+msgstr "立即领取"
+
+msgid "pc_teams_discount_toast_describe_250825"
+msgstr "更大云空间+更多权益+更低价格！和好友一键拼团享受！"
+
+msgid "pc_teams_discount_toast_title_250825"
+msgstr "多设备共享SVIP？试试团队版！"
+
 msgid "pc_teams_download_group_tips_0527"
 msgstr "存在片段正在下载中，导出会耗时更久"
 
@@ -35286,6 +38003,9 @@ msgid "pc_teams_upload_group_describe3_0527"
 msgstr "草稿同步失败 你的小组权限已被回收，草稿默认备份到本地"
 
 msgid "pc_teams_upload_group_tips1_0527"
+msgstr "草稿同步至云空间失败，点击重试"
+
+msgid "pc_teams_upload_group_tips1_0527_pad"
 msgstr "草稿同步至云空间失败，点击重试"
 
 msgid "pc_teams_upload_group_tips2_0527"
@@ -36311,6 +39031,9 @@ msgstr "文本转语音返回值异常"
 msgid "pc_text2video_match_check"
 msgstr "已为你智能匹配 %1段高清版权素材，在这里查看当前使用的会员素材"
 
+msgid "pc_text2video_match_check_pad"
+msgstr "已为你智能匹配 %1段高清版权素材，在这里查看当前使用的会员素材"
+
 msgid "pc_text2video_match_free_media"
 msgstr "仅匹配免费素材"
 
@@ -36411,6 +39134,9 @@ msgid "pc_text_cut_change"
 msgstr "手动切换语言"
 
 msgid "pc_text_cut_click_correct_text"
+msgstr "点击可以改错别字"
+
+msgid "pc_text_cut_click_correct_text_pad"
 msgstr "点击可以改错别字"
 
 msgid "pc_text_cut_click_re_transcribe"
@@ -36516,6 +39242,9 @@ msgid "pc_text_cut_generate_captions"
 msgstr "开始识别字幕"
 
 msgid "pc_text_cut_generate_captions_click"
+msgstr "剪辑的同时生成字幕"
+
+msgid "pc_text_cut_generate_captions_click_pad"
 msgstr "剪辑的同时生成字幕"
 
 msgid "pc_text_cut_generating_captions"
@@ -36749,6 +39478,9 @@ msgstr "你可以通过编辑文本来剪辑视频"
 msgid "pc_text_cut_your_click_here_update_captions"
 msgstr "识别到剪口播发生变化，点击更新字幕"
 
+msgid "pc_text_cut_your_click_here_update_captions_pad"
+msgstr "识别到剪口播发生变化，点击更新字幕"
+
 msgid "pc_text_cut_your_video_updated"
 msgstr "识别到您的视频发生变动，请重新转录"
 
@@ -36977,6 +39709,21 @@ msgstr "超清图"
 msgid "pc_text_pic_uhd_n"
 msgstr "超清图"
 
+msgid "pc_text_popup_button_edit_more_cancel"
+msgstr "取消"
+
+msgid "pc_text_popup_button_edit_more_continue"
+msgstr "继续"
+
+msgid "pc_text_popup_check_edit_more_copy_draft"
+msgstr "保留当前成片草稿"
+
+msgid "pc_text_popup_subtitle_edit_more"
+msgstr "继续进入剪辑页面，将无法返回当前成片草稿编辑；若勾选“保留当前成片草稿”后继续，将会复制为新的剪辑草稿，当前成片草稿仍保存在首页草稿箱中；"
+
+msgid "pc_text_popup_title_edit_more"
+msgstr "是否继续进入编辑？"
+
 msgid "pc_text_preset_network_error"
 msgstr "网络异常，发光效果加载失败"
 
@@ -37025,7 +39772,13 @@ msgstr "字幕模板"
 msgid "pc_text_template_add_click"
 msgstr "点击添加文字模板"
 
+msgid "pc_text_template_add_click_pad"
+msgstr "点击添加文字模板"
+
 msgid "pc_text_template_add_click_web"
+msgstr "点击添加文字模板"
+
+msgid "pc_text_template_add_click_web_pad"
 msgstr "点击添加文字模板"
 
 msgid "pc_text_template_adjust_release"
@@ -37040,8 +39793,14 @@ msgstr "同时发布花字"
 msgid "pc_text_template_agree"
 msgstr "发布及代表同意剪映"
 
+msgid "pc_text_template_agree_pad"
+msgstr "发布及代表同意%1"
+
 msgid "pc_text_template_agree_web"
 msgstr "发布及代表同意剪映"
+
+msgid "pc_text_template_agree_web_pad"
+msgstr "发布及代表同意%1"
 
 msgid "pc_text_template_apply_all"
 msgstr "应用到全部"
@@ -37083,6 +39842,9 @@ msgid "pc_text_template_certain_web"
 msgstr "文字模板 {X}"
 
 msgid "pc_text_template_change_language_setting_hovertip"
+msgstr "点击“修改”以编辑语言设置"
+
+msgid "pc_text_template_change_language_setting_hovertip_pad"
 msgstr "点击“修改”以编辑语言设置"
 
 msgid "pc_text_template_change_single"
@@ -37917,6 +40679,9 @@ msgstr "取消"
 msgid "pc_track_change"
 msgstr "点击切换追踪对象"
 
+msgid "pc_track_change_pad"
+msgstr "点击切换追踪对象"
+
 msgid "pc_track_confirm"
 msgstr "确认"
 
@@ -37971,6 +40736,9 @@ msgstr "当前视频内没有找到可追踪的对象，请更换视频"
 msgid "pc_track_position_continue"
 msgstr "请将时间线滑动到选中片段位置后再点击继续"
 
+msgid "pc_track_position_continue_pad"
+msgstr "请将时间线滑动到选中片段位置后再点击继续"
+
 msgid "pc_track_processing_cancel_confirm"
 msgstr "正在处理中，确认取消镜头追踪？"
 
@@ -37990,6 +40758,9 @@ msgid "pc_track_select_start"
 msgstr "选择跟踪对象后点击开始"
 
 msgid "pc_track_select_switch"
+msgstr "你可选中相应时间线片段后，右键进入菜单切换多音轨"
+
+msgid "pc_track_select_switch_pad"
 msgstr "你可选中相应时间线片段后，右键进入菜单切换多音轨"
 
 msgid "pc_track_separation"
@@ -38083,6 +40854,9 @@ msgid "pc_transcript_extracting_audio_title"
 msgstr "正在分离音频... %1%"
 
 msgid "pc_transcript_filler_words_info"
+msgstr "一键去除视频中的口水词内容"
+
+msgid "pc_transcript_filler_words_info_pad"
 msgstr "一键去除视频中的口水词内容"
 
 msgid "pc_transcript_filler_words_title"
@@ -38546,6 +41320,9 @@ msgstr "今日调用服务器次数过多，请24小时后重试"
 msgid "pc_translate_time_wait"
 msgstr "预计共需等待 %1 分钟。素材完成上传后，您可点击稍后查看，之后可在「历史任务」中查看翻译后的视频。"
 
+msgid "pc_translate_time_wait_pad"
+msgstr "预计共需等待 %1 分钟。素材完成上传后，您可点击稍后查看，之后可在「历史任务」中查看翻译后的视频。"
+
 msgid "pc_translate_try"
 msgstr "去试试"
 
@@ -38553,6 +41330,9 @@ msgid "pc_translate_update_to_use_feature"
 msgstr "请更新到最新版本使用"
 
 msgid "pc_translate_upload"
+msgstr "点击上传或拖拽本人素材"
+
+msgid "pc_translate_upload_pad"
 msgstr "点击上传或拖拽本人素材"
 
 msgid "pc_translate_use_term"
@@ -38590,6 +41370,9 @@ msgstr "原始语言"
 
 msgid "pc_translate_voice_select_n"
 msgstr "选择"
+
+msgid "pc_translator_sensitive_content"
+msgstr "检查到您的素材可能含有敏感内容，请更换素材后重试"
 
 msgid "pc_transparency"
 msgstr "透明度"
@@ -38704,6 +41487,9 @@ msgstr "草稿升级失败"
 
 msgid "pc_trending_filters_effects"
 msgstr "热门滤镜/效果"
+
+msgid "pc_trim_video_to_use_ai_hd"
+msgstr "%1帧/秒视频，仅支持 %2s AI HD，请裁剪后再重试"
 
 msgid "pc_try_credits"
 msgstr "剩余%1次限免，试用后开通VIP并支付积分使用"
@@ -39107,6 +41893,9 @@ msgstr "暂未支持手机剪映部分功能，手机编辑的草稿信息不会
 msgid "pc_unsupported_format"
 msgstr "视频格式不支持"
 
+msgid "pc_untrack"
+msgstr "解锁轨道"
+
 msgid "pc_unzipping"
 msgstr "解压中"
 
@@ -39314,6 +42103,9 @@ msgstr "变声效果重新处理中"
 msgid "pc_vc_library_unavailable"
 msgstr "应用失败，暂不支持对曲库音乐应用该效果"
 
+msgid "pc_vc_regenerate_free_use_popup_desc"
+msgstr "当前克隆的音色未保存，重新生成已消耗试用次数将不返还，确认要返回吗"
+
 msgid "pc_vc_reverse_unavailable"
 msgstr "应用失败，暂不支持对倒放音频应用该效果"
 
@@ -39328,6 +42120,12 @@ msgstr "歌唱克隆暂不支持发布为模板"
 
 msgid "pc_vc_sing_audio_time_not_match"
 msgstr "暂仅支持对%1秒到%2分钟的音乐换翻唱音色哦"
+
+msgid "pc_veo_three_one"
+msgstr "Veo 3.1"
+
+msgid "pc_veo_three_one_info"
+msgstr "更擅长图生视频，声音生成更生动自然。"
 
 msgid "pc_version_info"
 msgstr "版本信息"
@@ -40090,6 +42888,9 @@ msgstr "模型切换失败，请重试"
 msgid "pc_voice_clone_load_model_success"
 msgstr "模型切换成功"
 
+msgid "pc_voice_clone_load_model_success_pad"
+msgstr "模型切换成功"
+
 msgid "pc_voice_clone_loading_notice_one"
 msgstr "分析音频中"
 
@@ -40285,6 +43086,9 @@ msgstr "音频时长过短"
 msgid "pc_voice_clone_record_start"
 msgstr "点按开始录制"
 
+msgid "pc_voice_clone_record_start_pad"
+msgstr "点按开始录制"
+
 msgid "pc_voice_clone_record_ten"
 msgstr "10秒音频，即刻克隆"
 
@@ -40331,6 +43135,9 @@ msgid "pc_voice_clone_sign_in"
 msgstr "登录后即可创建或查看克隆音色，%1"
 
 msgid "pc_voice_clone_sign_in_click"
+msgstr "点击登录"
+
+msgid "pc_voice_clone_sign_in_click_pad"
 msgstr "点击登录"
 
 msgid "pc_voice_clone_sing_first_page"
@@ -40550,6 +43357,9 @@ msgid "pc_voice_gender"
 msgstr "性别"
 
 msgid "pc_voice_guide_emotion"
+msgstr "点击可以调整声音的情绪哦"
+
+msgid "pc_voice_guide_emotion_pad"
 msgstr "点击可以调整声音的情绪哦"
 
 msgid "pc_voice_guide_know"
@@ -41768,7 +44578,7 @@ msgid "pc_watermark_pro_subtitle"
 msgstr "无水印高清导出"
 
 msgid "pc_watermark_title"
-msgstr "购买Capcut Pro即可去水印导出，同时畅享更多Pro权益"
+msgstr "购买CapCut Pro即可去水印导出，同时畅享更多Pro权益"
 
 msgid "pc_watermark_upper_left"
 msgstr "左上"
@@ -41819,7 +44629,7 @@ msgid "pc_what_feel_like_doing"
 msgstr "你喜欢创作什么类型的视频"
 
 msgid "pc_what_type_video_creating_cc"
-msgstr "你喜欢用capcut创作什么类型的视频"
+msgstr "你喜欢用CapCut创作什么类型的视频"
 
 msgid "pc_when_creating_a_new_draft_free_level"
 msgstr "新建草稿时，默认开启自由层级"
@@ -41945,7 +44755,7 @@ msgid "pc_ytb_category"
 msgstr "视频类型"
 
 msgid "pc_ytb_check_tt"
-msgstr "去TikTok查看视频"
+msgstr "去 TikTok 查看视频"
 
 msgid "pc_ytb_check_ytb"
 msgstr "去YouTube查看视频"
@@ -41963,10 +44773,10 @@ msgid "pc_ytb_privacy"
 msgstr "观看权限"
 
 msgid "pc_ytb_release_tt"
-msgstr "正在发布至TikTok..."
+msgstr "正在发布至 TikTok..."
 
 msgid "pc_ytb_release_tt_n"
-msgstr "同时发布到TikTok"
+msgstr "同时发布到 TikTok"
 
 msgid "pc_ytb_release_ytb"
 msgstr "正在发布至YouTube..."
@@ -41975,7 +44785,7 @@ msgid "pc_ytb_released_check"
 msgstr "视频已成功发布，点击下方链接查看视频"
 
 msgid "pc_ytb_synchronize_title_cover"
-msgstr "自动同步当前视频的标题和封面；删除或编辑YouTube作品，不影响分享至TikTok的视频。"
+msgstr "自动同步当前视频的标题和封面；删除或编辑 YouTube 作品，不影响分享至 TikTok 的视频。"
 
 msgid "pc_ytb_tt_account_banned"
 msgstr "账户已被禁用，请切换账户重试"
@@ -41984,13 +44794,16 @@ msgid "pc_ytb_tt_file_size_limit"
 msgstr "当前文件过大，请导出 %1 GB以内的文件后重试"
 
 msgid "pc_ytb_tt_share"
-msgstr "将视频发布至TikTok，与更多人分享你的创意。"
+msgstr "将视频发布至 TikTok，与更多人分享你的创意。"
 
 msgid "pc_ytb_tt_share_privacy_settings"
 msgstr "设置视频权限"
 
 msgid "pc_zhonger_text_post_template"
 msgstr "创作者！现在，从这里发布你创作的模板大作吧！"
+
+msgid "pc_zoom_fail_toast"
+msgstr "裁剪框不可超出画面区域，请调整"
 
 msgid "pc_zoom_hovertip"
 msgstr "缩放"
@@ -42000,6 +44813,54 @@ msgstr "缩放后，会移除当前素材的跟踪效果"
 
 msgid "pc_{x}_stickers"
 msgstr "{x}个贴纸"
+
+msgid "pccover_button_go_to_design"
+msgstr "去设计"
+
+msgid "pccover_button_save_to_local"
+msgstr "保持到本地"
+
+msgid "pccover_button_set_as_cover"
+msgstr "设为封面"
+
+msgid "pccover_button_use_ai_to_design_a_hit_cover_go_to_design"
+msgstr "用AI设计爆款封面，去设计"
+
+msgid "pccover_desc_cover_image"
+msgstr "封面图"
+
+msgid "pccover_desc_tell_ai_your_design_ideas"
+msgstr "告诉AI你的设计思路吧"
+
+msgid "pccover_desc_try_the_cover_design_agent_to_help_you_create_a_hit"
+msgstr "试试封面设计Agent，助你出爆款"
+
+msgid "pccover_title_cover_design"
+msgstr "封面设计"
+
+msgid "pccover_title_cover_design_agent"
+msgstr "封面设计Agent"
+
+msgid "pccover_toast_already_saved_to_local"
+msgstr "已保存到本地"
+
+msgid "pccover_toast_design_vlog_cover_from_reference_ratio_of_%1"
+msgstr "参考这张图，帮我设计一个爆款 vlog 封面，比例是%1"
+
+msgid "pccover_toast_no_network"
+msgstr "无网络"
+
+msgid "pccover_toast_please_check_if_the_network_is_connected_properly"
+msgstr "请检查网络是否正常连接"
+
+msgid "pccover_toast_selected_media_for_cover"
+msgstr "当前选中的视频帧/上传的图片"
+
+msgid "pccover_toast_up_to_%1_characters_can_be_entered"
+msgstr "最多可输入%1字"
+
+msgid "pccover_toast_up_to_800_characters_can_be_entered"
+msgstr "最多可输入800字"
 
 msgid "pcnew_ai_writer_fill_in_topic"
 msgstr "请输入主题内容"
@@ -42400,7 +45261,7 @@ msgid "possible_crash"
 msgstr "可能发生了崩溃问题"
 
 msgid "post_on_tiktok"
-msgstr "去TikTok发布"
+msgstr "去 TikTok 发布"
 
 msgid "post_tanchuangwenan"
 msgstr "了解详情"
@@ -42412,6 +45273,9 @@ msgid "post_video_time_limit_exceeded_try_again"
 msgstr "已超过发布视频时长限制，请重试"
 
 msgid "posting_constitutes_consent"
+msgstr "发布即代表同意{X}"
+
+msgid "posting_constitutes_consent_pad"
 msgstr "发布即代表同意{X}"
 
 msgid "prank_comedy"
@@ -42704,8 +45568,20 @@ msgstr "有效时间：{date1}—{date2}"
 msgid "purchased_pro_expiretox_v1"
 msgstr "有效期至{date}"
 
+msgid "push_button_confirm"
+msgstr "确认"
+
+msgid "push_button_settings"
+msgstr "前往设置"
+
+msgid "push_desc_desktop"
+msgstr "已为你开启「应用内通知」，第一时间接收最新功能消息。如果不需要接收应用内通知，可在「全局设置-通用」中修改设置。"
+
 msgid "push_notification"
 msgstr "推送通知"
+
+msgid "push_title_desktop"
+msgstr "通知提示"
 
 msgid "put_away"
 msgstr "收起"
@@ -42918,7 +45794,7 @@ msgid "reduce_image_noise"
 msgstr "视频降噪"
 
 msgid "refresh_token_faile"
-msgstr "刷新TikTok access_token失败"
+msgstr "刷新 TikTok access_token 失败"
 
 msgid "region_notsupport"
 msgstr "该地区暂不支持在PC端购买，请到移动端完成购买"
@@ -43599,7 +46475,7 @@ msgid "share_to_ttam_pc"
 msgstr "TikTok Ads Manager"
 
 msgid "share_tt_faie"
-msgstr "获取TikTok open_api的share_id失败"
+msgstr "获取 TikTok open_api的 share_id 失败"
 
 msgid "share_with_group_members"
 msgstr "分享给小组成员"
@@ -43746,6 +46622,9 @@ msgid "shorts_export"
 msgstr "导出"
 
 msgid "shorts_export_publish_entry_desc"
+msgstr "一键长改短，让你的视频更受欢迎"
+
+msgid "shorts_export_publish_entry_desc_pad"
 msgstr "一键长改短，让你的视频更受欢迎"
 
 msgid "shorts_free_ues_desc"
@@ -43896,7 +46775,7 @@ msgid "shorts_processing_close_app_desc_experiment"
 msgstr "关闭应用后，正在处理的长改短不会被保存。"
 
 msgid "shorts_processing_close_app_title"
-msgstr "确认要关闭capcut吗？"
+msgstr "确认要关闭CapCut吗？"
 
 msgid "shorts_processing_close_app_title_cn"
 msgstr "确认要关闭剪映吗？"
@@ -43905,6 +46784,12 @@ msgid "shorts_processing_desc"
 msgstr "生成短视频需要一些时间，你可以点击“返回”按钮，在历史列表查看进度。"
 
 msgid "shorts_processing_desc_experiment"
+msgstr "生成短视频需要一些时间，你可以点击“返回”按钮，在历史列表查看进度。"
+
+msgid "shorts_processing_desc_experiment_pad"
+msgstr "生成短视频需要一些时间，你可以点击“返回”按钮，在历史列表查看进度。"
+
+msgid "shorts_processing_desc_pad"
 msgstr "生成短视频需要一些时间，你可以点击“返回”按钮，在历史列表查看进度。"
 
 msgid "shorts_processing_get_results_desc"
@@ -44043,7 +46928,7 @@ msgid "shorts_task_uploading_close_app_desc_experiment"
 msgstr "关闭应用后，正在上传中的长改短不会被保存。"
 
 msgid "shorts_task_uploading_close_app_title"
-msgstr "确认要关闭capcut吗？"
+msgstr "确认要关闭CapCut吗？"
 
 msgid "shorts_task_uploading_log_out_ cancel"
 msgstr "取消"
@@ -44061,6 +46946,9 @@ msgid "shorts_task_uploading_log_out_desc_experiment"
 msgstr "退出登录后，正在上传中的长改短不会被保存。"
 
 msgid "shorts_tutorial_pop-up_desc"
+msgstr "长视频智能切片为多个短片，一键获取"
+
+msgid "shorts_tutorial_pop-up_desc_pad"
 msgstr "长视频智能切片为多个短片，一键获取"
 
 msgid "shorts_tutorial_pop-up_know"
@@ -44175,7 +47063,7 @@ msgid "sign_pc"
 msgstr "登录"
 
 msgid "sign_tt"
-msgstr "用TikTok登录"
+msgstr "用 TikTok 登录"
 
 msgid "silenced"
 msgstr "已静音"
@@ -44840,6 +47728,9 @@ msgstr "点击 \"{button}\"，你将同意{terms_of_service} 和{privacy_policy}
 msgid "tap_on_purchase"
 msgstr "点击 \"购买\"，你将同意{terms_of_service} 和{privacy_policy}"
 
+msgid "tap_on_purchase_pc"
+msgstr "点击 \"购买\"，你将同意%1 和%2"
+
 msgid "tapping_send_some_data_includ_android"
 msgstr "点击[发送]后，一些包含日志和崩溃记录的数据会传输给CapCut，以协助解决问题、改进我们的服务，这些项目遵循我们的<a href=\"%1\">隐私政策<a/>"
 
@@ -44962,6 +47853,12 @@ msgstr "文本编辑"
 
 msgid "text_included_sensitive_please_change"
 msgstr "文案含有敏感词，请调整后重试"
+
+msgid "text_path_layout"
+msgstr "文字路径"
+
+msgid "text_path_layout_restriction"
+msgstr "无法将其应用于“文字路径”。"
 
 msgid "text_pc"
 msgstr "文本"
@@ -45183,7 +48080,7 @@ msgid "tiktok_music_copyright_checking_percent"
 msgstr "进行版权校验 %1%%\n"
 
 msgid "tiktok_viral"
-msgstr "TikTok病毒"
+msgstr "TikTok 病毒"
 
 msgid "time_a_long"
 msgstr ""
@@ -45206,13 +48103,13 @@ msgid "timeline_cnt_limit_error"
 msgstr "时间线数量已达上限"
 
 msgid "timeline_create"
-msgstr "新建时间线"
+msgstr "新建"
 
 msgid "timeline_default_name"
 msgstr "时间线%1"
 
 msgid "timeline_delete"
-msgstr "删除时间线"
+msgstr "删除"
 
 msgid "timeline_delete_confirm_cintent"
 msgstr "即将删除这条时间线以及包含的所有内容，素材会保留在素材库中。是否确认删除？"
@@ -45230,13 +48127,13 @@ msgid "timeline_parameter"
 msgstr "时间线参数"
 
 msgid "timeline_pin"
-msgstr "置顶时间线"
+msgstr "置顶"
 
 msgid "timeline_pin_toast"
 msgstr "如您在移动端下载含多时间线的草稿，仅置顶时间线会被下载"
 
 msgid "timeline_rename"
-msgstr "时间线重命名"
+msgstr "重命名"
 
 msgid "timeline_scrolls_left_and_right"
 msgstr "时间线左右滚动"
@@ -45345,6 +48242,9 @@ msgstr "今天"
 
 msgid "tone"
 msgstr "色调"
+
+msgid "tool_name_new_graphic_design"
+msgstr "图片设计"
 
 msgid "total_and"
 msgstr "总价"
@@ -45469,6 +48369,36 @@ msgstr "透明度"
 msgid "trapezoidal_pc"
 msgstr "梯形"
 
+msgid "tray_desc_settings"
+msgstr "开机时仅自动启动托盘。"
+
+msgid "tray_exit_desktop"
+msgstr "退出"
+
+msgid "tray_exit_settings"
+msgstr "退出应用"
+
+msgid "tray_minimize_settings"
+msgstr "最小化到托盘"
+
+msgid "tray_open_desktop"
+msgstr "打开剪映专业版"
+
+msgid "tray_push_settings"
+msgstr "应用内通知"
+
+msgid "tray_start_install"
+msgstr "开机自动启动托盘"
+
+msgid "tray_start_settings"
+msgstr "开机自动启动"
+
+msgid "tray_title_settings"
+msgstr "关闭设置"
+
+msgid "tray_tooltip_desktop"
+msgstr "剪映已最小化到托盘，可在剪映设置关闭时最小化到托盘或者退出应用"
+
 msgid "trending_filters"
 msgstr "火热滤镜"
 
@@ -45524,10 +48454,10 @@ msgid "tt_favorite"
 msgstr "抖音收藏"
 
 msgid "tt_log_in_want"
-msgstr "想用Tik Tok账号登录？"
+msgstr "想用 TikTok 账号登录？"
 
 msgid "tt_only_support_frame_edited_saved_local"
-msgstr "TikTok仅支持选择视频帧做封面，已编辑好的自定义封面仍然会保存到本地文件中"
+msgstr "TikTok 仅支持选择视频帧做封面，已编辑好的自定义封面仍然会保存到本地文件中"
 
 msgid "tt_pc"
 msgstr "TikTok"
@@ -45604,10 +48534,16 @@ msgstr "20条/页"
 msgid "twice_click_edit"
 msgstr "对组合中的某个片段双击，可单独对片段选中、裁剪和编辑"
 
+msgid "twice_click_edit_pad"
+msgstr "对组合中的某个片段双击，可单独对片段选中、裁剪和编辑"
+
 msgid "two_way_tracking"
 msgstr "双向跟踪"
 
 msgid "two_ways_add_directly_click_plus"
+msgstr "导入素材，拖拽或点击加号将素材添加至模板。"
+
+msgid "two_ways_add_directly_click_plus_pad"
 msgstr "导入素材，拖拽或点击加号将素材添加至模板。"
 
 msgid "type_material_n"
@@ -45635,7 +48571,7 @@ msgid "unable_expansion_pc"
 msgstr "您的团队人数已达%1人，无法继续扩容，推荐您了解企业版。"
 
 msgid "unable_sync_sounds"
-msgstr "无法同步来自于TikTok的原创音乐。请允许访问您的TikTok音乐收藏并重试。"
+msgstr "无法同步来自于 TikTok 的原创音乐。请允许访问您的 TikTok 音乐收藏并重试。"
 
 msgid "uncollect_material"
 msgstr "取消收藏"
@@ -45733,7 +48669,7 @@ msgstr "解锁草稿·已过期"
 msgid "unlock_draft_pc"
 msgstr "解锁草稿"
 
-msgid "untrack"
+msgid "unlock_track"
 msgstr "解锁轨道"
 
 msgid "unlock_unsuccessful"
@@ -45950,7 +48886,7 @@ msgid "use"
 msgstr "使用"
 
 msgid "use_cc_account"
-msgstr "使用capcut绑定账户"
+msgstr "使用 CapCut 绑定账户"
 
 msgid "use_curve_speed_remove_video_marker"
 msgstr "使用曲线变速会移除当前视频节拍标记的效果，是否继续操作？"
@@ -46705,8 +49641,26 @@ msgstr "观看更多CapCut教程"
 msgid "weak_pc"
 msgstr "弱"
 
+msgid "web_account_btn_sign_in_with_facebook"
+msgstr "打开 Facebook"
+
+msgid "web_account_desc_sign_in_with_facebook"
+msgstr "如果当前页面未自动跳转，点击下方按钮打开 Facebook。"
+
+msgid "web_account_desc_sign_in_with_facebook_pad"
+msgstr "如果当前页面未自动跳转，点击下方按钮打开 Facebook。"
+
+msgid "web_account_title_sign_in_with_facebook"
+msgstr "使用 Facebook 登录 CapCut"
+
 msgid "web_accounts_tab_terms_and_policies"
 msgstr "条款和政策"
+
+msgid "web_ai_clip_shorts_text_30"
+msgstr "<30s"
+
+msgid "web_ai_clip_shorts_text_30_60"
+msgstr "30-60s"
 
 msgid "web_apply_to_all"
 msgstr "应用到全部"
@@ -46752,6 +49706,24 @@ msgstr "审阅"
 
 msgid "web_search_user"
 msgstr "网页搜索"
+
+msgid "web_shorts_moments_example_four"
+msgstr "示例：查找让观众发笑的片段\n"
+
+msgid "web_shorts_moments_example_one"
+msgstr "示例：查找令人印象深刻的片段\n"
+
+msgid "web_shorts_moments_example_three"
+msgstr "示例：查找有趣的片段"
+
+msgid "web_shorts_moments_example_two"
+msgstr "示例：查找最有启发性的片段\n"
+
+msgid "web_shorts_prompt_title"
+msgstr "查找特定高光片段（可选）"
+
+msgid "web_shorts_prompt_warning"
+msgstr "你已到达字数上限"
 
 msgid "web_shorts_tittle_clip_shorts_one_cn"
 msgstr "AI切片"
@@ -46965,6 +49937,9 @@ msgstr "X个贴纸"
 
 msgid "xieyimingcheng_muban"
 msgstr "《“剪映”素材/模板使用许可协议》"
+
+msgid "xingtu_filter_publish"
+msgstr "醒图特效滤镜"
 
 msgid "yamane"
 msgstr "山根"
