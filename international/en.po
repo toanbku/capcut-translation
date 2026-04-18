@@ -43,10 +43,10 @@ msgid "2pc_downldPg_sub_seedrm"
 msgstr "Next-level creativity."
 
 msgid "2pc_downldPg_title_aiDesign"
-msgstr "AI design"
+msgstr "Design Studio"
 
 msgid "2pc_downldPg_title_aividmk"
-msgstr "AI video maker"
+msgstr "Video Studio"
 
 msgid "2pc_downldPg_title_avatars"
 msgstr "AI avatars"
@@ -122,6 +122,9 @@ msgstr "Invitation link invalid"
 
 msgid "The_text_template_has_been_broken_up"
 msgstr "Text template separated"
+
+msgid "UScompliance_pc_button_ok"
+msgstr "OK"
 
 msgid "_item,_where_would_you_like_to_copy_it?"
 msgstr ", where do you want to paste it?"
@@ -678,6 +681,9 @@ msgstr "You will be asked to confirm every time when credits are consumed."
 msgid "ai_pilot_credit_confirm_popup_title"
 msgstr "Always ask before using credits?"
 
+msgid "ai_pilot_credit_name_pc"
+msgstr "EditPilot"
+
 msgid "ai_pilot_free_credit_received_popup_btn"
 msgstr "Got it"
 
@@ -770,6 +776,12 @@ msgstr[1] "Your free credits will be deducted. %1 more credits needed."
 msgid "ai_rough_cut"
 msgstr "[null]"
 
+msgid "ai_rough_cut_2"
+msgstr "[null]"
+
+msgid "ai_rough_cut_audio_error_unlegal"
+msgstr "[null]"
+
 msgid "ai_rough_cut_enter_summary"
 msgstr "[null]"
 
@@ -789,6 +801,9 @@ msgid "ai_rough_cut_error_too_long"
 msgstr "[null]"
 
 msgid "ai_rough_cut_error_too_short"
+msgstr "[null]"
+
+msgid "ai_rough_cut_error_too_short_2"
 msgstr "[null]"
 
 msgid "ai_rough_cut_error_unlegal"
@@ -906,6 +921,9 @@ msgid "ai_rough_cut_stop_continue"
 msgstr "[null]"
 
 msgid "ai_rough_cut_stop_exit"
+msgstr "[null]"
+
+msgid "ai_rough_cut_timeline_switch_toast"
 msgstr "[null]"
 
 msgid "ai_rough_cut_writing_error"
@@ -1941,6 +1959,9 @@ msgstr "Angle"
 msgid "capcut_pc_material_text_effect_3d_projection_length"
 msgstr "Weight"
 
+msgid "capcut_pc_material_text_effect_character_background"
+msgstr "Letter background"
+
 msgid "capcut_pc_material_text_effect_gradient"
 msgstr "Line"
 
@@ -2003,7 +2024,10 @@ msgid "cc4b_traffic_desc_createanymarketingcontent_pad"
 msgstr "Create any marketing content in just a few taps. Smart, fast, and effortless!"
 
 msgid "ccPC_hover_AIimage"
-msgstr "AI image now powered by Seedream 4.5"
+msgstr "AI image now powered by Seedream 5.0"
+
+msgid "cc_KFassis_seedan20_title"
+msgstr "Try <a>Dreamina Seedance 2.0</a> now"
 
 msgid "cc_billing_sku_standard_days"
 msgstr "%d-day Standard"
@@ -2017,14 +2041,80 @@ msgstr "Your template contains material with copyright restrictions. Replace the
 msgid "cc_business_template_copyright_issue_popup_topic"
 msgstr "Replace material with copyright restrictions"
 
+msgid "cc_cap_temp_animation_loss"
+msgstr "Animation resources missing. Try using the latest version of CapCut Desktop and posting again."
+
+msgid "cc_cap_temp_animation_low_readability"
+msgstr "Illegible animation. Please change animations and post again."
+
+msgid "cc_cap_temp_background_low_readability"
+msgstr "Illegible text. Please change background assets so the text is easy to read."
+
+msgid "cc_cap_temp_change_text_invalid"
+msgstr "Effect missing after users edit their text. Try using the latest version of CapCut Desktop and posting again."
+
+msgid "cc_cap_temp_copyright_issue"
+msgstr "Copyright issues. Double check to make sure it doesn't violate copyright."
+
+msgid "cc_cap_temp_font_loss"
+msgstr "Font resources missing. Try using the latest version of CapCut Desktop and posting again."
+
+msgid "cc_cap_temp_font_low_readability"
+msgstr "Illegible font. Please change fonts and post again."
+
+msgid "cc_cap_temp_icon_size_issue"
+msgstr "Icon too large/small or uncentered. Try using the latest version of CapCut Desktop and posting again."
+
+msgid "cc_cap_temp_icon_speed_issue"
+msgstr "Icon preview too slow/fast. Please improve and post again."
+
+msgid "cc_cap_temp_icon_text_issue"
+msgstr "Faulty icon text. Try using the latest version of CapCut Desktop and posting again."
+
+msgid "cc_cap_temp_inconsistent_with_icon"
+msgstr "Inconsistent effect. The actual effect doesn't match what's shown in the icon preview. Try using the latest version of CapCut Desktop and posting again."
+
+msgid "cc_cap_temp_irrelevant_title"
+msgstr "Template name is unrelated to the template itself. The name cannot be just numbers, special characters, emojis, etc."
+
 msgid "cc_cap_temp_low_legibility"
 msgstr "Low legibility. Common reasons: The font, text effect, and/or caption animation aren't clear enough to read."
+
+msgid "cc_cap_temp_low_smoothness"
+msgstr "Laggy animation. Please improve the animation and post again."
 
 msgid "cc_cap_temp_low_usability"
 msgstr "Low usability. Common reasons: unsmooth, abnormal and/or missing effect, excessively large or small font, incorrect spelling or capitalization, and/or incompatible visual styles and elements."
 
+msgid "cc_cap_temp_mixed_case_in_text"
+msgstr "Mixed cases in text. Double check the cases (upper VS lower) and font and post again"
+
+msgid "cc_cap_temp_out_of_frame"
+msgstr "Caption out of screen. User's caption may go beyond the screen edges after using this template."
+
 msgid "cc_cap_temp_similar_identical"
 msgstr "Similar or identical effects. Common reasons: This caption template shares a high similarity to an existing one on CapCut, or you have already posted it before."
+
+msgid "cc_cap_temp_single_word_in_lines"
+msgstr "Words split across lines. Try using the latest version of CapCut Desktop and posting again."
+
+msgid "cc_cap_temp_sticker_loss"
+msgstr "Sticker resources missing. Try using the latest version of CapCut Desktop and posting again."
+
+msgid "cc_cap_temp_sticker_low_readability"
+msgstr "Illegible text. Please change or remove the stickers that block the text and post again."
+
+msgid "cc_cap_temp_text_effect_loss"
+msgstr "Effect resources missing. Try using the latest version of CapCut Desktop and posting again."
+
+msgid "cc_cap_temp_text_effect_low_readability"
+msgstr "Low legibility. Please change the text effect and post again."
+
+msgid "cc_cap_temp_text_too_big"
+msgstr "Font too large"
+
+msgid "cc_cap_temp_text_too_small"
+msgstr "Font too small"
 
 msgid "cc_cap_temp_unfitting_icon"
 msgstr "Unfitting icon. Common reasons: The icon of this caption template is too large or small."
@@ -2034,6 +2124,9 @@ msgstr "Unrelated to event. If you created this caption template for an event, f
 
 msgid "cc_cap_temp_violate_guidelines"
 msgstr "This caption template violates the CapCut Community Guidelines."
+
+msgid "cc_cap_temp_wrong_language_information"
+msgstr "Wrong language code. Write the correct code of language for which you created this caption template."
 
 msgid "cc_cap_temp_wrong_name_format"
 msgstr "You didn't name this caption template in the correct format."
@@ -2328,6 +2421,75 @@ msgstr "Blurry animation"
 msgid "cc_material_review_reject_reason_text_animation_unfit"
 msgstr "Unmatched animation of asset and text"
 
+msgid "cc_material_review_reject_reason_text_template_animation_stuck"
+msgstr "Laggy animation"
+
+msgid "cc_material_review_reject_reason_text_template_animation_too_fast"
+msgstr "Animation too fast"
+
+msgid "cc_material_review_reject_reason_text_template_animation_too_slow"
+msgstr "Animation too slow"
+
+msgid "cc_material_review_reject_reason_text_template_copyright_issue"
+msgstr "Copyright issues. Double check to make sure it doesn't violate copyright."
+
+msgid "cc_material_review_reject_reason_text_template_design_too_simple"
+msgstr "Design too simple. Try adding text effects or animations."
+
+msgid "cc_material_review_reject_reason_text_template_hidden_text_box"
+msgstr "Template contains uneditable or hidden text frames"
+
+msgid "cc_material_review_reject_reason_text_template_homogeneous_template"
+msgstr "Template is very similar to other creator’s templates"
+
+msgid "cc_material_review_reject_reason_text_template_icon_not_in_center"
+msgstr "Uncentered icon. Make sure the icon is at the center of its frame."
+
+msgid "cc_material_review_reject_reason_text_template_icon_size_unfit"
+msgstr "Icon too large/small. Ensure the icon's sides are between 1/3 and 2/3 of the frame's."
+
+msgid "cc_material_review_reject_reason_text_template_icon_violates_guidelines"
+msgstr "Template violates CapCut Community Guidelines."
+
+msgid "cc_material_review_reject_reason_text_template_irrelevant_title"
+msgstr "Template name is unrelated to the template itself. The name cannot be just numbers, special characters, emojis, etc."
+
+msgid "cc_material_review_reject_reason_text_template_layout_issue"
+msgstr "Layout isn't responsive or adaptive. Improve the size and layout of text frame, stickers, shapes, etc."
+
+msgid "cc_material_review_reject_reason_text_template_low_activity_relevance"
+msgstr "Not closely related to event theme. Opt for free creation."
+
+msgid "cc_material_review_reject_reason_text_template_low_readability"
+msgstr "Low legibility due of use of similar colors"
+
+msgid "cc_material_review_reject_reason_text_template_low_resolution"
+msgstr "Text or other materials contain jagged edges"
+
+msgid "cc_material_review_reject_reason_text_template_mixed_case_in_a_word"
+msgstr "Mixed cases in text. Double check the cases (upper VS lower) and font and post again."
+
+msgid "cc_material_review_reject_reason_text_template_overlap_text_boxes"
+msgstr "Too many text frames, or frames overlap, making text editing difficult."
+
+msgid "cc_material_review_reject_reason_text_template_preanimation_too_long"
+msgstr "Animation windup too long"
+
+msgid "cc_material_review_reject_reason_text_template_resource_loss"
+msgstr "Asset resources missing. Please repost."
+
+msgid "cc_material_review_reject_reason_text_template_single_word_in_lines"
+msgstr "Words split across lines"
+
+msgid "cc_material_review_reject_reason_text_template_spelling_error"
+msgstr "Typo or spelling mistake"
+
+msgid "cc_material_review_reject_reason_text_template_sticker_covering_text"
+msgstr "Sticker covers text"
+
+msgid "cc_material_review_reject_reason_text_template_texture_photo"
+msgstr "Uneven texture. This text template uses unsuitable images (such as realistic photos) as its texture. Try using an image with an even texture."
+
 msgid "cc_material_visual_effect_reject_reason_RAM_FPS"
 msgstr "Resource-demanding and could affect usage. Lower resolution or reduce layers, then upload again."
 
@@ -2390,6 +2552,9 @@ msgstr "Upcoming changes to CapCut subscription system"
 
 msgid "cc_pc_compliance_dyd_entrance_title_downloadyourdata"
 msgstr "Download your data"
+
+msgid "cc_pc_compliance_dyd_title_management"
+msgstr "Management"
 
 msgid "cc_pc_m10n_appleid_region_not_match"
 msgstr "Couldn't subscribe because your Apple Account country or region isn't set to %1. Switch account and try again."
@@ -2763,6 +2928,9 @@ msgstr "Can't create a receipt for this order. You can submit feedback in Home >
 msgid "cc_receipt_generating_toast"
 msgstr "Receipt is being created. It may take up to 30 minutes. You can check back later."
 
+msgid "cc_reseller_manage_plan_desc"
+msgstr "This subscription is provided by our partner {reseller}. If you need to manage your subscription, go to {reseller}'s website or app."
+
 msgid "cc_risk_notification_toast_v2"
 msgstr "Your account has been accessed from multiple devices recently. For security reasons, you can't sign in for the moment."
 
@@ -2856,17 +3024,29 @@ msgstr "GIFs"
 msgid "cccreator_publish_area"
 msgstr "Select country or region"
 
+msgid "ccmob_expBn_aiBG"
+msgstr "Change image backgrounds with a text prompt"
+
 msgid "ccmob_homeBn_AIimage_sub"
 msgstr "Turn words into visuals"
 
 msgid "ccmob_homeBn_AIimage_title"
 msgstr "AI image"
 
+msgid "ccmob_homeBn_aiBG_sub"
+msgstr "Describe your new BG"
+
+msgid "ccmob_homeBn_aiBG_title"
+msgstr "AI background"
+
 msgid "ccmob_topbn_aivid_title"
 msgstr "AI video"
 
 msgid "ccpc_banner_aividseedc"
-msgstr "AI video now powered by Seedance 1.5 Pro"
+msgstr "AI video now powered by Dreamina Seedance 1.5 Pro"
+
+msgid "ccpc_banner_aividseedc20"
+msgstr "AI video now powered by Dreamina Seedance 2.0"
 
 msgid "ccpc_mob_STS_export_popup_desc"
 msgstr "You've run out of free uses. Join Pro to get unlimited use and unlock even more features."
@@ -2904,8 +3084,8 @@ msgstr "Templates that can be edited may have more uses and their creators recei
 
 msgid "cctemp_rule_content"
 msgstr ""
-"1. If you set a price for the template and then post it, people will need to purchase the template or upgrade to CapCut Pro to use it.\n"
-"2. People can either purchase to use the template or use it as a Pro member."
+"1. If you set a price for the template and then post it, people will need to purchase the template or subscribe to CapCut Pro to use it.\n"
+"2. People can either purchase to use the template or use it as a Pro subscriber."
 
 msgid "cctmpl_publish_auto_fill"
 msgstr "Auto-fill"
@@ -3181,6 +3361,30 @@ msgstr "Rainbow Drop"
 msgid "ccug_ASUS_CapCut_activity_pageTWO9"
 msgstr "Animation and effects"
 
+msgid "ccug_app2pc26_PC_toast_draft"
+msgstr "Access your draft in Space to keep creating"
+
+msgid "ccug_app2pc26_PC_toast_freeuseDraft"
+msgstr "Free feature uses unlocked! Your draft is in Space—keep creating."
+
+msgid "ccug_app2pc26_PC_toast_freeuseDraft_aiimg"
+msgstr "You've got free uses for AI image. Find your draft in Space to keep creating."
+
+msgid "ccug_app2pc26_PC_toast_freeuseDraft_aivid"
+msgstr "You've got free uses for AI video. Find your draft in Space to keep creating."
+
+msgid "ccug_app2pc26_PC_toast_freeuseDraft_autocap"
+msgstr "You've got free uses for Auto captions. Find your draft in Space to keep creating."
+
+msgid "ccug_app2pc26_PC_toast_freeuseDraft_extract"
+msgstr "You've got free uses for Extract audio. Find your draft in Space to keep creating."
+
+msgid "ccug_app2pc26_PC_toast_freeuseDraft_fx"
+msgstr "You've got free uses for effects. Find your draft in Space to keep creating."
+
+msgid "ccug_app2pc26_PC_toast_freeuseDraft_lyric"
+msgstr "You've got free uses for Auto lyrics. Find your draft in Space to keep creating."
+
 msgid "ccug_app2pcV3_BF_expBn_title"
 msgstr "Free Pro for your Black Friday edits"
 
@@ -3242,7 +3446,7 @@ msgid "ccug_app2pcV3_edm_space_subject"
 msgstr "Get CapCut's desktop app for 10GB FREE space storage"
 
 msgid "ccug_app2pcV3_entry_aiDesign"
-msgstr "AI design"
+msgstr "Design Studio"
 
 msgid "ccug_app2pcV3_entry_aiDesignSub"
 msgstr "Generate multiple marketing images in one click."
@@ -3341,7 +3545,7 @@ msgid "ccug_app2pcV3_pro_H5_whyPC_sub3"
 msgstr "Keep your drafts synced across all devices, so you can pick up where you left off."
 
 msgid "ccug_app2pcV3_pro_H5_whyPC_sub4"
-msgstr "Auto captions, AI video maker, AI avatar, and more for faster, better creation."
+msgstr "Auto captions, Video Studio, AI avatar, and more for faster, better creation."
 
 msgid "ccug_app2pcV3_pro_H5_whyPC_title1"
 msgstr "All-in-one Pro access"
@@ -3509,7 +3713,7 @@ msgid "ccug_app2pc_h5NEW_aiDsg_sub"
 msgstr "Create stunning visuals in a chat with AI."
 
 msgid "ccug_app2pc_h5NEW_aiDsg_title"
-msgstr "AI design"
+msgstr "Design Studio"
 
 msgid "ccug_app2pc_h5NEW_seeDrm_sub"
 msgstr "Smarter, faster, and more creative image generation."
@@ -3774,31 +3978,31 @@ msgid "ccug_video_translator_consumption_points"
 msgstr "Use %1 credits to apply %2 again"
 
 msgid "ccug_web_b4expbn_aividmk2_title"
-msgstr "Build videos faster by chatting with the new AI video maker"
+msgstr "Build videos faster by chatting with the new Video Studio"
 
 msgid "ccug_web_bannercard_aividmk2_sub"
 msgstr "Chat with an agent to build videos"
 
 msgid "ccug_web_bannercard_aividmk2_title"
-msgstr "New AI video maker"
+msgstr "New Video Studio"
 
 msgid "ccug_web_expbn_aividmk2_sub"
 msgstr "Chat to build stunning videos"
 
 msgid "ccug_web_expbn_aividmk2_title"
-msgstr "Try AI video maker"
+msgstr "Try Video Studio"
 
 msgid "ccug_web_hmbn_aividmk2_sub"
 msgstr "Chat to build your video"
 
 msgid "ccug_web_hmbn_aividmk2_title"
-msgstr "New AI video maker"
+msgstr "New Video Studio"
 
 msgid "ccug_web_wtsNew_aividmk2_sub"
 msgstr "Inspire your next project with a simple chat. The agent is here to improve your video quality and save you time."
 
 msgid "ccug_web_wtsNew_aividmk2_title"
-msgstr "Meet the upgraded AI video maker"
+msgstr "Meet the upgraded Video Studio"
 
 msgid "ccxtt_share_joinActivity_body1"
 msgstr "Join <a style='color:#00c1cd' href=\"%1\">the Share to TikTok activity</a> to win profile frames, TikTok promote coupons, and CapCut Pro!"
@@ -5506,6 +5710,9 @@ msgstr "Dutch"
 msgid "dynamic_stickers_pc"
 msgstr "Animated"
 
+msgid "dynamic_texture_play_speed"
+msgstr "Play Speed"
+
 msgid "easy_to_use"
 msgstr "Editing made easy"
 
@@ -6352,6 +6559,9 @@ msgstr "Format not supported to import"
 
 msgid "format_pc"
 msgstr "Format:"
+
+msgid "formerly_ai_vid_maker"
+msgstr "formerly AI video maker"
 
 msgid "found_template_in_cc"
 msgstr "I found this amazing template in CapCut. Tap the link to try it out!"
@@ -7885,6 +8095,9 @@ msgstr "Couldn’t add"
 msgid "material_add_fail_please_try"
 msgstr "Couldn’t add. Try again later."
 
+msgid "material_added_toast"
+msgstr "[null]"
+
 msgid "material_base_network_error"
 msgstr "Connect to internet"
 
@@ -7911,6 +8124,9 @@ msgstr "Library"
 
 msgid "material_needs_to_be_downloaded"
 msgstr "Material needs to be downloaded"
+
+msgid "material_not_added_toast"
+msgstr "[null]"
 
 msgid "material_not_complete_replace"
 msgstr "Material not replaced"
@@ -8351,6 +8567,15 @@ msgstr "Video 4.0"
 
 msgid "mob_model_veo_3_info"
 msgstr "Supports dialogue and sound effects. Powered by Veo 3."
+
+msgid "mob_omni_compliance"
+msgstr "Do not upload others' images, videos, or likenesses without consent."
+
+msgid "mob_omni_onboarding_tip"
+msgstr "Use images, videos, or audio as references. @mention them in your prompt to guide the result."
+
+msgid "mob_omni_onboarding_tip_cta"
+msgstr "Got it"
 
 msgid "mob_oneoff_old_pro_free_extension_desc1"
 msgstr "• We hope you're enjoying all that CapCut has to offer! CapCut is updating our subscription plans and pricing to better serve the diverse needs of our creators."
@@ -9881,7 +10106,7 @@ msgid "pc_ai_clip_shorts_tittle_start_short_videos"
 msgstr "Convert long video to shorts"
 
 msgid "pc_ai_design"
-msgstr "AI design"
+msgstr "Design Studio"
 
 msgid "pc_ai_design_nano_banana_info"
 msgstr "Nano Banana 2 is now available"
@@ -9890,7 +10115,7 @@ msgid "pc_ai_design_nano_banana_pro_info"
 msgstr "Nano Banana Pro is now available"
 
 msgid "pc_ai_design_nano_banana_title"
-msgstr "AI design"
+msgstr "Design Studio"
 
 msgid "pc_ai_design_new"
 msgstr "NEW"
@@ -9902,7 +10127,7 @@ msgid "pc_ai_design_sign_in_to_view_projects"
 msgstr "%1 to view your projects"
 
 msgid "pc_ai_design_tooltip"
-msgstr "AI design is now upgraded to meet all your design needs"
+msgstr "Design Studio is now upgraded to meet all your design needs"
 
 msgid "pc_ai_effect"
 msgstr "AI effects"
@@ -10235,6 +10460,9 @@ msgstr "Images generated. %1 free use deducted."
 msgid "pc_ai_expand_m10n_use_needed"
 msgstr "Use needed %1"
 
+msgid "pc_ai_expand_save_btn"
+msgstr "Save"
+
 msgid "pc_ai_hd"
 msgstr "AI HD"
 
@@ -10267,6 +10495,21 @@ msgstr "Describe what to change in this image."
 
 msgid "pc_ai_image_reference_model_not_supported"
 msgstr "Can't use this model with the current referencing option"
+
+msgid "pc_ai_image_settings"
+msgstr "${ratio}, ${resolution}"
+
+msgid "pc_ai_image_settings_label"
+msgstr "Image settings"
+
+msgid "pc_ai_image_turn_into_ai_dialogue_btn"
+msgstr "AI dialogue scene"
+
+msgid "pc_ai_image_turn_into_ai_video_btn"
+msgstr "AI video"
+
+msgid "pc_ai_image_turn_into_video_btn"
+msgstr "Turn into video"
 
 msgid "pc_ai_keyword_edit"
 msgstr "Highlight"
@@ -10344,6 +10587,15 @@ msgstr "To protect your privacy, avoid including personal or sensitive informati
 
 msgid "pc_ai_media_generator"
 msgstr "AI media generator"
+
+msgid "pc_ai_media_save_failed_toast"
+msgstr "Couldn't save"
+
+msgid "pc_ai_media_saved_toast"
+msgstr "Saved"
+
+msgid "pc_ai_media_settings_resolution"
+msgstr "Resolution"
 
 msgid "pc_ai_melody_adaptation_failed"
 msgstr "The vocal melody of the song was not recognized."
@@ -10503,6 +10755,9 @@ msgstr "Lifestyle"
 
 msgid "pc_ai_remix_reference_image_unavailable"
 msgstr "To add a reference image, brush to select an area first"
+
+msgid "pc_ai_remix_save_btn"
+msgstr "Save"
 
 msgid "pc_ai_remixing_edit_error"
 msgstr "Can't edit right now while AI remix is in progress"
@@ -10709,10 +10964,10 @@ msgid "pc_ai_video_multiframes"
 msgstr "Multiframes"
 
 msgid "pc_ai_video_multiframes_model"
-msgstr "Seedance Multiframes"
+msgstr "Dreamina Seedance Multiframes"
 
 msgid "pc_ai_video_multiframes_model_info"
-msgstr "Create videos from up to 10 images."
+msgstr "Up to 10 reference images"
 
 msgid "pc_ai_video_multiframes_placeholder"
 msgstr "Upload 2–10 images to generate a continuous video."
@@ -10746,6 +11001,9 @@ msgstr "You can upload up to %1 images"
 
 msgid "pc_ai_video_multiframes_upload_min_toast"
 msgstr "Upload at least 2 images"
+
+msgid "pc_ai_video_settings"
+msgstr "${seconds}s, ${ratio}, ${resolution}"
 
 msgid "pc_ai_writer_agree_content"
 msgstr "Allow CapCut to collect your inputs and generated scripts? They will be stored on our server to help us improve your experience. You can still continue to use CapCut if you don’t allow. "
@@ -12797,6 +13055,105 @@ msgstr "Back to edit"
 msgid "pc_back_to_home"
 msgstr "Back to home page"
 
+msgid "pc_backend_export_editor_back_homepage_major"
+msgstr "Back to home"
+
+msgid "pc_backend_export_editor_back_homepage_minor"
+msgstr "Cancel"
+
+msgid "pc_backend_export_editor_back_homepage_text"
+msgstr "Your project has been saved automatically. Return to home to view the project that failed to export."
+
+msgid "pc_backend_export_editor_back_homepage_title"
+msgstr "Quit project and return to home?"
+
+msgid "pc_backend_export_editor_collapse"
+msgstr "Back to home"
+
+msgid "pc_backend_export_editor_export_open"
+msgstr "Open project"
+
+msgid "pc_backend_export_editor_export_success"
+msgstr "Video exported! Share it now."
+
+msgid "pc_backend_export_editor_export_title"
+msgstr "%1 exported"
+
+msgid "pc_backend_export_editor_function_processing"
+msgstr "Once the features are applied, you can click \"Back to home\" to continue exporting in the background."
+
+msgid "pc_backend_export_editor_got_it"
+msgstr "OK"
+
+msgid "pc_backend_export_editor_hint"
+msgstr "Your export will continue in the background, so you can edit other projects."
+
+msgid "pc_backend_export_editor_other_export"
+msgstr "Another project is exporting. Export will start once it's done."
+
+msgid "pc_backend_export_editor_wait"
+msgstr "Waiting to export"
+
+msgid "pc_backend_export_external_fail_major_btn"
+msgstr "View in home"
+
+msgid "pc_backend_export_external_fail_minor_btn"
+msgstr "OK"
+
+msgid "pc_backend_export_external_fail_title"
+msgstr "Couldn't export %1"
+
+msgid "pc_backend_export_external_runtime_minor_btn"
+msgstr "OK"
+
+msgid "pc_backend_export_external_runtime_text"
+msgstr "Please wait until the export is complete."
+
+msgid "pc_backend_export_external_runtime_title"
+msgstr "Editing is lagging"
+
+msgid "pc_backend_export_external_success_major_btn"
+msgstr "View file"
+
+msgid "pc_backend_export_external_success_minor_btn"
+msgstr "OK"
+
+msgid "pc_backend_export_external_success_title"
+msgstr "%1 exported"
+
+msgid "pc_backend_export_homepage_exit_major_btn"
+msgstr "Cancel"
+
+msgid "pc_backend_export_homepage_exit_minor_btn"
+msgstr "Quit"
+
+msgid "pc_backend_export_homepage_exit_text"
+msgstr "The project you're exporting will be stopped."
+
+msgid "pc_backend_export_homepage_exit_title"
+msgstr "Quit app?"
+
+msgid "pc_backend_export_homepage_exporting"
+msgstr "Exporting"
+
+msgid "pc_backend_export_homepage_fail"
+msgstr "Couldn't export"
+
+msgid "pc_backend_export_homepage_success"
+msgstr "Exported"
+
+msgid "pc_backend_export_homepage_toast_exporting"
+msgstr "Your project is exporting. Try again later."
+
+msgid "pc_backend_export_homepage_toast_home"
+msgstr "Your project is exporting. Feel free to work on something else."
+
+msgid "pc_backend_export_homepage_toast_template"
+msgstr "Your project is exporting. Feel free to work on something else."
+
+msgid "pc_backend_export_homepage_waiting"
+msgstr "Waiting to export"
+
 msgid "pc_background"
 msgstr "Canvas"
 
@@ -12965,6 +13322,9 @@ msgid "pc_beat_sync_videos"
 msgstr "Videos about music"
 
 msgid "pc_beauty_filter_cannot"
+msgstr "「none」"
+
+msgid "pc_beauty_filter_child"
 msgstr "「none」"
 
 msgid "pc_beauty_filter_clear"
@@ -13747,6 +14107,9 @@ msgstr "Recover CapCut account"
 msgid "pc_captain_transfer_recover_done_toast"
 msgstr "Account recovered"
 
+msgid "pc_caption_animation_post"
+msgstr "Post captions animation"
+
 msgid "pc_caption_auto_start"
 msgstr "Highlight keywords automatically?"
 
@@ -14059,6 +14422,9 @@ msgstr "Apply templates and generate captions"
 msgid "pc_captions_add_tab"
 msgstr "Add captions"
 
+msgid "pc_captions_animation_psot"
+msgstr "Post captions animation"
+
 msgid "pc_captions_apply_to_all_main"
 msgstr "Apply to all main captions"
 
@@ -14208,6 +14574,15 @@ msgstr ""
 msgid "pc_cc_commercial_music_use_method_q"
 msgstr "Where and how can I use Commercial Music?"
 
+msgid "pc_cc_language_default_title"
+msgstr "Default language"
+
+msgid "pc_cc_language_switch_warning_desc"
+msgstr "Attention: Switching the main language will reset all previously edited language information. Please select carefully!"
+
+msgid "pc_cc_language_type_title"
+msgstr "Language"
+
 msgid "pc_cc_pro_running_close_before_continuing"
 msgstr "CapCut is running. Quit it before open the new version."
 
@@ -14217,8 +14592,32 @@ msgstr "CapCut is running. Quit it before uninstalling it."
 msgid "pc_cc_prohibited_running_lower_win7"
 msgstr "Couldn't run CapCut in system compatibility mode lower than Windows 7"
 
+msgid "pc_cc_text_effect_beyond_the_page"
+msgstr "Stroke or shadow too big to fit in screen"
+
+msgid "pc_cc_text_effect_color_low_readability"
+msgstr "Low legibility due to mismatched colors"
+
+msgid "pc_cc_text_effect_copyright_issue"
+msgstr "Copyright issues. Double check to make sure it doesn't violate copyright."
+
+msgid "pc_cc_text_effect_design_too_simple"
+msgstr "Design too simple"
+
+msgid "pc_cc_text_effect_edit_stuck"
+msgstr "Texture images too large or too many, causing unsmooth effect"
+
 msgid "pc_cc_text_effect_homogeneous_effect"
 msgstr "Similar or identical effects. Common reasons: This text effect shares a high similarity to an existing text effect on CapCut, or you have already posted this text effect before."
+
+msgid "pc_cc_text_effect_icon_overlap"
+msgstr "Overlapping effect. Try using the latest version of CapCut Desktop and posting again."
+
+msgid "pc_cc_text_effect_icon_size"
+msgstr "Icon too large/small. Try using the latest version of CapCut Desktop and posting again."
+
+msgid "pc_cc_text_effect_icon_text"
+msgstr "Faulty icon text. Try using the latest version of CapCut Desktop and posting again."
 
 msgid "pc_cc_text_effect_low_ fitness"
 msgstr "Unfitting icon. Common reasons: The icon of this text effect is too large or small, or the letters/words overlap."
@@ -14254,6 +14653,33 @@ msgstr ""
 "-Texture\n"
 "-Shadow stroke\n"
 "-Stroke thickness > 100"
+
+msgid "pc_cc_text_effect_resource_loss"
+msgstr "Effect missing. One or more effects can't load properly when applied. Try using the latest version of CapCut Desktop and posting again."
+
+msgid "pc_cc_text_effect_shadow_blur_issue"
+msgstr "Unsmooth blur of outer shadow with noticeable border between the blur and background"
+
+msgid "pc_cc_text_effect_texture_low_readability"
+msgstr "Low legibility due to complex texture"
+
+msgid "pc_cc_text_effect_texture_mosaic"
+msgstr "Blurry effect and low resolution"
+
+msgid "pc_cc_text_effect_texture_parameter_issue"
+msgstr "Uneven texture. Text effect is incomplete or unsmooth. Double check the settings."
+
+msgid "pc_cc_text_effect_texture_photo"
+msgstr "Uneven texture. This text effect uses unsuitable images (such as realistic photos) as its texture. Try using an image with an even texture."
+
+msgid "pc_cc_text_effect_texture_text"
+msgstr "Uneven texture. This text effect uses images with text as its texture. Try using an image without text."
+
+msgid "pc_cc_text_effect_thick_font_low_readability"
+msgstr "Low legibility due to heavy fonts"
+
+msgid "pc_cc_text_effect_thin_font_low_readability"
+msgstr "Low legibility due to thin fonts"
 
 msgid "pc_cc_text_effect_violate_community_norms"
 msgstr "This text effect violates the CapCut Community Guidelines."
@@ -14299,6 +14725,9 @@ msgstr "The background will be restored."
 
 msgid "pc_change_bg_reset_title"
 msgstr "Continue to reset?"
+
+msgid "pc_change_bg_save_btn"
+msgstr "Save"
 
 msgid "pc_change_lyrics_template_loading"
 msgstr "Changing template..."
@@ -17416,10 +17845,10 @@ msgid "pc_customer_success"
 msgstr "Customer success"
 
 msgid "pc_customer_support_macos"
-msgstr "Need customer support? capcut.support@bytedance.com"
+msgstr "Need support? If you're in the US, contact us at support@us.capcut.com. If you're in other regions, contact us at capcut.support@bytedance.com."
 
 msgid "pc_customer_support_macos_with_whatsapp"
-msgstr "Need more help? Email us at capcut.support@bytedance.com."
+msgstr "Need support? If you're in the US, contact us at support@us.capcut.com. If you're in other regions, contact us at capcut.support@bytedance.com."
 
 msgid "pc_customer_support_win"
 msgstr "Need customer support? capcut.support@bytedance.com"
@@ -18295,6 +18724,15 @@ msgstr "Downloading error"
 
 msgid "pc_download_failed_please_retry"
 msgstr "Couldn’t download. Try again later."
+
+msgid "pc_download_folder_failure_update_btn"
+msgstr "OK"
+
+msgid "pc_download_folder_failure_update_info"
+msgstr "This folder includes projects created with a newer version of CapCut. You can download the folder once the new version is released and installed on desktop."
+
+msgid "pc_download_folder_failure_update_title"
+msgstr "Can't download this folder"
 
 msgid "pc_download_ing"
 msgstr "Downloading..."
@@ -20646,6 +21084,9 @@ msgstr "Finding projects"
 msgid "pc_feedback_cloud_space_problem"
 msgstr "Space"
 
+msgid "pc_feedback_contact_us_email"
+msgstr "Need support? If you're in the US, contact us at support@us.capcut.com. If you're in other regions, contact us at capcut.support@bytedance.com."
+
 msgid "pc_feedback_contribute"
 msgstr "Sharing"
 
@@ -21663,6 +22104,42 @@ msgstr "Gecko Beta"
 msgid "pc_gecko_local_info"
 msgstr "Gecko Local Info"
 
+msgid "pc_gen_ai_audio_violation_toast"
+msgstr "The audio may contain content that violates our Community Guidelines. Credits have been refunded."
+
+msgid "pc_gen_ai_change_image_toast"
+msgstr "The image may contain content that violates our Community Guidelines. Credits have been refunded."
+
+msgid "pc_gen_ai_change_prompt_toast"
+msgstr "The prompt may contain content that violates our Community Guidelines. Credits have been refunded."
+
+msgid "pc_gen_ai_feature_unavailable_toast"
+msgstr "Couldn't generate. This feature isn't available in your region yet."
+
+msgid "pc_gen_ai_human_face_toast"
+msgstr "Can't generate video. Remove references with human faces and try again. Credits have been refunded."
+
+msgid "pc_gen_ai_insufficient_resource_toast"
+msgstr "We're experiencing high demand. Try again in a moment."
+
+msgid "pc_gen_ai_not_enough_credits_toast"
+msgstr "Couldn't generate. You don't have enough credits."
+
+msgid "pc_gen_ai_prompt_too_long_toast"
+msgstr "Couldn't generate. Try making your prompt shorter."
+
+msgid "pc_gen_ai_sora_faces_toast"
+msgstr "This content may violate our Community Guidelines. Credits have been refunded."
+
+msgid "pc_gen_ai_timed_out_toast"
+msgstr "Couldn't generate. Try again."
+
+msgid "pc_gen_ai_unknown_error_toast"
+msgstr "This content may violate our Community Guidelines. Credits have been refunded."
+
+msgid "pc_gen_ai_video_violation_toast"
+msgstr "The video may contain content that violates our Community Guidelines. Credits have been refunded."
+
 msgid "pc_gender"
 msgstr "Gender"
 
@@ -21673,7 +22150,7 @@ msgid "pc_general_v_three_hint"
 msgstr "Describe your image. Add the text you want to generate in quotation marks (\" \")."
 
 msgid "pc_general_v_three_info"
-msgstr "Natural and realistic. Supports text generation."
+msgstr "Enhanced realism, accurate text"
 
 msgid "pc_generate_fail_credit_returned_toast"
 msgstr "Couldn't generate. Credits returned."
@@ -22459,10 +22936,10 @@ msgid "pc_image_four"
 msgstr "Seedream 4.0"
 
 msgid "pc_image_four_info"
-msgstr "Create a cohesive set of images."
+msgstr "Batch image creation"
 
 msgid "pc_image_four_info_n"
-msgstr "Create a cohesive set of images with multiple references."
+msgstr "Batch image creation, multiple references"
 
 msgid "pc_image_four_placeholder"
 msgstr "Describe your image"
@@ -22471,7 +22948,7 @@ msgid "pc_image_nano_two"
 msgstr "Nano Banana Pro"
 
 msgid "pc_image_nano_two_info"
-msgstr "Excels at understanding prompts and creating realistic, accurate images."
+msgstr "Studio-quality control, enhanced world knowledge"
 
 msgid "pc_image_quality"
 msgstr "Quality"
@@ -22483,7 +22960,7 @@ msgid "pc_image_seedream_four_five"
 msgstr "Seedream 4.5"
 
 msgid "pc_image_seedream_four_five_info"
-msgstr "Enhanced subject consistency and multilingual text generation in images."
+msgstr "Consistent subjects, accurate multilingual text"
 
 msgid "pc_image_super_min"
 msgid_plural "The clip must not exceed %1 seconds"
@@ -22494,7 +22971,7 @@ msgid "pc_image_three_aesthetic"
 msgstr "Image 3.0 Aesthetic"
 
 msgid "pc_image_three_aesthetic_info"
-msgstr "Rich, versatile aesthetics."
+msgstr "Rich, versatile aesthetics"
 
 msgid "pc_image_three_aesthetic_n"
 msgstr "Seedream 3.1"
@@ -23564,7 +24041,7 @@ msgid "pc_keyword_select"
 msgstr "Select at least 1 keyword"
 
 msgid "pc_kit_seedance_1_5_pro"
-msgstr "Seedance 1.5 Pro"
+msgstr "Dreamina Seedance 1.5 Pro"
 
 msgid "pc_kit_seedance_1_5_pro_info"
 msgstr "Supports generating audio in different languages."
@@ -24821,8 +25298,17 @@ msgstr "The version of project or material is outdated. It needs to be upgraded 
 msgid "pc_lower"
 msgstr "Lower"
 
+msgid "pc_lut"
+msgstr "LUT"
+
+msgid "pc_lut_Import"
+msgstr "Import"
+
 msgid "pc_lut_miss"
 msgstr "LUT loss"
+
+msgid "pc_lut_none"
+msgstr "none"
 
 msgid "pc_lyric_template_apply_to_all"
 msgstr "The template will be applied to all clips."
@@ -25109,6 +25595,9 @@ msgstr "Credits"
 msgid "pc_m10n_manage_teams_order_history"
 msgstr "Billing history"
 
+msgid "pc_m10n_media_upload_to_space"
+msgstr "Upload to space"
+
 msgid "pc_m10n_member_page_entry_plans"
 msgstr "Plans"
 
@@ -25368,6 +25857,21 @@ msgid_plural "{number} uses left"
 msgstr[0] "{number} use left"
 msgstr[1] "{number} uses left"
 
+msgid "pc_m10n_pro_paywall_10s_video"
+msgstr "Upgrade to generate videos up to 10s long"
+
+msgid "pc_m10n_pro_paywall_4k_image"
+msgstr "Upgrade to generate images in 4K"
+
+msgid "pc_m10n_pro_paywall_highres_video"
+msgstr "Upgrade to generate videos in 720p and 1080p"
+
+msgid "pc_m10n_pro_paywall_image_models"
+msgstr "Upgrade to generate with advanced image models"
+
+msgid "pc_m10n_pro_paywall_video_models"
+msgstr "Upgrade to generate with advanced video models"
+
 msgid "pc_m10n_pro_plan_10_month"
 msgstr "10 months"
 
@@ -25534,6 +26038,18 @@ msgstr "Something went wrong. Conversion time will be returned within 24 hours. 
 msgid "pc_m10n_shorts_upgrade_get_minutes"
 msgstr "<b style='color: black;'>Join Pro</b> to get %1 min/month"
 
+msgid "pc_m10n_space_add_file"
+msgstr "Add your media"
+
+msgid "pc_m10n_space_empty_state"
+msgstr "Upload or drag and drop media here, or generate with AI."
+
+msgid "pc_m10n_space_generate_media"
+msgstr "Generate with AI"
+
+msgid "pc_m10n_space_image_preview_status"
+msgstr "Loading image..."
+
 msgid "pc_m10n_space_invite_btn_subscribe"
 msgstr "Upgrade for more seats"
 
@@ -25546,11 +26062,56 @@ msgstr "Upgrade to CapCut Teams to create a new space. No restrictions on joinin
 msgid "pc_m10n_space_limit_reached_title"
 msgstr "Can't create more spaces"
 
+msgid "pc_m10n_space_media_drag_add_tooltip_btn"
+msgstr "Got it"
+
+msgid "pc_m10n_space_media_drag_add_tooltip_v1"
+msgstr "Now you can click to add or drag media from spaces straight to the timeline."
+
+msgid "pc_m10n_space_media_drag_add_tooltip_v2"
+msgstr "Now you can drag media from spaces straight to the timeline."
+
+msgid "pc_m10n_space_paywall_btn"
+msgstr "Upgrade"
+
+msgid "pc_m10n_space_paywall_desc"
+msgstr "Upgrade to Teams to share Pro benefits with your team and enjoy %1 credits per seat every month, plus 1 TB of space storage."
+
+msgid "pc_m10n_space_paywall_tag_credits"
+msgstr "%1 monthly credits per seat"
+
+msgid "pc_m10n_space_paywall_title"
+msgstr "Unlock this Pro feature for your team"
+
+msgid "pc_m10n_space_preview_type_adjust"
+msgstr "Loading adjustment..."
+
+msgid "pc_m10n_space_preview_type_audio"
+msgstr "Loading audio..."
+
+msgid "pc_m10n_space_preview_type_image"
+msgstr "Loading image..."
+
+msgid "pc_m10n_space_preview_type_sticker"
+msgstr "Loading stickers..."
+
+msgid "pc_m10n_space_preview_type_text"
+msgstr "Loading text..."
+
+msgid "pc_m10n_space_preview_type_text_temp"
+msgstr "Loading text template..."
+
+msgid "pc_m10n_space_preview_type_video"
+msgstr "Loading video..."
+
 msgid "pc_m10n_space_status_unsubscribed"
 msgstr "Get a Teams plan for your space to enjoy all Teams benefits."
 
 msgid "pc_m10n_space_tab"
 msgstr "Space"
+
+msgid "pc_m10n_space_video_preview_status"
+msgstr "Preview"
 
 msgid "pc_m10n_subscription_btn_renew"
 msgstr "Renew now"
@@ -26311,6 +26872,12 @@ msgstr "Link media"
 msgid "pc_material_name"
 msgstr "Name"
 
+msgid "pc_material_panel_search_lyric_effect"
+msgstr "Search templates"
+
+msgid "pc_material_panel_search_subtitle_template"
+msgstr "Search templates"
+
 msgid "pc_material_positioning_media"
 msgstr "Linking media..."
 
@@ -26864,6 +27431,15 @@ msgstr "Up to xGB, large Cloud Space"
 msgid "pc_media"
 msgstr "Media"
 
+msgid "pc_media_cache"
+msgstr "Media cache"
+
+msgid "pc_media_cache_close_draft_before_modify"
+msgstr "Close any open projects before changing the media cache save path."
+
+msgid "pc_media_cache_help_text"
+msgstr "Media cache files are stored here. Path changes take effect after restarting CapCut."
+
 msgid "pc_media_format_not_supported"
 msgstr "Media format not supported"
 
@@ -27093,7 +27669,7 @@ msgid "pc_model_g_four"
 msgstr "Runway Gen-4"
 
 msgid "pc_model_g_four_info"
-msgstr "Natural and realistic motion."
+msgstr "Natural and realistic motion"
 
 msgid "pc_model_seaweed"
 msgstr "Seaweed V1.0"
@@ -27111,7 +27687,7 @@ msgid "pc_model_veo_3"
 msgstr "Veo 3"
 
 msgid "pc_model_veo_3_info"
-msgstr "Supports dialogue and sound effects."
+msgstr "Synced dialogue and sound effects"
 
 msgid "pc_modify"
 msgstr "Modify"
@@ -28279,6 +28855,66 @@ msgstr "Offset"
 
 msgid "pc_ok"
 msgstr "OK"
+
+msgid "pc_omni_add_reference_hovertip"
+msgstr "Add images and videos"
+
+msgid "pc_omni_collapse_hovertip"
+msgstr "Restore"
+
+msgid "pc_omni_compliance"
+msgstr "Do not upload others' images, videos, or likenesses without consent."
+
+msgid "pc_omni_expand_hovertip"
+msgstr "Expand"
+
+msgid "pc_omni_image_num"
+msgstr "Image %1"
+
+msgid "pc_omni_max_duration_reached_toast"
+msgstr "The total duration is already 15s"
+
+msgid "pc_omni_maximum_duration"
+msgstr "You can upload up to %1 videos (%2s minimum each, %3s total max)"
+
+msgid "pc_omni_media_error"
+msgstr "Can't generate video. Your media doesn't meet the requirements. Try different media."
+
+msgid "pc_omni_media_error"
+msgstr "Can't generate video. Your media doesn't meet the requirements. Try different media."
+
+msgid "pc_omni_mention_hovertip"
+msgstr "@mention an image or video"
+
+msgid "pc_omni_onboarding_tip"
+msgstr "Use images, videos, or audio as references. @mention them in your prompt to guide the result."
+
+msgid "pc_omni_onboarding_tip_cta"
+msgstr "Got it"
+
+msgid "pc_omni_prompt_placeholder"
+msgstr "Reference up to 9 images & 3 videos. Real faces in uploads are not yet supported."
+
+msgid "pc_omni_reference_limit_reached_toast"
+msgstr "You can upload up to %1 images and %2 videos"
+
+msgid "pc_omni_reference_video_title"
+msgstr "Reference video"
+
+msgid "pc_omni_seedance_2"
+msgstr "Dreamina Seedance 2.0"
+
+msgid "pc_omni_seedance_2_info"
+msgstr "Most versatile, director-level control and storytelling. Real faces in uploads not yet supported."
+
+msgid "pc_omni_tab"
+msgstr "Omni reference"
+
+msgid "pc_omni_video_min_length_error_toast"
+msgstr "Each video needs to be at least 2 seconds"
+
+msgid "pc_omni_video_num"
+msgstr "Video %1"
 
 msgid "pc_oneoff_old_pro_compensate_notify_popup_btn"
 msgstr "Got it"
@@ -32420,7 +33056,7 @@ msgid "pc_scene_button_video_model_flux"
 msgstr "Flux 1.1 Pro"
 
 msgid "pc_scene_button_video_model_flux_info"
-msgstr "Excellent image details."
+msgstr "Excellent details"
 
 msgid "pc_scene_button_video_model_pixeldance_v10"
 msgstr "PixelDance V1.0"
@@ -32473,6 +33109,9 @@ msgstr "Ideal for text posters and supports multiple reference elements."
 msgid "pc_scene_desc_image_to_video"
 msgstr "(Optional) Describe the video you want to generate. Example: waves crashing on the beach."
 
+msgid "pc_scene_desc_image_to_video_no_faces"
+msgstr "(Optional) Describe the video you want to generate. Real faces in uploads are not yet supported."
+
 msgid "pc_scene_desc_legal_approval"
 msgstr "Allow CapCut to upload your media and prompts to our server. The content is automatically suggested based on what you provide. CapCut does not make any promises or warranties regarding the legality or appropriateness of any content. You shall be solely responsible for content created using CapCut, including but not limited to the use of the AI image and AI video features, which are not and will not be endorsed, sponsored, or approved by CapCut."
 
@@ -32519,7 +33158,7 @@ msgid "pc_scene_desc_switch_continue"
 msgstr "Changes made to the current result will be undone."
 
 msgid "pc_scene_desc_text_to_video"
-msgstr "(Optional) Describe the video you want to generate. Example: a 3D animated boy wearing a jacket is running."
+msgstr "Describe the video you want to generate. Example: a 3D animated boy wearing a jacket is running."
 
 msgid "pc_scene_desc_video_apply"
 msgstr "Apply for beta testing to create videos with AI."
@@ -32881,6 +33520,21 @@ msgstr "No results found. Try other trending materials."
 msgid "pc_search_picture_lines"
 msgstr "Search videos with related scenes and audios"
 
+msgid "pc_search_placeholder_people_are_searching"
+msgstr "People are searching %1"
+
+msgid "pc_search_placeholder_text_animation"
+msgstr "Search animations"
+
+msgid "pc_search_placeholder_video_animation"
+msgstr "Search animations"
+
+msgid "pc_search_placeholder_voice_changer"
+msgstr "Search voices"
+
+msgid "pc_search_placeholder_voice_tts"
+msgstr "Search voices"
+
 msgid "pc_search_recommend"
 msgstr "Trending searches"
 
@@ -32911,31 +33565,55 @@ msgid "pc_seconds"
 msgstr "%1s"
 
 msgid "pc_seedance"
-msgstr "Seedance 1.0"
+msgstr "Dreamina Seedance 1.0"
 
 msgid "pc_seedance_1_5_pro"
-msgstr "Seedance 1.5 Pro"
+msgstr "Dreamina Seedance 1.5 Pro"
 
 msgid "pc_seedance_1_5_pro_info"
-msgstr "Supports generating audio in different languages."
+msgstr "Synced audio, multilingual dialogue"
+
+msgid "pc_seedance_2"
+msgstr "Dreamina Seedance 2.0"
+
+msgid "pc_seedance_2_fast_desc"
+msgstr "Faster generation, director-level control. Real faces in uploads not yet supported."
+
+msgid "pc_seedance_2_fast_desc_2"
+msgstr "Faster generation, director-level control and storytelling."
+
+msgid "pc_seedance_2_fast_name"
+msgstr "Dreamina Seedance 2.0 Fast"
+
+msgid "pc_seedance_2_info"
+msgstr "Most versatile, director-level control and storytelling. Real faces in uploads not yet supported."
+
+msgid "pc_seedance_2_info_n"
+msgstr "Most versatile, director-level control and storytelling. Real faces in uploads not yet supported."
 
 msgid "pc_seedance_fast"
-msgstr "Seedance 1.0 Fast"
+msgstr "Dreamina Seedance 1.0 Fast"
 
 msgid "pc_seedance_fast_info"
-msgstr "Smooth, stable motion and even faster generation."
+msgstr "Smooth motion, faster generation"
 
 msgid "pc_seedance_fl"
-msgstr "Seedance Frames"
+msgstr "Dreamina Seedance Frames"
 
 msgid "pc_seedance_fl_frames"
-msgstr "Seedance Frames"
+msgstr "Dreamina Seedance Frames"
 
 msgid "pc_seedance_fl_info"
-msgstr "Supports setting the first and last frames."
+msgstr "Start and end frame control"
 
 msgid "pc_seedance_info"
-msgstr "Excellent prompt adherence and fast generation."
+msgstr "Precise prompt following, fast generation"
+
+msgid "pc_seedream_5"
+msgstr "Seedream 5.0"
+
+msgid "pc_seedream_5_info"
+msgstr "Consistent characters, rich world knowledge"
 
 msgid "pc_segment_id"
 msgstr "Segment ID"
@@ -33797,6 +34475,9 @@ msgstr "Show/Hide clips"
 msgid "pc_show/hide_fragment"
 msgstr "Show/Hide clip"
 
+msgid "pc_show_main_language"
+msgstr "Main language"
+
 msgid "pc_show_more_material"
 msgstr "More materials"
 
@@ -34080,10 +34761,10 @@ msgid "pc_sora_two"
 msgstr "Sora 2"
 
 msgid "pc_sora_two_info"
-msgstr "Excels at turning text into videos. Does not support photos of real people."
+msgstr "Stronger text-to-video, no real face uploads"
 
 msgid "pc_sora_two_info_n"
-msgstr "Excels at turning text into videos. Supports audio and multiple camera angles."
+msgstr "Stronger text-to-video, synced audio, multiple camera angles"
 
 msgid "pc_sora_two_toast"
 msgstr "Can't generate. Change the description or photo and try again."
@@ -34476,6 +35157,20 @@ msgstr "Couldn’t restore space %1"
 
 msgid "pc_space_together_storage"
 msgstr "Share storage, manage projects, and collaborate to create videos."
+
+msgid "pc_space_upload_popup_btn_cancel"
+msgstr "Cancel"
+
+msgid "pc_space_upload_popup_btn_confirm"
+msgstr "Upload"
+
+msgid "pc_space_upload_popup_title"
+msgid_plural "Upload %1 items to"
+msgstr[0] "Upload %1 item to"
+msgstr[1] "Upload %1 items to"
+
+msgid "pc_space_upload_sucess_toast"
+msgstr "Uploaded to space"
 
 msgid "pc_spacing_too_short"
 msgstr "Spacing is too short to add speed control point"
@@ -35254,7 +35949,7 @@ msgstr[0] "%1 use"
 msgstr[1] "%1 uses"
 
 msgid "pc_storyboard_entry"
-msgstr "AI video maker"
+msgstr "Video Studio"
 
 msgid "pc_storyboard_entry_new"
 msgstr "Start with script"
@@ -37011,7 +37706,7 @@ msgid "pc_template_material_support_replacement"
 msgstr "Can be replaced"
 
 msgid "pc_template_member_get"
-msgstr "Free for Pro members"
+msgstr "Free for Pro subscribers"
 
 msgid "pc_template_modify_mute"
 msgstr "You can replace them or mute them to post on CapCut."
@@ -37859,6 +38554,11 @@ msgstr "Copy text draft"
 
 msgid "pc_text_popup_subtitle_edit_more"
 msgstr "Proceeding to the editing mode will prevent returning to the current text draft. If you check \"Copy text draft\" and continue, a new editing draft will be copied, while the current text draft remains in the homepage draft box."
+
+msgid "pc_text_popup_subtitle_edit_more_v2"
+msgstr ""
+"If you proceed to the editing page, you will not be able to return to edit the current final draft. The unfinished generating task can't be recovered.\n"
+"If you check \"Keep current final draft\" and continue, a new draft will be created, and the original will be saved in your draft box."
 
 msgid "pc_text_popup_title_edit_more"
 msgstr "Are you sure to enter the editing mode?"
@@ -40058,6 +40758,9 @@ msgstr "Couldn't upload. Try again later."
 msgid "pc_upload_image"
 msgstr "Upload image:"
 
+msgid "pc_upload_import_failed_desc"
+msgstr "Resolution must be 800×800 px. Duration must be within 0 – 3s. File size must not exceed 3MB. Frame rate must not exceed 30fps."
+
 msgid "pc_upload_later"
 msgstr "none"
 
@@ -40185,7 +40888,7 @@ msgid "pc_veo_three_one"
 msgstr "Veo 3.1"
 
 msgid "pc_veo_three_one_info"
-msgstr "Excels at turning images into videos. More realistic audio."
+msgstr "Stronger image-to-video, realistic audio"
 
 msgid "pc_version_info"
 msgstr "Version Info"
@@ -42765,6 +43468,9 @@ msgstr "Send to back"
 msgid "planar_tracking_adjust_angle"
 msgstr "none"
 
+msgid "planar_tracking_adjust_angle_guide"
+msgstr "none"
+
 msgid "planar_tracking_bidirectional"
 msgstr "none"
 
@@ -42795,6 +43501,9 @@ msgstr "none"
 msgid "planar_tracking_empty_title"
 msgstr "none"
 
+msgid "planar_tracking_error_toast"
+msgstr "none"
+
 msgid "planar_tracking_guide"
 msgstr "none"
 
@@ -42822,7 +43531,19 @@ msgstr "none"
 msgid "planar_tracking_planar_motion_title"
 msgstr "none"
 
+msgid "planar_tracking_planar_name_cnt"
+msgstr "none"
+
 msgid "planar_tracking_planar_switch_guide"
+msgstr "none"
+
+msgid "planar_tracking_planar_user_guide_tips"
+msgstr "none"
+
+msgid "planar_tracking_plane_title_empty"
+msgstr "none"
+
+msgid "planar_tracking_position_locked"
 msgstr "none"
 
 msgid "planar_tracking_processing"
@@ -44031,6 +44752,24 @@ msgstr "Current clip applied camera tracking effect. Try a video with people in 
 msgid "see_commercial_material"
 msgstr "View"
 
+msgid "seedance_2pt0_compliance_popup_btn"
+msgstr "Agree"
+
+msgid "seedance_2pt0_compliance_popup_cancel"
+msgstr "Cancel"
+
+msgid "seedance_2pt0_compliance_popup_desc_app"
+msgstr ""
+"By continuing to use this service, you acknowledge and agree:\n"
+"• You are solely responsible for content generated based on your uploaded materials\n"
+"• You confirm that you have all necessary rights and permissions to use your uploaded content, and you will not infringe on any third-party rights\n"
+"• You may not use CapCut tools to misrepresent or violate the IP or publicity rights of others\n"
+"• You will not upload sensitive personal information, and will not upload others' personal information without their explicit permission; and\n"
+"• The materials you provide may be pre-uploaded to, uploaded to, and/or processed on our servers per our <a href=\"https://www.capcut.com/clause/privacy-policy?lang={0}&store_region={1}\">Privacy Policy</a>."
+
+msgid "seedance_2pt0_compliance_popup_title"
+msgstr "Acknowledgement"
+
 msgid "segment_too_short_to_add_transition"
 msgstr "Video too short. Apply transition effect to a longer video."
 
@@ -45139,6 +45878,21 @@ msgstr "Subsciption Service"
 msgid "subtitle content"
 msgstr "Captions"
 
+msgid "subtitle_edit_auto_fill_gap"
+msgstr "none"
+
+msgid "subtitle_edit_auto_fill_tips"
+msgstr "none"
+
+msgid "subtitle_edit_drag_apply"
+msgstr "none"
+
+msgid "subtitle_edit_got_it"
+msgstr "none"
+
+msgid "subtitle_edit_lang_support"
+msgstr "none"
+
 msgid "subtitle_fail_try_again"
 msgstr "Couldn’t generate bilingual subtitles. Try again."
 
@@ -45695,6 +46449,9 @@ msgstr "Apply to"
 msgid "timeline_cnt_limit_error"
 msgstr "Maximum timelines reached"
 
+msgid "timeline_copy"
+msgstr "[null]"
+
 msgid "timeline_create"
 msgstr "New timeline"
 
@@ -45712,6 +46469,15 @@ msgstr "Delete timeline?"
 
 msgid "timeline_name"
 msgstr "Timeline name"
+
+msgid "timeline_panel_manage"
+msgstr "[null]"
+
+msgid "timeline_panel_merge"
+msgstr "[null]"
+
+msgid "timeline_panel_split"
+msgstr "[null]"
 
 msgid "timeline_parameter"
 msgstr "Timeline settings"
@@ -46027,6 +46793,9 @@ msgstr "none"
 
 msgid "tts_news_name_style"
 msgstr "none"
+
+msgid "tts_update_common_tip"
+msgstr "Text to speech just got an update. Upgrade to get credits and try it out!"
 
 msgid "ture_beauty"
 msgstr "Retouch in one tap to show your unique style"

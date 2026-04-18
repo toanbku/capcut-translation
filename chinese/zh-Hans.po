@@ -753,7 +753,107 @@ msgstr ""
 msgid "ai_pc_lyrics_adaptation_wordcount_mismatch"
 msgstr "The word count doesn't match the original lyrics. Please revise."
 
+msgid "ai_pilot_butten_confirm_pc"
+msgstr "Use credits"
+
+msgid "ai_pilot_butten_purchase_pc"
+msgstr "Buy credits"
+
+msgid "ai_pilot_butten_upgrade_pc"
+msgstr "Upgrade"
+
+msgid "ai_pilot_checkbox_noneedconfirmation_pc"
+msgstr "Always use credits"
+
+msgid "ai_pilot_credit_confirm_allowed_toast"
+msgstr "You'll now be asked to confirm before using credits"
+
+msgid "ai_pilot_credit_confirm_popup_desc"
+msgstr "You will be asked to confirm every time when credits are consumed."
+
+msgid "ai_pilot_credit_confirm_popup_title"
+msgstr "Always ask before using credits?"
+
+msgid "ai_pilot_free_credit_received_popup_btn"
+msgstr "Got it"
+
+msgid "ai_pilot_free_credit_received_popup_desc"
+msgstr ""
+"These credits can only be used with EditPilot. They refresh every month. "
+"Once your free credits are used up, you can upgrade to get more."
+
+msgid "ai_pilot_free_credit_received_popup_title"
+msgstr "You've got %1 credits for EditPilot this month"
+
+msgid "ai_pilot_pop_deductcredit_pc"
+msgstr "%1 credit needed. "
+
+msgid "ai_pilot_pop_deductcredit_pc_2"
+msgstr "You have %2 credit left."
+
+msgid "ai_pilot_pop_freecredit_pc"
+msgstr "Your free credits will be deducted. %1 more credit needed."
+
+msgid "ai_pilot_pop_freetrial_pc"
+msgstr "You have %1 free use left."
+
+msgid "ai_pilot_popbutton_norefunded_cancel_pc"
+msgstr "Stop"
+
+msgid "ai_pilot_popbutton_norefunded_confirm_pc"
+msgstr "Cancel"
+
+msgid "ai_pilot_popbutton_norefunded_noremind_pc"
+msgstr "Don't ask again"
+
+msgid "ai_pilot_poptitle_norefunded_pc"
+msgstr "Stop tasks?"
+
+msgid "ai_pilot_popwriting_norefunded_pc"
+msgstr ""
+"Unfinished tasks will be canceled. You won't be refunded for the consumed "
+"credits."
+
+msgid "ai_pilot_smalltitle_deductcredit_pc"
+msgstr "Credits will be consumed"
+
+msgid "ai_pilot_smalltitle_purcredit_pc"
+msgstr "Not enough credits left. Buy credits to continue."
+
+msgid "ai_pilot_smalltitle_purpro_pc"
+msgstr "Not enough credits left. Upgrade to get credits."
+
+msgid "ai_pilot_titlecard_purcredit_pc"
+msgstr "%1 credit needed. "
+
+msgid "ai_pilot_titlecard_purcredit_pc2"
+msgstr "You have %2 credit left. Buy credits to continue."
+
+msgid "ai_pilot_titlecard_purpro_pc"
+msgstr "%1 credit needed. "
+
+msgid "ai_pilot_titlecard_purpro_pc2"
+msgstr "You have %2 credit left. Upgrade to get credits."
+
+msgid "ai_pilot_titlecard_topupcredits_pc"
+msgstr "Not enough credits"
+
+msgid "ai_pilot_toast_refunded_pc"
+msgstr "Task canceled. Credits returned."
+
+msgid "ai_pilot_weaktip_deductcredit_pc"
+msgstr "%1 credit will be consumed"
+
+msgid "ai_pilot_weaktip_freecredit_pc"
+msgstr "Your free credits will be deducted. %1 more credit needed."
+
 msgid "ai_rough_cut"
+msgstr "[null]"
+
+msgid "ai_rough_cut_2"
+msgstr "[null]"
+
+msgid "ai_rough_cut_audio_error_unlegal"
 msgstr "[null]"
 
 msgid "ai_rough_cut_enter_summary"
@@ -775,6 +875,9 @@ msgid "ai_rough_cut_error_too_long"
 msgstr "[null]"
 
 msgid "ai_rough_cut_error_too_short"
+msgstr "[null]"
+
+msgid "ai_rough_cut_error_too_short_2"
 msgstr "[null]"
 
 msgid "ai_rough_cut_error_unlegal"
@@ -894,6 +997,9 @@ msgstr "[null]"
 msgid "ai_rough_cut_stop_exit"
 msgstr "[null]"
 
+msgid "ai_rough_cut_timeline_switch_toast"
+msgstr "[null]"
+
 msgid "ai_rough_cut_writing_error"
 msgstr "[null]"
 
@@ -904,7 +1010,7 @@ msgstr ""
 "re-creation more efficient."
 
 msgid "ai_text_recommendation"
-msgstr "Copywriting recommendation"
+msgstr "Copywriting recommendations"
 
 msgid "ai_text_to_speech_moyin_tost"
 msgstr "Audio generation failed, please replace other sounds and regenerate."
@@ -943,14 +1049,14 @@ msgstr "Custom lyrics"
 
 msgid "aimusic_custom_lyrics_example"
 msgstr ""
-"[prelude]\n"
+"[Prelude]\n"
 "  \n"
 "[Main song]\n"
 "The setting sun dyes the grass green, the end of the world leaves people "
 "heartbroken\n"
 "Beside Changting Ancient Road, the wind blows and becomes slightly cool\n"
 "  \n"
-"[Guide song]\n"
+"[Guide Song]\n"
 "The fleeting oath of alliance\n"
 "From now on we will be separated forever\n"
 "  \n"
@@ -2473,7 +2579,11 @@ msgid "can_not_review,timeline_empty"
 msgstr "Unable to review, timeline is empty"
 
 msgid "can_not_upload_with_copyright_materials"
-msgstr "部分草稿中使用了版权素材，该部分素材暂不支持上传，继续上传将自动清除版权素材及其效果，请确认是否仍继续上传该部分草稿？"
+msgstr ""
+"Copyrighted materials are used in some drafts. This part of the material "
+"does not support uploading at the moment. Continuing to upload will "
+"automatically clear the copyrighted materials and their effects. Please "
+"confirm whether you still want to continue uploading this part of the draft?"
 
 msgid "cancel"
 msgstr "Cancel"
@@ -2541,8 +2651,115 @@ msgstr "Canvas"
 msgid "canvas_origin_size"
 msgstr "Original"
 
+msgid "capcut_assets_filter_favorite"
+msgstr "collect"
+
+msgid "capcut_bind_modal_already_bound_tip"
+msgstr "This Jimeng account has been bound, please switch accounts."
+
+msgid "capcut_bind_modal_cancel_btn"
+msgstr "Cancel"
+
+msgid "capcut_bind_modal_confirm_btn"
+msgstr "confirm"
+
+msgid "capcut_bind_modal_detecting_status"
+msgstr "Recognizing Jimeng account..."
+
+msgid "capcut_bind_modal_switch_btn"
+msgstr "Switch account"
+
+msgid "capcut_bind_modal_title"
+msgstr "Bind Jimeng account"
+
+msgid "capcut_bind_result_assets_load_failed_toast"
+msgstr "Network error, please try again"
+
+msgid "capcut_bind_result_assets_loading_tip"
+msgstr "Resources loading"
+
+msgid "capcut_bind_result_assets_reload_btn"
+msgstr "refresh"
+
+msgid "capcut_jimeng_asset_empty_hint"
+msgstr ""
+"There are currently no related assets, <strong>Go to Jimeng AI "
+"Creation</strong>"
+
+msgid "capcut_launchpad_jimeng_ai_canvas_tab"
+msgstr "canvas"
+
+msgid "capcut_launchpad_jimeng_ai_generate_tab"
+msgstr "generate"
+
+msgid "capcut_launchpad_new_draft_btn"
+msgstr "New project draft"
+
+msgid "capcut_launchpad_sidebar_empty_desc"
+msgstr ""
+"Bind your Jimeng account and your inspiration will be turned into a film "
+"instantly"
+
+msgid "capcut_launchpad_sidebar_empty_sync_btn"
+msgstr "Sync Dream Assets"
+
+msgid "capcut_launchpad_sidebar_jimeng_ai_label"
+msgstr "Dream AI"
+
 msgid "capcut_material_license_agreement"
 msgstr "CapCut Material License Agreement"
+
+msgid "capcut_multitrack_sidebar_empty_desc"
+msgstr ""
+"Bind your Jimeng account and your inspiration will be turned into a film "
+"instantly"
+
+msgid "capcut_multitrack_sidebar_empty_sync_btn"
+msgstr "Sync Dream Assets"
+
+msgid "capcut_settings_bind_by_code_entry"
+msgstr "Verification code binds Jimeng account"
+
+msgid "capcut_settings_bind_code_panel_desc"
+msgstr ""
+"Please go to the Jimeng web page \"Settings-Bind Cutting Account\" to "
+"obtain the verification code"
+
+msgid "capcut_settings_bind_code_panel_failed_toast"
+msgstr "Binding failed, please try again"
+
+msgid "capcut_settings_bind_code_panel_title"
+msgstr "Enter the verification code to bind Jimeng account"
+
+msgid "capcut_settings_view_jimeng_account_label"
+msgstr "View Jimeng account"
+
+msgid "capcut_settings_view_jimeng_account_modal_title"
+msgstr "Account bound"
+
+msgid "capcut_settings_view_jimeng_account_unbind_btn"
+msgstr "Unbind account"
+
+msgid "capcut_unbind_modal_cancel_btn"
+msgstr "Cancel"
+
+msgid "capcut_unbind_modal_confirm_btn"
+msgstr "confirm"
+
+msgid "capcut_unbind_modal_desc_capcut"
+msgstr ""
+"After unbundling, you will not be able to quickly view the generated "
+"content of Jimeng in the clip. The materials already used in the editing "
+"draft will not be affected and can still be loaded and edited normally."
+
+msgid "capcut_unbind_modal_title_capcut"
+msgstr "Confirm to unbind Jimeng account?"
+
+msgid "capcut_unbind_result_failed_toast"
+msgstr "Unbinding failed, please try again"
+
+msgid "capcut_unbind_result_success_toast"
+msgstr "Unbinding successfully"
 
 msgid "caption_desc_export_error_pc"
 msgstr "Network error. Check your internet connection and try again."
@@ -2613,7 +2830,7 @@ msgstr ""
 "effortless!"
 
 msgid "ccPC_hover_AIimage"
-msgstr "AI image now powered by Seedream 4.5"
+msgstr "AI image now powered by Seedream 5.0"
 
 msgid "cc_business_template_copyright_issue_popup_desc"
 msgstr ""
@@ -2706,6 +2923,21 @@ msgstr ""
 
 msgid "cc_m10n_risk_notification_title"
 msgstr "Security notice"
+
+msgid "cc_material_post_entrance_text_animation"
+msgstr "Text animation"
+
+msgid "cc_material_post_page_text_animation_type"
+msgstr "Animation type"
+
+msgid "cc_material_post_page_text_animation_type_in"
+msgstr "In"
+
+msgid "cc_material_post_page_text_animation_type_loop"
+msgstr "Loop"
+
+msgid "cc_material_post_page_text_animation_type_out"
+msgstr "Out"
 
 msgid "cc_mobile_user"
 msgstr "CapCut mobile"
@@ -2966,6 +3198,16 @@ msgstr "Automatically sync your Dreamina assets to CapCut"
 msgid "cc_pro_tag"
 msgstr "Pro"
 
+msgid "cc_receipt_cant_request_toast"
+msgstr ""
+"Can't create a receipt for this order. You can submit feedback in Home > "
+"Feedback."
+
+msgid "cc_receipt_generating_toast"
+msgstr ""
+"Receipt is being created. It may take up to 30 minutes. You can check back "
+"later."
+
 msgid "cc_risk_notification_toast_v2"
 msgstr ""
 "Your account has been accessed from multiple devices recently. For security "
@@ -3073,7 +3315,7 @@ msgid "ccmob_homeBn_AIimage_title"
 msgstr "AI image"
 
 msgid "ccpc_banner_aividseedc"
-msgstr "AI video now powered by Seedance 1.5 Pro"
+msgstr "AI video now powered by Dreamina Seedance 1.5 Pro"
 
 msgid "cctemp_benefit_content"
 msgstr ""
@@ -3097,8 +3339,9 @@ msgstr ""
 msgid "cctemp_rule_content"
 msgstr ""
 "1. If you set a price for the template and then post it, people will need "
-"to purchase the template or upgrade to CapCut Pro to use it.\n"
-"2. People can either purchase to use the template or use it as a Pro member."
+"to purchase the template or subscribe to CapCut Pro to use it.\n"
+"2. People can either purchase to use the template or use it as a Pro "
+"subscriber."
 
 msgid "cctmpl_publish_auto_fill"
 msgstr "Auto-fill"
@@ -3367,7 +3610,7 @@ msgid "clear_and_identify"
 msgstr "clear and identify"
 
 msgid "clear_and_identify_duplicate"
-msgstr "Clear and identify"
+msgstr "clear and identify"
 
 msgid "clear_both"
 msgstr "Clear"
@@ -3979,7 +4222,7 @@ msgid "copy_password"
 msgstr "Copy password"
 
 msgid "copy_password_watch"
-msgstr "copy password"
+msgstr "Copy password"
 
 msgid "copy_success"
 msgstr "Copied"
@@ -4817,13 +5060,16 @@ msgid "draft_damage_stop_popup_title"
 msgstr "Can't open draft"
 
 msgid "draft_devices_clip_done"
-msgstr "Switch devices from draft to device with just one click"
+msgstr "Change devices in draft with one click"
 
 msgid "draft_folder_auto_backup_off"
 msgstr "Turn off automatic draft backup"
 
 msgid "draft_folder_auto_backup_on"
 msgstr "Turn on automatic draft backup"
+
+msgid "draft_folder_back_to_folder"
+msgstr "Return %1"
 
 msgid "draft_folder_cnt_max"
 msgstr "The number of folders has reached the upper limit"
@@ -4843,6 +5089,12 @@ msgstr "draft"
 msgid "draft_folder_draft_new_mgmt"
 msgstr "Draft supports new folder management"
 
+msgid "draft_folder_empty_inform"
+msgstr "The folder is empty and this operation is not supported yet."
+
+msgid "draft_folder_enter"
+msgstr "Enter"
+
 msgid "draft_folder_exit"
 msgstr "quit"
 
@@ -4853,7 +5105,7 @@ msgid "draft_folder_export_success"
 msgstr "%1 files were exported successfully"
 
 msgid "draft_folder_exporting"
-msgstr "Exporting %1 files..."
+msgstr "%1 files are being exported..."
 
 msgid "draft_folder_fast_transfer_restrict"
 msgstr "Folders do not support clipping and quick uploading"
@@ -5064,6 +5316,9 @@ msgstr "Dutch"
 
 msgid "dynamic_stickers_pc"
 msgstr "Animated"
+
+msgid "dynamic_texture_play_speed"
+msgstr "Play Speed"
 
 msgid "echo_cancellation"
 msgstr "Echo reduction"
@@ -5327,7 +5582,7 @@ msgid "enterprise_edition_expiration_reminder"
 msgstr "Enterprise version expiration reminder"
 
 msgid "enterprise_edition_service_agreement"
-msgstr "企业版服务协议"
+msgstr "Enterprise Edition Service Agreement"
 
 msgid "enterprise_id_percent_one"
 msgstr "Enterprise ID: %1"
@@ -6044,6 +6299,9 @@ msgstr "Format:"
 msgid "format_resize"
 msgstr "Format"
 
+msgid "formerly_ai_vid_maker"
+msgstr "formerly AI video maker"
+
 msgid "found_template_in_cc"
 msgstr "I found this amazing template in CapCut. Tap the link to try it out!"
 
@@ -6615,6 +6873,9 @@ msgstr "Imported video has black screen/blurry screen/flashing"
 
 msgid "import_clip"
 msgstr "Import clips"
+
+msgid "pc_export_network_optimize"
+msgstr "Network optimization"
 
 msgid "import_clips_pc"
 msgstr "Import to timeline"
@@ -7293,7 +7554,7 @@ msgid "jianying_promo_pc_script_list_title"
 msgstr "Video copy list"
 
 msgid "jianying_promo_pc_script_select"
-msgstr "Adopted{number}/{number}"
+msgstr "Adopted {number}/{number}"
 
 msgid "jianying_promo_pc_script_selected"
 msgstr "use"
@@ -7302,7 +7563,7 @@ msgid "jianying_promo_pc_script_selectnull_toast"
 msgstr "Choose at least 1 script copy"
 
 msgid "jianying_promo_pc_script_selectover10_toast"
-msgstr "Select up to 10 scripts"
+msgstr "Choose up to 10 scripts"
 
 msgid "jianying_promo_pc_script_sensitive"
 msgstr "The copy contains sensitive words"
@@ -7409,7 +7670,7 @@ msgstr ""
 "Please confirm login on your mobile phone"
 
 msgid "jy_profile_open_jianying_app_to_scan_login"
-msgstr "Open <href0>Clip App-Mine</href0> and scan the QR code to log in"
+msgstr "Open <href0>Clip App-My-More</href0> and scan the QR code to log in"
 
 msgid "jy_profile_qr_code_expired_refresh"
 msgstr "The QR code has expired. Please click to refresh."
@@ -7859,6 +8120,12 @@ msgstr ""
 "Congrats! You’ve got %1 days of free Pro. Try Pro benefits and get the full "
 "editing experience now."
 
+msgid "m10n_receipt_price_tax_excl"
+msgstr "tax excl."
+
+msgid "m10n_receipt_tax_notice"
+msgstr "Taxes may apply and be added at payment."
+
 msgid "m_month_dd_day"
 msgstr "M month dd day hh:mm"
 
@@ -8151,6 +8418,9 @@ msgstr "Couldn’t add"
 msgid "material_add_fail_please_try"
 msgstr "Couldn’t add. Try again later."
 
+msgid "material_added_toast"
+msgstr "[null]"
+
 msgid "material_aesthetics_are_low"
 msgstr "Material aesthetics are low"
 
@@ -8191,6 +8461,9 @@ msgstr "Library"
 
 msgid "material_needs_to_be_downloaded"
 msgstr "Material needs to be downloaded"
+
+msgid "material_not_added_toast"
+msgstr "[null]"
 
 msgid "material_not_complete_replace"
 msgstr "Material not replaced"
@@ -8695,6 +8968,9 @@ msgstr ""
 "Can’t delete space. You need to keep at least 1 space to manage your "
 "projects, materials, and so on."
 
+msgid "mob_system_upgraded_toast"
+msgstr "Our system is being upgraded. Try again later."
+
 msgid "mob_vip_unlimited_number_template_unlocks_order_pc"
 msgstr "Insufficient number of template unlocks in the month"
 
@@ -9142,8 +9418,8 @@ msgstr "No cover added"
 
 msgid "no_device_has_been_found_yet"
 msgstr ""
-"No device found yet, please check the login and networking status of the "
-"receiving device"
+"No device has been found yet. Please check the login and networking status "
+"of the receiving device."
 
 msgid "no_expansion"
 msgstr "No expansion yet"
@@ -9360,7 +9636,7 @@ msgid "notification_desc_on"
 msgstr "System notifications are turned on"
 
 msgid "notification_title_settings"
-msgstr "System notification"
+msgstr "System pop-up notification"
 
 msgid "notifications_receive_events_comments"
 msgstr ""
@@ -10166,6 +10442,321 @@ msgstr "Agency staff"
 msgid "pc_agency_start"
 msgstr "Turn on proxy"
 
+msgid "pc_agent_agent_output_card_deeplink"
+msgstr "More"
+
+msgid "pc_agent_agent_output_card_tiktok_video_extract_text"
+msgstr "Copywriting extraction (should smart copywriting have it?)"
+
+msgid "pc_agent_agent_output_card_tiktok_video_failed"
+msgstr "Cover has expired"
+
+msgid "pc_agent_agent_output_card_tiktok_video_summarize_context"
+msgstr "Video summary (should smart copywriting have it?)"
+
+msgid "pc_agent_agent_output_card_vimo_filter_retrieve"
+msgstr "filter"
+
+msgid "pc_agent_agent_output_card_vimo_image_video_retrieve"
+msgstr "Official material"
+
+msgid "pc_agent_agent_output_card_vimo_music_retrieve"
+msgstr "music"
+
+msgid "pc_agent_agent_output_card_vimo_music_subtitle_template_retrieve"
+msgstr "Lyrics animation"
+
+msgid "pc_agent_agent_output_card_vimo_sound_effect_retrieve"
+msgstr "Sound effects"
+
+msgid "pc_agent_agent_output_card_vimo_sticker_retrieve"
+msgstr "sticker"
+
+msgid "pc_agent_agent_output_card_vimo_subtitle_template_retrieve"
+msgstr "subtitle template"
+
+msgid "pc_agent_agent_output_card_vimo_text_style_retrieve"
+msgstr "Flower characters"
+
+msgid "pc_agent_agent_output_card_vimo_text_template_retrieve"
+msgstr "text template"
+
+msgid "pc_agent_agent_output_card_vimo_transition_retrieve"
+msgstr "Transition"
+
+msgid "pc_agent_agent_summary_task_cancelled"
+msgstr "The task has been cancelled. Can you tell me what to do next?"
+
+msgid "pc_agent_agent_summary_task_failed"
+msgstr "Task execution failed, please try again later"
+
+msgid "pc_agent_agent_summary_task_failed_beyond_ability"
+msgstr ""
+"I don't have this ability yet, but I have received your needs and I will "
+"continue to improve."
+
+msgid "pc_agent_agent_summary_task_failed_network_error"
+msgstr "Network error, please try again later"
+
+msgid "pc_agent_agent_summary_task_failed_risk_control_agent_output"
+msgstr "Something went wrong, please try again later"
+
+msgid "pc_agent_agent_summary_task_failed_risk_control_user_input"
+msgstr "Please try to enter other needs and I will try my best to help you"
+
+msgid "pc_agent_agent_summary_to_check_timeline"
+msgstr "result%"
+
+msgid "pc_agent_agree_to_use_material_analysis_body_text"
+msgstr ""
+"In order to provide more accurate intelligent editing and intelligent "
+"generation functions, the editing assistant needs to upload materials "
+"(video/pictures/audio, etc.) to the cloud when you use relevant "
+"capabilities, and the intelligent model will analyze and understand them. "
+"We will strictly follow the privacy policy and relevant laws and "
+"regulations, only use the materials to provide you with this function, "
+"strictly protect your privacy, and will not disclose it to the outside "
+"world."
+
+msgid "pc_agent_agree_to_use_material_analysis_cancel_buttom"
+msgstr "Not needed yet"
+
+msgid "pc_agent_agree_to_use_material_analysis_confirm_buttom"
+msgstr "Confirm to open"
+
+msgid "pc_agent_agree_to_use_material_analysis_title"
+msgstr "Whether to enable material upload for analysis and understanding"
+
+msgid "pc_agent_capsule_intro_words"
+msgstr "Try Editing Assistant"
+
+msgid "pc_agent_capsule_status_analyze"
+msgstr "Analyzing"
+
+msgid "pc_agent_capsule_status_complete"
+msgstr "Completed"
+
+msgid "pc_agent_capsule_status_complete_to_check"
+msgstr "Completed, waiting to be viewed"
+
+msgid "pc_agent_capsule_status_execute"
+msgstr "Executing"
+
+msgid "pc_agent_capsule_status_failed"
+msgstr "Task failed"
+
+msgid "pc_agent_capsule_status_failed_to_check"
+msgstr "Task failed, waiting to be checked"
+
+msgid "pc_agent_capsule_status_to_reply"
+msgstr "Awaiting reply"
+
+msgid "pc_agent_confirm_to_change_timeline_body_text"
+msgstr ""
+"Switching the timeline will terminate the current function, and any points "
+"that have been consumed will not be returned. It is recommended to switch "
+"after completion."
+
+msgid "pc_agent_confirm_to_change_timeline_cancel_button"
+msgstr "Don't switch yet"
+
+msgid "pc_agent_confirm_to_change_timeline_confirm_button"
+msgstr "Confirm switch"
+
+msgid "pc_agent_confirm_to_change_timeline_title"
+msgstr "Do you want to switch timelines?"
+
+msgid "pc_agent_input_box_action_button_close"
+msgstr "closure"
+
+msgid "pc_agent_input_box_action_button_to_check"
+msgstr "Go check"
+
+msgid "pc_agent_input_box_add_drop_down_menu_explore_more"
+msgstr "More material"
+
+msgid "pc_agent_input_box_add_drop_down_menu_title"
+msgstr "my material"
+
+msgid "pc_agent_input_box_add_drop_down_menu_upload"
+msgstr "Local upload"
+
+msgid "pc_agent_input_box_add_local_resource_panel_cancel_button"
+msgstr "Cancel"
+
+msgid "pc_agent_input_box_add_local_resource_panel_confirm_button"
+msgstr "Add to"
+
+msgid "pc_agent_input_box_add_local_resource_panel_folder_enter"
+msgstr "Enter"
+
+msgid "pc_agent_input_box_add_local_resource_panel_navi_all"
+msgstr "all"
+
+msgid "pc_agent_input_box_add_local_resource_panel_navi_breadcrumb_tooltip"
+msgstr "return%"
+
+msgid "pc_agent_input_box_add_local_resource_panel_navi_file_size"
+msgstr "size"
+
+msgid "pc_agent_input_box_add_local_resource_panel_navi_time_range"
+msgstr "duration"
+
+msgid "pc_agent_input_box_add_local_resource_panel_navi_upload_time"
+msgstr "Import time"
+
+msgid "pc_agent_input_box_add_local_resource_panel_title"
+msgstr "% selected materials"
+
+msgid "pc_agent_input_box_add_tooltip"
+msgstr "Add to"
+
+msgid "pc_agent_input_box_intro_words"
+msgstr "Describe your creative idea"
+
+msgid "pc_agent_input_box_maximize_smart_cut_tooltip"
+msgstr "Expansion is not currently supported when using cut-out broadcasting."
+
+msgid "pc_agent_input_box_maximize_tooltip"
+msgstr "Expand"
+
+msgid "pc_agent_input_box_minimize_tooltip"
+msgstr "close"
+
+msgid "pc_agent_input_box_mode"
+msgstr "model"
+
+msgid "pc_agent_input_box_mode_change_tooltip"
+msgstr "Switch mode"
+
+msgid "pc_agent_input_box_mode_exit_tooltip"
+msgstr "exit mode"
+
+msgid "pc_agent_input_box_mode_image_generation"
+msgstr "Image generation"
+
+msgid "pc_agent_input_box_mode_video_generation"
+msgstr "video generation"
+
+msgid "pc_agent_input_box_pause_tooltip"
+msgstr "Stop generating"
+
+msgid "pc_agent_input_box_quote_preview_failed"
+msgstr "Loading failed"
+
+msgid "pc_agent_input_box_quote_segment_adjust"
+msgstr "adjust"
+
+msgid "pc_agent_input_box_quote_segment_audio"
+msgstr "Audio"
+
+msgid "pc_agent_input_box_quote_segment_effect"
+msgstr "special effects"
+
+msgid "pc_agent_input_box_quote_segment_filter"
+msgstr "filter"
+
+msgid "pc_agent_input_box_quote_segment_image"
+msgstr "picture"
+
+msgid "pc_agent_input_box_quote_segment_lost"
+msgstr "Material lost"
+
+msgid "pc_agent_input_box_quote_segment_multiple"
+msgstr "%indivual%"
+
+msgid "pc_agent_input_box_quote_segment_read_audio"
+msgstr "Read audio"
+
+msgid "pc_agent_input_box_quote_segment_shape"
+msgstr "Vector illustration"
+
+msgid "pc_agent_input_box_quote_segment_sound_effect"
+msgstr "Sound effects"
+
+msgid "pc_agent_input_box_quote_segment_sticker"
+msgstr "sticker"
+
+msgid "pc_agent_input_box_quote_segment_subtitle"
+msgstr "subtitle"
+
+msgid "pc_agent_input_box_quote_segment_template"
+msgstr "stencil"
+
+msgid "pc_agent_input_box_quote_segment_text"
+msgstr "text"
+
+msgid "pc_agent_input_box_quote_segment_text_template"
+msgstr "text template"
+
+msgid "pc_agent_input_box_quote_segment_transition"
+msgstr "Transition"
+
+msgid "pc_agent_input_box_quote_segment_video"
+msgstr "video"
+
+msgid "pc_agent_input_box_status_analyze"
+msgstr "Analyzing…"
+
+msgid "pc_agent_input_box_status_complete"
+msgstr "Completed"
+
+msgid "pc_agent_input_box_status_failed"
+msgstr "Task failed"
+
+msgid "pc_agent_input_box_status_retry_tooltip"
+msgstr "Try again"
+
+msgid "pc_agent_input_box_status_to_reply"
+msgstr "Awaiting reply"
+
+msgid "pc_agent_side_panel_agent_output_quote"
+msgstr "Quote"
+
+msgid "pc_agent_side_panel_agent_output_retry"
+msgstr "Regenerate"
+
+msgid "pc_agent_side_panel_history_failed_to_load"
+msgstr "Loading failed, click to try again"
+
+msgid "pc_agent_side_panel_intro_words"
+msgstr "What do you want to create today?"
+
+msgid "pc_agent_side_panel_progress_title_analyze"
+msgstr "Analyzing…"
+
+msgid "pc_agent_side_panel_progress_title_cancel"
+msgstr "Canceled"
+
+msgid "pc_agent_side_panel_progress_title_complete"
+msgstr "Completed"
+
+msgid "pc_agent_side_panel_progress_title_execute"
+msgstr "Executing…"
+
+msgid "pc_agent_side_panel_progress_title_failed"
+msgstr "Task failed"
+
+msgid "pc_agent_side_panel_title"
+msgstr "Editing assistant"
+
+msgid "pc_agent_side_panel_user_message_quote"
+msgstr "Quote"
+
+msgid "pc_agent_side_panel_user_message_refill"
+msgstr "Edit again"
+
+msgid "pc_agent_toast_fail_to_send"
+msgstr "Network abnormality, sending failed"
+
+msgid "pc_agent_toast_input_exceed_maximum_word_count"
+msgstr "Enter up to 3000 words"
+
+msgid "pc_agent_toast_network_weak"
+msgstr ""
+"The network is not good. It is recommended to change the network "
+"environment."
+
 msgid "pc_agic_credit_popup_desc_vadility_rules"
 msgstr ""
 "Credits can be purchased and are valid for 2 years. Learn more about "
@@ -10696,7 +11287,7 @@ msgstr ""
 "provided text. Please record again according to the text."
 
 msgid "pc_ai_design"
-msgstr "AI design"
+msgstr "Design Studio"
 
 msgid "pc_ai_design_new"
 msgstr "NEW"
@@ -10708,7 +11299,7 @@ msgid "pc_ai_design_sign_in_to_view_projects"
 msgstr "%1 to view your projects"
 
 msgid "pc_ai_design_tooltip"
-msgstr "AI design is now upgraded to meet all your design needs"
+msgstr "Design Studio is now upgraded to meet all your design needs"
 
 msgid "pc_ai_effect"
 msgstr "AI effects"
@@ -11045,9 +11636,7 @@ msgid "pc_ai_expand_m10n_popup_title_credits_notenough"
 msgstr "Not enough credits left"
 
 msgid "pc_ai_expand_m10n_popup_title_desc_first_reminder_cn"
-msgstr ""
-"Points will be deducted after the generation is completed and will not be "
-"prompted again."
+msgstr "Points will be deducted after generation and will not be prompted again."
 
 msgid "pc_ai_expand_m10n_popup_title_leave_applied"
 msgstr "Leave now?"
@@ -11079,6 +11668,9 @@ msgstr "Images generated. %1 free use deducted."
 msgid "pc_ai_expand_m10n_use_needed"
 msgstr "Use needed %1"
 
+msgid "pc_ai_expand_save_btn"
+msgstr "Save"
+
 msgid "pc_ai_hd"
 msgstr "AI HD"
 
@@ -11088,6 +11680,9 @@ msgstr "AI HD"
 msgid "pc_ai_hd_unsupported_media"
 msgstr "Videos don't support AI HD adjustment"
 
+msgid "pc_ai_image_add_reference_image"
+msgstr "Add reference image"
+
 msgid "pc_ai_image_failure_generate_please_choose"
 msgstr "Couldn’t apply effect. Select a photo of a clear front face and try again."
 
@@ -11096,6 +11691,21 @@ msgstr "Couldn’t apply effect. Select another photo and try again."
 
 msgid "pc_ai_image_generating_failure_currently_only"
 msgstr "Couldn’t apply this effect to a photo with multiple faces"
+
+msgid "pc_ai_image_settings"
+msgstr "${ratio}, ${resolution}"
+
+msgid "pc_ai_image_settings_label"
+msgstr "Image settings"
+
+msgid "pc_ai_image_turn_into_ai_dialogue_btn"
+msgstr "AI dialogue scene"
+
+msgid "pc_ai_image_turn_into_ai_video_btn"
+msgstr "AI video"
+
+msgid "pc_ai_image_turn_into_video_btn"
+msgstr "Turn into video"
 
 msgid "pc_ai_keyword_edit"
 msgstr "Highlight"
@@ -11158,13 +11768,53 @@ msgstr "Lyric word count doesn't match. Please modify lyrics."
 msgid "pc_ai_lyrics_empty_lyrics"
 msgstr "Please input the right number of words in lyrics"
 
+msgid "pc_ai_media_add_image"
+msgstr "Add image"
+
 msgid "pc_ai_media_compliance_tip"
 msgstr ""
 "To protect your privacy, avoid including personal or sensitive information "
 "in your prompt."
 
+msgid "pc_ai_media_settings_resolution"
+msgstr "Resolution"
+
 msgid "pc_ai_melody_adaptation_failed"
 msgstr "The vocal melody of the song was not recognized."
+
+msgid "pc_ai_model_seedance_1_0_text"
+msgstr ""
+"The prompt words are highly responsive, the screen movement is stable and "
+"smooth, and the generation speed is fast"
+
+msgid "pc_ai_model_seedance_1_0_title"
+msgstr "Seedance 1.0"
+
+msgid "pc_ai_model_seedance_2_0_fast_text"
+msgstr ""
+"Obtain high-quality videos more efficiently. It supports inputting videos, "
+"pictures, and audios as reference for generation. Live photos are not "
+"supported yet."
+
+msgid "pc_ai_model_seedance_2_0_fast_title"
+msgstr "Seedance 2.0 fast"
+
+msgid "pc_ai_model_seedance_2_0_text"
+msgstr ""
+"Movie-level video quality, supports input videos, pictures, and audios as "
+"reference for generation. Live photos are not supported yet."
+
+msgid "pc_ai_model_seedance_2_0_title"
+msgstr "Seedance 2.0"
+
+msgid "pc_ai_model_seedream_5_0_text"
+msgstr ""
+"Supports accurate reference migration capabilities, stably maintains "
+"character characteristics, and provides natural portrait beautification and "
+"makeup migration effects."
+
+msgid "pc_ai_model_seedream_5_0_title"
+msgstr "Seedream 5.0"
 
 msgid "pc_ai_music_reset_original_lyrics"
 msgstr "Reset as original lyrics"
@@ -11374,6 +12024,9 @@ msgstr "Reference"
 msgid "pc_ai_replace_reference_replace"
 msgstr "Replace"
 
+msgid "pc_ai_replace_video_describe"
+msgstr "Describe your edit"
+
 msgid "pc_ai_storyboard"
 msgstr "AI oral broadcast creation"
 
@@ -11552,6 +12205,51 @@ msgstr "「none」"
 
 msgid "pc_ai_uhd_warn"
 msgstr "「none」"
+
+msgid "pc_ai_video_multiframes"
+msgstr "Multiframes"
+
+msgid "pc_ai_video_multiframes_model"
+msgstr "Dreamina Seedance Multiframes"
+
+msgid "pc_ai_video_multiframes_model_info"
+msgstr "Up to 10 reference images"
+
+msgid "pc_ai_video_multiframes_placeholder"
+msgstr "Upload 2–10 images to generate a continuous video."
+
+msgid "pc_ai_video_multiframes_prompt_applied_to_all"
+msgstr "Prompt and duration setting applied to all transitions"
+
+msgid "pc_ai_video_multiframes_prompt_apply_to_all"
+msgstr "Apply to all"
+
+msgid "pc_ai_video_multiframes_prompt_done"
+msgstr "Done"
+
+msgid "pc_ai_video_multiframes_prompt_hint"
+msgstr "Describe the transition between the two frames"
+
+msgid "pc_ai_video_multiframes_prompt_hovertip"
+msgstr "Add prompt"
+
+msgid "pc_ai_video_multiframes_prompt_title"
+msgstr "Prompt"
+
+msgid "pc_ai_video_multiframes_same_ratio_toast"
+msgstr "Upload images with the same aspect ratio for optimal results"
+
+msgid "pc_ai_video_multiframes_total_duration"
+msgstr "Total %1s"
+
+msgid "pc_ai_video_multiframes_upload_max_toast"
+msgstr "You can upload up to %1 images"
+
+msgid "pc_ai_video_multiframes_upload_min_toast"
+msgstr "Upload at least 2 images"
+
+msgid "pc_ai_video_settings"
+msgstr "${seconds}s, ${ratio}, ${resolution}"
 
 msgid "pc_ai_writer_agree_content"
 msgstr ""
@@ -11921,6 +12619,19 @@ msgstr ""
 "Contains some AI-generated content. Please consider the impact before "
 "sharing."
 
+msgid "pc_aimodel_aitrans_waiting_hovertip"
+msgstr ""
+"There are currently a large number of users, so the waiting time may be "
+"longer."
+
+msgid "pc_aimodel_dreamontage_1_0_description"
+msgstr ""
+"Supports referring to the subject or scene of multiple pictures to generate "
+"a clear and vivid transition video"
+
+msgid "pc_aimodel_dreamontage_1_0_title"
+msgstr "DreaMontage 1.0"
+
 msgid "pc_aimusic_auto_lyrics"
 msgstr "Smart Lyrics"
 
@@ -12165,6 +12876,11 @@ msgstr ""
 "Please describe the song you want to generate, such as rock, passion, male "
 "vocal"
 
+msgid "pc_aitrans_image_invalid"
+msgstr ""
+"No valid screen content was recognized, please try changing other materials "
+"and try again."
+
 msgid "pc_aiwriting_beyond_expectation"
 msgstr "Exceeded expectations"
 
@@ -12267,7 +12983,7 @@ msgid "pc_aiwriting_text_exceed"
 msgstr "Exceeded 100 character limit"
 
 msgid "pc_aiwriting_understand"
-msgstr "Understanding the problem"
+msgstr "understand the problem"
 
 msgid "pc_aiwriting_unlike"
 msgstr "Click to dislike"
@@ -14105,109 +14821,101 @@ msgid "pc_back_to_home"
 msgstr "Back to home page"
 
 msgid "pc_backend_export_editor_back_homepage_major"
-msgstr "Return to home page"
+msgstr "Back to home"
 
 msgid "pc_backend_export_editor_back_homepage_minor"
-msgstr "Do not exit yet"
+msgstr "Cancel"
 
 msgid "pc_backend_export_editor_back_homepage_text"
 msgstr ""
-"The current draft has been automatically saved. Return to the home page to "
-"view the draft that failed to export."
+"Your project has been saved automatically. Return to home to view the "
+"project that failed to export."
 
 msgid "pc_backend_export_editor_back_homepage_title"
-msgstr "Exit draft and return to homepage?"
+msgstr "Quit project and return to home?"
 
 msgid "pc_backend_export_editor_collapse"
-msgstr "Collapse to home page"
+msgstr "Back to home"
 
 msgid "pc_backend_export_editor_export_open"
-msgstr "Open draft"
+msgstr "Open project"
 
 msgid "pc_backend_export_editor_export_success"
-msgstr "Exported successfully, let more people see your work!"
+msgstr "Video exported! Share it now."
 
 msgid "pc_backend_export_editor_export_title"
-msgstr "Export — %1"
+msgstr "%1 exported"
 
 msgid "pc_backend_export_editor_function_processing"
 msgstr ""
-"The task is being processed. After completion, you can collapse it and "
-"export it to the home page."
+"Once the features are applied, you can click \"Back to home\" to continue "
+"exporting in the background."
 
 msgid "pc_backend_export_editor_got_it"
-msgstr "knew"
+msgstr "OK"
 
 msgid "pc_backend_export_editor_hint"
-msgstr ""
-"Supports folding to the homepage and backend export, which does not block "
-"you from editing other drafts"
+msgstr "Your export will continue in the background, so you can edit other projects."
 
 msgid "pc_backend_export_editor_other_export"
-msgstr ""
-"Other drafts are being exported and will start automatically after "
-"completion."
+msgstr "Another project is exporting. Export will start once it's done."
 
 msgid "pc_backend_export_editor_wait"
-msgstr "Waiting for export"
+msgstr "Waiting to export"
 
 msgid "pc_backend_export_external_fail_major_btn"
-msgstr "Go to the home page to view"
+msgstr "View in home"
 
 msgid "pc_backend_export_external_fail_minor_btn"
-msgstr "knew"
+msgstr "OK"
 
 msgid "pc_backend_export_external_fail_title"
-msgstr "%1 export failed"
+msgstr "Couldn't export %1"
 
 msgid "pc_backend_export_external_runtime_minor_btn"
-msgstr "knew"
+msgstr "OK"
 
 msgid "pc_backend_export_external_runtime_text"
-msgstr ""
-"The current editing is stuck. It is recommended to wait for the export to "
-"complete before continuing editing."
+msgstr "Please wait until the export is complete."
 
 msgid "pc_backend_export_external_runtime_title"
-msgstr "Stuttering Tip: Please wait for the export to complete"
+msgstr "Editing is lagging"
 
 msgid "pc_backend_export_external_success_major_btn"
-msgstr "View files"
+msgstr "View file"
 
 msgid "pc_backend_export_external_success_minor_btn"
-msgstr "knew"
+msgstr "OK"
 
 msgid "pc_backend_export_external_success_title"
-msgstr "%1 exported successfully"
+msgstr "%1 exported"
 
 msgid "pc_backend_export_homepage_exit_major_btn"
-msgstr "Keep waiting"
+msgstr "Cancel"
 
 msgid "pc_backend_export_homepage_exit_minor_btn"
-msgstr "Still want to exit"
+msgstr "Quit"
 
 msgid "pc_backend_export_homepage_exit_text"
-msgstr ""
-"A draft is being exported. Closing the clipping will terminate the export. "
-"Are you sure to exit?"
+msgstr "The project you're exporting will be stopped."
 
 msgid "pc_backend_export_homepage_exit_title"
-msgstr "Exiting will interrupt the export"
+msgstr "Quit app?"
 
 msgid "pc_backend_export_homepage_exporting"
 msgstr "Exporting"
 
 msgid "pc_backend_export_homepage_fail"
-msgstr "Export failed"
+msgstr "Couldn't export"
 
 msgid "pc_backend_export_homepage_success"
-msgstr "Export successful"
+msgstr "Exported"
 
 msgid "pc_backend_export_homepage_toast_exporting"
-msgstr "Draft is being exported, please try again later"
+msgstr "Your project is exporting. Try again later."
 
 msgid "pc_backend_export_homepage_toast_home"
-msgstr "Draft has been closed and export continues"
+msgstr "Your project is exporting. Feel free to work on something else."
 
 msgid "pc_backend_export_homepage_toast_sharing"
 msgstr ""
@@ -14215,10 +14923,10 @@ msgstr ""
 "cover to continue."
 
 msgid "pc_backend_export_homepage_toast_template"
-msgstr "The draft has been folded to the home page and export continues"
+msgstr "Your project is exporting. Feel free to work on something else."
 
 msgid "pc_backend_export_homepage_waiting"
-msgstr "Waiting for export"
+msgstr "Waiting to export"
 
 msgid "pc_background"
 msgstr "Canvas"
@@ -14396,6 +15104,36 @@ msgstr "Materials refreshed"
 msgid "pc_beat_sync_videos"
 msgstr "Videos about music"
 
+msgid "pc_beauty_filter_cannot"
+msgstr "「none」"
+
+msgid "pc_beauty_filter_child"
+msgstr "「none」"
+
+msgid "pc_beauty_filter_clear"
+msgstr "「none」"
+
+msgid "pc_beauty_filter_intensity"
+msgstr "「none」"
+
+msgid "pc_beauty_filter_nature"
+msgstr "「none」"
+
+msgid "pc_beauty_filter_new"
+msgstr "「none」"
+
+msgid "pc_beauty_filter_peach"
+msgstr "「none」"
+
+msgid "pc_beauty_filter_preset"
+msgstr "「none」"
+
+msgid "pc_beauty_filter_real"
+msgstr "「none」"
+
+msgid "pc_beauty_filter_young"
+msgstr "「none」"
+
 msgid "pc_begin_use"
 msgstr "Get started"
 
@@ -14443,6 +15181,64 @@ msgstr "Source language"
 
 msgid "pc_bilingual_subtitles_upload_failed"
 msgstr "Couldn’t update translated captions. Try again."
+
+msgid "pc_billing_email_btn"
+msgstr "Done"
+
+msgid "pc_billing_email_desc"
+msgstr ""
+"Enter an email to automatically receive your receipts and invoices. If you "
+"update it, future emails will be sent to the new address. For Google Play "
+"or App Store purchases, please check your account there."
+
+msgid "pc_billing_email_title"
+msgstr "Billing email address"
+
+msgid "pc_billing_email_tooltip"
+msgstr ""
+"Add your billing email to have new receipts and invoices sent to your inbox "
+"automatically."
+
+msgid "pc_billing_email_updated_toast"
+msgstr "Billing email updated"
+
+msgid "pc_billing_entry_tooltip"
+msgstr "You can now check your receipts in \"Billing\" from here."
+
+msgid "pc_billing_entry_tooltip_btn"
+msgstr "Got it"
+
+msgid "pc_billing_history"
+msgstr "Billing history"
+
+msgid "pc_billing_history_payment_method"
+msgstr "Payment method"
+
+msgid "pc_billing_history_tab_individual"
+msgstr "Individual"
+
+msgid "pc_billing_history_tab_other"
+msgstr "Others"
+
+msgid "pc_billing_history_tab_space"
+msgstr "Space"
+
+msgid "pc_billing_history_tab_teams"
+msgstr "Teams"
+
+msgid "pc_billing_order_copied_toast"
+msgstr "Copied"
+
+msgid "pc_billing_popup_title"
+msgstr "Billing"
+
+msgid "pc_billing_receipt_availability_info"
+msgstr ""
+"Receipts are available for purchases after %1. Some countries and regions "
+"aren't supported yet."
+
+msgid "pc_billing_setting"
+msgstr "Billing"
 
 msgid "pc_binding_clips_material"
 msgstr "Freeze-frame clips bound to original footage"
@@ -15102,6 +15898,9 @@ msgstr ""
 msgid "pc_captain_transfer_link_email_title"
 msgstr "Link email to your account"
 
+msgid "pc_caption_animation_post"
+msgstr "Post captions animation"
+
 msgid "pc_caption_auto_start"
 msgstr "Highlight keywords automatically?"
 
@@ -15432,6 +16231,9 @@ msgstr "Apply templates and generate captions"
 msgid "pc_captions_add_tab"
 msgstr "Add captions"
 
+msgid "pc_captions_animation_psot"
+msgstr "Post captions animation"
+
 msgid "pc_captions_apply_to_all_main"
 msgstr "Apply to all main captions"
 
@@ -15624,6 +16426,11 @@ msgstr ""
 msgid "pc_cc_commercial_music_use_method_q"
 msgstr "Where and how can I use Commercial Music?"
 
+msgid "pc_cc_language_switch_warning_desc"
+msgstr ""
+"Attention: Switching the main language will reset all previously edited "
+"language information. Please select carefully!"
+
 msgid "pc_cc_pro_running_close_before_continuing"
 msgstr "CapCut is running. Quit it before open the new version."
 
@@ -15683,6 +16490,9 @@ msgstr "The background will be restored."
 
 msgid "pc_change_bg_reset_title"
 msgstr "Continue to reset?"
+
+msgid "pc_change_bg_save_btn"
+msgstr "Save"
 
 msgid "pc_change_group_name"
 msgstr "Modify group name"
@@ -17295,7 +18105,7 @@ msgid "pc_cloud_auto_upload_frame_more"
 msgstr "More settings"
 
 msgid "pc_cloud_auto_upload_frame_network"
-msgstr "网络环境限制"
+msgstr "Network environment restrictions"
 
 msgid "pc_cloud_auto_upload_frame_network_tag1"
 msgstr "wifi or wired network"
@@ -17482,7 +18292,7 @@ msgid "pc_cloud_cor_name"
 msgstr "Collaboration cloud space name"
 
 msgid "pc_cloud_cor_share"
-msgstr "Team sharing and efficient collaboration"
+msgstr "Team sharing, efficient collaboration"
 
 msgid "pc_cloud_cor_share_last"
 msgstr "Shared enterprise remaining capacity"
@@ -17851,8 +18661,8 @@ msgstr "Your phone is set to sync only under wifi network."
 
 msgid "pc_cloud_open_auto_new_device"
 msgstr ""
-"Found a new device (%1), enabled automatic draft backup of the device, and "
-"enabled real-time interoperability of drafts"
+"Found a new device (%1), enabled automatic backup of drafts for this "
+"device, and enabled real-time interoperability of drafts"
 
 msgid "pc_cloud_operation"
 msgstr "operate"
@@ -18094,7 +18904,7 @@ msgstr ""
 "You can directly save the draft as a template"
 
 msgid "pc_cloud_team_template_no_limited"
-msgstr "Team template has reached the limit"
+msgstr "The team template has reached the limit"
 
 msgid "pc_cloud_team_template_no_permission"
 msgstr "No permission to create yet"
@@ -18330,7 +19140,7 @@ msgstr ""
 
 msgid "pc_cn_clip_profession_edition_not_display"
 msgstr ""
-"The professional version of Crop Screen does not support display. It is "
+"The professional version of Clipart does not support display. It is "
 "recommended to update the graphics card driver or change the computer to "
 "try!"
 
@@ -19770,7 +20580,7 @@ msgstr "create"
 
 msgid "pc_create_ae_template_experience_project"
 msgstr ""
-"Create an AE template experience draft.\\n"
+"Create an AE template experience draft. \\n"
 "The draft will be automatically deleted when closed."
 
 msgid "pc_create_ai_clone_change_voice_for_music"
@@ -19915,7 +20725,7 @@ msgid "pc_current_version_not_support_apple_pay"
 msgstr ""
 "It is detected that the current package of Cutting Professional Edition was "
 "purchased from the Mac app store, but your current installation package "
-"does not support Apple Pay; you can choose to download the Cutting "
+"does not support Apple Pay. You can choose to download the Cutting "
 "Professional Edition installation package from the app store to change the "
 "package to avoid repeated payments."
 
@@ -19963,10 +20773,14 @@ msgid "pc_customer_success"
 msgstr "Customer success"
 
 msgid "pc_customer_support_macos"
-msgstr "Need customer support? capcut.support@bytedance.com"
+msgstr ""
+"Need support? If you're in the US, contact us at support@us.capcut.com. If "
+"you're in other regions, contact us at capcut.support@bytedance.com."
 
 msgid "pc_customer_support_macos_with_whatsapp"
-msgstr "Need more help? Email us at capcut.support@bytedance.com."
+msgstr ""
+"Need support? If you're in the US, contact us at support@us.capcut.com. If "
+"you're in other regions, contact us at capcut.support@bytedance.com."
 
 msgid "pc_customer_support_win"
 msgstr "Need customer support? capcut.support@bytedance.com"
@@ -20886,6 +21700,18 @@ msgstr "Downloading error"
 msgid "pc_download_failed_please_retry"
 msgstr "Couldn’t download. Try again later."
 
+msgid "pc_download_folder_failure_update_btn"
+msgstr "OK"
+
+msgid "pc_download_folder_failure_update_info"
+msgstr ""
+"This folder includes projects created with a newer version of CapCut. You "
+"can download the folder once the new version is released and installed on "
+"desktop."
+
+msgid "pc_download_folder_failure_update_title"
+msgstr "Can't download this folder"
+
 msgid "pc_download_ing"
 msgstr "Downloading..."
 
@@ -21383,6 +22209,9 @@ msgstr "Recognizing speech... %1%"
 
 msgid "pc_edit_agent_transcript_title"
 msgstr "Filler words detected"
+
+msgid "pc_edit_agent_transcript_unfinish"
+msgstr "You can't remove them anymore."
 
 msgid "pc_edit_agent_understanding"
 msgstr "Thinking..."
@@ -22402,7 +23231,7 @@ msgid "pc_error_occurred"
 msgstr "An error occurred"
 
 msgid "pc_error_occurred_dissolved"
-msgstr "An abnormality has occurred, and the shooting mission has been disbanded."
+msgstr "An abnormality occurred, and the shooting mission was disbanded."
 
 msgid "pc_error_occurred_exit_and_reopen"
 msgstr "An exception occurred, please exit and reopen [shoot together]"
@@ -22864,6 +23693,21 @@ msgstr ""
 
 msgid "pc_export_settings_remove_aigc_watermark_switch_title"
 msgstr "Remove AIGC watermark"
+
+msgid "pc_export_settings_video_format_mxf"
+msgstr "MXF"
+
+msgid "pc_export_settings_video_network_optimization"
+msgstr "Network playback optimization"
+
+msgid "pc_export_settings_video_network_optimization_info"
+msgstr ""
+"If you plan to upload videos to video platforms such as Douyin, it is "
+"recommended to check this option. By allowing users to play while loading, "
+"the playback experience can be significantly improved."
+
+msgid "pc_export_settings_video_network_optimization_unavailable"
+msgstr "This feature is not available in MXF video format"
 
 msgid "pc_export_static_frame"
 msgstr "Export still frame"
@@ -23659,7 +24503,7 @@ msgid "pc_feature_keyframe_title"
 msgstr "Keyframes: Easily achieve smooth effects"
 
 msgid "pc_feature_mask"
-msgstr "Mask"
+msgstr "mask"
 
 msgid "pc_feature_mask_content"
 msgstr ""
@@ -23870,6 +24714,11 @@ msgstr "Finding projects"
 
 msgid "pc_feedback_cloud_space_problem"
 msgstr "Space"
+
+msgid "pc_feedback_contact_us_email"
+msgstr ""
+"Need support? If you're in the US, contact us at support@us.capcut.com. If "
+"you're in other regions, contact us at capcut.support@bytedance.com."
 
 msgid "pc_feedback_contribute"
 msgstr "Sharing"
@@ -25029,7 +25878,7 @@ msgid "pc_freeze_frame_completed"
 msgstr "Freezing completed"
 
 msgid "pc_freeze_n"
-msgstr "Freeze"
+msgstr "freeze frame"
 
 msgid "pc_freeze_re_choose"
 msgstr "Select freeze frame"
@@ -25100,6 +25949,12 @@ msgstr "Enter/Exit full screen"
 msgid "pc_function_operation"
 msgstr "Function Operation"
 
+msgid "pc_function_panel_favorite_avatar"
+msgstr "After logging in, you can view your collection of digital human images."
+
+msgid "pc_function_panel_favorite_avatar_login"
+msgstr "Click to log in"
+
 msgid "pc_games_anime"
 msgstr "Game or anime"
 
@@ -25108,6 +25963,51 @@ msgstr "Gecko Beta"
 
 msgid "pc_gecko_local_info"
 msgstr "Gecko Local Info"
+
+msgid "pc_gen_ai_audio_violation_toast"
+msgstr ""
+"The audio may contain content that violates our Community Guidelines. "
+"Credits have been refunded."
+
+msgid "pc_gen_ai_change_image_toast"
+msgstr ""
+"The image may contain content that violates our Community Guidelines. "
+"Credits have been refunded."
+
+msgid "pc_gen_ai_change_prompt_toast"
+msgstr ""
+"The prompt may contain content that violates our Community Guidelines. "
+"Credits have been refunded."
+
+msgid "pc_gen_ai_feature_unavailable_toast"
+msgstr "Couldn't generate. This feature isn't available in your region yet."
+
+msgid "pc_gen_ai_insufficient_resource_toast"
+msgstr "We're experiencing high demand. Try again in a moment."
+
+msgid "pc_gen_ai_not_enough_credits_toast"
+msgstr "Couldn't generate. You don't have enough credits."
+
+msgid "pc_gen_ai_prompt_too_long_toast"
+msgstr "Couldn't generate. Try making your prompt shorter."
+
+msgid "pc_gen_ai_sora_faces_toast"
+msgstr ""
+"This content may violate our Community Guidelines. Credits have been "
+"refunded."
+
+msgid "pc_gen_ai_timed_out_toast"
+msgstr "Couldn't generate. Try again."
+
+msgid "pc_gen_ai_unknown_error_toast"
+msgstr ""
+"This content may violate our Community Guidelines. Credits have been "
+"refunded."
+
+msgid "pc_gen_ai_video_violation_toast"
+msgstr ""
+"The video may contain content that violates our Community Guidelines. "
+"Credits have been refunded."
 
 msgid "pc_gen_online_work_link"
 msgstr ""
@@ -25127,7 +26027,7 @@ msgstr ""
 "(\" \")."
 
 msgid "pc_general_v_three_info"
-msgstr "Natural and realistic. Supports text generation."
+msgstr "Enhanced realism, accurate text"
 
 msgid "pc_generate_subtitles"
 msgstr "Generate captions"
@@ -26127,13 +27027,16 @@ msgid "pc_image_four"
 msgstr "Seedream 4.0"
 
 msgid "pc_image_four_info"
-msgstr "Create a cohesive set of images."
+msgstr "Batch image creation"
 
 msgid "pc_image_four_info_n"
-msgstr "Create a cohesive set of images with multiple references."
+msgstr "Batch image creation, multiple references"
 
 msgid "pc_image_four_placeholder"
 msgstr "Describe your image"
+
+msgid "pc_image_nano_two_info"
+msgstr "Studio-quality control, enhanced world knowledge"
 
 msgid "pc_image_photo"
 msgstr "picture"
@@ -26145,13 +27048,13 @@ msgid "pc_image_quality_priority"
 msgstr "Quality priority"
 
 msgid "pc_image_seedream_four_five_info"
-msgstr "Enhanced subject consistency and multilingual text generation in images."
+msgstr "Consistent subjects, accurate multilingual text"
 
 msgid "pc_image_super_min"
 msgstr "The clip must not exceed %1 second"
 
 msgid "pc_image_three_aesthetic_info"
-msgstr "Rich, versatile aesthetics."
+msgstr "Rich, versatile aesthetics"
 
 msgid "pc_image_three_aesthetic_n"
 msgstr "Seedream 3.1"
@@ -27109,6 +28012,9 @@ msgstr "Cancel"
 msgid "pc_ipad_permission_request_info"
 msgstr "To import media, allow access to \"Photos\" in \"Settings\"."
 
+msgid "pc_ipad_permission_request_info_mic"
+msgstr "To record audio, allow access to \"Microphone\" in \"Settings\"."
+
 msgid "pc_ipad_permission_request_open_settings_btn"
 msgstr "Open settings"
 
@@ -27198,7 +28104,7 @@ msgstr "Can I use self-uploaded music or commercially licensed music from elsewh
 
 msgid "pc_jianying_commercial_music_path_a"
 msgstr ""
-"You can find the \"Commercial Music\" panel in the cut music library.\n"
+"You can find the \"Commercial Music\" panel in the clip music library.\n"
 "Click \"Audio\" → \"Music\" → \"Commercial Music\" to select commercial "
 "music."
 
@@ -27414,6 +28320,12 @@ msgstr "No keywords identified"
 
 msgid "pc_keyword_select"
 msgstr "Select at least 1 keyword"
+
+msgid "pc_kit_seedance_1_5_pro"
+msgstr "Dreamina Seedance 1.5 Pro"
+
+msgid "pc_kit_seedance_1_5_pro_info"
+msgstr "Supports generating audio in different languages."
 
 msgid "pc_kms_decryption_failed"
 msgstr "Parameter validation failed"
@@ -28672,8 +29584,17 @@ msgstr ""
 msgid "pc_lower"
 msgstr "Lower"
 
+msgid "pc_lut"
+msgstr "LUT"
+
+msgid "pc_lut_Import"
+msgstr "Import"
+
 msgid "pc_lut_miss"
 msgstr "LUT loss"
+
+msgid "pc_lut_none"
+msgstr "none"
 
 msgid "pc_lyric_template_apply_to_all"
 msgstr "The template will be applied to all clips."
@@ -28848,6 +29769,9 @@ msgstr "Your free trial starts and you have full access to all premium features.
 
 msgid "pc_m10n_get_teams_for_pro_benefits"
 msgstr "You're enjoying Pro benefits as a Teams member."
+
+msgid "pc_m10n_media_upload_to_space"
+msgstr "Upload to space"
 
 msgid "pc_m10n_onboarding_subscription_benefit1_assets"
 msgstr "Premium assets"
@@ -29190,8 +30114,58 @@ msgstr ""
 msgid "pc_m10n_shorts_upgrade_get_minutes"
 msgstr "<b style='color: black;'>Join Pro</b> to get %1 min/month"
 
+msgid "pc_m10n_space_empty_state"
+msgstr "Upload or drag and drop media here, or generate with AI."
+
+msgid "pc_m10n_space_generate_media"
+msgstr "Generate with AI"
+
+msgid "pc_m10n_space_image_preview_status"
+msgstr "Loading image..."
+
 msgid "pc_m10n_space_invite_btn_subscribe"
 msgstr "Upgrade for more seats"
+
+msgid "pc_m10n_space_media_drag_add_tooltip_btn"
+msgstr "Got it"
+
+msgid "pc_m10n_space_media_drag_add_tooltip_v1"
+msgstr "Now you can click to add or drag media from spaces straight to the timeline."
+
+msgid "pc_m10n_space_media_drag_add_tooltip_v2"
+msgstr "Now you can drag media from spaces straight to the timeline."
+
+msgid "pc_m10n_space_paywall_btn"
+msgstr "Upgrade"
+
+msgid "pc_m10n_space_paywall_desc"
+msgstr ""
+"Upgrade to Teams to share Pro benefits with your team and enjoy %1 credits "
+"per seat every month, plus 1 TB of space storage."
+
+msgid "pc_m10n_space_paywall_tag_credits"
+msgstr "%1 monthly credits per seat"
+
+msgid "pc_m10n_space_paywall_title"
+msgstr "Unlock this Pro feature for your team"
+
+msgid "pc_m10n_space_preview_type_adjust"
+msgstr "Loading adjustment..."
+
+msgid "pc_m10n_space_preview_type_image"
+msgstr "Loading image..."
+
+msgid "pc_m10n_space_preview_type_sticker"
+msgstr "Loading stickers..."
+
+msgid "pc_m10n_space_preview_type_text"
+msgstr "Loading text..."
+
+msgid "pc_m10n_space_preview_type_video"
+msgstr "Loading video..."
+
+msgid "pc_m10n_space_video_preview_status"
+msgstr "Preview"
 
 msgid "pc_m10n_subscription_btn_renew"
 msgstr "Renew now"
@@ -29463,7 +30437,7 @@ msgstr "Machine Info"
 
 msgid "pc_main_creator_control_given_other_participant"
 msgstr ""
-"Since you are currently the main creator, if you quit, the recording "
+"Since you are currently the main creator, if you exit, the recording "
 "control will be handed over to the first participant."
 
 msgid "pc_main_rail_locked_magnetic_attraction_cannot_turnd_on"
@@ -29773,6 +30747,25 @@ msgstr ""
 msgid "pc_material_library"
 msgstr "Library"
 
+msgid "pc_material_link_fail_reason_audio_duration"
+msgstr "Association failed, the audio duration does not match the original file"
+
+msgid "pc_material_link_fail_reason_image_dimensions"
+msgstr "Association failed, image size does not match original file"
+
+msgid "pc_material_link_fail_reason_media_type"
+msgstr "Association failed, media type is inconsistent with source file"
+
+msgid "pc_material_link_fail_reason_permission"
+msgstr ""
+"Association failed, unable to obtain folder permissions, please go to "
+"system settings"
+
+msgid "pc_material_link_fail_reason_video_resolution"
+msgstr ""
+"Association failed, video resolution or duration does not match the "
+"original file"
+
 msgid "pc_material_link_failed_retry"
 msgstr "Couldn’t link to selected media"
 
@@ -29810,6 +30803,33 @@ msgstr "The resource has not been downloaded yet, please try again later."
 
 msgid "pc_material_package"
 msgstr "material packaging"
+
+msgid "pc_material_panel_favorite_avatar"
+msgstr "Digital human image collection"
+
+msgid "pc_material_panel_favorite_avatar_login"
+msgstr "After logging in, you can view your favorite digital human images."
+
+msgid "pc_material_panel_favorite_lyric_effect"
+msgstr "Lyrics animation collection"
+
+msgid "pc_material_panel_favorite_lyric_effect_login"
+msgstr "After logging in, you can view the animations of your favorite lyrics"
+
+msgid "pc_material_panel_favorite_subtitle_template"
+msgstr "Subtitle template collection"
+
+msgid "pc_material_panel_favorite_subtitle_template_login"
+msgstr "Log in to view your favorite subtitle templates"
+
+msgid "pc_material_panel_search_avatar"
+msgstr "Search for digital human images"
+
+msgid "pc_material_panel_search_lyric_effect"
+msgstr "Search templates"
+
+msgid "pc_material_panel_search_subtitle_template"
+msgstr "Search templates"
 
 msgid "pc_material_positioning_media"
 msgstr "Linking media..."
@@ -29904,6 +30924,9 @@ msgstr "Smart search"
 
 msgid "pc_material_source_path"
 msgstr "Last path"
+
+msgid "pc_material_text_animation_publish_event_general"
+msgstr "General"
 
 msgid "pc_material_time"
 msgstr "Duration"
@@ -30217,6 +31240,17 @@ msgstr "The number of team version brand resources has reached the upper limit"
 msgid "pc_media"
 msgstr "Media"
 
+msgid "pc_media_cache"
+msgstr "Media cache"
+
+msgid "pc_media_cache_close_draft_before_modify"
+msgstr "Close any open projects before changing the media cache save path."
+
+msgid "pc_media_cache_help_text"
+msgstr ""
+"Media cache files are stored here. Path changes take effect after "
+"restarting CapCut."
+
 msgid "pc_media_format_not_supported"
 msgstr "Media format not supported"
 
@@ -30469,7 +31503,7 @@ msgid "pc_model_g_four"
 msgstr "Runway Gen-4"
 
 msgid "pc_model_g_four_info"
-msgstr "Natural and realistic motion."
+msgstr "Natural and realistic motion"
 
 msgid "pc_model_seaweed"
 msgstr "Seaweed V1.0"
@@ -30487,7 +31521,7 @@ msgid "pc_model_veo_3"
 msgstr "Veo 3"
 
 msgid "pc_model_veo_3_info"
-msgstr "Supports dialogue and sound effects."
+msgstr "Synced dialogue and sound effects"
 
 msgid "pc_modify"
 msgstr "Modify"
@@ -30511,15 +31545,13 @@ msgid "pc_more_actions"
 msgstr "More"
 
 msgid "pc_more_know_team_enterprise_edition"
-msgstr ""
-"The maximum number of people in the team version is %1. If you need more "
-"team members, we recommend you to learn about the enterprise version."
+msgstr "团队版人数上限为%1人，如需更多团队人数，推荐您了解企业版"
 
 msgid "pc_more_quick_actions"
 msgstr "More actions"
 
 msgid "pc_more_vip_material_at_editing_desk"
-msgstr "More member materials can be viewed on the editing desk"
+msgstr "更多会员素材可以在剪辑台查看"
 
 msgid "pc_mosaic_add"
 msgstr "Click the rectangle on the face to apply the effect"
@@ -30809,6 +31841,332 @@ msgstr ""
 "Maximum 1000GB large cloud space\n"
 "Self-service invoicing"
 
+msgid "pc_multimodal_gen_material_aigc_history_30days"
+msgstr "Show only history within 30 days"
+
+msgid "pc_multimodal_gen_material_aigc_history_right_click_delete"
+msgstr "Delete this record"
+
+msgid "pc_multimodal_gen_material_aigc_history_right_click_newimage"
+msgstr "Generate new images as reference materials"
+
+msgid "pc_multimodal_gen_material_aigc_history_right_click_newvideo"
+msgstr "Generate new videos as reference material"
+
+msgid "pc_multimodal_gen_material_aigc_history_right_click_revision"
+msgstr "Modification request"
+
+msgid "pc_multimodal_gen_material_aigc_tab_history"
+msgstr "History"
+
+msgid "pc_multimodal_gen_material_aigc_tab_image"
+msgstr "Generate pictures"
+
+msgid "pc_multimodal_gen_material_aigc_tab_video"
+msgstr "Generate video"
+
+msgid "pc_multimodal_gen_material_introduct_1_0"
+msgstr ""
+"Enter the requirements for video generation. Seedance 1.0 supports "
+"uploading a picture as a reference."
+
+msgid "pc_multimodal_gen_material_introduct_2_0"
+msgstr ""
+"The Seedance 2.0 series supports uploading videos, pictures, and audio "
+"references. For example: refer to the actions in @Video 1 to generate "
+"videos of the characters fighting in @Picture 1 and @Picture 2"
+
+msgid "pc_multimodal_gen_material_introduct_i2v"
+msgstr ""
+"Describe the dynamic effect you want to generate, for example: make the "
+"kitten in the picture dance"
+
+msgid "pc_multimodal_gen_material_introduct_trans"
+msgstr ""
+"Describe the dynamic effect you wish to generate, for example: use a "
+"wraparound camera effect"
+
+msgid "pc_multimodal_gen_material_mode_extension"
+msgstr "video extension"
+
+msgid "pc_multimodal_gen_material_mode_i2v"
+msgstr "Image to video"
+
+msgid "pc_multimodal_gen_material_mode_reference"
+msgstr "All-round reference"
+
+msgid "pc_multimodal_gen_material_mode_trans"
+msgstr "First and last frames"
+
+msgid "pc_multimodal_gen_material_not_logged_in"
+msgstr "Sign in to view AI-generated history"
+
+msgid "pc_multimodal_gen_material_notice"
+msgstr "Please confirm that the uploaded materials have been legally authorized"
+
+msgid "pc_multimodal_gen_material_panel_add"
+msgstr "reference"
+
+msgid "pc_multimodal_gen_material_panel_audio"
+msgstr "Audio"
+
+msgid "pc_multimodal_gen_material_panel_cite"
+msgstr "Quote"
+
+msgid "pc_multimodal_gen_material_panel_clipboard"
+msgstr "Paste from clipboard"
+
+msgid "pc_multimodal_gen_material_panel_end"
+msgstr "last frame"
+
+msgid "pc_multimodal_gen_material_panel_image"
+msgstr "picture"
+
+msgid "pc_multimodal_gen_material_panel_reference"
+msgstr "Reference picture"
+
+msgid "pc_multimodal_gen_material_panel_start"
+msgstr "first frame"
+
+msgid "pc_multimodal_gen_material_panel_track"
+msgstr "从轨道选择"
+
+msgid "pc_multimodal_gen_material_panel_upload"
+msgstr "Upload from local"
+
+msgid "pc_multimodal_gen_material_panel_video"
+msgstr "video"
+
+msgid "pc_multimodal_gen_material_reference_tip_1_0"
+msgstr ""
+"The 1.0 model only supports uploading one picture for reference. If you "
+"need multiple pictures and video and audio reference, please switch the "
+"model to 2.0"
+
+msgid "pc_multimodal_gen_material_reference_tip_2_0"
+msgstr "Upload up to %1 pictures, %2 videos, and %3 audios for reference"
+
+msgid "pc_multimodal_gen_material_settings_audio_setting"
+msgstr "Audio settings"
+
+msgid "pc_multimodal_gen_material_settings_basic"
+msgstr "Basic parameters"
+
+msgid "pc_multimodal_gen_material_settings_camera"
+msgstr "camera movement"
+
+msgid "pc_multimodal_gen_material_settings_camera_auto"
+msgstr "automatic"
+
+msgid "pc_multimodal_gen_material_settings_camera_off"
+msgstr "closure"
+
+msgid "pc_multimodal_gen_material_settings_camera_on"
+msgstr "turn on"
+
+msgid "pc_multimodal_gen_material_settings_duration"
+msgstr "duration"
+
+msgid "pc_multimodal_gen_material_settings_duration_tip"
+msgstr ""
+"Create a new placeholder clip and manually adjust the target position and "
+"duration on the timeline"
+
+msgid "pc_multimodal_gen_material_settings_model"
+msgstr "Model selection"
+
+msgid "pc_multimodal_gen_material_settings_more"
+msgstr "Advanced settings"
+
+msgid "pc_multimodal_gen_material_settings_resolution"
+msgstr "resolution"
+
+msgid "pc_multimodal_gen_material_settings_resolution_1080"
+msgstr "1080P"
+
+msgid "pc_multimodal_gen_material_settings_resolution_480"
+msgstr "480P"
+
+msgid "pc_multimodal_gen_material_settings_resolution_720"
+msgstr "720P"
+
+msgid "pc_multimodal_gen_material_settings_scale"
+msgstr "aspect ratio"
+
+msgid "pc_multimodal_gen_material_settings_scale_1"
+msgstr "1:1"
+
+msgid "pc_multimodal_gen_material_settings_scale_16"
+msgstr "16:9"
+
+msgid "pc_multimodal_gen_material_settings_scale_3"
+msgstr "3:4"
+
+msgid "pc_multimodal_gen_material_settings_scale_4"
+msgstr "4:3"
+
+msgid "pc_multimodal_gen_material_settings_scale_9"
+msgstr "9:16"
+
+msgid "pc_multimodal_gen_material_settings_scale_sameasdraft"
+msgstr "consistent with draft"
+
+msgid "pc_multimodal_gen_material_settings_scale_sameasmaterial"
+msgstr "Consistent with original material"
+
+msgid "pc_multimodal_gen_material_settings_sync_audio"
+msgstr "When generating a video, background sound is generated simultaneously"
+
+msgid "pc_multimodal_gen_material_tip_change_mode"
+msgstr "Modify reference schema"
+
+msgid "pc_multimodal_gen_material_tip_model_not_support"
+msgstr "The current model is not supported yet"
+
+msgid "pc_multimodal_gen_material_toast_choose"
+msgstr "Please go to the timeline to select a reference clip"
+
+msgid "pc_multimodal_gen_material_toast_long"
+msgstr "Only the first %1 seconds of the video and audio are used as a reference"
+
+msgid "pc_multimodal_gen_material_toast_over"
+msgstr ""
+"Up to %1 pictures, %2 videos, and %3 audios can be uploaded for reference. "
+"Files exceeding the number have been ignored."
+
+msgid "pc_multimodal_gen_material_toast_select_end"
+msgstr "The end of this video has been automatically selected"
+
+msgid "pc_multimodal_gen_material_toast_select_start"
+msgstr "The beginning of this video has been automatically selected"
+
+msgid "pc_multimodal_gen_material_toast_short"
+msgstr ""
+"The minimum video and audio duration is %1 seconds, unsatisfied segments "
+"have been ignored"
+
+msgid "pc_multimodal_gen_popup_cover_checkbox"
+msgstr "No more prompts in this project"
+
+msgid "pc_multimodal_gen_popup_cover_major_btn"
+msgstr "Confirm coverage"
+
+msgid "pc_multimodal_gen_popup_cover_minor_btn"
+msgstr "Not covered yet"
+
+msgid "pc_multimodal_gen_popup_cover_text"
+msgstr ""
+"Modifying requirements will overwrite existing information in the "
+"generation panel"
+
+msgid "pc_multimodal_gen_popup_cover_title"
+msgstr "Whether to overwrite the entered content"
+
+msgid "pc_multimodal_gen_popup_discard_checkbox"
+msgstr "No more prompts in this project"
+
+msgid "pc_multimodal_gen_popup_discard_major_btn"
+msgstr "Confirm to continue"
+
+msgid "pc_multimodal_gen_popup_discard_minor_btn"
+msgstr "Do not continue yet"
+
+msgid "pc_multimodal_gen_popup_discard_text"
+msgstr ""
+"Reference video, audio, and multiple pictures are unique capabilities of "
+"the Seedance 2.0 series and will be discarded when switching to the 1.0 "
+"model"
+
+msgid "pc_multimodal_gen_popup_discard_title"
+msgstr "Some reference material will be discarded"
+
+msgid "pc_multimodal_gen_property_btn_regenerate"
+msgstr "Generate again"
+
+msgid "pc_multimodal_gen_property_btn_revision"
+msgstr "Modification request"
+
+msgid "pc_multimodal_gen_property_floor_genhistory"
+msgstr "Generate records"
+
+msgid "pc_multimodal_gen_property_floor_geninfo"
+msgstr "Generate information"
+
+msgid "pc_multimodal_gen_property_param_camera"
+msgstr "Movement method"
+
+msgid "pc_multimodal_gen_property_param_duration"
+msgstr "duration"
+
+msgid "pc_multimodal_gen_property_param_image_prompt"
+msgstr "Picture requirements"
+
+msgid "pc_multimodal_gen_property_param_mode"
+msgstr "Generate mode"
+
+msgid "pc_multimodal_gen_property_param_model"
+msgstr "Model"
+
+msgid "pc_multimodal_gen_property_param_online_search"
+msgstr "Internet search"
+
+msgid "pc_multimodal_gen_property_param_reference"
+msgstr "Reference material"
+
+msgid "pc_multimodal_gen_property_param_resolution"
+msgstr "resolution"
+
+msgid "pc_multimodal_gen_property_param_scale"
+msgstr "Proportion"
+
+msgid "pc_multimodal_gen_property_param_sync_audio"
+msgstr "同步生成音频"
+
+msgid "pc_multimodal_gen_property_param_video_prompt"
+msgstr "Video requirements"
+
+msgid "pc_multimodal_gen_property_tab_geninfo"
+msgstr "Generate information"
+
+msgid "pc_multimodal_gen_property_toast_to_left_edit"
+msgstr "Please go to the media assets panel on the left to edit your requirements."
+
+msgid "pc_multimodal_gen_timeline_choose_bar_cancel"
+msgstr "Cancel"
+
+msgid "pc_multimodal_gen_timeline_choose_bar_info"
+msgstr "Please select a timeline clip"
+
+msgid "pc_multimodal_gen_timeline_choose_bar_ok"
+msgstr "confirm"
+
+msgid "pc_multimodal_gen_timeline_choose_bar_quantity"
+msgstr "%1 clips selected"
+
+msgid "pc_multimodal_gen_timeline_clip_marker"
+msgstr "Video to be generated"
+
+msgid "pc_multimodal_gen_timeline_rightclick_aigen"
+msgstr "AI generated"
+
+msgid "pc_multimodal_gen_timeline_rightclick_extension"
+msgstr "video extension"
+
+msgid "pc_multimodal_gen_timeline_rightclick_i2v"
+msgstr "Image to video"
+
+msgid "pc_multimodal_gen_timeline_rightclick_newvideo"
+msgstr "Generate video as reference material"
+
+msgid "pc_multimodal_gen_timeline_tip_exit"
+msgstr "Please exit the current mode before editing"
+
+msgid "pc_multimodal_gen_timeline_toast_over"
+msgstr "Upload up to %1 pictures, %2 videos, and %3 audios for reference"
+
+msgid "pc_multimodal_gen_timeline_toast_shortest"
+msgstr "The current model only supports generating videos within %1s"
+
 msgid "pc_multiple_classes_of_clips_in_composition"
 msgstr "Multiple clips included in the group"
 
@@ -31015,7 +32373,7 @@ msgid "pc_my_cloud_storage_freeze_text"
 msgstr "%1, membership expires and capacity is frozen;"
 
 msgid "pc_my_cloud_storage_recycle"
-msgstr "(Membership expired for more than %1 year, %2 has been recycled)"
+msgstr "(The membership has expired for more than %1 year, and %2 has been recycled)"
 
 msgid "pc_my_cloud_storage_recycle_text"
 msgstr ""
@@ -31068,8 +32426,8 @@ msgstr ""
 msgid "pc_native_finish_upload_add_desc"
 msgstr ""
 "After the upload is completed, you can log in to the same account in Jimeng "
-"as the cutter, edit the work description, tags and other information on the "
-"short film release page and publish it."
+"as the cutter, and edit the work description, tags and other information on "
+"the short film release page before publishing."
 
 msgid "pc_native_project"
 msgstr "View draft"
@@ -31623,7 +32981,7 @@ msgid "pc_no_access_to_material_folder_and_link_missing"
 msgstr "No access to material folder, material link lost"
 
 msgid "pc_no_ae_template_draft"
-msgstr "Template draft file not found"
+msgstr "找不到模板草稿文件"
 
 msgid "pc_no_audio"
 msgstr "No audios"
@@ -31839,6 +33197,52 @@ msgstr "Offset"
 msgid "pc_ok"
 msgstr "OK"
 
+msgid "pc_omni_add_reference_hovertip"
+msgstr "Add images and videos"
+
+msgid "pc_omni_collapse_hovertip"
+msgstr "Restore"
+
+msgid "pc_omni_expand_hovertip"
+msgstr "Expand"
+
+msgid "pc_omni_image_num"
+msgstr "Image %1"
+
+msgid "pc_omni_max_duration_reached_toast"
+msgstr "The total duration is already 15s"
+
+msgid "pc_omni_maximum_duration"
+msgstr "You can upload up to %1 videos (%2s minimum each, %3s total max)"
+
+msgid "pc_omni_mention_hovertip"
+msgstr "@mention an image or video"
+
+msgid "pc_omni_prompt_placeholder"
+msgstr ""
+"Reference up to 9 images & 3 videos. Real faces in uploads are not yet "
+"supported."
+
+msgid "pc_omni_reference_limit_reached_toast"
+msgstr "You can upload up to %1 images and %2 videos"
+
+msgid "pc_omni_reference_video_title"
+msgstr "Reference video"
+
+msgid "pc_omni_seedance_2"
+msgstr "Dreamina Seedance 2.0"
+
+msgid "pc_omni_seedance_2_info"
+msgstr ""
+"Most versatile, director-level control and storytelling. Real faces in "
+"uploads not yet supported."
+
+msgid "pc_omni_tab"
+msgstr "Omni reference"
+
+msgid "pc_omni_video_num"
+msgstr "Video %1"
+
 msgid "pc_one_month"
 msgstr "1 month"
 
@@ -32015,8 +33419,8 @@ msgstr "Open membership"
 
 msgid "pc_open_vip_for_material"
 msgstr ""
-"You can enjoy membership materials and membership functions by becoming a "
-"member."
+"Sign up to become a member and you can enjoy membership materials and "
+"membership functions"
 
 msgid "pc_opened_beta"
 msgstr "Beta test turned on"
@@ -33235,6 +34639,24 @@ msgstr "Graphics"
 msgid "pc_plane_rotation"
 msgstr "Plane rotation"
 
+msgid "pc_plans_billing_ai_feature"
+msgstr "AI feature"
+
+msgid "pc_plans_billing_biz_template"
+msgstr "Business template"
+
+msgid "pc_plans_billing_biz_template_export"
+msgstr "Business template"
+
+msgid "pc_plans_billing_but_templates"
+msgstr "Buy template"
+
+msgid "pc_plans_billing_buy_credits"
+msgstr "%d credits"
+
+msgid "pc_plans_billing_unlock_templates"
+msgstr "Unlock template"
+
 msgid "pc_playback_aspect_ratio_custom"
 msgstr "Custom"
 
@@ -34282,7 +35704,7 @@ msgid "pc_queue_to_be_process"
 msgstr "Waiting..."
 
 msgid "pc_queue_ultra_clear"
-msgstr "Ultra HD quality"
+msgstr "超清画质"
 
 msgid "pc_queue_video_translate_loading"
 msgstr "Waiting to translate video..."
@@ -34354,7 +35776,7 @@ msgid "pc_queue_wait_to_be_process"
 msgstr "Waiting to apply %1..."
 
 msgid "pc_queue_waiting_more_hour"
-msgstr "%1 function is queued, the expected waiting time is >1 hour"
+msgstr "%1 function is queued, the estimated waiting time is >1 hour"
 
 msgid "pc_queued_for_antishake_processing"
 msgstr "Waiting to be stabilized"
@@ -34415,7 +35837,7 @@ msgid "pc_read_xml_failed"
 msgstr "Failed to read XML file"
 
 msgid "pc_ready_to_record"
-msgstr "Ready to record"
+msgstr "准备好即可进行录制"
 
 msgid "pc_reboot_now"
 msgstr "Restart"
@@ -35318,7 +36740,7 @@ msgid "pc_reference_menu_safezone"
 msgstr "safe zone"
 
 msgid "pc_reference_menu_safezone_hidden"
-msgstr "Don't show safe area"
+msgstr "Don't show safe areas"
 
 msgid "pc_reference_menu_safezone_text"
 msgstr "Subtitles/Operation Safe Zone"
@@ -36121,7 +37543,7 @@ msgid "pc_role_best_describes_you"
 msgstr "Which of the following roles best describes you?"
 
 msgid "pc_room_creation_too_long_will_end_after_30s"
-msgstr "Room creation takes too long, recording will end in 30 seconds"
+msgstr "房间创建时长过长，录制将在30秒后结束"
 
 msgid "pc_room_timeout_dissolved"
 msgstr "The room has timed out and the shooting mission has been dismissed."
@@ -36206,9 +37628,7 @@ msgid "pc_save_invite"
 msgstr "Save and invite"
 
 msgid "pc_save_local_cloud"
-msgstr ""
-"The draft modifications have been saved locally. Do you want to back up the "
-"modifications to the cloud?"
+msgstr "草稿修改已保存至本地，是否将修改内容备份至云端？"
 
 msgid "pc_save_location"
 msgstr "Save to"
@@ -36463,7 +37883,7 @@ msgid "pc_scene_button_video_model_flux"
 msgstr "Flux 1.1 Pro"
 
 msgid "pc_scene_button_video_model_flux_info"
-msgstr "Excellent image details."
+msgstr "Excellent details"
 
 msgid "pc_scene_button_video_model_pixeldance_v10"
 msgstr "PixelDance V1.0"
@@ -36527,6 +37947,11 @@ msgstr ""
 "(Optional) Describe the video you want to generate. Example: waves crashing "
 "on the beach."
 
+msgid "pc_scene_desc_image_to_video_no_faces"
+msgstr ""
+"(Optional) Describe the video you want to generate. Real faces in uploads "
+"are not yet supported."
+
 msgid "pc_scene_desc_legal_approval"
 msgstr ""
 "Allow CapCut to upload your media and prompts to our server. The content is "
@@ -36582,8 +38007,8 @@ msgstr "Changes made to the current result will be undone."
 
 msgid "pc_scene_desc_text_to_video"
 msgstr ""
-"(Optional) Describe the video you want to generate. Example: a 3D animated "
-"boy wearing a jacket is running."
+"Describe the video you want to generate. Example: a 3D animated boy wearing "
+"a jacket is running."
 
 msgid "pc_scene_desc_video_apply"
 msgstr "Apply for beta testing to create videos with AI."
@@ -37010,6 +38435,21 @@ msgstr "No results found. Try other trending materials."
 msgid "pc_search_picture_lines"
 msgstr "Search videos with related scenes and audios"
 
+msgid "pc_search_placeholder_people_are_searching"
+msgstr "People are searching %1"
+
+msgid "pc_search_placeholder_text_animation"
+msgstr "Search animations"
+
+msgid "pc_search_placeholder_video_animation"
+msgstr "Search animations"
+
+msgid "pc_search_placeholder_voice_changer"
+msgstr "Search voices"
+
+msgid "pc_search_placeholder_voice_tts"
+msgstr "Search voices"
+
 msgid "pc_search_recommend"
 msgstr "Trending searches"
 
@@ -37049,25 +38489,58 @@ msgid "pc_seconds"
 msgstr "%1s"
 
 msgid "pc_seedance"
-msgstr "Seedance 1.0"
+msgstr "Dreamina Seedance 1.0"
+
+msgid "pc_seedance_1_5_pro"
+msgstr "Dreamina Seedance 1.5 Pro"
+
+msgid "pc_seedance_1_5_pro_info"
+msgstr "Synced audio, multilingual dialogue"
+
+msgid "pc_seedance_2"
+msgstr "Dreamina Seedance 2.0"
+
+msgid "pc_seedance_2_fast_desc"
+msgstr ""
+"Faster generation, director-level control. Real faces in uploads not yet "
+"supported."
+
+msgid "pc_seedance_2_fast_name"
+msgstr "Dreamina Seedance 2.0 Fast"
+
+msgid "pc_seedance_2_info"
+msgstr ""
+"Most versatile, director-level control and storytelling. Real faces in "
+"uploads not yet supported."
+
+msgid "pc_seedance_2_info_n"
+msgstr ""
+"Most versatile, director-level control and storytelling. Real faces in "
+"uploads not yet supported."
 
 msgid "pc_seedance_fast"
-msgstr "Seedance 1.0 Fast"
+msgstr "Dreamina Seedance 1.0 Fast"
 
 msgid "pc_seedance_fast_info"
-msgstr "Smooth, stable motion and even faster generation."
+msgstr "Smooth motion, faster generation"
 
 msgid "pc_seedance_fl"
-msgstr "Seedance Frames"
+msgstr "Dreamina Seedance Frames"
 
 msgid "pc_seedance_fl_frames"
-msgstr "Seedance Frames"
+msgstr "Dreamina Seedance Frames"
 
 msgid "pc_seedance_fl_info"
-msgstr "Supports setting the first and last frames."
+msgstr "Start and end frame control"
 
 msgid "pc_seedance_info"
-msgstr "Excellent prompt adherence and fast generation."
+msgstr "Precise prompt following, fast generation"
+
+msgid "pc_seedream_5"
+msgstr "Seedream 5.0"
+
+msgid "pc_seedream_5_info"
+msgstr "Consistent characters, rich world knowledge"
 
 msgid "pc_segment_id"
 msgstr "Segment ID"
@@ -37298,7 +38771,7 @@ msgid "pc_service_release_time"
 msgstr "Release time"
 
 msgid "pc_service_review"
-msgstr "Review status"
+msgstr "审核状态"
 
 msgid "pc_set_as_default_path"
 msgstr "Set as default path"
@@ -37345,7 +38818,7 @@ msgid "pc_settings_editing_slide_adjust_title"
 msgstr "Slide to modify value"
 
 msgid "pc_settings_import_project_tips"
-msgstr "Other editing software projects can be imported on the launcher."
+msgstr "可在启动台导入其他剪辑软件工程。"
 
 msgid "pc_settings_remove_aigc_watermark_label"
 msgstr "AIGC watermark"
@@ -37353,8 +38826,8 @@ msgstr "AIGC watermark"
 msgid "pc_settings_remove_aigc_watermark_switch_subtext"
 msgstr ""
 "When turned on, the AIGC watermark will no longer be displayed when "
-"exporting AI-generated/synthesized content. Cutout brand stickers are not "
-"within the scope of this setting"
+"exporting content containing AI generated/synthesized content. Cutout brand "
+"stickers are not within the scope of this setting"
 
 msgid "pc_settings_remove_aigc_watermark_switch_title"
 msgstr "Remove AIGC watermark from exported content"
@@ -38053,6 +39526,9 @@ msgstr "Show/Hide clips"
 msgid "pc_show/hide_fragment"
 msgstr "Show/Hide clip"
 
+msgid "pc_show_main_language"
+msgstr "Main language"
+
 msgid "pc_show_more_material"
 msgstr "More materials"
 
@@ -38284,11 +39760,43 @@ msgstr "Auto HDR switch"
 msgid "pc_smart_key_error_try_again"
 msgstr "Couldn't auto remove background. Try again."
 
+msgid "pc_smart_keying_base"
+msgstr "Base"
+
+msgid "pc_smart_keying_cancel"
+msgstr "Cancel"
+
+msgid "pc_smart_keying_confirm"
+msgstr "confirm"
+
+msgid "pc_smart_keying_effect"
+msgstr "Effect"
+
+msgid "pc_smart_keying_give_up"
+msgstr "Cancel the custom keying effect and enable fine keying capability"
+
+msgid "pc_smart_keying_high"
+msgstr "fine"
+
+msgid "pc_smart_keying_no_work"
+msgstr "Fine keying does not currently support current editing"
+
 msgid "pc_smart_keying_notes"
 msgstr "Only human figures can be cut out."
 
 msgid "pc_smart_keying_process_completed"
 msgstr "Auto cutout completed"
+
+msgid "pc_smart_keying_prompt"
+msgstr ""
+"The basis is on-end algorithm processing, and the fine effects are on the "
+"cloud."
+
+msgid "pc_smart_keying_remind"
+msgstr "Queuing, please wait patiently"
+
+msgid "pc_smart_keying_wrong"
+msgstr "Material exceeds processing range"
 
 msgid "pc_smart_subtitle"
 msgstr "Auto captions"
@@ -38391,12 +39899,10 @@ msgid "pc_sora_two"
 msgstr "Sora 2"
 
 msgid "pc_sora_two_info"
-msgstr "Excels at turning text into videos. Does not support photos of real people."
+msgstr "Stronger text-to-video, no real face uploads"
 
 msgid "pc_sora_two_info_n"
-msgstr ""
-"Excels at turning text into videos. Supports audio and multiple camera "
-"angles."
+msgstr "Stronger text-to-video, synced audio, multiple camera angles"
 
 msgid "pc_sora_two_toast"
 msgstr "Can't generate. Change the description or photo and try again."
@@ -38843,6 +40349,15 @@ msgstr "Share storage, manage projects, and collaborate to create videos."
 msgid "pc_space_upgrade_to_1000gb"
 msgstr "Space upgraded to 1000GB"
 
+msgid "pc_space_upload_popup_btn_cancel"
+msgstr "Cancel"
+
+msgid "pc_space_upload_popup_btn_confirm"
+msgstr "Upload"
+
+msgid "pc_space_upload_popup_title"
+msgstr "Upload %1 item to"
+
 msgid "pc_spacing_too_short"
 msgstr "Spacing is too short to add speed control point"
 
@@ -38859,7 +40374,7 @@ msgid "pc_special_effects"
 msgstr "special effects"
 
 msgid "pc_special_effects_"
-msgstr "Special effects-"
+msgstr "Special Effects-"
 
 msgid "pc_special_effects_lost"
 msgstr "Effect loss"
@@ -39641,7 +41156,7 @@ msgid "pc_store_used_people"
 msgstr "%1 use"
 
 msgid "pc_storyboard_entry"
-msgstr "AI video maker"
+msgstr "Video Studio"
 
 msgid "pc_storyboard_entry_new"
 msgstr "Start with script"
@@ -39715,7 +41230,7 @@ msgid "pc_stroke_vertical_displacement"
 msgstr "Vertical"
 
 msgid "pc_stroke_vip"
-msgstr "Member cutout and stroke"
+msgstr "会员抠像描边"
 
 msgid "pc_stronger"
 msgstr "Stronger"
@@ -39807,9 +41322,9 @@ msgstr "Couldn’t apply %1. Try again later."
 msgid "pc_style_free_pro_more"
 msgstr ""
 "AI generation will consume a lot of resources, and the number of free "
-"trials has been exhausted. By signing up as a member, you can unlock %1 "
-"opportunities to generate videos every month, and you can enjoy other more "
-"gameplays."
+"trials has been exhausted. By becoming a member, you can unlock %1 "
+"opportunities to generate videos every month, and you can also enjoy other "
+"more gameplays."
 
 msgid "pc_style_function_exclude"
 msgstr "Reverse clip?"
@@ -39897,7 +41412,7 @@ msgid "pc_style_time"
 msgstr "This is a Pro style. You can apply Pro styles %1 time to create videos."
 
 msgid "pc_style_times_last"
-msgstr "%1 chance left"
+msgstr "剩余%1次机会"
 
 msgid "pc_style_times_month"
 msgstr "%1 times/month"
@@ -39967,7 +41482,7 @@ msgstr ""
 "creators can earn revenue."
 
 msgid "pc_subscription_expired"
-msgstr ", the subscription has expired"
+msgstr "，订阅已过期"
 
 msgid "pc_subscription_payment_successful"
 msgstr "Subscription payment successful"
@@ -40933,12 +42448,10 @@ msgid "pc_team_edition_renew"
 msgstr "How long to renew the team version"
 
 msgid "pc_team_expire_invite"
-msgstr ""
-"The team version has expired and new members cannot be invited for the time "
-"being."
+msgstr "团队版已过期 暂时无法邀请新成员"
 
 msgid "pc_team_expire_upload"
-msgstr "The team version has expired and files cannot be uploaded temporarily."
+msgstr "The team version has expired. Files cannot be uploaded temporarily."
 
 msgid "pc_team_member"
 msgstr "Team members ("
@@ -41669,7 +43182,7 @@ msgid "pc_template_cor_search_none"
 msgstr "No corresponding search results yet"
 
 msgid "pc_template_cor_selected"
-msgstr "Featured"
+msgstr "精选"
 
 msgid "pc_template_cor_title"
 msgstr "main title"
@@ -41866,7 +43379,7 @@ msgid "pc_template_material_support_replacement"
 msgstr "Can be replaced"
 
 msgid "pc_template_member_get"
-msgstr "Free for Pro members"
+msgstr "Free for Pro subscribers"
 
 msgid "pc_template_modify_mute"
 msgstr "You can replace them or mute them to post on CapCut."
@@ -42880,6 +44393,13 @@ msgstr ""
 "draft. If you check \"Copy text draft\" and continue, a new editing draft "
 "will be copied, while the current text draft remains in the homepage draft "
 "box."
+
+msgid "pc_text_popup_subtitle_edit_more_v2"
+msgstr ""
+"If you proceed to the editing page, you will not be able to return to edit "
+"the current final draft. The unfinished generating task can't be recovered.\n"
+"If you check \"Keep current final draft\" and continue, a new draft will be "
+"created, and the original will be saved in your draft box."
 
 msgid "pc_text_popup_title_edit_more"
 msgstr "Are you sure to enter the editing mode?"
@@ -45291,6 +46811,11 @@ msgstr "Upload failed"
 msgid "pc_upload_image"
 msgstr "Upload image:"
 
+msgid "pc_upload_import_failed_desc"
+msgstr ""
+"Resolution must be 800×800 px. Duration must be within 0 – 3s. File size "
+"must not exceed 3MB. Frame rate must not exceed 30fps."
+
 msgid "pc_upload_later"
 msgstr "Talk to you later"
 
@@ -45458,7 +46983,7 @@ msgid "pc_veo_three_one"
 msgstr "Veo 3.1"
 
 msgid "pc_veo_three_one_info"
-msgstr "Excels at turning images into videos. More realistic audio."
+msgstr "Stronger image-to-video, realistic audio"
 
 msgid "pc_version_info"
 msgstr "Version Info"
@@ -48281,7 +49806,7 @@ msgid "pc_ytb_tt_share_privacy_settings"
 msgstr "Privacy settings"
 
 msgid "pc_zhonger_text_post_template"
-msgstr "Creator! Now, publish your creative template masterpiece from here!"
+msgstr "创作者！现在，从这里发布你创作的模板大作吧！"
 
 msgid "pc_zoom_fail_toast"
 msgstr "[null]"
@@ -48295,20 +49820,32 @@ msgstr "Current tracking will be removed after zooming in"
 msgid "pc_{x}_stickers"
 msgstr "{x} sticker"
 
+msgid "pccover_button_cover_go_to_design"
+msgstr "to design"
+
 msgid "pccover_button_go_to_design"
 msgstr "to design"
 
+msgid "pccover_button_import_local_image"
+msgstr "Import local images"
+
 msgid "pccover_button_save_to_local"
-msgstr "keep to local"
+msgstr "Save to local"
 
 msgid "pccover_button_set_as_cover"
 msgstr "Set as cover"
 
-msgid "pccover_button_use_ai_to_design_a_hit_cover_go_to_design"
-msgstr "Use AI to design popular covers, go and design"
+msgid "pccover_button_stay_on_current_page"
+msgstr "stay on this page"
+
+msgid "pccover_button_use_ai_to_design_a_hit_cover"
+msgstr "Use AI to design popular covers,"
 
 msgid "pccover_desc_cover_image"
 msgstr "cover image"
+
+msgid "pccover_desc_exit_without_saving_warning"
+msgstr "The cover work will be lost after exiting. Are you sure you want to exit?"
 
 msgid "pccover_desc_tell_ai_your_design_ideas"
 msgstr "Tell AI your design ideas"
@@ -48322,13 +49859,16 @@ msgstr "cover design"
 msgid "pccover_title_cover_design_agent"
 msgstr "Cover Design Agent"
 
+msgid "pccover_title_unsaved_cover"
+msgstr "Cover not saved"
+
 msgid "pccover_toast_already_saved_to_local"
 msgstr "Saved locally"
 
 msgid "pccover_toast_design_vlog_cover_from_reference_ratio_of_%1"
 msgstr ""
-"Refer to this picture and help me design a popular vlog cover. The ratio is "
-"%1"
+"Refer to the selected picture frame to generate a popular video cover, the "
+"ratio is %1"
 
 msgid "pccover_toast_no_network"
 msgstr "No network"
@@ -48337,7 +49877,7 @@ msgid "pccover_toast_please_check_if_the_network_is_connected_properly"
 msgstr "Please check whether the network is connected normally"
 
 msgid "pccover_toast_selected_media_for_cover"
-msgstr "Currently selected video frame/uploaded picture"
+msgstr "Currently selected video frame/uploaded image"
 
 msgid "pccover_toast_up_to_%1_characters_can_be_entered"
 msgstr "You can enter up to %1 characters"
@@ -48364,7 +49904,7 @@ msgid "pcnew_prompt_gourmet_practice"
 msgstr "Add other information"
 
 msgid "pcnew_prompt_happy_weekend_daily_life"
-msgstr "Please enter the topic content"
+msgstr "请输入主题内容"
 
 msgid "pcnew_prompt_product_name"
 msgstr "Please enter product name"
@@ -48563,6 +50103,122 @@ msgstr "Pink word retro red edge"
 
 msgid "placed_at_the_bottom"
 msgstr "Send to back"
+
+msgid "planar_tracking_adjust_angle"
+msgstr "Adjust the angle of footage"
+
+msgid "planar_tracking_adjust_angle_guide"
+msgstr "Adjustable after tracking"
+
+msgid "planar_tracking_bidirectional"
+msgstr "Two-way tracking"
+
+msgid "planar_tracking_complete"
+msgstr "Tracking completed"
+
+msgid "planar_tracking_current_plane"
+msgstr "Current tracking plane"
+
+msgid "planar_tracking_deform_in_range"
+msgstr ""
+"Please use the transform function within the time range when the sticker "
+"appears"
+
+msgid "planar_tracking_deform_locked"
+msgstr ""
+"This material has used planar tracking and the deformation effect can no "
+"longer be adjusted individually."
+
+msgid "planar_tracking_deformation_guide"
+msgstr "Use plane tracking to dynamically fit planes"
+
+msgid "planar_tracking_edit_plane"
+msgstr "Edit tracking plane"
+
+msgid "planar_tracking_empty_button"
+msgstr "I see"
+
+msgid "planar_tracking_empty_text"
+msgstr ""
+"If the plane has no obvious texture, has dynamic elements, or is blocked by "
+"other objects during movement, it will cause tracking abnormalities. Please "
+"reselect the plane and try again."
+
+msgid "planar_tracking_empty_title"
+msgstr "Tracking exception, please reselect the plane range"
+
+msgid "planar_tracking_error_toast"
+msgstr "Service abnormality, please try again later"
+
+msgid "planar_tracking_guide"
+msgstr ""
+"Drag the 4 tracking points to the plane you want to track and confirm the "
+"tracking range"
+
+msgid "planar_tracking_loading_stop_text"
+msgstr "Processing, are you sure to cancel plane tracking?"
+
+msgid "planar_tracking_loading_stop_title"
+msgstr "Are you sure you want to cancel plane tracking?"
+
+msgid "planar_tracking_main"
+msgstr "planar tracking"
+
+msgid "planar_tracking_motion_planar_text"
+msgstr ""
+"Using motion tracking will remove the effect of the current plane tracking. "
+"Do you want to confirm the operation?"
+
+msgid "planar_tracking_motion_planar_title"
+msgstr "App motion tracking?"
+
+msgid "planar_tracking_over_range"
+msgstr "The plane area exceeds the scope of the tracked object, please readjust"
+
+msgid "planar_tracking_planar_motion_text"
+msgstr ""
+"Using plane tracking will remove the effect of the current motion tracking. "
+"Do you confirm the operation?"
+
+msgid "planar_tracking_planar_motion_title"
+msgstr "Apply planar tracking?"
+
+msgid "planar_tracking_planar_name_cnt"
+msgstr "The number of characters in the plane name has reached the upper limit"
+
+msgid "planar_tracking_planar_switch_guide"
+msgstr "Click here to toggle to track identified planes"
+
+msgid "planar_tracking_planar_user_guide_tips"
+msgstr "View help"
+
+msgid "planar_tracking_plane_title_empty"
+msgstr "Plane name cannot be empty"
+
+msgid "planar_tracking_position_locked"
+msgstr ""
+"This material has been tracked using planes, please adjust the position and "
+"size directly on the canvas."
+
+msgid "planar_tracking_processing"
+msgstr "Processing"
+
+msgid "planar_tracking_repeated"
+msgstr "The plane name is duplicated, please modify it and try again."
+
+msgid "planar_tracking_result_remove"
+msgstr ""
+"Using this function will cause tracking to become invalid. Do you want to "
+"continue?"
+
+msgid "planar_tracking_track_left"
+msgstr "Trace left from the timeline"
+
+msgid "planar_tracking_track_right"
+msgstr "Trace right from the timeline"
+
+msgid "planar_tracking_use_guide"
+msgstr "Plane Tracking Instructions"
 
 msgid "play/pause"
 msgstr "Play/Pause"
@@ -49492,7 +51148,7 @@ msgid "resolution"
 msgstr "Resolution"
 
 msgid "resolution___:"
-msgstr "Resolution:"
+msgstr "分  辨 率："
 
 msgid "resolution_option_1080p"
 msgstr "1080P"
@@ -50385,7 +52041,7 @@ msgid "shorts_processing_log_out_desc"
 msgstr "No shorts will be converted if you sign out now."
 
 msgid "shorts_processing_log_out_desc_cn"
-msgstr "When AI slicing uploads videos, exiting will cause the generation to fail."
+msgstr "AI切片上传视频中，退出会导致生成失败"
 
 msgid "shorts_processing_log_out_desc_experiment"
 msgstr "No shorts will be converted if you sign out now."
@@ -51132,6 +52788,26 @@ msgstr "Subsciption Service"
 msgid "subtitle content"
 msgstr "Captions"
 
+msgid "subtitle_edit_auto_fill_gap"
+msgstr "Automatically fill text gaps"
+
+msgid "subtitle_edit_auto_fill_tips"
+msgstr ""
+"Are there too many gaps and is it too difficult to adjust one by one? \\n"
+"Multiple select text fragments, right-click and select \"Autofill text "
+"gaps\" to fill in batches."
+
+msgid "subtitle_edit_drag_apply"
+msgstr "Long press and drag the preset content to apply the style to existing text"
+
+msgid "subtitle_edit_got_it"
+msgstr "knew"
+
+msgid "subtitle_edit_lang_support"
+msgstr ""
+"Subtitle recognition supports Japanese, Korean, and Spanish, come and try "
+"it!"
+
 msgid "subtitle_fail_try_again"
 msgstr "Couldn’t generate bilingual subtitles. Try again."
 
@@ -51143,6 +52819,103 @@ msgstr "Create auto captions"
 
 msgid "subtitle_recogni_tion"
 msgstr "Generating captions..."
+
+msgid "subtitle_recognition_keyword_input_length_error"
+msgstr "The maximum number of characters has been reached"
+
+msgid "subtitle_recognition_upgrade_add"
+msgstr "Add to"
+
+msgid "subtitle_recognition_upgrade_add_fail"
+msgstr "Add failed. Please try again later"
+
+msgid "subtitle_recognition_upgrade_add_keyword"
+msgstr "Add identification keywords"
+
+msgid "subtitle_recognition_upgrade_cancel"
+msgstr "Cancel"
+
+msgid "subtitle_recognition_upgrade_clear"
+msgstr "Clear"
+
+msgid "subtitle_recognition_upgrade_clear_fail"
+msgstr "Clearing failed, please try again later"
+
+msgid "subtitle_recognition_upgrade_confirm"
+msgstr "Sure"
+
+msgid "subtitle_recognition_upgrade_confirm_clear_all"
+msgstr "Are you sure you want to clear all words?"
+
+msgid "subtitle_recognition_upgrade_confirm_del"
+msgstr "Are you sure you want to delete the current vocabulary?"
+
+msgid "subtitle_recognition_upgrade_create"
+msgstr "New"
+
+msgid "subtitle_recognition_upgrade_custom_vocab"
+msgstr "Custom word recognition"
+
+msgid "subtitle_recognition_upgrade_delete_fail"
+msgstr "Deletion failed, please try again later"
+
+msgid "subtitle_recognition_upgrade_deleting"
+msgstr "Deleting"
+
+msgid "subtitle_recognition_upgrade_duplicate"
+msgstr "Duplicates keywords that have been added, please adjust"
+
+msgid "subtitle_recognition_upgrade_empty_not_allowed"
+msgstr "Adding empty words is not supported"
+
+msgid "subtitle_recognition_upgrade_enter_create"
+msgstr "输入关键词后按 enter 新增"
+
+msgid "subtitle_recognition_upgrade_exceed_limit"
+msgstr "The number of keywords exceeds the upper limit"
+
+msgid "subtitle_recognition_upgrade_keyword_exceed"
+msgstr "Keyword exceeds limit"
+
+msgid "subtitle_recognition_upgrade_know"
+msgstr "I see"
+
+msgid "subtitle_recognition_upgrade_limit"
+msgstr ""
+"The number of keywords has reached the upper limit. Delete some words and "
+"try again."
+
+msgid "subtitle_recognition_upgrade_manage"
+msgstr "manage"
+
+msgid "subtitle_recognition_upgrade_max_25_tips"
+msgstr "Supports up to %1 keywords, the following vocabulary is invalid"
+
+msgid "subtitle_recognition_upgrade_not_created"
+msgstr "Not created"
+
+msgid "subtitle_recognition_upgrade_sync_fail"
+msgstr "Local vocabulary synchronization failed, please try again later."
+
+msgid "subtitle_recognition_upgrade_sync_limit_tips"
+msgstr ""
+"The number of local keywords after synchronization exceeds the upper limit "
+"of %1. If the vocabulary exceeds the limit, it will be invalid. Delete the "
+"existing vocabulary to re-validate it."
+
+msgid "subtitle_recognition_upgrade_syncing"
+msgstr "Syncing..."
+
+msgid "subtitle_recognition_upgrade_total_cnt"
+msgstr "s% in total"
+
+msgid "subtitle_recognition_upgrade_vocab_tips"
+msgstr ""
+"Add proper nouns and keywords commonly used in videos, and subtitle "
+"recognition will give priority to matching."
+
+msgid "subtitle_recognition_upgrade_word_format"
+msgstr "Only supports Chinese and English input, please adjust"
 
 msgid "subtitle_recognization"
 msgstr "Auto captions"
@@ -51258,9 +53031,9 @@ msgstr "Obtain an exclusive experience card for SVIP members"
 msgid "svip_pc_popup_trial_autorenew_2"
 msgstr ""
 "In order to thank VIP users for their support, if you maintain the "
-"subscription status, you can enjoy all SVIP advanced function benefits up "
-"to %1, and the original VIP renewal price will remain unchanged during this "
-"period."
+"subscription status, you can enjoy all SVIP advanced functional rights "
+"(except points and cloud space) up to %1, and the original VIP renewal "
+"price will remain unchanged during this period."
 
 msgid "svip_pc_popup_trial_finished_cancel"
 msgstr "Don't consider it yet"
@@ -51297,7 +53070,7 @@ msgstr "\"Clip Membership Service Agreement (Including Automatic Renewal Terms)\
 msgid "svip_pc_popup_trial_onesoff_1"
 msgstr ""
 "To thank VIP users for their support, you can enjoy all SVIP advanced "
-"features up to %1"
+"features (except points and cloud space) up to %1"
 
 msgid "svip_pc_popup_trial_onesoff_2"
 msgstr "Can use all SVIP advanced benefits (except cloud space and points)"
@@ -51375,7 +53148,7 @@ msgid "team_template_cooperate"
 msgstr "Team template"
 
 msgid "templane_industry"
-msgstr "Industry template"
+msgstr "行业模板"
 
 msgid "templane_industry_ae"
 msgstr "Industry Template[AE]"
@@ -51384,7 +53157,7 @@ msgid "template"
 msgstr "Templates"
 
 msgid "template_ae"
-msgstr "Template[AE]"
+msgstr "模板[AE]"
 
 msgid "template_draft"
 msgstr "Templates"
@@ -51756,6 +53529,9 @@ msgstr "Apply to"
 msgid "timeline_cnt_limit_error"
 msgstr "Maximum timelines reached"
 
+msgid "timeline_copy"
+msgstr "[null]"
+
 msgid "timeline_create"
 msgstr "New timeline"
 
@@ -51780,6 +53556,15 @@ msgstr ""
 
 msgid "timeline_name"
 msgstr "Timeline name"
+
+msgid "timeline_panel_manage"
+msgstr "[null]"
+
+msgid "timeline_panel_merge"
+msgstr "[null]"
+
+msgid "timeline_panel_split"
+msgstr "[null]"
 
 msgid "timeline_parameter"
 msgstr "Timeline settings"
@@ -51989,7 +53774,7 @@ msgid "transcoding_p_c"
 msgstr "Transcoding..."
 
 msgid "transfer_not_again"
-msgstr "Quick transfer cannot be initiated during the fast transfer process."
+msgstr "快传过程中不能再发起快传"
 
 msgid "transfer_pause_if_still_failled_again"
 msgstr ""
@@ -52054,7 +53839,7 @@ msgid "tray_open_desktop"
 msgstr "Open Clip Pro"
 
 msgid "tray_push_settings"
-msgstr "In-app notifications"
+msgstr "App pop-up notifications"
 
 msgid "tray_start_install"
 msgstr "Launch tray at startup"
@@ -53561,7 +55346,7 @@ msgid "web_recyclebin_toast_move_to_trash"
 msgstr "Delete {placeholder0}?"
 
 msgid "web_review"
-msgstr "Review"
+msgstr "review"
 
 msgid "web_search_user"
 msgstr "Web search"
@@ -53807,6 +55592,9 @@ msgstr "X sticker"
 msgid "xieyimingcheng_muban"
 msgstr "\"\"Clip\" Material/Template Usage License Agreement\""
 
+msgid "xingtu_filter_cover_web"
+msgstr "xingtu_filter_cover"
+
 msgid "xingtu_filter_publish"
 msgstr "xingtu_filter_publish"
 
@@ -53893,3 +55681,6 @@ msgstr "{X} added to Favorites"
 
 msgid "{X}_stickers_p"
 msgstr "{X} sticker"
+
+msgid "pc_restore_lut_format_not_supported"
+msgstr "Unsupported LUT format: %1"
